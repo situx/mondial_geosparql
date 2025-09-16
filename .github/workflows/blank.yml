@@ -23,7 +23,7 @@ jobs:
         version: v018
         rdffilepath: mondial_mod.ttl
         docpath: docs
-        prefixns: http://www.semwebtech.org/mondial/10/
+        prefixns: http://www.semwebtech.org/mondial/
         prefixnsshort: md
         indexpages: true
         createcollections: true
