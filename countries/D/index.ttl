@@ -1,0 +1,166 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/D> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Germany" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/D_geom> ;
+    geo:hasMetricArea 356910 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/D/provinces/Berlin/cities/Berlin> ;
+    ns1:carCode "D" ;
+    ns1:gdpAgri 0.8 ;
+    ns1:gdpInd 30.1 ;
+    ns1:gdpServ 69 ;
+    ns1:gdpTotal 3593000 ;
+    ns1:government <http://www.wikidata.org/entity/Q512187> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Freiburg>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Heidelberg>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Heilbronn>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Karlsruhe>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Mannheim>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Pforzheim>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Reutlingen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Stuttgart>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Ulm>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Augsburg>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Erlangen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Fürth>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Ingolstadt>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/München>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Nürnberg>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Regensburg>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Würzburg>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Berlin/cities/Berlin>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Brandenburg/cities/Cottbus>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Brandenburg/cities/Potsdam>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Bremen/cities/Bremen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Bremen/cities/Bremerhaven>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Hamburg/cities/Hamburg>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Darmstadt>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Frankfurt>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Kassel>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Offenbach+am+Main>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Wiesbaden>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Mecklenburg-Vorpommern/cities/Rostock>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Mecklenburg-Vorpommern/cities/Schwerin>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen/cities/Braunschweig>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen/cities/Göttingen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen/cities/Hannover>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen/cities/Hildesheim>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen/cities/Oldenburg>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen/cities/Osnabrück>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen/cities/Salzgitter>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen/cities/Wolfsburg>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Aachen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Bergisch+Gladbach>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Bielefeld>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Bochum>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Bonn>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Bottrop>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Dortmund>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Duisburg>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Düsseldorf>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Essen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Gelsenkirchen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Hagen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Hamm>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Herne>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Krefeld>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Köln>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Leverkusen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Moers>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Mönchengladbach>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Mülheim>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Münster>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Neuss>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Oberhausen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Paderborn>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Recklinghausen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Remscheid>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Siegen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Solingen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Witten>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Wuppertal>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Kaiserslautern>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Koblenz>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Ludwigshafen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Mainz>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Trier>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Saarland/cities/Saarbrücken>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen-Anhalt/cities/Halle>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen-Anhalt/cities/Magdeburg>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Chemnitz>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Dresden>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Leipzig>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Zwickau>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Schleswig-Holstein/cities/Kiel>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Schleswig-Holstein/cities/Lübeck>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Thüringen/cities/Erfurt>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Thüringen/cities/Gera>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Thüringen/cities/Jena> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Berlin>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Brandenburg>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Bremen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Hamburg>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Mecklenburg-Vorpommern>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Saarland>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen-Anhalt>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Schleswig-Holstein>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Thüringen> ;
+    ns1:independenceDate "1871-01-18"^^xsd:date ;
+    ns1:infantMortality 3.46 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/A>,
+        <http://www.semwebtech.org/mondial/countries/B>,
+        <http://www.semwebtech.org/mondial/countries/CH>,
+        <http://www.semwebtech.org/mondial/countries/CZ>,
+        <http://www.semwebtech.org/mondial/countries/DK>,
+        <http://www.semwebtech.org/mondial/countries/F>,
+        <http://www.semwebtech.org/mondial/countries/L>,
+        <http://www.semwebtech.org/mondial/countries/NL>,
+        <http://www.semwebtech.org/mondial/countries/PL> ;
+    ns1:populationGrowth -0.18 ;
+    ns1:unemployment 5.3 ;
+    skos:prefLabel "Bundesrepublik Deutschland (die)" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/D_obeth10>,
+        <http://www.semwebtech.org/mondial/countries/D_obeth11>,
+        <http://www.semwebtech.org/mondial/countries/D_obeth12>,
+        <http://www.semwebtech.org/mondial/countries/D_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/D_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/D_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/D_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/D_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/D_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/D_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/D_obeth9>,
+        <http://www.semwebtech.org/mondial/countries/D_obpop>,
+        <http://www.semwebtech.org/mondial/countries/D_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/D_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/D_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/D_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/D_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/D_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/D_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/D_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/D_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/D_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/D_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/D_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/D_obrel8> .
+

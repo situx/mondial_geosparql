@@ -1,0 +1,143 @@
+<wfs:WFS_Capabilities xmlns:ows="http://www.opengis.net/ows" xmlns:ogc="http://www.opengis.net/ogc" xmlns:wfs="http://www.opengis.net/wfs" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.3/wfs.xsd" version="1.1.3" updateSequence="0">
+        <ows:ServiceIdentification>
+            <ows:Title>Static WFS 1.1.0</ows:Title>
+            <ows:Abstract>This Static WFS exposes geodata included in the knowledge grap for the inclusion into GIS applications.</ows:Abstract>
+            <ows:Keywords>
+            <ows:Keyword>https://situx.github.io/mondial_geosparql/</ows:Keyword>
+            <ows:Type>String</ows:Type>
+            </ows:Keywords>
+            <ows:ServiceType>WFS</ows:ServiceType>
+            <ows:ServiceTypeVersion>1.1.0</ows:ServiceTypeVersion>
+            <ows:Fees>None</ows:Fees>
+            <ows:AccessConstraints>None</ows:AccessConstraints>
+        </ows:ServiceIdentification>
+        <ows:OperationsMetadata>
+            <ows:Operation name="GetCapabilities">
+                <ows:DCP><ows:HTTP><ows:Get xlink:href="https://situx.github.io/mondial_geosparql//wfs/"/></ows:HTTP></ows:DCP>
+                <ows:Parameter name="AcceptVersions">
+                    <ows:Value>1.1.0</ows:Value>
+                </ows:Parameter>
+                <ows:Parameter name="AcceptFormats">
+                    <ows:Value>text/xml</ows:Value>
+                </ows:Parameter>
+            </ows:Operation>
+            <ows:Operation name="DescribeFeatureType">
+                <ows:DCP><ows:HTTP><ows:Get xlink:href="https://situx.github.io/mondial_geosparql//wfs/DescribeFeatureType/"/></ows:HTTP></ows:DCP>
+                <ows:Parameter name="resultType">
+                    <ows:Value>results</ows:Value>
+                    <ows:Value>hits</ows:Value>
+                </ows:Parameter>
+            </ows:Operation>
+            <ows:Operation name="GetFeature">
+                <ows:DCP><ows:HTTP><ows:Get xlink:href="https://situx.github.io/mondial_geosparql//wfs/GetFeature/"/></ows:HTTP></ows:DCP>
+                <ows:Parameter name="resultType">
+                    <ows:Value>results</ows:Value>
+                    <ows:Value>hits</ows:Value>
+                </ows:Parameter>
+            </ows:Operation>
+        </ows:OperationsMetadata>
+        <wfs:FeatureTypeList>
+                <wfs:FeatureType>
+                    <wfs:Name>Mountain_collection</wfs:Name>
+                    <wfs:Title>Mountain_collection</wfs:Title>
+                    <wfs:Abstract>FeatureCollection Mountain_collection</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>Island_collection</wfs:Name>
+                    <wfs:Title>Island_collection</wfs:Title>
+                    <wfs:Abstract>FeatureCollection Island_collection</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>Lake_collection</wfs:Name>
+                    <wfs:Title>Lake_collection</wfs:Title>
+                    <wfs:Abstract>FeatureCollection Lake_collection</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>Estuary_collection</wfs:Name>
+                    <wfs:Title>Estuary_collection</wfs:Title>
+                    <wfs:Abstract>FeatureCollection Estuary_collection</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>MultiPolygon_collection</wfs:Name>
+                    <wfs:Title>MultiPolygon_collection</wfs:Title>
+                    <wfs:Abstract>FeatureCollection MultiPolygon_collection</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>Desert_collection</wfs:Name>
+                    <wfs:Title>Desert_collection</wfs:Title>
+                    <wfs:Abstract>FeatureCollection Desert_collection</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>City_collection</wfs:Name>
+                    <wfs:Title>City_collection</wfs:Title>
+                    <wfs:Abstract>FeatureCollection City_collection</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>Source_collection</wfs:Name>
+                    <wfs:Title>Source_collection</wfs:Title>
+                    <wfs:Abstract>FeatureCollection Source_collection</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>Volcano_collection</wfs:Name>
+                    <wfs:Title>Volcano_collection</wfs:Title>
+                    <wfs:Abstract>FeatureCollection Volcano_collection</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>Point_collection</wfs:Name>
+                    <wfs:Title>Point_collection</wfs:Title>
+                    <wfs:Abstract>FeatureCollection Point_collection</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>Polygon_collection</wfs:Name>
+                    <wfs:Title>Polygon_collection</wfs:Title>
+                    <wfs:Abstract>FeatureCollection Polygon_collection</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_Q7270</wfs:Name>
+                    <wfs:Title>nonns_Q7270</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_Q7270</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_Q3043547</wfs:Name>
+                    <wfs:Title>nonns_Q3043547</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_Q3043547</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_Q11687019</wfs:Name>
+                    <wfs:Title>nonns_Q11687019</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_Q11687019</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_Q46395</wfs:Name>
+                    <wfs:Title>nonns_Q46395</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_Q46395</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_Q512187</wfs:Name>
+                    <wfs:Title>nonns_Q512187</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_Q512187</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_Q719487</wfs:Name>
+                    <wfs:Title>nonns_Q719487</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_Q719487</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+</wfs:FeatureTypeList>
+            <ogc:Filter_Capabilities></ogc:Filter_Capabilities>
+        </wfs:WFS_Capabilities>

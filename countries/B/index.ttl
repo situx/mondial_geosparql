@@ -1,0 +1,84 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/B> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Belgium" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/B_geom> ;
+    geo:hasMetricArea 30510 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles/cities/Bruxelles> ;
+    ns1:carCode "B" ;
+    ns1:gdpAgri 0.8 ;
+    ns1:gdpInd 22.6 ;
+    ns1:gdpServ 76.6 ;
+    ns1:gdpTotal 507400 ;
+    ns1:government "federal parliamentary democracy under a constitutional monarchy" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/B/provinces/Antwerpen/cities/Antwerpen>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Brabant+Wallon/cities/Wavre>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles/cities/Anderlecht>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles/cities/Bruxelles>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles/cities/Molenbeek-Saint-Jean>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles/cities/Schaerbeek>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Hainaut/cities/Charleroi>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Hainaut/cities/Mons>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Limburg/cities/Hasselt>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Liège/cities/Liège>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Luxembourg/cities/Arlon>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Namur/cities/Namur>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Oost-Vlaanderen/cities/Gent>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Vlaams-Brabant/cities/Leuven>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/West-Vlaanderen/cities/Brugge>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/West-Vlaanderen/cities/Ostende> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/B/provinces/Antwerpen>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Brabant+Wallon>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Hainaut>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Limburg>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Liège>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Luxembourg>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Namur>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Oost-Vlaanderen>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Vlaams-Brabant>,
+        <http://www.semwebtech.org/mondial/countries/B/provinces/West-Vlaanderen> ;
+    ns1:independenceDate "1830-10-04"^^xsd:date ;
+    ns1:infantMortality 4.18 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/D>,
+        <http://www.semwebtech.org/mondial/countries/F>,
+        <http://www.semwebtech.org/mondial/countries/L>,
+        <http://www.semwebtech.org/mondial/countries/NL> ;
+    ns1:populationGrowth 0.05 ;
+    ns1:unemployment 8.8 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/NL> ;
+    skos:prefLabel "Koninkrijk België (het)" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/B_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/B_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/B_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/B_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/B_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/B_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/B_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/B_obpop>,
+        <http://www.semwebtech.org/mondial/countries/B_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/B_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/B_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/B_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/B_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/B_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/B_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/B_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/B_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/B_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/B_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/B_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/B_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/B_obrel6> .
+

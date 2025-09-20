@@ -1,0 +1,94 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/HN> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Honduras" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/HN_geom> ;
+    geo:hasMetricArea 112090 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/HN/provinces/Francisco+Morazán/cities/Tegucigalpa> ;
+    ns1:carCode "HN" ;
+    ns1:gdpAgri 14 ;
+    ns1:gdpInd 28.2 ;
+    ns1:gdpServ 57.8 ;
+    ns1:gdpTotal 18880 ;
+    ns1:government "democratic constitutional republic" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/HN/provinces/Atlántida/cities/La+Ceiba>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Choluteca/cities/Choluteca>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Colón/cities/Trujillo>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Comayagua/cities/Comayagua>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Copán/cities/Santa+Rosa+de+Copan>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Cortés/cities/Choloma>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Cortés/cities/Puerto+Cortes>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Cortés/cities/San+Pedro+Sula>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/El+Paraíso/cities/Danlí>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/El+Paraíso/cities/Yuscaran>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Francisco+Morazán/cities/Tegucigalpa>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Gracias+a+Dios/cities/Puerto+Lempira>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Intibucá/cities/La+Esperanza>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Islas+de+la+Bahía/cities/Roatan>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/La+Paz/cities/La+Paz>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Lempira/cities/Gracias>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Ocotepeque/cities/Nueva+Ocotepeque>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Olancho/cities/Juticalpa>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Santa+Bárbara/cities/Santa+Barbara>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Valle/cities/Nacaome>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Yoro/cities/El+Progreso>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Yoro/cities/Yoro> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/HN/provinces/Atlántida>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Choluteca>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Colón>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Comayagua>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Copán>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Cortés>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/El+Paraíso>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Francisco+Morazán>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Gracias+a+Dios>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Intibucá>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Islas+de+la+Bahía>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/La+Paz>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Lempira>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Ocotepeque>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Olancho>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Santa+Bárbara>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Valle>,
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Yoro> ;
+    ns1:independenceDate "1821-09-15"^^xsd:date ;
+    ns1:infantMortality 18.72 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/ES>,
+        <http://www.semwebtech.org/mondial/countries/GCA>,
+        <http://www.semwebtech.org/mondial/countries/NIC> ;
+    ns1:populationGrowth 1.74 ;
+    ns1:unemployment 4.5 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
+    skos:prefLabel "la República de Honduras " ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/HN_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/HN_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/HN_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/HN_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/HN_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/HN_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/HN_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/HN_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/HN_obpop>,
+        <http://www.semwebtech.org/mondial/countries/HN_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/HN_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/HN_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/HN_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/HN_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/HN_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/HN_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/HN_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/HN_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/HN_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/HN_obrel3> .
+

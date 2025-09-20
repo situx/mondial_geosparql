@@ -1,0 +1,44 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/organizations/EIB> a ns1:Organization,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "European Investment Bank" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    ns1:abbrev "EIB" ;
+    ns1:established "1957-03-25"^^xsd:date ;
+    ns1:hasHeadq <http://www.semwebtech.org/mondial/countries/L/cities/Luxembourg> ;
+    rdfs:member <http://www.semwebtech.org/mondial/countries/A>,
+        <http://www.semwebtech.org/mondial/countries/B>,
+        <http://www.semwebtech.org/mondial/countries/BG>,
+        <http://www.semwebtech.org/mondial/countries/CY>,
+        <http://www.semwebtech.org/mondial/countries/CZ>,
+        <http://www.semwebtech.org/mondial/countries/D>,
+        <http://www.semwebtech.org/mondial/countries/DK>,
+        <http://www.semwebtech.org/mondial/countries/E>,
+        <http://www.semwebtech.org/mondial/countries/EST>,
+        <http://www.semwebtech.org/mondial/countries/F>,
+        <http://www.semwebtech.org/mondial/countries/GB>,
+        <http://www.semwebtech.org/mondial/countries/GR>,
+        <http://www.semwebtech.org/mondial/countries/H>,
+        <http://www.semwebtech.org/mondial/countries/HR>,
+        <http://www.semwebtech.org/mondial/countries/I>,
+        <http://www.semwebtech.org/mondial/countries/IRL>,
+        <http://www.semwebtech.org/mondial/countries/L>,
+        <http://www.semwebtech.org/mondial/countries/LT>,
+        <http://www.semwebtech.org/mondial/countries/LV>,
+        <http://www.semwebtech.org/mondial/countries/M>,
+        <http://www.semwebtech.org/mondial/countries/NL>,
+        <http://www.semwebtech.org/mondial/countries/P>,
+        <http://www.semwebtech.org/mondial/countries/PL>,
+        <http://www.semwebtech.org/mondial/countries/RO>,
+        <http://www.semwebtech.org/mondial/countries/S>,
+        <http://www.semwebtech.org/mondial/countries/SF>,
+        <http://www.semwebtech.org/mondial/countries/SK>,
+        <http://www.semwebtech.org/mondial/countries/SLO> .
+

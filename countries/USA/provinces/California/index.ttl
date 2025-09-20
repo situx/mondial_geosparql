@@ -1,0 +1,75 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/USA/provinces/California> a ns1:Province,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "California" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasMetricArea 403466 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Sacramento> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Anaheim>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Bakersfield>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Berkeley>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Chula+Vista>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Concord>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Corona>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Costa+Mesa>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/El+Monte>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Escondido>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Fontana>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Fremont>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Fresno>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Fullerton>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Garden+Grove>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Glendale>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Hayward>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Huntington+Beach>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Inglewood>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Irvine>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Lancaster>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Long+Beach>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Los+Angeles>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Modesto>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Moreno+Valley>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Norwalk>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Oakland>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Oceanside>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Ontario>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Orange>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Oxnard>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Palmdale>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Pasadena>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Pomona>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Rancho+Cucamonga>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Richmond>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Riverside>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Sacramento>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Salinas>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/San+Bernardino>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/San+Diego>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/San+Francisco>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/San+Jose>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Santa+Ana>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Santa+Clarita>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Santa+Rosa>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Simi+Valley>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Stockton>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Sunnyvale>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Thousand+Oaks>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Torrance>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Vallejo>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/West+Covina> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/California_obpop>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California_obpophist4> .
+

@@ -1,0 +1,139 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/UA> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Ukraine" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/UA_geom> ;
+    geo:hasMetricArea 603700 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïv/cities/Kyïv> ;
+    ns1:carCode "UA" ;
+    ns1:gdpAgri 9.9 ;
+    ns1:gdpInd 29.6 ;
+    ns1:gdpServ 60.5 ;
+    ns1:gdpTotal 175500 ;
+    ns1:government <http://www.wikidata.org/entry/Q7270> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/UA/provinces/Cerkaska/cities/Cerkasy>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernihivska/cities/Cernihiv>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernivecka/cities/Cernivci>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Charkivska/cities/Charkiv>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Chersonska/cities/Cherson>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Chmelnytska/cities/Chmelnytskyi>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska/cities/Dnipro>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska/cities/Kamianske>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska/cities/Kryvyi+Rih>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska/cities/Nikopol>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska/cities/Pavlohrad>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Donetsk>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Horlivka>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Kramatorsk>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Makiïvka>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Mariupol>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Sloviansk>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Ivano-Frankivska/cities/Ivano-Frankivsk>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kirovohradska/cities/Kropywnyzkyj>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Krym/cities/Kerch>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Krym/cities/Simferopol>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Krym/cities/Yevpatoria>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïv/cities/Kyïv>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Bila+Tserkva>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Brovary>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Prypjat>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Alchevsk>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Luhansk>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Lysychansk>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Sievierodonetsk>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Lvivska/cities/Lviv>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Mykolaïvska/cities/Mykolaïv>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Odeska/cities/Odesa>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Poltavska/cities/Kremenchuk>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Poltavska/cities/Poltava>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Rivnenska/cities/Rivne>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Sevastopol/cities/Sevastopol>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Sumska/cities/Sumy>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Ternopilska/cities/Ternopil>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Vinnytska/cities/Vinnytsia>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Volynska/cities/Lutsk>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zakarpatska/cities/Uzhhorod>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka/cities/Berdiansk>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka/cities/Melitopol>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka/cities/Zaporizhzhia>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zytomyrska/cities/Zytomyr> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/UA/provinces/Cerkaska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernihivska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernivecka>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Charkivska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Chersonska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Chmelnytska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Ivano-Frankivska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kirovohradska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Krym>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïv>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Lvivska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Mykolaïvska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Odeska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Poltavska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Rivnenska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Sevastopol>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Sumska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Ternopilska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Vinnytska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Volynska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zakarpatska>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka>,
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zytomyrska> ;
+    ns1:independenceDate "1991-12-01"^^xsd:date ;
+    ns1:infantMortality 8.1 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/BY>,
+        <http://www.semwebtech.org/mondial/countries/H>,
+        <http://www.semwebtech.org/mondial/countries/MD>,
+        <http://www.semwebtech.org/mondial/countries/PL>,
+        <http://www.semwebtech.org/mondial/countries/R>,
+        <http://www.semwebtech.org/mondial/countries/RO>,
+        <http://www.semwebtech.org/mondial/countries/SK> ;
+    ns1:populationGrowth -0.64 ;
+    ns1:unemployment 8 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Soviet+Union> ;
+    skos:prefLabel "Украïна" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/UA_obeth10>,
+        <http://www.semwebtech.org/mondial/countries/UA_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/UA_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/UA_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/UA_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/UA_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/UA_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/UA_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/UA_obeth9>,
+        <http://www.semwebtech.org/mondial/countries/UA_obpop>,
+        <http://www.semwebtech.org/mondial/countries/UA_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/UA_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/UA_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/UA_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/UA_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/UA_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/UA_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/UA_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/UA_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/UA_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/UA_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/UA_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/UA_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/UA_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/UA_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/UA_obrel8>,
+        <http://www.semwebtech.org/mondial/countries/UA_obrel9> .
+

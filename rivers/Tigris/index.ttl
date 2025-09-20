@@ -1,0 +1,38 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/rivers/Tigris> a ns1:River,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Tigris" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasMetricArea 375000 ;
+    geo:hasMetricLength 1900 ;
+    ns1:flowsInto <http://www.semwebtech.org/mondial/rivers/Schatt+al+Arab> ;
+    ns1:hasEstuary <http://www.semwebtech.org/mondial/estuarys/Tigris> ;
+    ns1:hasSource <http://www.semwebtech.org/mondial/sources/Tigris> ;
+    ns1:locatedIn <http://www.semwebtech.org/mondial/countries/IRQ>,
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Arbil>,
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Babylon>,
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Baghdad>,
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Basrah>,
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Duhouk>,
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Kirkuk>,
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Maysan>,
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Nineveh>,
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Salah+al-Deen>,
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Wasit>,
+        <http://www.semwebtech.org/mondial/countries/SYR>,
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Al+Hasakah>,
+        <http://www.semwebtech.org/mondial/countries/TR>,
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Batman>,
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Diyarbakır>,
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Mardin>,
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Siirt>,
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Şırnak> .
+

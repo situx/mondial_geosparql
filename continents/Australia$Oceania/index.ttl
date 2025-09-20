@@ -1,0 +1,42 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/continents/Australia$Oceania> a <http://www.semwebtech.org/mondial/10/meta#Continent>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Australia/Oceania" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:contains <http://www.semwebtech.org/mondial/countries/AS>,
+        <http://www.semwebtech.org/mondial/countries/AUS>,
+        <http://www.semwebtech.org/mondial/countries/CC>,
+        <http://www.semwebtech.org/mondial/countries/CK>,
+        <http://www.semwebtech.org/mondial/countries/CX>,
+        <http://www.semwebtech.org/mondial/countries/FJI>,
+        <http://www.semwebtech.org/mondial/countries/FSM>,
+        <http://www.semwebtech.org/mondial/countries/GU>,
+        <http://www.semwebtech.org/mondial/countries/KIR>,
+        <http://www.semwebtech.org/mondial/countries/MH>,
+        <http://www.semwebtech.org/mondial/countries/MP>,
+        <http://www.semwebtech.org/mondial/countries/NAU>,
+        <http://www.semwebtech.org/mondial/countries/NCL>,
+        <http://www.semwebtech.org/mondial/countries/NF>,
+        <http://www.semwebtech.org/mondial/countries/NU>,
+        <http://www.semwebtech.org/mondial/countries/NZ>,
+        <http://www.semwebtech.org/mondial/countries/PAL>,
+        <http://www.semwebtech.org/mondial/countries/PF>,
+        <http://www.semwebtech.org/mondial/countries/PN>,
+        <http://www.semwebtech.org/mondial/countries/PNG>,
+        <http://www.semwebtech.org/mondial/countries/RI>,
+        <http://www.semwebtech.org/mondial/countries/SOL>,
+        <http://www.semwebtech.org/mondial/countries/TO>,
+        <http://www.semwebtech.org/mondial/countries/TOK>,
+        <http://www.semwebtech.org/mondial/countries/TUV>,
+        <http://www.semwebtech.org/mondial/countries/VU>,
+        <http://www.semwebtech.org/mondial/countries/WF>,
+        <http://www.semwebtech.org/mondial/countries/WS> ;
+    geo:hasMetricArea 9000000 .
+

@@ -1,0 +1,35 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía> a ns1:Province,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Andalucía" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasMetricArea 87585 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Sevilla> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Algeciras>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Almería>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Cádiz>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Córdoba>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Dos+Hermanas>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Granada>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Huelva>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Jaén>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Jerez+de+la+Frontera>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Marbella>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Málaga>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Sevilla> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía_obpop>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía_obpophist4> .
+

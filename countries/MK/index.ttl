@@ -1,0 +1,63 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/MK> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "North Macedonia" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MK_geom> ;
+    geo:hasMetricArea 25333 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/MK/cities/Skopje> ;
+    ns1:carCode "MK" ;
+    ns1:gdpAgri 10.2 ;
+    ns1:gdpInd 27.5 ;
+    ns1:gdpServ 62.3 ;
+    ns1:gdpTotal 10650 ;
+    ns1:government <http://www.wikidata.org/entity/Q3043547> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/MK/cities/Kumanovo>,
+        <http://www.semwebtech.org/mondial/countries/MK/cities/Skopje> ;
+    ns1:independenceDate "1991-09-17"^^xsd:date ;
+    ns1:infantMortality 7.9 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/AL>,
+        <http://www.semwebtech.org/mondial/countries/BG>,
+        <http://www.semwebtech.org/mondial/countries/GR>,
+        <http://www.semwebtech.org/mondial/countries/KOS>,
+        <http://www.semwebtech.org/mondial/countries/SRB> ;
+    ns1:populationGrowth 0.21 ;
+    ns1:unemployment 28.6 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Yugoslavia> ;
+    skos:prefLabel "Република Cеверна Македонија" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MK_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/MK_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/MK_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/MK_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/MK_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/MK_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/MK_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/MK_obpop>,
+        <http://www.semwebtech.org/mondial/countries/MK_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/MK_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/MK_obpophist10>,
+        <http://www.semwebtech.org/mondial/countries/MK_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/MK_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/MK_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/MK_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/MK_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/MK_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/MK_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/MK_obpophist9>,
+        <http://www.semwebtech.org/mondial/countries/MK_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/MK_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/MK_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/MK_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/MK_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/MK_obrel6> .
+

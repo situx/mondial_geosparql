@@ -1,0 +1,93 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/ETH> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Ethiopia" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ETH_geom> ;
+    geo:hasMetricArea 1127127 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/ETH/provinces/Addis+Ababa/cities/Addis+Ababa> ;
+    ns1:carCode "ETH" ;
+    ns1:gdpAgri 47 ;
+    ns1:gdpInd 10.8 ;
+    ns1:gdpServ 42.2 ;
+    ns1:gdpTotal 47340 ;
+    ns1:government <http://www.wikidata.org/entity/Q512187> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/ETH/provinces/Addis+Ababa/cities/Addis+Ababa>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Afar/cities/Aysaita>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Amhara/cities/Bahir+Dar>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Amhara/cities/Dese>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Amhara/cities/Gondar>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Benishangul-Gumuz/cities/Asosa>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Dire+Dawa/cities/Dire+Dawa>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Gambella/cities/Gambella>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Harari/cities/Harar>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Oromia/cities/Adama>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Oromia/cities/Bishoftu>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Oromia/cities/Jimma>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Sidama/cities/Awasa>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Somali/cities/Jijiga>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/South+West/cities/Bonga>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Southern/cities/Arba+Minch>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Tigray/cities/Mekele> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/ETH/provinces/Addis+Ababa>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Afar>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Amhara>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Benishangul-Gumuz>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Dire+Dawa>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Gambella>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Harari>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Oromia>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Sidama>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Somali>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/South+West>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Southern>,
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Tigray> ;
+    ns1:infantMortality 55.77 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/DJI>,
+        <http://www.semwebtech.org/mondial/countries/EAK>,
+        <http://www.semwebtech.org/mondial/countries/ER>,
+        <http://www.semwebtech.org/mondial/countries/SO>,
+        <http://www.semwebtech.org/mondial/countries/SSD>,
+        <http://www.semwebtech.org/mondial/countries/SUD> ;
+    ns1:populationGrowth 2.89 ;
+    ns1:unemployment 17.5 ;
+    skos:prefLabel "የኢትዮጵያ ፈደራላዊ ዲሞክራሲያዊ ሪፐብሊክ" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ETH_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obeth9>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obpop>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obrel8>,
+        <http://www.semwebtech.org/mondial/countries/ETH_obrel9> .
+

@@ -1,0 +1,28 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/seas/Labrador+Sea> a ns1:Sea,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Labrador Sea" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:contains <http://www.semwebtech.org/mondial/islands/Baffin+Island>,
+        <http://www.semwebtech.org/mondial/islands/Greenland> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/seas/Labrador+Sea_geom> ;
+    geo:hasMetricArea 841000 ;
+    ns1:locatedIn <http://www.semwebtech.org/mondial/countries/CDN>,
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Newfoundland+and+Labrador>,
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Nunavut>,
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec>,
+        <http://www.semwebtech.org/mondial/countries/GL> ;
+    ns1:mergesWith <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean>,
+        <http://www.semwebtech.org/mondial/seas/Baffin+Bay>,
+        <http://www.semwebtech.org/mondial/seas/Hudson+Bay> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/seas/Labrador+Sea_obdep> .
+

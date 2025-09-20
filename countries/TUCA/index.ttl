@@ -1,0 +1,45 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/TUCA> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Turks and Caicos Islands" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/TUCA_geom> ;
+    geo:hasMetricArea 430 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/TUCA/cities/Grand+Turk> ;
+    ns1:carCode "TUCA" ;
+    ns1:dependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
+    ns1:gdpAgri 1 ;
+    ns1:gdpInd 22.5 ;
+    ns1:gdpServ 76.5 ;
+    ns1:gdpTotal 216 ;
+    ns1:government <http://www.wikidata.org/entity/Q46395> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/TUCA/cities/Grand+Turk> ;
+    ns1:infantMortality 10.97 ;
+    ns1:populationGrowth 2.58 ;
+    ns1:unemployment 10 ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TUCA_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/TUCA_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/TUCA_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/TUCA_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/TUCA_obpop>,
+        <http://www.semwebtech.org/mondial/countries/TUCA_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/TUCA_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/TUCA_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/TUCA_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/TUCA_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/TUCA_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/TUCA_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/TUCA_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/TUCA_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/TUCA_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/TUCA_obrel3> .
+

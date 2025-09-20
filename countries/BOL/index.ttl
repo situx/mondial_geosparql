@@ -1,0 +1,78 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/BOL> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Bolivia" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BOL_geom> ;
+    geo:hasMetricArea 1098580 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz/cities/La+Paz> ;
+    ns1:carCode "BOL" ;
+    ns1:gdpAgri 9.2 ;
+    ns1:gdpInd 38.5 ;
+    ns1:gdpServ 52.3 ;
+    ns1:gdpTotal 30790 ;
+    ns1:government "republic; Social Unitarian State" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/BOL/provinces/Beni/cities/Trinidad>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Chuquisaca/cities/Sucre>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Cochabamba/cities/Cochabamba>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Cochabamba/cities/Quillacollo>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Cochabamba/cities/Sacaba>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz/cities/El+Alto>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz/cities/La+Paz>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Oruro/cities/Oruro>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Pando/cities/Cobija>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Potosí/cities/Potosí>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Santa+Cruz/cities/Montero>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Santa+Cruz/cities/Santa+Cruz+de+la+Sierra>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Tarija/cities/Tarija> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/BOL/provinces/Beni>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Chuquisaca>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Cochabamba>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Oruro>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Pando>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Potosí>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Santa+Cruz>,
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Tarija> ;
+    ns1:independenceDate "1825-08-06"^^xsd:date ;
+    ns1:infantMortality 38.61 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/BR>,
+        <http://www.semwebtech.org/mondial/countries/PE>,
+        <http://www.semwebtech.org/mondial/countries/PY>,
+        <http://www.semwebtech.org/mondial/countries/RA>,
+        <http://www.semwebtech.org/mondial/countries/RCH> ;
+    ns1:populationGrowth 1.6 ;
+    ns1:unemployment 7.4 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
+    skos:prefLabel "Estado Plurinacional de Bolivia (el)" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BOL_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/BOL_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/BOL_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/BOL_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/BOL_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/BOL_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/BOL_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/BOL_obpop>,
+        <http://www.semwebtech.org/mondial/countries/BOL_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/BOL_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/BOL_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/BOL_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/BOL_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/BOL_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/BOL_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/BOL_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/BOL_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/BOL_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/BOL_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/BOL_obrel7> .
+

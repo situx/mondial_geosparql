@@ -1,0 +1,14 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/countries/PAL_obeth5> a <http://www.w3.org/ns/ldp#Resource>,
+        sosa:Observation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Observation of Ethnic Group Vietnamese of PAL"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    sosa:hasResult <http://www.semwebtech.org/mondial/countries/PAL_obeth5res> ;
+    sosa:observedProperty <http://www.semwebtech.org/mondial/ethnicgroups/Vietnamese> .
+

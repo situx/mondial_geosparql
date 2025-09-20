@@ -1,0 +1,33 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/organizations/EAS> a ns1:Organization,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "East Asia Summit" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    ns1:abbrev "EAS" ;
+    ns1:established "2005-12-14"^^xsd:date ;
+    rdfs:member <http://www.semwebtech.org/mondial/countries/AUS>,
+        <http://www.semwebtech.org/mondial/countries/BRU>,
+        <http://www.semwebtech.org/mondial/countries/CN>,
+        <http://www.semwebtech.org/mondial/countries/IND>,
+        <http://www.semwebtech.org/mondial/countries/J>,
+        <http://www.semwebtech.org/mondial/countries/K>,
+        <http://www.semwebtech.org/mondial/countries/LAO>,
+        <http://www.semwebtech.org/mondial/countries/MAL>,
+        <http://www.semwebtech.org/mondial/countries/MYA>,
+        <http://www.semwebtech.org/mondial/countries/NZ>,
+        <http://www.semwebtech.org/mondial/countries/R>,
+        <http://www.semwebtech.org/mondial/countries/RI>,
+        <http://www.semwebtech.org/mondial/countries/ROK>,
+        <http://www.semwebtech.org/mondial/countries/RP>,
+        <http://www.semwebtech.org/mondial/countries/SGP>,
+        <http://www.semwebtech.org/mondial/countries/THA>,
+        <http://www.semwebtech.org/mondial/countries/USA>,
+        <http://www.semwebtech.org/mondial/countries/VN> .
+

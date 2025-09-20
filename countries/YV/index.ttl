@@ -1,0 +1,109 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/YV> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Venezuela" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/YV_geom> ;
+    geo:hasMetricArea 912050 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/YV/provinces/Distrito+Federal/cities/Caracas> ;
+    ns1:carCode "YV" ;
+    ns1:gdpAgri 3.7 ;
+    ns1:gdpInd 35.5 ;
+    ns1:gdpServ 60.8 ;
+    ns1:gdpTotal 367500 ;
+    ns1:government <http://www.wikidata.org/entity/Q512187> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/YV/provinces/Amazonas/cities/Puerto+Ayacucho>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Anzoátegui/cities/Barcelona>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Anzoátegui/cities/Puerto+La+Cruz>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Apure/cities/San+Fernando>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Aragua/cities/Maracay>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Barinas/cities/Barinas>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Bolívar/cities/Ciudad+Bolívar>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Bolívar/cities/Ciudad+Guayana>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Carabobo/cities/Guacara>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Carabobo/cities/Puerto+Cabello>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Carabobo/cities/Valencia>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Cojedes/cities/San+Carlos>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Delta+Amacuro/cities/Tucupita>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Distrito+Federal/cities/Caracas>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Falcón/cities/Santa+Ana+de+Coro>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Guárico/cities/San+Juan>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Lara/cities/Barquisimeto>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Miranda/cities/Baruta>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Miranda/cities/Guarenas>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Miranda/cities/Los+Teques>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Miranda/cities/Petare>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Monagas/cities/Maturín>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Mérida/cities/Mérida>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Nueva+Esparta/cities/La+Asuncion>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Nueva+Esparta/cities/Porlamar>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Portuguesa/cities/Acarigua>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Portuguesa/cities/Guanare>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Sucre/cities/Cumaná>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Trujillo/cities/Trujillo>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Táchira/cities/San+Cristóbal>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Vargas/cities/Catia+La+Mar>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Vargas/cities/La+Guaira>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Yaracuy/cities/San+Felipe>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Zulia/cities/Cabimas>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Zulia/cities/Maracaibo> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/YV/provinces/Amazonas>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Anzoátegui>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Apure>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Aragua>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Barinas>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Bolívar>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Carabobo>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Cojedes>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Delta+Amacuro>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Distrito+Federal>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Falcón>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Guárico>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Lara>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Miranda>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Monagas>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Mérida>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Nueva+Esparta>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Portuguesa>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Sucre>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Trujillo>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Táchira>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Vargas>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Yaracuy>,
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Zulia> ;
+    ns1:independenceDate "1811-07-05"^^xsd:date ;
+    ns1:infantMortality 19.33 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/BR>,
+        <http://www.semwebtech.org/mondial/countries/CO>,
+        <http://www.semwebtech.org/mondial/countries/GUY> ;
+    ns1:populationGrowth 1.42 ;
+    ns1:unemployment 7.9 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/YV_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/YV_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/YV_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/YV_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/YV_obpop>,
+        <http://www.semwebtech.org/mondial/countries/YV_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/YV_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/YV_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/YV_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/YV_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/YV_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/YV_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/YV_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/YV_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/YV_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/YV_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/YV_obrel5> .
+

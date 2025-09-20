@@ -1,0 +1,15 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/md_dataset_www.wikidata.org_entry_> a void:Linkset,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Linkset: md_dataset - entry"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:linkPredicate <http://www.semwebtech.org/mondial/10/meta#government> ;
+    void:objectsTarget <http://www.wikidata.org/entry/> ;
+    void:subjectsTarget <http://www.semwebtech.org/mondial/md_dataset> ;
+    void:triples 67 .
+

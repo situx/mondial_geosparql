@@ -1,0 +1,59 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/ES> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "El Salvador" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ES_geom> ;
+    geo:hasMetricArea 21040 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/ES/cities/San+Salvador> ;
+    ns1:carCode "ES" ;
+    ns1:gdpAgri 10.3 ;
+    ns1:gdpInd 29.5 ;
+    ns1:gdpServ 60.1 ;
+    ns1:gdpTotal 24670 ;
+    ns1:government <http://www.wikidata.org/entry/Q7270> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/ES/cities/Apopa>,
+        <http://www.semwebtech.org/mondial/countries/ES/cities/Ciudad+Delgado>,
+        <http://www.semwebtech.org/mondial/countries/ES/cities/Mejicanos>,
+        <http://www.semwebtech.org/mondial/countries/ES/cities/San+Miguel>,
+        <http://www.semwebtech.org/mondial/countries/ES/cities/San+Salvador>,
+        <http://www.semwebtech.org/mondial/countries/ES/cities/Santa+Ana>,
+        <http://www.semwebtech.org/mondial/countries/ES/cities/Santa+Tecla>,
+        <http://www.semwebtech.org/mondial/countries/ES/cities/Soyapango> ;
+    ns1:independenceDate "1821-09-15"^^xsd:date ;
+    ns1:infantMortality 18.44 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/GCA>,
+        <http://www.semwebtech.org/mondial/countries/HN> ;
+    ns1:populationGrowth 0.27 ;
+    ns1:unemployment 6.3 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
+    skos:prefLabel "la República de El Salvador" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ES_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/ES_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/ES_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/ES_obpop>,
+        <http://www.semwebtech.org/mondial/countries/ES_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/ES_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/ES_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/ES_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/ES_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/ES_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/ES_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/ES_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/ES_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/ES_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/ES_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/ES_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/ES_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/ES_obrel6> .
+

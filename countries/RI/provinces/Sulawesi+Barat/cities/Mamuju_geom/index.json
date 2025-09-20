@@ -1,0 +1,1 @@
+{"http://rdfs.org/ns/void#inDataset": ["http://www.semwebtech.org/mondial/md_dataset"], "http://www.opengis.net/ont/geosparql#asWKT": ["POINT(118.86 -2.67)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/sf#Point"], "http://www.w3.org/2000/01/rdf-schema#label": ["Mamuju Geometry"]}

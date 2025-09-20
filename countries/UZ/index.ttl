@@ -1,0 +1,94 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/UZ> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Uzbekistan" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/UZ_geom> ;
+    geo:hasMetricArea 447400 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/UZ/provinces/Toshkent+City/cities/Toshkent> ;
+    ns1:carCode "UZ" ;
+    ns1:gdpAgri 19.1 ;
+    ns1:gdpInd 32.2 ;
+    ns1:gdpServ 48.7 ;
+    ns1:gdpTotal 55180 ;
+    ns1:government "republic; authoritarian presidential rule with little power outside the executive branch" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/UZ/provinces/Andijon/cities/Andijon>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Buxoro/cities/Buxoro>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona/cities/Fargona>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona/cities/Marg‘ilon>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona/cities/Qu‘qon>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Jizzax/cities/Jizzax>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Namangan/cities/Namangan>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Navoiy/cities/Navoiy>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qasqadaryo/cities/Qarshi>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qoraqalpogʻiston/cities/Nukus>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Samarqand/cities/Samarqand>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Sirdaryo/cities/Guliston>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Surkhandarya/cities/Termiz>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Toshkent+City/cities/Toshkent>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Toshkent/cities/Angren>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Toshkent/cities/Chirchiq>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Toshkent/cities/Olmaliq>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Xorazm/cities/Urganch> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/UZ/provinces/Andijon>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Buxoro>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Jizzax>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Namangan>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Navoiy>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qasqadaryo>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qoraqalpogʻiston>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Samarqand>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Sirdaryo>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Surkhandarya>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Toshkent>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Toshkent+City>,
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Xorazm> ;
+    ns1:independenceDate "1991-08-31"^^xsd:date ;
+    ns1:infantMortality 19.84 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/AFG>,
+        <http://www.semwebtech.org/mondial/countries/KG>,
+        <http://www.semwebtech.org/mondial/countries/KZ>,
+        <http://www.semwebtech.org/mondial/countries/TJ>,
+        <http://www.semwebtech.org/mondial/countries/TM> ;
+    ns1:populationGrowth 0.93 ;
+    ns1:unemployment 4.9 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Soviet+Union> ;
+    skos:prefLabel "Oʻzbekiston" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UZ_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obpop>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/UZ_obrel8> .
+

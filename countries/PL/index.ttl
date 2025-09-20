@@ -1,0 +1,110 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/PL> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Poland" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PL_geom> ;
+    geo:hasMetricArea 312683 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/PL/provinces/Mazowieckie/cities/Warszawa> ;
+    ns1:carCode "PL" ;
+    ns1:gdpAgri 4 ;
+    ns1:gdpInd 33.3 ;
+    ns1:gdpServ 62.7 ;
+    ns1:gdpTotal 513900 ;
+    ns1:government <http://www.wikidata.org/entry/Q7270> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/PL/provinces/Dolnośląskie/cities/Legnica>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Dolnośląskie/cities/Wałbrzych>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Dolnośląskie/cities/Wrocław>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Kujawsko-Pomorskie/cities/Bydgoszcz>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Kujawsko-Pomorskie/cities/Grudziadz>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Kujawsko-Pomorskie/cities/Toruń>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Kujawsko-Pomorskie/cities/Włocławek>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubelskie/cities/Lublin>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubuskie/cities/Gorzów+Wielkopolski>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubuskie/cities/Zielona+Góra>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Mazowieckie/cities/Płock>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Mazowieckie/cities/Radom>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Mazowieckie/cities/Warszawa>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Małopolskie/cities/Kraków>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Małopolskie/cities/Tarnów>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Opolskie/cities/Opole>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Podkarpackie/cities/Rzeszów>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Podlaskie/cities/Białystok>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie/cities/Gdańsk>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie/cities/Gdynia>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Warmińsko-Mazurskie/cities/Elbląg>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Warmińsko-Mazurskie/cities/Olsztyn>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Wielkopolskie/cities/Kalisz>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Wielkopolskie/cities/Poznań>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Zachodniopomorskie/cities/Koszalin>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Zachodniopomorskie/cities/Szczecin>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Łódzkie/cities/Łódź>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie/cities/Bielsko-Biała>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie/cities/Bytom>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie/cities/Chorzów>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie/cities/Częstochowa>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie/cities/Dąbrowa+Górnicza>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie/cities/Gliwice>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie/cities/Katowice>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie/cities/Ruda+Śląska>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie/cities/Rybnik>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie/cities/Sosnowiec>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie/cities/Tychy>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie/cities/Zabrze>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Świętokrzyskie/cities/Kielce> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/PL/provinces/Dolnośląskie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Kujawsko-Pomorskie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubelskie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubuskie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Mazowieckie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Małopolskie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Opolskie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Podkarpackie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Podlaskie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Warmińsko-Mazurskie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Wielkopolskie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Zachodniopomorskie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Łódzkie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Świętokrzyskie> ;
+    ns1:independenceDate "1918-11-11"^^xsd:date ;
+    ns1:infantMortality 6.19 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/BY>,
+        <http://www.semwebtech.org/mondial/countries/CZ>,
+        <http://www.semwebtech.org/mondial/countries/D>,
+        <http://www.semwebtech.org/mondial/countries/LT>,
+        <http://www.semwebtech.org/mondial/countries/R>,
+        <http://www.semwebtech.org/mondial/countries/SK>,
+        <http://www.semwebtech.org/mondial/countries/UA> ;
+    ns1:populationGrowth -0.11 ;
+    ns1:unemployment 10.3 ;
+    skos:prefLabel "Rzeczpospolita Polska" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/PL_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/PL_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/PL_obpop>,
+        <http://www.semwebtech.org/mondial/countries/PL_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/PL_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/PL_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/PL_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/PL_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/PL_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/PL_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/PL_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/PL_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/PL_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/PL_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/PL_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/PL_obrel4> .
+

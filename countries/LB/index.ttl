@@ -1,0 +1,68 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/LB> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Liberia" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/LB_geom> ;
+    geo:hasMetricArea 111370 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/LB/cities/Monrovia> ;
+    ns1:carCode "LB" ;
+    ns1:gdpAgri 76.9 ;
+    ns1:gdpInd 5.4 ;
+    ns1:gdpServ 17.7 ;
+    ns1:gdpTotal 1977 ;
+    ns1:government <http://www.wikidata.org/entry/Q7270> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/LB/cities/Monrovia> ;
+    ns1:independenceDate "1847-07-26"^^xsd:date ;
+    ns1:infantMortality 69.19 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/CI>,
+        <http://www.semwebtech.org/mondial/countries/RG>,
+        <http://www.semwebtech.org/mondial/countries/SLE> ;
+    ns1:populationGrowth 2.52 ;
+    ns1:unemployment 85 ;
+    skos:prefLabel "the Republic of Liberia" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/LB_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/LB_obeth10>,
+        <http://www.semwebtech.org/mondial/countries/LB_obeth11>,
+        <http://www.semwebtech.org/mondial/countries/LB_obeth12>,
+        <http://www.semwebtech.org/mondial/countries/LB_obeth13>,
+        <http://www.semwebtech.org/mondial/countries/LB_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/LB_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/LB_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/LB_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/LB_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/LB_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/LB_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/LB_obeth9>,
+        <http://www.semwebtech.org/mondial/countries/LB_obpop>,
+        <http://www.semwebtech.org/mondial/countries/LB_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/LB_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/LB_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/LB_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/LB_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/LB_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/LB_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/LB_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/LB_obrel10>,
+        <http://www.semwebtech.org/mondial/countries/LB_obrel11>,
+        <http://www.semwebtech.org/mondial/countries/LB_obrel12>,
+        <http://www.semwebtech.org/mondial/countries/LB_obrel13>,
+        <http://www.semwebtech.org/mondial/countries/LB_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/LB_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/LB_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/LB_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/LB_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/LB_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/LB_obrel8>,
+        <http://www.semwebtech.org/mondial/countries/LB_obrel9> .
+

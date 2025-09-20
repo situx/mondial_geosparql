@@ -1,0 +1,56 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/FJI> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Fiji" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/FJI_geom> ;
+    geo:hasMetricArea 18270 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/FJI/cities/Suva> ;
+    ns1:carCode "FJI" ;
+    ns1:gdpAgri 11.7 ;
+    ns1:gdpInd 18.1 ;
+    ns1:gdpServ 70.2 ;
+    ns1:gdpTotal 4218 ;
+    ns1:government <http://www.wikidata.org/entry/Q7270> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/FJI/cities/Suva> ;
+    ns1:independenceDate "1970-10-10"^^xsd:date ;
+    ns1:infantMortality 10.2 ;
+    ns1:populationGrowth 0.7 ;
+    ns1:unemployment 7.6 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
+    skos:prefLabel "the Republic of the Fiji Islands " ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/FJI_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obpop>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obpophist10>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obpophist11>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obpophist12>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obpophist13>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obpophist9>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/FJI_obrel7> .
+

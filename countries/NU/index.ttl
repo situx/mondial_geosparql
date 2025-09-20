@@ -1,0 +1,53 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/NU> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Niue" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NU_geom> ;
+    geo:hasMetricArea 260 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/NU/cities/Alofi> ;
+    ns1:carCode "NU" ;
+    ns1:gdpAgri 23.5 ;
+    ns1:gdpInd 26.9 ;
+    ns1:gdpServ 49.5 ;
+    ns1:gdpTotal 10 ;
+    ns1:government "self-governing parliamentary democracy" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/NU/cities/Alofi> ;
+    ns1:independenceDate "1974-10-19"^^xsd:date ;
+    ns1:populationGrowth -0.03 ;
+    ns1:unemployment 12 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/NZ> ;
+    skos:prefLabel "Niuē" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NU_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/NU_obpop>,
+        <http://www.semwebtech.org/mondial/countries/NU_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/NU_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/NU_obpophist10>,
+        <http://www.semwebtech.org/mondial/countries/NU_obpophist11>,
+        <http://www.semwebtech.org/mondial/countries/NU_obpophist12>,
+        <http://www.semwebtech.org/mondial/countries/NU_obpophist13>,
+        <http://www.semwebtech.org/mondial/countries/NU_obpophist14>,
+        <http://www.semwebtech.org/mondial/countries/NU_obpophist15>,
+        <http://www.semwebtech.org/mondial/countries/NU_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/NU_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/NU_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/NU_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/NU_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/NU_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/NU_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/NU_obpophist9>,
+        <http://www.semwebtech.org/mondial/countries/NU_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/NU_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/NU_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/NU_obrel4> .
+

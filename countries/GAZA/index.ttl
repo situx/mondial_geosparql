@@ -1,0 +1,33 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/GAZA> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Gaza Strip" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasMetricArea 365 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/GAZA/cities/Gaza> ;
+    ns1:carCode "GAZA" ;
+    ns1:gdpTotal 1700 ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/GAZA/cities/Gaza> ;
+    ns1:infantMortality 30.6 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/ET>,
+        <http://www.semwebtech.org/mondial/countries/IL> ;
+    ns1:populationGrowth 4.55 ;
+    skos:prefLabel "قطاع غزّة" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GAZA_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/GAZA_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/GAZA_obpop>,
+        <http://www.semwebtech.org/mondial/countries/GAZA_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/GAZA_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/GAZA_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/GAZA_obrel1> .
+

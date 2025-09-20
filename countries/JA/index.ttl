@@ -1,0 +1,49 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/JA> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Jamaica" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/JA_geom> ;
+    geo:hasMetricArea 10991 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/JA/cities/Kingston> ;
+    ns1:carCode "JA" ;
+    ns1:gdpAgri 6.5 ;
+    ns1:gdpInd 29.4 ;
+    ns1:gdpServ 64.1 ;
+    ns1:gdpTotal 14390 ;
+    ns1:government "constitutional parliamentary democracy and a Commonwealth realm" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/JA/cities/Kingston> ;
+    ns1:independenceDate "1962-08-06"^^xsd:date ;
+    ns1:infantMortality 13.69 ;
+    ns1:populationGrowth 0.69 ;
+    ns1:unemployment 16.3 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
+    skos:prefLabel "Jamaica" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/JA_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/JA_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/JA_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/JA_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/JA_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/JA_obpop>,
+        <http://www.semwebtech.org/mondial/countries/JA_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/JA_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/JA_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/JA_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/JA_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/JA_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/JA_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/JA_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/JA_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/JA_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/JA_obrel4> .
+

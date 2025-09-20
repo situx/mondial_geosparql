@@ -1,0 +1,102 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/GH> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Ghana" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GH_geom> ;
+    geo:hasMetricArea 238540 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra/cities/Accra> ;
+    ns1:carCode "GH" ;
+    ns1:gdpAgri 21.5 ;
+    ns1:gdpInd 28.7 ;
+    ns1:gdpServ 49.8 ;
+    ns1:gdpTotal 45550 ;
+    ns1:government "constitutional democracy" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/GH/provinces/Ahafo/cities/Goaso>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Ashanti/cities/Kumasi>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Ashanti/cities/Obuasi>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Bono+East/cities/Techiman>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Bono/cities/Sunyani>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Central/cities/Cape+Coast>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Eastern/cities/Koforidua>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra/cities/Accra>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra/cities/Ashiaman>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra/cities/Tema>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/North+East/cities/Nalerigu>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Northern/cities/Tamale>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Oti/cities/Dambai>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Savannah/cities/Damongo>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+East/cities/Bolgatanga>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+West/cities/Wa>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Volta/cities/Ho>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Western+North/cities/Wiawso>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Western/cities/Takoradi> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/GH/provinces/Ahafo>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Ashanti>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Bono>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Bono+East>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Central>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Eastern>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/North+East>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Northern>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Oti>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Savannah>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+East>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+West>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Volta>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Western>,
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Western+North> ;
+    ns1:independenceDate "1957-03-06"^^xsd:date ;
+    ns1:infantMortality 38.52 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/BF>,
+        <http://www.semwebtech.org/mondial/countries/CI>,
+        <http://www.semwebtech.org/mondial/countries/RT> ;
+    ns1:populationGrowth 2.19 ;
+    ns1:unemployment 11 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
+    skos:prefLabel "the Republic of Ghana" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GH_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/GH_obeth10>,
+        <http://www.semwebtech.org/mondial/countries/GH_obeth11>,
+        <http://www.semwebtech.org/mondial/countries/GH_obeth12>,
+        <http://www.semwebtech.org/mondial/countries/GH_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/GH_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/GH_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/GH_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/GH_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/GH_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/GH_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/GH_obeth9>,
+        <http://www.semwebtech.org/mondial/countries/GH_obpop>,
+        <http://www.semwebtech.org/mondial/countries/GH_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/GH_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/GH_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/GH_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/GH_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/GH_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/GH_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/GH_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/GH_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/GH_obrel10>,
+        <http://www.semwebtech.org/mondial/countries/GH_obrel11>,
+        <http://www.semwebtech.org/mondial/countries/GH_obrel12>,
+        <http://www.semwebtech.org/mondial/countries/GH_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/GH_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/GH_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/GH_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/GH_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/GH_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/GH_obrel8>,
+        <http://www.semwebtech.org/mondial/countries/GH_obrel9> .
+

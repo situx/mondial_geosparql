@@ -1,0 +1,9 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/politicalbodies/Soviet+Union> a <http://www.semwebtech.org/mondial/10/meta#PoliticalBody>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+

@@ -1,0 +1,26 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/organizations/ECO> a ns1:Organization,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Economic Cooperation Organization" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    ns1:abbrev "ECO" ;
+    ns1:established "1985-01-28"^^xsd:date ;
+    ns1:hasHeadq <http://www.semwebtech.org/mondial/countries/IR/provinces/Tehran/cities/Tehran> ;
+    rdfs:member <http://www.semwebtech.org/mondial/countries/AFG>,
+        <http://www.semwebtech.org/mondial/countries/AZ>,
+        <http://www.semwebtech.org/mondial/countries/IR>,
+        <http://www.semwebtech.org/mondial/countries/KG>,
+        <http://www.semwebtech.org/mondial/countries/KZ>,
+        <http://www.semwebtech.org/mondial/countries/PK>,
+        <http://www.semwebtech.org/mondial/countries/TJ>,
+        <http://www.semwebtech.org/mondial/countries/TM>,
+        <http://www.semwebtech.org/mondial/countries/TR>,
+        <http://www.semwebtech.org/mondial/countries/UZ> .
+

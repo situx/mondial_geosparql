@@ -1,0 +1,26 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/organizations/GCTU> a ns1:Organization,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "General Confederation of Trade Unions" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    ns1:abbrev "GCTU" ;
+    ns1:established "1992-04-15"^^xsd:date ;
+    ns1:hasHeadq <http://www.semwebtech.org/mondial/countries/R/provinces/Moscow/cities/Moskva> ;
+    rdfs:member <http://www.semwebtech.org/mondial/countries/ARM>,
+        <http://www.semwebtech.org/mondial/countries/AZ>,
+        <http://www.semwebtech.org/mondial/countries/BY>,
+        <http://www.semwebtech.org/mondial/countries/GE>,
+        <http://www.semwebtech.org/mondial/countries/KG>,
+        <http://www.semwebtech.org/mondial/countries/KZ>,
+        <http://www.semwebtech.org/mondial/countries/MD>,
+        <http://www.semwebtech.org/mondial/countries/R>,
+        <http://www.semwebtech.org/mondial/countries/TJ>,
+        <http://www.semwebtech.org/mondial/countries/UA> .
+

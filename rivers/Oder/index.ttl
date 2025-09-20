@@ -1,0 +1,32 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/rivers/Oder> a ns1:River,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Oder" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasMetricArea 118861 ;
+    geo:hasMetricLength 866 ;
+    ns1:flowsInto <http://www.semwebtech.org/mondial/seas/Baltic+Sea> ;
+    ns1:hasEstuary <http://www.semwebtech.org/mondial/estuarys/Oder> ;
+    ns1:hasSource <http://www.semwebtech.org/mondial/sources/Oder> ;
+    ns1:locatedIn <http://www.semwebtech.org/mondial/countries/CZ>,
+        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Moravskoslezský>,
+        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Olomoucký>,
+        <http://www.semwebtech.org/mondial/countries/D>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Brandenburg>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Mecklenburg-Vorpommern>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen>,
+        <http://www.semwebtech.org/mondial/countries/PL>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Dolnośląskie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubuskie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Opolskie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Zachodniopomorskie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie> .
+

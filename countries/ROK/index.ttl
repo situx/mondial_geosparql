@@ -1,0 +1,80 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/ROK> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "South Korea" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ROK_geom> ;
+    geo:hasMetricArea 98480 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/ROK/cities/Seoul> ;
+    ns1:carCode "ROK" ;
+    ns1:gdpAgri 2.6 ;
+    ns1:gdpInd 39.2 ;
+    ns1:gdpServ 58.2 ;
+    ns1:gdpTotal 1198000 ;
+    ns1:government <http://www.wikidata.org/entry/Q7270> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/ROK/cities/Ansan>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Anyang>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Bucheon>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Busan>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Changwon>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Cheongju>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Chuncheon>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Daegu>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Daejeon>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Goyang>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Gunsan>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Gwangju>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Incheon>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Jeju>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Jeonju>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Jinju>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Mokpo>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Sejong>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Seongnam>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Seoul>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Suwon>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Ulsan>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Yeosu>,
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Yongin> ;
+    ns1:independenceDate "1945-08-15"^^xsd:date ;
+    ns1:infantMortality 3.93 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/KP> ;
+    ns1:populationGrowth 0.16 ;
+    ns1:unemployment 3.2 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/J> ;
+    skos:prefLabel "대한 민국" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ROK_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obpop>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obpophist10>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obpophist11>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obpophist12>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obpophist13>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obpophist9>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/ROK_obrel5> .
+

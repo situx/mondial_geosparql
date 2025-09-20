@@ -1,0 +1,32 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/seas/The+Channel> a ns1:Sea,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "The Channel" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:contains <http://www.semwebtech.org/mondial/islands/Great+Britain>,
+        <http://www.semwebtech.org/mondial/islands/Guernsey>,
+        <http://www.semwebtech.org/mondial/islands/Isle+of+Wight>,
+        <http://www.semwebtech.org/mondial/islands/Jersey> ;
+    geo:hasMetricArea 75000 ;
+    ns1:locatedIn <http://www.semwebtech.org/mondial/countries/F>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Hauts-de-France>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Normandie>,
+        <http://www.semwebtech.org/mondial/countries/GB>,
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+East+England>,
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+West+England>,
+        <http://www.semwebtech.org/mondial/countries/GBG>,
+        <http://www.semwebtech.org/mondial/countries/GBJ> ;
+    ns1:mergesWith <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean>,
+        <http://www.semwebtech.org/mondial/seas/North+Sea> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/seas/The+Channel_obdep> .
+

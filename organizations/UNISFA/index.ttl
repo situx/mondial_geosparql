@@ -1,0 +1,43 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/organizations/UNISFA> a ns1:Organization,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "United Nations Interim Security Force for Abyei" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    ns1:abbrev "UNISFA" ;
+    ns1:established "2011-06-26"^^xsd:date ;
+    rdfs:member <http://www.semwebtech.org/mondial/countries/BEN>,
+        <http://www.semwebtech.org/mondial/countries/BI>,
+        <http://www.semwebtech.org/mondial/countries/BOL>,
+        <http://www.semwebtech.org/mondial/countries/BR>,
+        <http://www.semwebtech.org/mondial/countries/CL>,
+        <http://www.semwebtech.org/mondial/countries/EAT>,
+        <http://www.semwebtech.org/mondial/countries/EC>,
+        <http://www.semwebtech.org/mondial/countries/ETH>,
+        <http://www.semwebtech.org/mondial/countries/GCA>,
+        <http://www.semwebtech.org/mondial/countries/GH>,
+        <http://www.semwebtech.org/mondial/countries/IND>,
+        <http://www.semwebtech.org/mondial/countries/K>,
+        <http://www.semwebtech.org/mondial/countries/MNG>,
+        <http://www.semwebtech.org/mondial/countries/NAM>,
+        <http://www.semwebtech.org/mondial/countries/NEP>,
+        <http://www.semwebtech.org/mondial/countries/NGR>,
+        <http://www.semwebtech.org/mondial/countries/PE>,
+        <http://www.semwebtech.org/mondial/countries/PY>,
+        <http://www.semwebtech.org/mondial/countries/R>,
+        <http://www.semwebtech.org/mondial/countries/RG>,
+        <http://www.semwebtech.org/mondial/countries/ROU>,
+        <http://www.semwebtech.org/mondial/countries/RP>,
+        <http://www.semwebtech.org/mondial/countries/RWA>,
+        <http://www.semwebtech.org/mondial/countries/SLE>,
+        <http://www.semwebtech.org/mondial/countries/UA>,
+        <http://www.semwebtech.org/mondial/countries/YE>,
+        <http://www.semwebtech.org/mondial/countries/Z>,
+        <http://www.semwebtech.org/mondial/countries/ZW> .
+

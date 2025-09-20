@@ -1,0 +1,31 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber> a ns1:Province,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Yorkshire and the Humber" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasMetricArea 15407 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber/cities/Leeds> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber/cities/Bradford>,
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber/cities/Doncaster>,
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber/cities/Huddersfield>,
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber/cities/Kingston+upon+Hull>,
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber/cities/Leeds>,
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber/cities/Rotherham>,
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber/cities/Sheffield>,
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber/cities/Wakefield>,
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber/cities/York> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber_obpop>,
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber_obpophist3> .
+

@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/countries/RSM_geom> a <http://www.opengis.net/ont/sf#Polygon>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "RSM Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:asWKT "POLYGON ((12.42945 43.892056, 12.399581 43.903218, 12.385629 43.924534, 12.395654 43.948409, 12.411049 43.959661, 12.421389 43.967219, 12.453325 43.979053, 12.48216 43.982567, 12.489188 43.97311, 12.492392 43.956419, 12.490325 43.939159, 12.483094 43.929205, 12.48216 43.927919, 12.479576 43.9258, 12.478026 43.923216, 12.477494 43.920051, 12.478287 43.917038, 12.460456 43.895259, 12.42945 43.892056))"^^geo:wktLiteral .
+

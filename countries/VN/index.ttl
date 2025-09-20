@@ -1,0 +1,96 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/VN> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Vietnam" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/VN_geom> ;
+    geo:hasMetricArea 329560 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/VN/provinces/Red+River+Delta/cities/Hanoi> ;
+    ns1:carCode "VN" ;
+    ns1:gdpAgri 19.3 ;
+    ns1:gdpInd 38.5 ;
+    ns1:gdpServ 42.2 ;
+    ns1:gdpTotal 170000 ;
+    ns1:government "Communist state" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/VN/provinces/Central+Highlands/cities/Buon+Ma+Thuot>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta/cities/Can+Tho>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta/cities/Long+Xuyen>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta/cities/Rach+Gia>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Da+Nang>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Hue>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Nha+Trang>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Qui+Nhon>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Vinh>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains/cities/Cam+Pha>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains/cities/Ha+Long>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains/cities/Thai+Nguyen>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Red+River+Delta/cities/Haiphong>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Red+River+Delta/cities/Hanoi>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Red+River+Delta/cities/Nam+Dinh>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Southeast/cities/Bien+Hoa>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Southeast/cities/Thanh+Pho+Ho+Chi+Minh>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Southeast/cities/Vung+Tau> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/VN/provinces/Central+Highlands>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Red+River+Delta>,
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Southeast> ;
+    ns1:independenceDate "1945-09-02"^^xsd:date ;
+    ns1:infantMortality 18.99 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/CN>,
+        <http://www.semwebtech.org/mondial/countries/K>,
+        <http://www.semwebtech.org/mondial/countries/LAO> ;
+    ns1:populationGrowth 1 ;
+    ns1:unemployment 1.3 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
+    skos:prefLabel "Việt Nam" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/VN_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/VN_obeth10>,
+        <http://www.semwebtech.org/mondial/countries/VN_obeth11>,
+        <http://www.semwebtech.org/mondial/countries/VN_obeth12>,
+        <http://www.semwebtech.org/mondial/countries/VN_obeth13>,
+        <http://www.semwebtech.org/mondial/countries/VN_obeth14>,
+        <http://www.semwebtech.org/mondial/countries/VN_obeth15>,
+        <http://www.semwebtech.org/mondial/countries/VN_obeth16>,
+        <http://www.semwebtech.org/mondial/countries/VN_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/VN_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/VN_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/VN_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/VN_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/VN_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/VN_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/VN_obeth9>,
+        <http://www.semwebtech.org/mondial/countries/VN_obpop>,
+        <http://www.semwebtech.org/mondial/countries/VN_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/VN_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/VN_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/VN_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/VN_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/VN_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/VN_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/VN_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/VN_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/VN_obrel10>,
+        <http://www.semwebtech.org/mondial/countries/VN_obrel11>,
+        <http://www.semwebtech.org/mondial/countries/VN_obrel12>,
+        <http://www.semwebtech.org/mondial/countries/VN_obrel13>,
+        <http://www.semwebtech.org/mondial/countries/VN_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/VN_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/VN_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/VN_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/VN_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/VN_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/VN_obrel8>,
+        <http://www.semwebtech.org/mondial/countries/VN_obrel9> .
+

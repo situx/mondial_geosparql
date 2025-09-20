@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/countries/SBAR_geom> a <http://www.opengis.net/ont/sf#Polygon>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "SBAR Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:asWKT "POLYGON ((-62.838857 17.881985, -62.850942 17.890448, -62.861318 17.905422, -62.86734 17.920396, -62.866119 17.929145, -62.857411 17.925035, -62.791656 17.915473, -62.79894 17.904486, -62.810129 17.892279, -62.823842 17.883246, -62.838857 17.881985))"^^geo:wktLiteral .
+

@@ -1,0 +1,97 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/CI> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Cote d'Ivoire" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasMetricArea 322460 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/CI/provinces/Yamoussoukro/cities/Yamoussoukro> ;
+    ns1:carCode "CI" ;
+    ns1:gdpAgri 26.3 ;
+    ns1:gdpInd 21.3 ;
+    ns1:gdpServ 52.4 ;
+    ns1:gdpTotal 28280 ;
+    ns1:government "republic; multiparty presidential regime established 1960" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/CI/provinces/Abidjan/cities/Abidjan>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Bas-Sassandra/cities/San-Pedro>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Comoé/cities/Abengourou>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Denguélé/cities/Odienné>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Gôh-Djiboua/cities/Gagnoa>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Lacs/cities/Dimbokro>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Lagunes/cities/Dabou>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Montagnes/cities/Man>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Sassandra-Marahoué/cities/Daloa>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Savanes/cities/Korhogo>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Vallée+du+Bandama/cities/Bouaké>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Woroba/cities/Séguéla>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Yamoussoukro/cities/Yamoussoukro>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Zanzan/cities/Bondoukou> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/CI/provinces/Abidjan>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Bas-Sassandra>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Comoé>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Denguélé>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Gôh-Djiboua>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Lacs>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Lagunes>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Montagnes>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Sassandra-Marahoué>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Savanes>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Vallée+du+Bandama>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Woroba>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Yamoussoukro>,
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Zanzan> ;
+    ns1:independenceDate "1960-08-07"^^xsd:date ;
+    ns1:infantMortality 60.16 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/BF>,
+        <http://www.semwebtech.org/mondial/countries/GH>,
+        <http://www.semwebtech.org/mondial/countries/LB>,
+        <http://www.semwebtech.org/mondial/countries/RG>,
+        <http://www.semwebtech.org/mondial/countries/RMM> ;
+    ns1:populationGrowth 1.96 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
+    skos:prefLabel "la République de Côte d'Ivoire" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CI_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/CI_obeth10>,
+        <http://www.semwebtech.org/mondial/countries/CI_obeth11>,
+        <http://www.semwebtech.org/mondial/countries/CI_obeth12>,
+        <http://www.semwebtech.org/mondial/countries/CI_obeth13>,
+        <http://www.semwebtech.org/mondial/countries/CI_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/CI_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/CI_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/CI_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/CI_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/CI_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/CI_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/CI_obeth9>,
+        <http://www.semwebtech.org/mondial/countries/CI_obpop>,
+        <http://www.semwebtech.org/mondial/countries/CI_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/CI_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/CI_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/CI_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/CI_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/CI_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/CI_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/CI_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/CI_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/CI_obpophist9>,
+        <http://www.semwebtech.org/mondial/countries/CI_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/CI_obrel10>,
+        <http://www.semwebtech.org/mondial/countries/CI_obrel11>,
+        <http://www.semwebtech.org/mondial/countries/CI_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/CI_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/CI_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/CI_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/CI_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/CI_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/CI_obrel8>,
+        <http://www.semwebtech.org/mondial/countries/CI_obrel9> .
+

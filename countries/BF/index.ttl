@@ -1,0 +1,68 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/BF> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Burkina Faso" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BF_geom> ;
+    geo:hasMetricArea 274200 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/BF/cities/Ouagadougou> ;
+    ns1:carCode "BF" ;
+    ns1:gdpAgri 33.6 ;
+    ns1:gdpInd 23.6 ;
+    ns1:gdpServ 42.8 ;
+    ns1:gdpTotal 12130 ;
+    ns1:government "parliamentary republic" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/BF/cities/Bobo+Dioulasso>,
+        <http://www.semwebtech.org/mondial/countries/BF/cities/Ouagadougou> ;
+    ns1:independenceDate "1960-08-05"^^xsd:date ;
+    ns1:infantMortality 76.8 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/BEN>,
+        <http://www.semwebtech.org/mondial/countries/CI>,
+        <http://www.semwebtech.org/mondial/countries/GH>,
+        <http://www.semwebtech.org/mondial/countries/RMM>,
+        <http://www.semwebtech.org/mondial/countries/RN>,
+        <http://www.semwebtech.org/mondial/countries/RT> ;
+    ns1:populationGrowth 3.05 ;
+    ns1:unemployment 77 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
+    skos:prefLabel "le Burkina Faso" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BF_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/BF_obeth10>,
+        <http://www.semwebtech.org/mondial/countries/BF_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/BF_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/BF_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/BF_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/BF_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/BF_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/BF_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/BF_obeth9>,
+        <http://www.semwebtech.org/mondial/countries/BF_obpop>,
+        <http://www.semwebtech.org/mondial/countries/BF_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/BF_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/BF_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/BF_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/BF_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/BF_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/BF_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/BF_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/BF_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/BF_obrel10>,
+        <http://www.semwebtech.org/mondial/countries/BF_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/BF_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/BF_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/BF_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/BF_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/BF_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/BF_obrel8>,
+        <http://www.semwebtech.org/mondial/countries/BF_obrel9> .
+

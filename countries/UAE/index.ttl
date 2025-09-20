@@ -1,0 +1,63 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/UAE> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "United Arab Emirates" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/UAE_geom> ;
+    geo:hasMetricArea 75581 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/UAE/cities/Abu+Dhabi> ;
+    ns1:carCode "UAE" ;
+    ns1:gdpAgri 0.6 ;
+    ns1:gdpInd 61.1 ;
+    ns1:gdpServ 38.2 ;
+    ns1:gdpTotal 390000 ;
+    ns1:government "federation with specified powers delegated to the UAE federal government and other powers reserved to member emirates" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/UAE/cities/Abu+Dhabi>,
+        <http://www.semwebtech.org/mondial/countries/UAE/cities/Al+Ain>,
+        <http://www.semwebtech.org/mondial/countries/UAE/cities/Al+Sharjah>,
+        <http://www.semwebtech.org/mondial/countries/UAE/cities/Dubai> ;
+    ns1:independenceDate "1971-12-02"^^xsd:date ;
+    ns1:infantMortality 10.92 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/OM>,
+        <http://www.semwebtech.org/mondial/countries/SA> ;
+    ns1:populationGrowth 2.71 ;
+    ns1:unemployment 2.4 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
+    skos:prefLabel "الإمارات العربية المتحدة" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UAE_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obpop>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obpophist9>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/UAE_obrel7> .
+

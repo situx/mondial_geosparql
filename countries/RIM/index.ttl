@@ -1,0 +1,80 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/RIM> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Mauritania" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RIM_geom> ;
+    geo:hasMetricArea 1030700 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/RIM/provinces/Nouakchott/cities/Nouakchott> ;
+    ns1:carCode "RIM" ;
+    ns1:gdpAgri 16.9 ;
+    ns1:gdpInd 54.6 ;
+    ns1:gdpServ 28.5 ;
+    ns1:gdpTotal 4183 ;
+    ns1:government "military junta" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/RIM/provinces/Adrar/cities/Atar>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Assaba/cities/Kiffa>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Brakna/cities/Aleg>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Dakhlet+Nouadhibou/cities/Nouadhibou>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Gorgol/cities/Kaedi>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Guidimagha/cities/Selibaby>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Hodh+Chargui/cities/Nema>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Hodh+El+Gharbi/cities/Aioun>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Inchiri/cities/Akjoujt>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Nouakchott/cities/Nouakchott>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Tagant/cities/Tidjikja>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Tiris+Zemmour/cities/Zouerate>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Trarza/cities/Rosso> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/RIM/provinces/Adrar>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Assaba>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Brakna>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Dakhlet+Nouadhibou>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Gorgol>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Guidimagha>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Hodh+Chargui>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Hodh+El+Gharbi>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Inchiri>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Nouakchott>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Tagant>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Tiris+Zemmour>,
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Trarza> ;
+    ns1:independenceDate "1960-11-28"^^xsd:date ;
+    ns1:infantMortality 56.06 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/DZ>,
+        <http://www.semwebtech.org/mondial/countries/RMM>,
+        <http://www.semwebtech.org/mondial/countries/SN>,
+        <http://www.semwebtech.org/mondial/countries/WSA> ;
+    ns1:populationGrowth 2.26 ;
+    ns1:unemployment 30 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
+    skos:prefLabel "الجمهورية الإسلامية الموريتانية" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RIM_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/RIM_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/RIM_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/RIM_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/RIM_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/RIM_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/RIM_obpop>,
+        <http://www.semwebtech.org/mondial/countries/RIM_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/RIM_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/RIM_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/RIM_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/RIM_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/RIM_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/RIM_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/RIM_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/RIM_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/RIM_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/RIM_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/RIM_obrel4> .
+

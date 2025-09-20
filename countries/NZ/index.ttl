@@ -1,0 +1,70 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/NZ> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "New Zealand" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NZ_geom> ;
+    geo:hasMetricArea 268680 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/NZ/cities/Wellington> ;
+    ns1:carCode "NZ" ;
+    ns1:gdpAgri 5 ;
+    ns1:gdpInd 25.5 ;
+    ns1:gdpServ 69.5 ;
+    ns1:gdpTotal 181100 ;
+    ns1:government "parliamentary democracy and a Commonwealth realm" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/NZ/cities/Auckland>,
+        <http://www.semwebtech.org/mondial/countries/NZ/cities/Christchurch>,
+        <http://www.semwebtech.org/mondial/countries/NZ/cities/Dunedin>,
+        <http://www.semwebtech.org/mondial/countries/NZ/cities/Hamilton>,
+        <http://www.semwebtech.org/mondial/countries/NZ/cities/Wellington> ;
+    ns1:independenceDate "1907-09-26"^^xsd:date ;
+    ns1:infantMortality 4.59 ;
+    ns1:populationGrowth 0.83 ;
+    ns1:unemployment 6.4 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
+    skos:prefLabel "New Zealand" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NZ_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpop>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist10>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist11>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist12>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist13>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist14>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist15>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist16>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist17>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist18>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist19>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist20>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist21>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obpophist9>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/NZ_obrel7> .
+

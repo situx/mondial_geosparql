@@ -1,0 +1,52 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/RH> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Haiti" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RH_geom> ;
+    geo:hasMetricArea 27750 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/RH/cities/Port-au-Prince> ;
+    ns1:carCode "RH" ;
+    ns1:gdpAgri 24.1 ;
+    ns1:gdpInd 19.9 ;
+    ns1:gdpServ 56 ;
+    ns1:gdpTotal 8287 ;
+    ns1:government <http://www.wikidata.org/entry/Q7270> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/RH/cities/Cap-Haïtien>,
+        <http://www.semwebtech.org/mondial/countries/RH/cities/Carrefour>,
+        <http://www.semwebtech.org/mondial/countries/RH/cities/Cité+Soleil>,
+        <http://www.semwebtech.org/mondial/countries/RH/cities/Delmas>,
+        <http://www.semwebtech.org/mondial/countries/RH/cities/Gonaïves>,
+        <http://www.semwebtech.org/mondial/countries/RH/cities/Port-au-Prince>,
+        <http://www.semwebtech.org/mondial/countries/RH/cities/Pétion-Ville> ;
+    ns1:independenceDate "1804-01-01"^^xsd:date ;
+    ns1:infantMortality 49.43 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/DOM> ;
+    ns1:populationGrowth 1.31 ;
+    ns1:unemployment 40.6 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
+    skos:prefLabel "la République d' Haïti" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RH_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/RH_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/RH_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/RH_obpop>,
+        <http://www.semwebtech.org/mondial/countries/RH_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/RH_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/RH_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/RH_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/RH_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/RH_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/RH_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/RH_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/RH_obrel3> .
+

@@ -1,0 +1,66 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/NAM> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Namibia" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NAM_geom> ;
+    geo:hasMetricArea 825418 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/NAM/cities/Windhoek> ;
+    ns1:carCode "NAM" ;
+    ns1:gdpAgri 7.7 ;
+    ns1:gdpInd 29.6 ;
+    ns1:gdpServ 62.6 ;
+    ns1:gdpTotal 12300 ;
+    ns1:government <http://www.wikidata.org/entry/Q7270> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/NAM/cities/Rundu>,
+        <http://www.semwebtech.org/mondial/countries/NAM/cities/Walvis+Bay>,
+        <http://www.semwebtech.org/mondial/countries/NAM/cities/Windhoek> ;
+    ns1:independenceDate "1990-03-21"^^xsd:date ;
+    ns1:infantMortality 45.64 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/ANG>,
+        <http://www.semwebtech.org/mondial/countries/RB>,
+        <http://www.semwebtech.org/mondial/countries/RSA>,
+        <http://www.semwebtech.org/mondial/countries/Z> ;
+    ns1:populationGrowth 0.67 ;
+    ns1:unemployment 27.4 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/organizations/UN> ;
+    skos:prefLabel "the Republic of Namibia" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NAM_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obpop>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obrel10>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obrel8>,
+        <http://www.semwebtech.org/mondial/countries/NAM_obrel9> .
+

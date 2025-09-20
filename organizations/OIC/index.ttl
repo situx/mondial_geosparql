@@ -1,0 +1,75 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/organizations/OIC> a ns1:Organization,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Organization of Islamic Cooperation" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    ns1:abbrev "OIC" ;
+    ns1:established "1969-09-24"^^xsd:date ;
+    ns1:hasHeadq <http://www.semwebtech.org/mondial/countries/SA/provinces/Makkah+Al-Mokarramah/cities/Jeddah> ;
+    rdfs:member <http://www.semwebtech.org/mondial/countries/AFG>,
+        <http://www.semwebtech.org/mondial/countries/AL>,
+        <http://www.semwebtech.org/mondial/countries/AZ>,
+        <http://www.semwebtech.org/mondial/countries/BD>,
+        <http://www.semwebtech.org/mondial/countries/BEN>,
+        <http://www.semwebtech.org/mondial/countries/BF>,
+        <http://www.semwebtech.org/mondial/countries/BIH>,
+        <http://www.semwebtech.org/mondial/countries/BRN>,
+        <http://www.semwebtech.org/mondial/countries/BRU>,
+        <http://www.semwebtech.org/mondial/countries/CAM>,
+        <http://www.semwebtech.org/mondial/countries/CI>,
+        <http://www.semwebtech.org/mondial/countries/COM>,
+        <http://www.semwebtech.org/mondial/countries/DJI>,
+        <http://www.semwebtech.org/mondial/countries/DZ>,
+        <http://www.semwebtech.org/mondial/countries/EAU>,
+        <http://www.semwebtech.org/mondial/countries/ET>,
+        <http://www.semwebtech.org/mondial/countries/G>,
+        <http://www.semwebtech.org/mondial/countries/GUB>,
+        <http://www.semwebtech.org/mondial/countries/GUY>,
+        <http://www.semwebtech.org/mondial/countries/IR>,
+        <http://www.semwebtech.org/mondial/countries/IRQ>,
+        <http://www.semwebtech.org/mondial/countries/JOR>,
+        <http://www.semwebtech.org/mondial/countries/KG>,
+        <http://www.semwebtech.org/mondial/countries/KWT>,
+        <http://www.semwebtech.org/mondial/countries/KZ>,
+        <http://www.semwebtech.org/mondial/countries/LAR>,
+        <http://www.semwebtech.org/mondial/countries/MA>,
+        <http://www.semwebtech.org/mondial/countries/MAL>,
+        <http://www.semwebtech.org/mondial/countries/MOC>,
+        <http://www.semwebtech.org/mondial/countries/MV>,
+        <http://www.semwebtech.org/mondial/countries/NGR>,
+        <http://www.semwebtech.org/mondial/countries/OM>,
+        <http://www.semwebtech.org/mondial/countries/PK>,
+        <http://www.semwebtech.org/mondial/countries/Q>,
+        <http://www.semwebtech.org/mondial/countries/R>,
+        <http://www.semwebtech.org/mondial/countries/RG>,
+        <http://www.semwebtech.org/mondial/countries/RI>,
+        <http://www.semwebtech.org/mondial/countries/RIM>,
+        <http://www.semwebtech.org/mondial/countries/RL>,
+        <http://www.semwebtech.org/mondial/countries/RMM>,
+        <http://www.semwebtech.org/mondial/countries/RN>,
+        <http://www.semwebtech.org/mondial/countries/RT>,
+        <http://www.semwebtech.org/mondial/countries/SA>,
+        <http://www.semwebtech.org/mondial/countries/SLE>,
+        <http://www.semwebtech.org/mondial/countries/SME>,
+        <http://www.semwebtech.org/mondial/countries/SN>,
+        <http://www.semwebtech.org/mondial/countries/SO>,
+        <http://www.semwebtech.org/mondial/countries/SUD>,
+        <http://www.semwebtech.org/mondial/countries/SYR>,
+        <http://www.semwebtech.org/mondial/countries/TCH>,
+        <http://www.semwebtech.org/mondial/countries/THA>,
+        <http://www.semwebtech.org/mondial/countries/TJ>,
+        <http://www.semwebtech.org/mondial/countries/TM>,
+        <http://www.semwebtech.org/mondial/countries/TN>,
+        <http://www.semwebtech.org/mondial/countries/TR>,
+        <http://www.semwebtech.org/mondial/countries/UAE>,
+        <http://www.semwebtech.org/mondial/countries/UZ>,
+        <http://www.semwebtech.org/mondial/countries/WAG>,
+        <http://www.semwebtech.org/mondial/countries/YE> .
+

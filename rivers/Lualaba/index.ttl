@@ -1,0 +1,21 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/rivers/Lualaba> a ns1:River,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Lualaba" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    ns1:flowsInto <http://www.semwebtech.org/mondial/rivers/Congo> ;
+    ns1:hasEstuary <http://www.semwebtech.org/mondial/estuarys/Lualaba> ;
+    ns1:hasSource <http://www.semwebtech.org/mondial/sources/Lualaba> ;
+    ns1:locatedIn <http://www.semwebtech.org/mondial/countries/CGO>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Lomami>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Lualaba>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Maniema>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tanganyika>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tshopo> .
+

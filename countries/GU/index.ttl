@@ -1,0 +1,48 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/GU> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Guam" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GU_geom> ;
+    geo:hasMetricArea 545 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/GU/cities/Hagåtña> ;
+    ns1:carCode "GU" ;
+    ns1:dependentOf <http://www.semwebtech.org/mondial/countries/USA> ;
+    ns1:gdpTotal 4600 ;
+    ns1:government "organized" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/GU/cities/Hagåtña> ;
+    ns1:infantMortality 5.51 ;
+    ns1:populationGrowth 0.44 ;
+    ns1:unemployment 8.2 ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GU_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/GU_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/GU_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/GU_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/GU_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/GU_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/GU_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/GU_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/GU_obeth9>,
+        <http://www.semwebtech.org/mondial/countries/GU_obpop>,
+        <http://www.semwebtech.org/mondial/countries/GU_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/GU_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/GU_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/GU_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/GU_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/GU_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/GU_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/GU_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/GU_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/GU_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/GU_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/GU_obrel4> .
+

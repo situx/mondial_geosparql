@@ -1,0 +1,107 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/MYA> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Myanmar" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MYA_geom> ;
+    geo:hasMetricArea 678500 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/MYA/provinces/Nay+Pyi+Taw/cities/Nay+Pyi+Taw> ;
+    ns1:carCode "MYA" ;
+    ns1:gdpAgri 38 ;
+    ns1:gdpInd 20.3 ;
+    ns1:gdpServ 41.7 ;
+    ns1:gdpTotal 59430 ;
+    ns1:government "parliamentary government took power in March 2011" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/MYA/provinces/Ayeyarwady/cities/Pathein>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Bago/cities/Bago>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Chin/cities/Hakha>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Kachin/cities/Myitkyina>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Kayah/cities/Loikaw>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Kayin/cities/Hpa+an>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Magwe/cities/Magwe>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mandalay/cities/Mandalay>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mon/cities/Mawlamyine>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Nay+Pyi+Taw/cities/Nay+Pyi+Taw>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Rakhine/cities/Sittwe>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Sagaing/cities/Monywa>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Sagaing/cities/Sagaing>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Shan/cities/Taunggyi>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Tanintharyi/cities/Tavoy>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Yangon/cities/Yangon> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/MYA/provinces/Ayeyarwady>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Bago>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Chin>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Kachin>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Kayah>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Kayin>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Magwe>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mandalay>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mon>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Nay+Pyi+Taw>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Rakhine>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Sagaing>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Shan>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Tanintharyi>,
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Yangon> ;
+    ns1:independenceDate "1948-01-04"^^xsd:date ;
+    ns1:infantMortality 44.91 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/BD>,
+        <http://www.semwebtech.org/mondial/countries/CN>,
+        <http://www.semwebtech.org/mondial/countries/IND>,
+        <http://www.semwebtech.org/mondial/countries/LAO>,
+        <http://www.semwebtech.org/mondial/countries/THA> ;
+    ns1:populationGrowth 1.03 ;
+    ns1:unemployment 5.2 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
+    skos:altLabel "Burma" ;
+    skos:prefLabel "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYA_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obeth10>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obeth11>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obeth12>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obeth13>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obeth14>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obeth15>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obeth9>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obpop>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obpophist10>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obpophist9>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obrel10>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obrel11>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obrel12>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obrel8>,
+        <http://www.semwebtech.org/mondial/countries/MYA_obrel9> .
+

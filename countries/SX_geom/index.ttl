@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/countries/SX_geom> a <http://www.opengis.net/ont/sf#Polygon>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "SX Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:asWKT "POLYGON ((-63.107004 18.06212, -63.085886 18.058511, -63.017569 18.033391, -63.030629 18.01911, -63.097646 18.035956, -63.112172 18.043036, -63.118886 18.0515, -63.107004 18.059475, -63.107004 18.06212))"^^geo:wktLiteral .
+

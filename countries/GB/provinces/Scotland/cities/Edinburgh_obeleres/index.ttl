@@ -1,0 +1,16 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.ontology-of-units-of-measure.org/resource/om-2/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/GB/provinces/Scotland/cities/Edinburgh_obeleres> a <http://www.w3.org/ns/ldp#Resource>,
+        sosa:ObservationResult,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Observation Result of Elevation of http://www.semwebtech.org/mondial/countries/GB/provinces/Scotland/cities/"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    ns1:hasNumericalValue 4.7e+01 ;
+    ns1:hasUnit ns1:meter .
+

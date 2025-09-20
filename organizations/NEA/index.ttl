@@ -1,0 +1,46 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/organizations/NEA> a ns1:Organization,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Nuclear Energy Agency" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    ns1:abbrev "NEA" ;
+    ns1:established "1958-01-31"^^xsd:date ;
+    rdfs:member <http://www.semwebtech.org/mondial/countries/A>,
+        <http://www.semwebtech.org/mondial/countries/AUS>,
+        <http://www.semwebtech.org/mondial/countries/B>,
+        <http://www.semwebtech.org/mondial/countries/CDN>,
+        <http://www.semwebtech.org/mondial/countries/CH>,
+        <http://www.semwebtech.org/mondial/countries/CZ>,
+        <http://www.semwebtech.org/mondial/countries/D>,
+        <http://www.semwebtech.org/mondial/countries/DK>,
+        <http://www.semwebtech.org/mondial/countries/E>,
+        <http://www.semwebtech.org/mondial/countries/F>,
+        <http://www.semwebtech.org/mondial/countries/GB>,
+        <http://www.semwebtech.org/mondial/countries/GR>,
+        <http://www.semwebtech.org/mondial/countries/H>,
+        <http://www.semwebtech.org/mondial/countries/I>,
+        <http://www.semwebtech.org/mondial/countries/IRL>,
+        <http://www.semwebtech.org/mondial/countries/IS>,
+        <http://www.semwebtech.org/mondial/countries/J>,
+        <http://www.semwebtech.org/mondial/countries/L>,
+        <http://www.semwebtech.org/mondial/countries/MEX>,
+        <http://www.semwebtech.org/mondial/countries/N>,
+        <http://www.semwebtech.org/mondial/countries/NL>,
+        <http://www.semwebtech.org/mondial/countries/P>,
+        <http://www.semwebtech.org/mondial/countries/PL>,
+        <http://www.semwebtech.org/mondial/countries/R>,
+        <http://www.semwebtech.org/mondial/countries/ROK>,
+        <http://www.semwebtech.org/mondial/countries/S>,
+        <http://www.semwebtech.org/mondial/countries/SF>,
+        <http://www.semwebtech.org/mondial/countries/SK>,
+        <http://www.semwebtech.org/mondial/countries/SLO>,
+        <http://www.semwebtech.org/mondial/countries/TR>,
+        <http://www.semwebtech.org/mondial/countries/USA> .
+

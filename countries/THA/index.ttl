@@ -1,0 +1,82 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/THA> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Thailand" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/THA_geom> ;
+    geo:hasMetricArea 514000 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/THA/cities/Bangkok> ;
+    ns1:carCode "THA" ;
+    ns1:gdpAgri 12.1 ;
+    ns1:gdpInd 43.6 ;
+    ns1:gdpServ 44.2 ;
+    ns1:gdpTotal 400900 ;
+    ns1:government "constitutional monarchy" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/THA/cities/Bangkok>,
+        <http://www.semwebtech.org/mondial/countries/THA/cities/Chiang+Mai>,
+        <http://www.semwebtech.org/mondial/countries/THA/cities/Chon+Buri>,
+        <http://www.semwebtech.org/mondial/countries/THA/cities/Khon+Kaen>,
+        <http://www.semwebtech.org/mondial/countries/THA/cities/Nakhon+Ratchasima>,
+        <http://www.semwebtech.org/mondial/countries/THA/cities/Nakhon+Sawan>,
+        <http://www.semwebtech.org/mondial/countries/THA/cities/Nakhon+Si+Thammarat>,
+        <http://www.semwebtech.org/mondial/countries/THA/cities/Nonthaburi>,
+        <http://www.semwebtech.org/mondial/countries/THA/cities/Phuket>,
+        <http://www.semwebtech.org/mondial/countries/THA/cities/Samut+Prakan>,
+        <http://www.semwebtech.org/mondial/countries/THA/cities/Songkhla> ;
+    ns1:independenceDate "1238-01-01"^^xsd:date ;
+    ns1:infantMortality 9.86 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/K>,
+        <http://www.semwebtech.org/mondial/countries/LAO>,
+        <http://www.semwebtech.org/mondial/countries/MAL>,
+        <http://www.semwebtech.org/mondial/countries/MYA> ;
+    ns1:populationGrowth 0.35 ;
+    ns1:unemployment 0.7 ;
+    skos:prefLabel "ราชอาณาจักรไทย" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/THA_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/THA_obeth10>,
+        <http://www.semwebtech.org/mondial/countries/THA_obeth11>,
+        <http://www.semwebtech.org/mondial/countries/THA_obeth12>,
+        <http://www.semwebtech.org/mondial/countries/THA_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/THA_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/THA_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/THA_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/THA_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/THA_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/THA_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/THA_obeth9>,
+        <http://www.semwebtech.org/mondial/countries/THA_obpop>,
+        <http://www.semwebtech.org/mondial/countries/THA_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/THA_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/THA_obpophist10>,
+        <http://www.semwebtech.org/mondial/countries/THA_obpophist11>,
+        <http://www.semwebtech.org/mondial/countries/THA_obpophist12>,
+        <http://www.semwebtech.org/mondial/countries/THA_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/THA_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/THA_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/THA_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/THA_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/THA_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/THA_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/THA_obpophist9>,
+        <http://www.semwebtech.org/mondial/countries/THA_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/THA_obrel10>,
+        <http://www.semwebtech.org/mondial/countries/THA_obrel11>,
+        <http://www.semwebtech.org/mondial/countries/THA_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/THA_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/THA_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/THA_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/THA_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/THA_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/THA_obrel8>,
+        <http://www.semwebtech.org/mondial/countries/THA_obrel9> .
+

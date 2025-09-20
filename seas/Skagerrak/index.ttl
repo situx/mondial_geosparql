@@ -1,0 +1,32 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/seas/Skagerrak> a ns1:Sea,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Skagerrak" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/seas/Skagerrak_geom> ;
+    geo:hasMetricArea 47000 ;
+    ns1:locatedIn <http://www.semwebtech.org/mondial/countries/DK>,
+        <http://www.semwebtech.org/mondial/countries/DK/provinces/Nordjylland>,
+        <http://www.semwebtech.org/mondial/countries/N>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Akershus>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Aust-Agder>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Buskerud>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Oslo>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Vest-Agder>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Vestfold>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Østfold>,
+        <http://www.semwebtech.org/mondial/countries/S>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland> ;
+    ns1:mergesWith <http://www.semwebtech.org/mondial/seas/Kattegat>,
+        <http://www.semwebtech.org/mondial/seas/North+Sea> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/seas/Skagerrak_obdep> .
+

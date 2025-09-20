@@ -1,0 +1,56 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/PNG> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Papua New Guinea" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PNG_geom> ;
+    geo:hasMetricArea 461690 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/PNG/provinces/South/cities/Port+Moresby> ;
+    ns1:carCode "PNG" ;
+    ns1:gdpAgri 27.6 ;
+    ns1:gdpInd 39.1 ;
+    ns1:gdpServ 33.3 ;
+    ns1:gdpTotal 16100 ;
+    ns1:government "constitutional parliamentary democracy and a Commonwealth realm" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/PNG/provinces/Bougainville/cities/Buka>,
+        <http://www.semwebtech.org/mondial/countries/PNG/provinces/North/cities/Lae>,
+        <http://www.semwebtech.org/mondial/countries/PNG/provinces/South/cities/Port+Moresby> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/PNG/provinces/Bougainville>,
+        <http://www.semwebtech.org/mondial/countries/PNG/provinces/North>,
+        <http://www.semwebtech.org/mondial/countries/PNG/provinces/South> ;
+    ns1:independenceDate "1975-09-16"^^xsd:date ;
+    ns1:infantMortality 39.67 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/RI> ;
+    ns1:populationGrowth 1.84 ;
+    ns1:unemployment 1.9 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/organizations/UN> ;
+    skos:prefLabel "Papua New Guinea" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PNG_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/PNG_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/PNG_obpop>,
+        <http://www.semwebtech.org/mondial/countries/PNG_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/PNG_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/PNG_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/PNG_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/PNG_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/PNG_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/PNG_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/PNG_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/PNG_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/PNG_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/PNG_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/PNG_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/PNG_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/PNG_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/PNG_obrel7> .
+

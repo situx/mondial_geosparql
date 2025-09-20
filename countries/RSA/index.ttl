@@ -1,0 +1,98 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/RSA> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "South Africa" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RSA_geom> ;
+    geo:hasMetricArea 1219912 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Tshwane> ;
+    ns1:carCode "RSA" ;
+    ns1:gdpAgri 2.6 ;
+    ns1:gdpInd 29 ;
+    ns1:gdpServ 68.4 ;
+    ns1:gdpTotal 353900 ;
+    ns1:government <http://www.wikidata.org/entry/Q7270> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/RSA/provinces/Eastern+Cape/cities/Bhisho>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Eastern+Cape/cities/Buffalo+City>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Eastern+Cape/cities/Nelson+Mandela+Bay>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Free+State/cities/Mangaung>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Ekurhuleni+-+Germiston>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Emfuleni>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Johannesburg>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Tembisa>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Tshwane>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/KwaZulu-Natal/cities/Msunduzi>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/KwaZulu-Natal/cities/eThekwini>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Limpopo/cities/Polokwane>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Mpumalanga/cities/Mbombela>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/North+West/cities/Mmabatho>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Northern+Cape/cities/Kimberley>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Western+Cape/cities/Cape+Town> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/RSA/provinces/Eastern+Cape>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Free+State>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/KwaZulu-Natal>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Limpopo>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Mpumalanga>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/North+West>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Northern+Cape>,
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Western+Cape> ;
+    ns1:independenceDate "1910-05-31"^^xsd:date ;
+    ns1:infantMortality 41.61 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/LS>,
+        <http://www.semwebtech.org/mondial/countries/MOC>,
+        <http://www.semwebtech.org/mondial/countries/NAM>,
+        <http://www.semwebtech.org/mondial/countries/RB>,
+        <http://www.semwebtech.org/mondial/countries/SD>,
+        <http://www.semwebtech.org/mondial/countries/ZW> ;
+    ns1:populationGrowth -0.48 ;
+    ns1:unemployment 24.9 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
+    skos:prefLabel "Republiek van Suid-Afrika" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RSA_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obeth10>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obeth9>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obpop>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obpophist10>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obpophist11>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obpophist12>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obpophist13>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obpophist9>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obrel10>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obrel11>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obrel8>,
+        <http://www.semwebtech.org/mondial/countries/RSA_obrel9> .
+

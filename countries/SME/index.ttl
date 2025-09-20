@@ -1,0 +1,58 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/SME> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Suriname" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SME_geom> ;
+    geo:hasMetricArea 163270 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/SME/cities/Paramaribo> ;
+    ns1:carCode "SME" ;
+    ns1:gdpAgri 8.9 ;
+    ns1:gdpInd 36.6 ;
+    ns1:gdpServ 54.5 ;
+    ns1:gdpTotal 5009 ;
+    ns1:government "constitutional democracy" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/SME/cities/Paramaribo> ;
+    ns1:independenceDate "1975-11-25"^^xsd:date ;
+    ns1:infantMortality 27.07 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/BR>,
+        <http://www.semwebtech.org/mondial/countries/GF>,
+        <http://www.semwebtech.org/mondial/countries/GUY> ;
+    ns1:populationGrowth 1.12 ;
+    ns1:unemployment 9 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/NL> ;
+    skos:prefLabel "Republiek Suriname (de)" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SME_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/SME_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/SME_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/SME_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/SME_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/SME_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/SME_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/SME_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/SME_obpop>,
+        <http://www.semwebtech.org/mondial/countries/SME_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/SME_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/SME_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/SME_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/SME_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/SME_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/SME_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/SME_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/SME_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/SME_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/SME_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/SME_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/SME_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/SME_obrel7> .
+

@@ -1,0 +1,52 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/AG> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Antigua and Barbuda" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/AG_geom> ;
+    geo:hasMetricArea 442 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/AG/cities/St.+John's> ;
+    ns1:carCode "AG" ;
+    ns1:gdpAgri 2.2 ;
+    ns1:gdpInd 16.4 ;
+    ns1:gdpServ 81.4 ;
+    ns1:gdpTotal 1220 ;
+    ns1:government "constitutional monarchy with a parliamentary system of government and a Commonwealth realm" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/AG/cities/St.+John's> ;
+    ns1:independenceDate "1981-11-01"^^xsd:date ;
+    ns1:infantMortality 13.29 ;
+    ns1:populationGrowth 1.25 ;
+    ns1:unemployment 11 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
+    skos:prefLabel "Antigua and Barbuda" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AG_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/AG_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/AG_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/AG_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/AG_obpop>,
+        <http://www.semwebtech.org/mondial/countries/AG_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/AG_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/AG_obpophist10>,
+        <http://www.semwebtech.org/mondial/countries/AG_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/AG_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/AG_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/AG_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/AG_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/AG_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/AG_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/AG_obpophist9>,
+        <http://www.semwebtech.org/mondial/countries/AG_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/AG_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/AG_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/AG_obrel4> .
+

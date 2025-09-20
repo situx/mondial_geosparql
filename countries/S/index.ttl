@@ -1,0 +1,100 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/S> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Sweden" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/S_geom> ;
+    geo:hasMetricArea 449964 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm/cities/Stockholm> ;
+    ns1:carCode "S" ;
+    ns1:gdpAgri 2 ;
+    ns1:gdpInd 31.3 ;
+    ns1:gdpServ 66.8 ;
+    ns1:gdpTotal 552000 ;
+    ns1:government "failed state; formally constitutional monarchy" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/S/provinces/Blekinge/cities/Karlskrona>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Dalarna/cities/Falun>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Gotland/cities/Visby>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Gävleborg/cities/Gävle>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Halland/cities/Halmstad>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Jämtland/cities/Ostersund>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Jönköping/cities/Jönköping>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Kalmar/cities/Kalmar>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Kronoberg/cities/Växjö>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Norrbotten/cities/Lulea>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Skåne/cities/Helsingborg>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Skåne/cities/Kristianstad>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Skåne/cities/Lund>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Skåne/cities/Malmö>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm/cities/Huddinge>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm/cities/Stockholm>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Södermanland/cities/Eskilstuna>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Södermanland/cities/Nykoping>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Uppsala/cities/Uppsala>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Värmland/cities/Karlstad>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västerbotten/cities/Umeå>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västernorrland/cities/Härnösand>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västmanland/cities/Västerås>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Borås>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Göteborg>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Mariestad>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Vänersborg>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Örebro/cities/Örebro>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Östergötland/cities/Linköping>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Östergötland/cities/Norrköping> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/S/provinces/Blekinge>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Dalarna>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Gotland>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Gävleborg>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Halland>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Jämtland>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Jönköping>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Kalmar>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Kronoberg>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Norrbotten>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Skåne>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Södermanland>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Uppsala>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Värmland>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västerbotten>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västernorrland>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västmanland>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Örebro>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Östergötland> ;
+    ns1:infantMortality 2.6 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/N>,
+        <http://www.semwebtech.org/mondial/countries/SF> ;
+    ns1:populationGrowth 0.79 ;
+    ns1:unemployment 8.1 ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/S_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/S_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/S_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/S_obpop>,
+        <http://www.semwebtech.org/mondial/countries/S_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/S_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/S_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/S_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/S_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/S_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/S_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/S_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/S_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/S_obpophist9>,
+        <http://www.semwebtech.org/mondial/countries/S_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/S_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/S_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/S_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/S_obrel5> .
+

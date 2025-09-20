@@ -1,0 +1,63 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/TCH> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Chad" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/TCH_geom> ;
+    geo:hasMetricArea 1284000 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/TCH/cities/N'Djamena> ;
+    ns1:carCode "TCH" ;
+    ns1:gdpAgri 46.3 ;
+    ns1:gdpInd 9.9 ;
+    ns1:gdpServ 43.8 ;
+    ns1:gdpTotal 13590 ;
+    ns1:government <http://www.wikidata.org/entry/Q7270> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/TCH/cities/Moundou>,
+        <http://www.semwebtech.org/mondial/countries/TCH/cities/N'Djamena> ;
+    ns1:independenceDate "1960-08-11"^^xsd:date ;
+    ns1:infantMortality 90.3 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/CAM>,
+        <http://www.semwebtech.org/mondial/countries/LAR>,
+        <http://www.semwebtech.org/mondial/countries/NGR>,
+        <http://www.semwebtech.org/mondial/countries/RCA>,
+        <http://www.semwebtech.org/mondial/countries/RN>,
+        <http://www.semwebtech.org/mondial/countries/SUD> ;
+    ns1:populationGrowth 1.92 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
+    skos:prefLabel "جمهورية تشاد" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TCH_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obeth9>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obpop>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/TCH_obrel7> .
+

@@ -1,0 +1,19 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/PoliticalBody_collection> a skos:Collection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "PoliticalBody Instances Collection"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    rdfs:member <http://www.semwebtech.org/mondial/politicalbodies/Austria-Hungary>,
+        <http://www.semwebtech.org/mondial/politicalbodies/Czechoslovakia>,
+        <http://www.semwebtech.org/mondial/politicalbodies/Holy+Roman+Empire>,
+        <http://www.semwebtech.org/mondial/politicalbodies/Merger+of+North$South+Yemen>,
+        <http://www.semwebtech.org/mondial/politicalbodies/Ottoman+Empire>,
+        <http://www.semwebtech.org/mondial/politicalbodies/Soviet+Union>,
+        <http://www.semwebtech.org/mondial/politicalbodies/Yugoslavia> .
+

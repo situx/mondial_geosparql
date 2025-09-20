@@ -1,0 +1,35 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de> a ns1:Province,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "México, Estado de" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasMetricArea 22356 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Toluca> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Buenavista>,
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Chimalhuacán>,
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Ciudad+López+Mateos>,
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Cuautitlán+Izcalli>,
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Ecatepec>,
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Naucalpan>,
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Nezahualcóyotl>,
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Tlalnepantla>,
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Toluca> ;
+    skos:altLabel "Estado de Mexico" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de_obpop>,
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de_obpophist5> .
+

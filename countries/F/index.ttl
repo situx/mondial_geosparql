@@ -1,0 +1,126 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/F> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "France" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/F_geom> ;
+    geo:hasMetricArea 547030 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France/cities/Paris> ;
+    ns1:carCode "F" ;
+    ns1:gdpAgri 1.9 ;
+    ns1:gdpInd 18.7 ;
+    ns1:gdpServ 79.4 ;
+    ns1:gdpTotal 2739000 ;
+    ns1:government <http://www.wikidata.org/entry/Q7270> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Clermont-Ferrand>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Grenoble>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Lyon>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Saint-Étienne>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Villeurbanne>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Besançon>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Dijon>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Brest>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Rennes>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire/cities/Orléans>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire/cities/Tours>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Corse/cities/Ajaccio>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Metz>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Mulhouse>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Nancy>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Reims>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Strasbourg>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Hauts-de-France/cities/Amiens>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Hauts-de-France/cities/Calais>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Hauts-de-France/cities/Lille>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Normandie/cities/Caen>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Normandie/cities/Le+Havre>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Normandie/cities/Rouen>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine/cities/Bordeaux>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine/cities/Limoges>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie/cities/Montpellier>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie/cities/Nîmes>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie/cities/Perpignan>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie/cities/Toulouse>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Angers>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Le+Mans>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Nantes>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur/cities/Aix-en-Provence>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur/cities/Marseille>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur/cities/Nice>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur/cities/Toulon>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France/cities/Argenteuil>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France/cities/Boulogne-Billancourt>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France/cities/Montreuil>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France/cities/Paris>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France/cities/Saint-Denis> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Corse>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Hauts-de-France>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Normandie>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur>,
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France> ;
+    ns1:infantMortality 3.31 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/AND>,
+        <http://www.semwebtech.org/mondial/countries/B>,
+        <http://www.semwebtech.org/mondial/countries/CH>,
+        <http://www.semwebtech.org/mondial/countries/D>,
+        <http://www.semwebtech.org/mondial/countries/E>,
+        <http://www.semwebtech.org/mondial/countries/I>,
+        <http://www.semwebtech.org/mondial/countries/L>,
+        <http://www.semwebtech.org/mondial/countries/MC> ;
+    ns1:populationGrowth 0.45 ;
+    ns1:unemployment 10.2 ;
+    skos:prefLabel "la République française " ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/F_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/F_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/F_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/F_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/F_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/F_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/F_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/F_obpop>,
+        <http://www.semwebtech.org/mondial/countries/F_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/F_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/F_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/F_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/F_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/F_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/F_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/F_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/F_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/F_obpophist9>,
+        <http://www.semwebtech.org/mondial/countries/F_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/F_obrel10>,
+        <http://www.semwebtech.org/mondial/countries/F_obrel11>,
+        <http://www.semwebtech.org/mondial/countries/F_obrel12>,
+        <http://www.semwebtech.org/mondial/countries/F_obrel13>,
+        <http://www.semwebtech.org/mondial/countries/F_obrel14>,
+        <http://www.semwebtech.org/mondial/countries/F_obrel15>,
+        <http://www.semwebtech.org/mondial/countries/F_obrel16>,
+        <http://www.semwebtech.org/mondial/countries/F_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/F_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/F_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/F_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/F_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/F_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/F_obrel8>,
+        <http://www.semwebtech.org/mondial/countries/F_obrel9> .
+

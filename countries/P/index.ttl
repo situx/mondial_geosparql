@@ -1,0 +1,104 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/P> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Portugal" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/P_geom> ;
+    geo:hasMetricArea 92080 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Lisboa> ;
+    ns1:carCode "P" ;
+    ns1:gdpAgri 2.6 ;
+    ns1:gdpInd 22.2 ;
+    ns1:gdpServ 75.2 ;
+    ns1:gdpTotal 219300 ;
+    ns1:government "republic; parliamentary democracy" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/P/provinces/Algarve/cities/Faro>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Aveiro/cities/Aveiro>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Azores/cities/Ponta+Delgada>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Beja/cities/Beja>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Braga/cities/Braga>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Braganca/cities/Braganca>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Castelo+Branco/cities/Castelo+Branco>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Coimbra/cities/Coimbra>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Evora/cities/Evora>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Guarda/cities/Guarda>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Leiria/cities/Leiria>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Almada>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Amadora>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Barreiro>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Lisboa>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Madeira/cities/Funchal>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Portalegre/cities/Portalegre>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Porto/cities/Oporto>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Porto/cities/Vila+Nova+de+Gaia>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Santarem/cities/Santarem>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Setubal/cities/Setúbal>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Viana+do+Castelo/cities/Viana+do+Castelo>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Vila+Real/cities/Vila+Real>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Viseu/cities/Viseu> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/P/provinces/Algarve>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Aveiro>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Azores>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Beja>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Braga>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Braganca>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Castelo+Branco>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Coimbra>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Evora>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Guarda>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Leiria>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Madeira>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Portalegre>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Porto>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Santarem>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Setubal>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Viana+do+Castelo>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Vila+Real>,
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Viseu> ;
+    ns1:independenceDate "1139-07-25"^^xsd:date ;
+    ns1:infantMortality 4.48 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/E> ;
+    ns1:populationGrowth 0.12 ;
+    ns1:unemployment 16.8 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
+    skos:prefLabel "República Portuguesa (a)" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/P_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/P_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/P_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/P_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/P_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/P_obpop>,
+        <http://www.semwebtech.org/mondial/countries/P_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/P_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/P_obpophist10>,
+        <http://www.semwebtech.org/mondial/countries/P_obpophist11>,
+        <http://www.semwebtech.org/mondial/countries/P_obpophist12>,
+        <http://www.semwebtech.org/mondial/countries/P_obpophist13>,
+        <http://www.semwebtech.org/mondial/countries/P_obpophist14>,
+        <http://www.semwebtech.org/mondial/countries/P_obpophist15>,
+        <http://www.semwebtech.org/mondial/countries/P_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/P_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/P_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/P_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/P_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/P_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/P_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/P_obpophist9>,
+        <http://www.semwebtech.org/mondial/countries/P_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/P_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/P_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/P_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/P_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/P_obrel6> .
+

@@ -1,0 +1,44 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/VIRG> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Virgin Islands" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasMetricArea 346 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/VIRG/cities/Charlotte+Amalie> ;
+    ns1:carCode "VIRG" ;
+    ns1:dependentOf <http://www.semwebtech.org/mondial/countries/USA> ;
+    ns1:gdpAgri 1 ;
+    ns1:gdpInd 19 ;
+    ns1:gdpServ 80 ;
+    ns1:gdpTotal 1200 ;
+    ns1:government "organized" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/VIRG/cities/Charlotte+Amalie> ;
+    ns1:infantMortality 6.79 ;
+    ns1:populationGrowth -0.56 ;
+    ns1:unemployment 6.2 ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/VIRG_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/VIRG_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/VIRG_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/VIRG_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/VIRG_obpop>,
+        <http://www.semwebtech.org/mondial/countries/VIRG_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/VIRG_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/VIRG_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/VIRG_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/VIRG_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/VIRG_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/VIRG_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/VIRG_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/VIRG_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/VIRG_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/VIRG_obrel3> .
+

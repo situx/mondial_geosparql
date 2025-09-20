@@ -1,0 +1,37 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya> a ns1:Province,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Catalunya" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasMetricArea 32163 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Barcelona> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Badalona>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Barcelona>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Girona>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Hospitalet+de+Llobregat>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Lleida>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Mataró>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Reus>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Sabadell>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Santa+Coloma+de+Gramenet>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Tarragona>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Terrassa> ;
+    skos:altLabel "Catalonia",
+        "Cataluña" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya_obpop>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya_obpophist4> .
+

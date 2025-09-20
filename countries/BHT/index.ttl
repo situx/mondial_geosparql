@@ -1,0 +1,51 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/BHT> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Bhutan" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BHT_geom> ;
+    geo:hasMetricArea 47000 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/BHT/cities/Thimphu> ;
+    ns1:carCode "BHT" ;
+    ns1:gdpAgri 13.8 ;
+    ns1:gdpInd 41.2 ;
+    ns1:gdpServ 45 ;
+    ns1:gdpTotal 2133 ;
+    ns1:government "constitutional monarchy" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/BHT/cities/Thimphu> ;
+    ns1:independenceDate "1949-08-08"^^xsd:date ;
+    ns1:infantMortality 37.89 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/CN>,
+        <http://www.semwebtech.org/mondial/countries/IND> ;
+    ns1:populationGrowth 1.13 ;
+    ns1:unemployment 2.1 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
+    skos:prefLabel "འབྲུག་གྷལ་ཁབ" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BHT_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/BHT_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/BHT_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/BHT_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/BHT_obpop>,
+        <http://www.semwebtech.org/mondial/countries/BHT_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/BHT_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/BHT_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/BHT_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/BHT_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/BHT_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/BHT_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/BHT_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/BHT_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/BHT_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/BHT_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/BHT_obrel4> .
+

@@ -1,0 +1,59 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/RT> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Togo" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RT_geom> ;
+    geo:hasMetricArea 56790 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/RT/cities/Lomé> ;
+    ns1:carCode "RT" ;
+    ns1:gdpAgri 27.6 ;
+    ns1:gdpInd 33.7 ;
+    ns1:gdpServ 38.7 ;
+    ns1:gdpTotal 4299 ;
+    ns1:government "republic under transition to multiparty democratic rule" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/RT/cities/Kara>,
+        <http://www.semwebtech.org/mondial/countries/RT/cities/Lomé>,
+        <http://www.semwebtech.org/mondial/countries/RT/cities/Sokodé> ;
+    ns1:independenceDate "1960-04-27"^^xsd:date ;
+    ns1:infantMortality 46.73 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/BEN>,
+        <http://www.semwebtech.org/mondial/countries/BF>,
+        <http://www.semwebtech.org/mondial/countries/GH> ;
+    ns1:populationGrowth 2.71 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RT_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/RT_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/RT_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/RT_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/RT_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/RT_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/RT_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/RT_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/RT_obeth9>,
+        <http://www.semwebtech.org/mondial/countries/RT_obpop>,
+        <http://www.semwebtech.org/mondial/countries/RT_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/RT_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/RT_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/RT_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/RT_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/RT_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/RT_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/RT_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/RT_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/RT_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/RT_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/RT_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/RT_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/RT_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/RT_obrel8> .
+

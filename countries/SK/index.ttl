@@ -1,0 +1,72 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/SK> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Slovakia" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SK_geom> ;
+    geo:hasMetricArea 48845 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/SK/provinces/Bratislavský/cities/Bratislava> ;
+    ns1:carCode "SK" ;
+    ns1:gdpAgri 3.1 ;
+    ns1:gdpInd 30.8 ;
+    ns1:gdpServ 67 ;
+    ns1:gdpTotal 96960 ;
+    ns1:government <http://www.wikidata.org/entity/Q3043547> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/SK/provinces/Banskobystrický/cities/Banská+Bystrica>,
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Bratislavský/cities/Bratislava>,
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Košický/cities/Košice>,
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Nitriansky/cities/Nitra>,
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Prešovský/cities/Prešov>,
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Trenčiansky/cities/Trenčín>,
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Trnavský/cities/Trnava>,
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Žilinský/cities/Žilina> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/SK/provinces/Banskobystrický>,
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Bratislavský>,
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Košický>,
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Nitriansky>,
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Prešovský>,
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Trenčiansky>,
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Trnavský>,
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Žilinský> ;
+    ns1:independenceDate "1993-01-01"^^xsd:date ;
+    ns1:infantMortality 5.35 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/A>,
+        <http://www.semwebtech.org/mondial/countries/CZ>,
+        <http://www.semwebtech.org/mondial/countries/H>,
+        <http://www.semwebtech.org/mondial/countries/PL>,
+        <http://www.semwebtech.org/mondial/countries/UA> ;
+    ns1:populationGrowth 0.03 ;
+    ns1:unemployment 14.4 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Czechoslovakia> ;
+    skos:prefLabel "Slovensko" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SK_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/SK_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/SK_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/SK_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/SK_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/SK_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/SK_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/SK_obpop>,
+        <http://www.semwebtech.org/mondial/countries/SK_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/SK_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/SK_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/SK_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/SK_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/SK_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/SK_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/SK_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/SK_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/SK_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/SK_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/SK_obrel4> .
+

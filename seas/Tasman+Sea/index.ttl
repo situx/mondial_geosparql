@@ -1,0 +1,36 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/seas/Tasman+Sea> a ns1:Sea,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Tasman Sea" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:contains <http://www.semwebtech.org/mondial/islands/Ball's+Pyramid>,
+        <http://www.semwebtech.org/mondial/islands/Grande+Terre>,
+        <http://www.semwebtech.org/mondial/islands/Lord+Howe+Island>,
+        <http://www.semwebtech.org/mondial/islands/Norfolk+Island>,
+        <http://www.semwebtech.org/mondial/islands/Tasmania>,
+        <http://www.semwebtech.org/mondial/islands/Te+Ika-a-Maui+(North+Island)>,
+        <http://www.semwebtech.org/mondial/islands/Te+Waka-a-Maui+(South+Island)> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/seas/Tasman+Sea_geom> ;
+    geo:hasMetricArea 2331000 ;
+    ns1:locatedIn <http://www.semwebtech.org/mondial/countries/AUS>,
+        <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales>,
+        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland>,
+        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania>,
+        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria>,
+        <http://www.semwebtech.org/mondial/countries/NCL>,
+        <http://www.semwebtech.org/mondial/countries/NF>,
+        <http://www.semwebtech.org/mondial/countries/NZ> ;
+    ns1:mergesWith <http://www.semwebtech.org/mondial/seas/Coral+Sea>,
+        <http://www.semwebtech.org/mondial/seas/Indian+Ocean>,
+        <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/seas/Tasman+Sea_obdep> .
+

@@ -1,0 +1,24 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/rivers/Karun> a ns1:River,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Karun" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasMetricArea 65230 ;
+    geo:hasMetricLength 950 ;
+    ns1:flowsInto <http://www.semwebtech.org/mondial/rivers/Schatt+al+Arab> ;
+    ns1:hasEstuary <http://www.semwebtech.org/mondial/estuarys/Karun> ;
+    ns1:hasSource <http://www.semwebtech.org/mondial/sources/Karun> ;
+    ns1:locatedIn <http://www.semwebtech.org/mondial/countries/IR>,
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Chaharmahal+and+Bakhtiyari>,
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Esfahan>,
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khuzestan>,
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kohgiluyeh+and+Boyer-Ahmad> .
+

@@ -1,0 +1,101 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/MAL> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Malaysia" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MAL_geom> ;
+    geo:hasMetricArea 329750 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kuala+Lumpur/cities/Kuala+Lumpur> ;
+    ns1:carCode "MAL" ;
+    ns1:gdpAgri 11.2 ;
+    ns1:gdpInd 40.6 ;
+    ns1:gdpServ 48.1 ;
+    ns1:gdpTotal 312400 ;
+    ns1:government "constitutional monarchy" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/MAL/provinces/Johor/cities/Johor+Bahru>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kedah/cities/Alor+Setar>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kelantan/cities/Kota+Bahru>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kuala+Lumpur/cities/Kuala+Lumpur>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Labuan/cities/Labuan>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Melaka/cities/Melaka>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Negeri+Sembilan/cities/Seremban>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Pahang/cities/Kuantan>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perak/cities/Ipoh>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perak/cities/Taiping>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perlis/cities/Kangar>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Pulau+Pinang/cities/Georgetown>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Putrajaya/cities/Putrajaya>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sabah/cities/Kota+Kinabalu>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sabah/cities/Sandakan>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sabah/cities/Tawau>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak/cities/Kuching+Utara>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak/cities/Sibu>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Selangor/cities/Klang>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Selangor/cities/Petaling+Jaya>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Selangor/cities/Shah+Alam>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Terengganu/cities/Kuala+Terengganu> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/MAL/provinces/Johor>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kedah>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kelantan>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kuala+Lumpur>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Labuan>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Melaka>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Negeri+Sembilan>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Pahang>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perak>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perlis>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Pulau+Pinang>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Putrajaya>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sabah>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Selangor>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Terengganu> ;
+    ns1:independenceDate "1957-08-31"^^xsd:date ;
+    ns1:infantMortality 13.69 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/BRU>,
+        <http://www.semwebtech.org/mondial/countries/RI>,
+        <http://www.semwebtech.org/mondial/countries/THA> ;
+    ns1:populationGrowth 1.47 ;
+    ns1:unemployment 3.1 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
+    skos:prefLabel "Malaysia" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAL_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obpop>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obrel10>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obrel11>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obrel12>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obrel13>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obrel14>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obrel8>,
+        <http://www.semwebtech.org/mondial/countries/MAL_obrel9> .
+

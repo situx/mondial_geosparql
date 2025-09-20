@@ -1,0 +1,73 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/seas/Baltic+Sea> a ns1:Sea,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Baltic Sea" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:contains <http://www.semwebtech.org/mondial/islands/Bornholm>,
+        <http://www.semwebtech.org/mondial/islands/Falster>,
+        <http://www.semwebtech.org/mondial/islands/Fehmarn>,
+        <http://www.semwebtech.org/mondial/islands/Fünen>,
+        <http://www.semwebtech.org/mondial/islands/Gotland>,
+        <http://www.semwebtech.org/mondial/islands/Hiumaa>,
+        <http://www.semwebtech.org/mondial/islands/Langeland>,
+        <http://www.semwebtech.org/mondial/islands/Lolland>,
+        <http://www.semwebtech.org/mondial/islands/Rügen>,
+        <http://www.semwebtech.org/mondial/islands/Seeland>,
+        <http://www.semwebtech.org/mondial/islands/Usedom>,
+        <http://www.semwebtech.org/mondial/islands/Åland>,
+        <http://www.semwebtech.org/mondial/islands/Öland>,
+        <http://www.semwebtech.org/mondial/islands/Ösel> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/seas/Baltic+Sea_geom> ;
+    geo:hasMetricArea 377000 ;
+    ns1:locatedIn <http://www.semwebtech.org/mondial/countries/D>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Mecklenburg-Vorpommern>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Schleswig-Holstein>,
+        <http://www.semwebtech.org/mondial/countries/DK>,
+        <http://www.semwebtech.org/mondial/countries/DK/provinces/Hovedstaden>,
+        <http://www.semwebtech.org/mondial/countries/DK/provinces/Sjælland>,
+        <http://www.semwebtech.org/mondial/countries/DK/provinces/Syddanmark>,
+        <http://www.semwebtech.org/mondial/countries/EST>,
+        <http://www.semwebtech.org/mondial/countries/LT>,
+        <http://www.semwebtech.org/mondial/countries/LV>,
+        <http://www.semwebtech.org/mondial/countries/PL>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Warmińsko-Mazurskie>,
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Zachodniopomorskie>,
+        <http://www.semwebtech.org/mondial/countries/R>,
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Kaliningradskaya>,
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Leningradskaya>,
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Sankt-Peterburg>,
+        <http://www.semwebtech.org/mondial/countries/S>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Blekinge>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Gotland>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Gävleborg>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Kalmar>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Norrbotten>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Skåne>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Södermanland>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Uppsala>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västerbotten>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västernorrland>,
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Östergötland>,
+        <http://www.semwebtech.org/mondial/countries/SF>,
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Kainuu>,
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Keski-Pohjanmaa>,
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Lappia>,
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjanmaa>,
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Satakunta>,
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa>,
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Varsinais-Suomi>,
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Åland> ;
+    ns1:mergesWith <http://www.semwebtech.org/mondial/seas/Kattegat> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/seas/Baltic+Sea_obdep> .
+

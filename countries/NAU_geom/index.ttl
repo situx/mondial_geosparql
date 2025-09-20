@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/countries/NAU_geom> a <http://www.opengis.net/ont/sf#Polygon>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "NAU Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:asWKT "POLYGON ((166.938813 -0.490411, 166.955577 -0.497979, 166.958263 -0.517673, 166.951345 -0.539158, 166.938813 -0.551853, 166.916352 -0.54754, 166.906993 -0.524835, 166.913422 -0.500177, 166.938813 -0.490411))"^^geo:wktLiteral .
+

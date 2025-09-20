@@ -1,0 +1,204 @@
+@prefix brick: <https://brickschema.org/schema/Brick#> .
+@prefix csvw: <http://www.w3.org/ns/csvw#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcam: <http://purl.org/dc/dcam/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://ldf.fi/void-ext#> .
+@prefix odrl: <http://www.w3.org/ns/odrl/2/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prof: <http://www.w3.org/ns/dx/prof/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix ssn: <http://www.w3.org/ns/ssn/> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wgs: <https://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/md_dataset> a void:Dataset,
+        <http://www.w3.org/ns/adms#Asset>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "md_dataset"@en ;
+    ns1:averageLiteralLength 0 ;
+    ns1:averageObjectIRILength 70 ;
+    ns1:averagePropertyIRILength 50 ;
+    ns1:averageSubjectIRILength 73 ;
+    ns1:datatypes 0 ;
+    ns1:distinctBlankNodes 664 ;
+    ns1:distinctIRIReferences 203857 ;
+    ns1:distinctLiterals 0 ;
+    ns1:distinctRDFNodes 204521 ;
+    ns1:languages 0 ;
+    ns1:propertyClasses 0 ;
+    dc:language <http://www.lexvo.org/page/iso639-1/en> ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    dcterms:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    dcterms:modified "2025-09-20T00:18:21"^^xsd:dateTime ;
+    dcterms:subject <http://dbpedia.org/resource/Location>,
+        <http://dbpedia.org/resource/OGC_GeoSPARQL>,
+        <http://dbpedia.org/resource/Time>,
+        <http://www.wikidata.org/entity/Q121810372>,
+        foaf:Person ;
+    dcterms:title "md_dataset"@en ;
+    vann:preferredNamespacePrefix "md"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.semwebtech.org/mondial/"^^xsd:anyURI ;
+    void:classPartition <http://www.semwebtech.org/mondial/md_dataset_Archipelago>,
+        <http://www.semwebtech.org/mondial/md_dataset_Border>,
+        <http://www.semwebtech.org/mondial/md_dataset_City>,
+        <http://www.semwebtech.org/mondial/md_dataset_Collection>,
+        <http://www.semwebtech.org/mondial/md_dataset_Continent>,
+        <http://www.semwebtech.org/mondial/md_dataset_Country>,
+        <http://www.semwebtech.org/mondial/md_dataset_Desert>,
+        <http://www.semwebtech.org/mondial/md_dataset_Encompassed>,
+        <http://www.semwebtech.org/mondial/md_dataset_Estuary>,
+        <http://www.semwebtech.org/mondial/md_dataset_EthnicGroup>,
+        <http://www.semwebtech.org/mondial/md_dataset_EthnicProportion>,
+        <http://www.semwebtech.org/mondial/md_dataset_Feature>,
+        <http://www.semwebtech.org/mondial/md_dataset_FeatureCollection>,
+        <http://www.semwebtech.org/mondial/md_dataset_GeometryCollection>,
+        <http://www.semwebtech.org/mondial/md_dataset_Government>,
+        <http://www.semwebtech.org/mondial/md_dataset_Island>,
+        <http://www.semwebtech.org/mondial/md_dataset_Lake>,
+        <http://www.semwebtech.org/mondial/md_dataset_Language>,
+        <http://www.semwebtech.org/mondial/md_dataset_Mountain>,
+        <http://www.semwebtech.org/mondial/md_dataset_MountainRange>,
+        <http://www.semwebtech.org/mondial/md_dataset_MultiPolygon>,
+        <http://www.semwebtech.org/mondial/md_dataset_Observation>,
+        <http://www.semwebtech.org/mondial/md_dataset_ObservationCollection>,
+        <http://www.semwebtech.org/mondial/md_dataset_ObservationResult>,
+        <http://www.semwebtech.org/mondial/md_dataset_Organization>,
+        <http://www.semwebtech.org/mondial/md_dataset_Point>,
+        <http://www.semwebtech.org/mondial/md_dataset_PoliticalBody>,
+        <http://www.semwebtech.org/mondial/md_dataset_Polygon>,
+        <http://www.semwebtech.org/mondial/md_dataset_Province>,
+        <http://www.semwebtech.org/mondial/md_dataset_Religion>,
+        <http://www.semwebtech.org/mondial/md_dataset_River>,
+        <http://www.semwebtech.org/mondial/md_dataset_Sea>,
+        <http://www.semwebtech.org/mondial/md_dataset_Source>,
+        <http://www.semwebtech.org/mondial/md_dataset_SpatialObject>,
+        <http://www.semwebtech.org/mondial/md_dataset_SpatialObjectCollection>,
+        <http://www.semwebtech.org/mondial/md_dataset_SpokenBy>,
+        <http://www.semwebtech.org/mondial/md_dataset_Volcano> ;
+    void:classes 37 ;
+    void:dataDump <https://situx.github.io/mondial_geosparql//index.ttl> ;
+    void:distinctObjects 144355 ;
+    void:distinctSubjects 59445 ;
+    void:entities 59427 ;
+    void:feature <http://www.w3.org/ns/formats/RDFa>,
+        <http://www.w3.org/ns/formats/Turtle> ;
+    void:properties 57 ;
+    void:propertyPartition <http://www.semwebtech.org/mondial/md_dataset_abbrev>,
+        <http://www.semwebtech.org/mondial/md_dataset_altLabel>,
+        <http://www.semwebtech.org/mondial/md_dataset_asWKT>,
+        <http://www.semwebtech.org/mondial/md_dataset_belongsToArchipelago>,
+        <http://www.semwebtech.org/mondial/md_dataset_capital>,
+        <http://www.semwebtech.org/mondial/md_dataset_carCode>,
+        <http://www.semwebtech.org/mondial/md_dataset_contains>,
+        <http://www.semwebtech.org/mondial/md_dataset_dependentOf>,
+        <http://www.semwebtech.org/mondial/md_dataset_encompassedArea>,
+        <http://www.semwebtech.org/mondial/md_dataset_encompassedBy>,
+        <http://www.semwebtech.org/mondial/md_dataset_established>,
+        <http://www.semwebtech.org/mondial/md_dataset_ethnicInfo->,
+        <http://www.semwebtech.org/mondial/md_dataset_flowsInto>,
+        <http://www.semwebtech.org/mondial/md_dataset_flowsThrough>,
+        <http://www.semwebtech.org/mondial/md_dataset_gdpAgri>,
+        <http://www.semwebtech.org/mondial/md_dataset_gdpInd>,
+        <http://www.semwebtech.org/mondial/md_dataset_gdpServ>,
+        <http://www.semwebtech.org/mondial/md_dataset_gdpTotal>,
+        <http://www.semwebtech.org/mondial/md_dataset_government>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasCity>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasEstuary>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasGeometry>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasHeadq>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasMetricArea>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasMetricLength>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasNumericalValue>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasObservation>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasProvince>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasResult>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasSimpleResult>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasSource>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasUnit>,
+        <http://www.semwebtech.org/mondial/md_dataset_inMountains>,
+        <http://www.semwebtech.org/mondial/md_dataset_independenceDate>,
+        <http://www.semwebtech.org/mondial/md_dataset_infantMortality>,
+        <http://www.semwebtech.org/mondial/md_dataset_isBorderOf>,
+        <http://www.semwebtech.org/mondial/md_dataset_label>,
+        <http://www.semwebtech.org/mondial/md_dataset_languageInfo->,
+        <http://www.semwebtech.org/mondial/md_dataset_lastEruption>,
+        <http://www.semwebtech.org/mondial/md_dataset_locatedAt>,
+        <http://www.semwebtech.org/mondial/md_dataset_locatedIn>,
+        <http://www.semwebtech.org/mondial/md_dataset_locatedOnIsland>,
+        <http://www.semwebtech.org/mondial/md_dataset_member>,
+        <http://www.semwebtech.org/mondial/md_dataset_mergesWith>,
+        <http://www.semwebtech.org/mondial/md_dataset_neighbor>,
+        <http://www.semwebtech.org/mondial/md_dataset_observedProperty>,
+        <http://www.semwebtech.org/mondial/md_dataset_onEthnicGroup>,
+        <http://www.semwebtech.org/mondial/md_dataset_onLanguage>,
+        <http://www.semwebtech.org/mondial/md_dataset_percent>,
+        <http://www.semwebtech.org/mondial/md_dataset_phenomenonTime>,
+        <http://www.semwebtech.org/mondial/md_dataset_populationGrowth>,
+        <http://www.semwebtech.org/mondial/md_dataset_prefLabel>,
+        <http://www.semwebtech.org/mondial/md_dataset_subClassOf>,
+        <http://www.semwebtech.org/mondial/md_dataset_type>,
+        <http://www.semwebtech.org/mondial/md_dataset_unemployment>,
+        <http://www.semwebtech.org/mondial/md_dataset_wasDependentOf> ;
+    void:triples 437791 ;
+    void:uriSpace "http://www.semwebtech.org/mondial/"^^xsd:string ;
+    void:vocabulary ns1:,
+        dcam:,
+        dcmitype:,
+        dc:,
+        dcterms:,
+        qb:,
+        vann:,
+        <http://purl.org/vocommons/voaf#>,
+        void:,
+        doap:,
+        geo:,
+        rdf:,
+        rdfs:,
+        xsd:,
+        owl:,
+        skos:,
+        time:,
+        xml:,
+        <http://www.w3.org/ns/adms#>,
+        csvw:,
+        dcat:,
+        prof:,
+        odrl:,
+        org:,
+        prov:,
+        sh:,
+        sosa:,
+        ssn:,
+        foaf:,
+        brick:,
+        schema:,
+        wgs: ;
+    dcat:distribution <http://www.semwebtech.org/mondial/md_dataset_dist_ttl> ;
+    dcat:keyword "Location"@en,
+        "OGC GeoSPARQL"@en,
+        "Person"@en,
+        "Q121810372"@en,
+        "Time"@en ;
+    dcat:landingPage <https://situx.github.io/mondial_geosparql/> ;
+    foaf:homepage <https://situx.github.io/mondial_geosparql/> ;
+    foaf:page <https://situx.github.io/mondial_geosparql//index.html> .
+

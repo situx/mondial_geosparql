@@ -1,0 +1,95 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/SN> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Senegal" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SN_geom> ;
+    geo:hasMetricArea 196190 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/SN/provinces/Dakar/cities/Dakar> ;
+    ns1:carCode "SN" ;
+    ns1:gdpAgri 14.9 ;
+    ns1:gdpInd 22.7 ;
+    ns1:gdpServ 62.4 ;
+    ns1:gdpTotal 15360 ;
+    ns1:government <http://www.wikidata.org/entry/Q7270> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/SN/provinces/Dakar/cities/Dakar>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Dakar/cities/Rufisque>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Diourbel/cities/Diourbel>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Fatick/cities/Fatick>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kaffrine/cities/Kaffrine>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kaolack/cities/Kaolack>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kolda/cities/Kolda>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kédougou/cities/Kedougou>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Louga/cities/Louga>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Matam/cities/Matam>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Saint-Louis/cities/Saint-Louis>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Sédhiou/cities/Sedhiou>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Tambacounda/cities/Tambacounda>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Thiès/cities/M'Bour>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Thiès/cities/Thiès>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Ziguinchor/cities/Ziguinchor> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/SN/provinces/Dakar>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Diourbel>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Fatick>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kaffrine>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kaolack>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kolda>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kédougou>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Louga>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Matam>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Saint-Louis>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Sédhiou>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Tambacounda>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Thiès>,
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Ziguinchor> ;
+    ns1:independenceDate "1960-08-20"^^xsd:date ;
+    ns1:infantMortality 52.72 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/GUB>,
+        <http://www.semwebtech.org/mondial/countries/RG>,
+        <http://www.semwebtech.org/mondial/countries/RIM>,
+        <http://www.semwebtech.org/mondial/countries/RMM>,
+        <http://www.semwebtech.org/mondial/countries/WAG> ;
+    ns1:populationGrowth 2.48 ;
+    ns1:unemployment 48 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SN_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/SN_obeth10>,
+        <http://www.semwebtech.org/mondial/countries/SN_obeth11>,
+        <http://www.semwebtech.org/mondial/countries/SN_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/SN_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/SN_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/SN_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/SN_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/SN_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/SN_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/SN_obeth9>,
+        <http://www.semwebtech.org/mondial/countries/SN_obpop>,
+        <http://www.semwebtech.org/mondial/countries/SN_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/SN_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/SN_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/SN_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/SN_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/SN_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/SN_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/SN_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/SN_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/SN_obrel10>,
+        <http://www.semwebtech.org/mondial/countries/SN_obrel11>,
+        <http://www.semwebtech.org/mondial/countries/SN_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/SN_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/SN_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/SN_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/SN_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/SN_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/SN_obrel8>,
+        <http://www.semwebtech.org/mondial/countries/SN_obrel9> .
+

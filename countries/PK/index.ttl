@@ -1,0 +1,107 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/PK> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Pakistan" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PK_geom> ;
+    geo:hasMetricArea 803940 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/PK/provinces/FCT+Islamabad/cities/Islamabad> ;
+    ns1:carCode "PK" ;
+    ns1:gdpAgri 25.3 ;
+    ns1:gdpInd 21.6 ;
+    ns1:gdpServ 53.1 ;
+    ns1:gdpTotal 236500 ;
+    ns1:government <http://www.wikidata.org/entity/Q512187> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/PK/provinces/Azad+Jammu+and+Kashmir/cities/Muzaffarabad>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Balochistan/cities/Quetta>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Balochistan/cities/Turbat>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/FCT+Islamabad/cities/Islamabad>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Gilgit-Baltistan/cities/Gilgit>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Khyber+Pakhtunkhwa/cities/Mardan>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Khyber+Pakhtunkhwa/cities/Mingaora>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Khyber+Pakhtunkhwa/cities/Peshawar>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Bahawalpur>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Burewala>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Chiniot>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Dera+Ghazi+Khan>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Faisalabad>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Gujranwala>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Gujrat>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Jhang>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Jhelum>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Kamoke>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Kasur>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Lahore>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Multan>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Okara>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Rahimyar+Khan>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Rawalpindi>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Sahiwal>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Sargodha>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Sheikhupura>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Sialkot>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Wah+Cantonment>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Hyderabad>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Karachi>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Larkana>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Mirpur+Khas>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Nawabshah>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Sukkur> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/PK/provinces/Azad+Jammu+and+Kashmir>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Balochistan>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/FATA>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/FCT+Islamabad>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Gilgit-Baltistan>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Khyber+Pakhtunkhwa>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh> ;
+    ns1:independenceDate "1947-08-14"^^xsd:date ;
+    ns1:infantMortality 57.48 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/AFG>,
+        <http://www.semwebtech.org/mondial/countries/CN>,
+        <http://www.semwebtech.org/mondial/countries/IND>,
+        <http://www.semwebtech.org/mondial/countries/IR> ;
+    ns1:populationGrowth 1.49 ;
+    ns1:unemployment 6.6 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
+    skos:prefLabel "the Islamic Republic of Pakistan" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/PK_obeth10>,
+        <http://www.semwebtech.org/mondial/countries/PK_obeth11>,
+        <http://www.semwebtech.org/mondial/countries/PK_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/PK_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/PK_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/PK_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/PK_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/PK_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/PK_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/PK_obeth9>,
+        <http://www.semwebtech.org/mondial/countries/PK_obpop>,
+        <http://www.semwebtech.org/mondial/countries/PK_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/PK_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/PK_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/PK_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/PK_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/PK_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/PK_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/PK_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/PK_obrel10>,
+        <http://www.semwebtech.org/mondial/countries/PK_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/PK_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/PK_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/PK_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/PK_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/PK_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/PK_obrel8>,
+        <http://www.semwebtech.org/mondial/countries/PK_obrel9> .
+

@@ -1,0 +1,125 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/CGO> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Congo, Dem.Rep." ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasMetricArea 2345410 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kinshasa/cities/Kinshasa> ;
+    ns1:carCode "CGO" ;
+    ns1:gdpAgri 44.3 ;
+    ns1:gdpInd 21.7 ;
+    ns1:gdpServ 34 ;
+    ns1:gdpTotal 18560 ;
+    ns1:government <http://www.wikidata.org/entry/Q7270> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/CGO/provinces/Bas-Uele/cities/Buta>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Katanga/cities/Likasi>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Katanga/cities/Lubumbashi>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Lomami/cities/Kamina>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Uele/cities/Isiro>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Ituri/cities/Bunia>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai-Central/cities/Kananga>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai-Oriental/cities/Mbuji-Mayi>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai/cities/Luebo>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai/cities/Tshikapa>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kinshasa/cities/Kinshasa>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kongo+Central/cities/Boma>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kongo+Central/cities/Matadi>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kwango/cities/Kenge>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kwilu/cities/Bandundu>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kwilu/cities/Kikwit>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Lomami/cities/Kabinda>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Lomami/cities/Mwene-Ditu>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Lualaba/cities/Kolwezi>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Mai-Ndombe/cities/Inongo>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Maniema/cities/Kindu>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Mongala/cities/Lisala>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Nord-Kivu/cities/Butembo>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Nord-Kivu/cities/Goma>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Nord-Ubangi/cities/Gbadolite>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sankuru/cities/Lodja>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu/cities/Bukavu>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu/cities/Uvira>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Ubangi/cities/Gemena>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tanganyika/cities/Kalemi>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tshopo/cities/Kisangani>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tshuapa/cities/Boende>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Équateur/cities/Mbandaka> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/CGO/provinces/Bas-Uele>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Katanga>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Lomami>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Uele>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Ituri>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai-Central>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai-Oriental>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kinshasa>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kongo+Central>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kwango>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kwilu>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Lomami>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Lualaba>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Mai-Ndombe>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Maniema>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Mongala>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Nord-Kivu>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Nord-Ubangi>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sankuru>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Ubangi>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tanganyika>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tshopo>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tshuapa>,
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Équateur> ;
+    ns1:independenceDate "1960-06-30"^^xsd:date ;
+    ns1:infantMortality 73.15 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/ANG>,
+        <http://www.semwebtech.org/mondial/countries/BI>,
+        <http://www.semwebtech.org/mondial/countries/EAT>,
+        <http://www.semwebtech.org/mondial/countries/EAU>,
+        <http://www.semwebtech.org/mondial/countries/RCA>,
+        <http://www.semwebtech.org/mondial/countries/RCB>,
+        <http://www.semwebtech.org/mondial/countries/RWA>,
+        <http://www.semwebtech.org/mondial/countries/SSD>,
+        <http://www.semwebtech.org/mondial/countries/Z> ;
+    ns1:populationGrowth 2.5 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/B> ;
+    skos:prefLabel "la République démocratique du Congo" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obeth9>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obpop>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obrel10>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obrel8>,
+        <http://www.semwebtech.org/mondial/countries/CGO_obrel9> .
+

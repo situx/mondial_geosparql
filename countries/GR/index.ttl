@@ -1,0 +1,100 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/GR> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Greece" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GR_geom> ;
+    geo:hasMetricArea 131940 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Athina> ;
+    ns1:carCode "GR" ;
+    ns1:gdpAgri 3.5 ;
+    ns1:gdpInd 16 ;
+    ns1:gdpServ 80.5 ;
+    ns1:gdpTotal 243300 ;
+    ns1:government "parliamentary republic" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/GR/provinces/Aghion+Oros/cities/Karyes>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Anatolikis+Makedonias+kai+Thrakis/cities/Kavala>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Anatolikis+Makedonias+kai+Thrakis/cities/Komotini>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Acharnes>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Athina>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Peiraias>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Peristeri>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Boreioy+Aigaioy/cities/Mytilini>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Dytikis+Elladas/cities/Patra>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Dytikis+Makedonias/cities/Kozani>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Ionion+Nison/cities/Kerkyra>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Ipeiroy/cities/Ioannina>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kentrikis+Makedonias/cities/Thessaloniki>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis/cities/Chania>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis/cities/Iraklio>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Notioy+Aigaioy/cities/Ermoupoli>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Notioy+Aigaioy/cities/Rhodes>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Peloponnisos/cities/Tripoli>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Stereas+Elladas/cities/Chalkida>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Stereas+Elladas/cities/Lamia>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias/cities/Larissa>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias/cities/Volos> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/GR/provinces/Aghion+Oros>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Anatolikis+Makedonias+kai+Thrakis>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Boreioy+Aigaioy>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Dytikis+Elladas>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Dytikis+Makedonias>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Ionion+Nison>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Ipeiroy>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kentrikis+Makedonias>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Notioy+Aigaioy>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Peloponnisos>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Stereas+Elladas>,
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias> ;
+    ns1:independenceDate "1829-01-01"^^xsd:date ;
+    ns1:infantMortality 4.78 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/AL>,
+        <http://www.semwebtech.org/mondial/countries/BG>,
+        <http://www.semwebtech.org/mondial/countries/MK>,
+        <http://www.semwebtech.org/mondial/countries/TR> ;
+    ns1:populationGrowth 0.01 ;
+    ns1:unemployment 27.9 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Ottoman+Empire> ;
+    skos:prefLabel "Ελληνική Δημοκρατία" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/GR_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/GR_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/GR_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/GR_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/GR_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/GR_obpop>,
+        <http://www.semwebtech.org/mondial/countries/GR_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/GR_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/GR_obpophist10>,
+        <http://www.semwebtech.org/mondial/countries/GR_obpophist11>,
+        <http://www.semwebtech.org/mondial/countries/GR_obpophist12>,
+        <http://www.semwebtech.org/mondial/countries/GR_obpophist13>,
+        <http://www.semwebtech.org/mondial/countries/GR_obpophist14>,
+        <http://www.semwebtech.org/mondial/countries/GR_obpophist15>,
+        <http://www.semwebtech.org/mondial/countries/GR_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/GR_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/GR_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/GR_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/GR_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/GR_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/GR_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/GR_obpophist9>,
+        <http://www.semwebtech.org/mondial/countries/GR_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/GR_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/GR_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/GR_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/GR_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/GR_obrel6> .
+

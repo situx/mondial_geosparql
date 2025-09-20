@@ -1,0 +1,56 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/SOL> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Solomon Islands" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SOL_geom> ;
+    geo:hasMetricArea 28450 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/SOL/cities/Honiara> ;
+    ns1:carCode "SOL" ;
+    ns1:gdpAgri 50 ;
+    ns1:gdpInd 10.6 ;
+    ns1:gdpServ 39.4 ;
+    ns1:gdpTotal 1099 ;
+    ns1:government "parliamentary democracy and a Commonwealth realm" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/SOL/cities/Honiara> ;
+    ns1:independenceDate "1978-07-07"^^xsd:date ;
+    ns1:infantMortality 16.17 ;
+    ns1:populationGrowth 2.07 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
+    skos:prefLabel "Solomon Islands" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SOL_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obpop>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obrel10>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obrel11>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obrel8>,
+        <http://www.semwebtech.org/mondial/countries/SOL_obrel9> .
+

@@ -1,0 +1,34 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires> a ns1:Province,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Buenos Aires" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasMetricArea 307571 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/La+Plata> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Avellaneda>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Bahía+Blanca>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/General+San+Martín>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/La+Matanza>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/La+Plata>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Lanús>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Lomas+de+Zamora>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Mar+del+Plata>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Morón>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Quilmes>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/San+Isidro> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires_obpop>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires_obpophist4> .
+

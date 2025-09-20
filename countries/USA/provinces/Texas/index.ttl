@@ -1,0 +1,48 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/USA/provinces/Texas> a ns1:Province,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Texas" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasMetricArea 676587 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Austin> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Abilene>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Amarillo>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Arlington>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Austin>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Beaumont>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Brownsville>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Corpus+Christi>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Dallas>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/El+Paso>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Fort+Worth>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Frisco>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Garland>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Grand+Prairie>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Houston>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Irving>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Laredo>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Lubbock>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/McAllen>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Mesquite>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Odessa>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Pasadena>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Plano>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/San+Antonio>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Waco>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Wichita+Falls> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas_obpop>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas_obpophist4> .
+

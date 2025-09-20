@@ -1,0 +1,89 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/N> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Norway" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/N_geom> ;
+    geo:hasMetricArea 324220 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/N/provinces/Oslo/cities/Oslo> ;
+    ns1:carCode "N" ;
+    ns1:gdpAgri 1.2 ;
+    ns1:gdpInd 42.3 ;
+    ns1:gdpServ 56.5 ;
+    ns1:gdpTotal 515800 ;
+    ns1:government "constitutional monarchy" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/N/provinces/Akershus/cities/Sandvika>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Aust-Agder/cities/Arendal>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Buskerud/cities/Drammen>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Finnmark/cities/Hammerfest>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Finnmark/cities/Vadsø>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Hedmark/cities/Hamar>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Hordaland/cities/Bergen>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Møre+og+Romsdal/cities/Molde>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Nord-Trøndelag/cities/Steinkjer>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Nordland/cities/Bodø>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Nordland/cities/Narvik>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Oppland/cities/Lillehammer>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Oslo/cities/Oslo>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Rogaland/cities/Stavanger>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Sogn+og+Fjordane/cities/Hermansverk>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Sør-Trøndelag/cities/Trondheim>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Telemark/cities/Skien>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Troms/cities/Tromsø>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Vest-Agder/cities/Kristiansand>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Vestfold/cities/Tonsberg>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Østfold/cities/Moss> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/N/provinces/Akershus>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Aust-Agder>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Buskerud>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Finnmark>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Hedmark>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Hordaland>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Møre+og+Romsdal>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Nord-Trøndelag>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Nordland>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Oppland>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Oslo>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Rogaland>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Sogn+og+Fjordane>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Sør-Trøndelag>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Telemark>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Troms>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Vest-Agder>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Vestfold>,
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Østfold> ;
+    ns1:independenceDate "1905-10-26"^^xsd:date ;
+    ns1:infantMortality 2.48 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/R>,
+        <http://www.semwebtech.org/mondial/countries/S>,
+        <http://www.semwebtech.org/mondial/countries/SF> ;
+    ns1:populationGrowth 1.19 ;
+    ns1:unemployment 3.6 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/S> ;
+    skos:prefLabel "Norge" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/N_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/N_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/N_obpop>,
+        <http://www.semwebtech.org/mondial/countries/N_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/N_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/N_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/N_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/N_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/N_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/N_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/N_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/N_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/N_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/N_obrel3> .
+

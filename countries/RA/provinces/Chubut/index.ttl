@@ -1,0 +1,25 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut> a ns1:Province,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Chubut" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasMetricArea 224686 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut/cities/Rawson> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut/cities/Comodoro+Rivadavia>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut/cities/Rawson> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut_obpop>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut_obpophist4> .
+

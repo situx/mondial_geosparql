@@ -1,0 +1,24 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/deserts/Thar> a ns1:Desert,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Thar" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/deserts/Thar_geom> ;
+    geo:hasMetricArea 240000 ;
+    ns1:locatedIn <http://www.semwebtech.org/mondial/countries/IND>,
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Gujarat>,
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Haryana>,
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Punjab>,
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Rajasthan>,
+        <http://www.semwebtech.org/mondial/countries/PK>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab>,
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh> .
+

@@ -1,0 +1,55 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/AND> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Andorra" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/AND_geom> ;
+    geo:hasMetricArea 450 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/AND/cities/Andorra+la+Vella> ;
+    ns1:carCode "AND" ;
+    ns1:gdpAgri 14 ;
+    ns1:gdpInd 79 ;
+    ns1:gdpServ 6 ;
+    ns1:gdpTotal 4800 ;
+    ns1:government "parliamentary democracy that retains as its chiefs of state a co-principality" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/AND/cities/Andorra+la+Vella> ;
+    ns1:independenceDate "1278-09-08"^^xsd:date ;
+    ns1:infantMortality 3.69 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/E>,
+        <http://www.semwebtech.org/mondial/countries/F> ;
+    ns1:populationGrowth 0.17 ;
+    ns1:unemployment 4 ;
+    skos:prefLabel "Principat d'Andorra" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AND_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/AND_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/AND_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/AND_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/AND_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/AND_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/AND_obpop>,
+        <http://www.semwebtech.org/mondial/countries/AND_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/AND_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/AND_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/AND_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/AND_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/AND_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/AND_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/AND_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/AND_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/AND_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/AND_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/AND_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/AND_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/AND_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/AND_obrel6> .
+

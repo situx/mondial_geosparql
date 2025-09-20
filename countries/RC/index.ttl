@@ -1,0 +1,65 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/RC> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Taiwan" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RC_geom> ;
+    geo:hasMetricArea 36179 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/RC/cities/Taipei> ;
+    ns1:carCode "RC" ;
+    ns1:gdpAgri 2 ;
+    ns1:gdpInd 29.4 ;
+    ns1:gdpServ 68.6 ;
+    ns1:gdpTotal 484700 ;
+    ns1:government "multiparty democracy" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/RC/cities/Changhua>,
+        <http://www.semwebtech.org/mondial/countries/RC/cities/Chiayi>,
+        <http://www.semwebtech.org/mondial/countries/RC/cities/Hsinchu>,
+        <http://www.semwebtech.org/mondial/countries/RC/cities/Hualien>,
+        <http://www.semwebtech.org/mondial/countries/RC/cities/Jhongli>,
+        <http://www.semwebtech.org/mondial/countries/RC/cities/Kaohsiung>,
+        <http://www.semwebtech.org/mondial/countries/RC/cities/Keelung>,
+        <http://www.semwebtech.org/mondial/countries/RC/cities/New+Taipei>,
+        <http://www.semwebtech.org/mondial/countries/RC/cities/Pingtung>,
+        <http://www.semwebtech.org/mondial/countries/RC/cities/Taichung>,
+        <http://www.semwebtech.org/mondial/countries/RC/cities/Tainan>,
+        <http://www.semwebtech.org/mondial/countries/RC/cities/Taipei>,
+        <http://www.semwebtech.org/mondial/countries/RC/cities/Taitung>,
+        <http://www.semwebtech.org/mondial/countries/RC/cities/Taoyuan> ;
+    ns1:independenceDate "1949-10-01"^^xsd:date ;
+    ns1:infantMortality 4.49 ;
+    ns1:populationGrowth 0.25 ;
+    ns1:unemployment 4.1 ;
+    skos:prefLabel "中華民國" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RC_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/RC_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/RC_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/RC_obpop>,
+        <http://www.semwebtech.org/mondial/countries/RC_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/RC_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/RC_obpophist10>,
+        <http://www.semwebtech.org/mondial/countries/RC_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/RC_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/RC_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/RC_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/RC_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/RC_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/RC_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/RC_obpophist9>,
+        <http://www.semwebtech.org/mondial/countries/RC_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/RC_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/RC_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/RC_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/RC_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/RC_obrel6> .
+

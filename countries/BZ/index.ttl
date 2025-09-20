@@ -1,0 +1,61 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/BZ> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Belize" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BZ_geom> ;
+    geo:hasMetricArea 22960 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/BZ/cities/Belmopan> ;
+    ns1:carCode "BZ" ;
+    ns1:gdpAgri 13 ;
+    ns1:gdpInd 23 ;
+    ns1:gdpServ 64 ;
+    ns1:gdpTotal 1637 ;
+    ns1:government "parliamentary democracy and a Commonwealth realm" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/BZ/cities/Belize+City>,
+        <http://www.semwebtech.org/mondial/countries/BZ/cities/Belmopan> ;
+    ns1:independenceDate "1981-09-21"^^xsd:date ;
+    ns1:infantMortality 20.31 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/GCA>,
+        <http://www.semwebtech.org/mondial/countries/MEX> ;
+    ns1:populationGrowth 1.92 ;
+    ns1:unemployment 15.5 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BZ_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obeth10>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obeth8>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obeth9>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obpop>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/BZ_obrel8> .
+

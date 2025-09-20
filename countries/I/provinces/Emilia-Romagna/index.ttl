@@ -1,0 +1,29 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna> a ns1:Province,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Emilia-Romagna" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasMetricArea 22445 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Bologna> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Bologna>,
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Ferrara>,
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Forlí>,
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Módena>,
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Parma>,
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Piacenza>,
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Ravenna>,
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Reggio+nell'Emilia>,
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Rímini> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna_obpop>,
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna_obpophist1> .
+

@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/countries/MC_geom> a <http://www.opengis.net/ont/sf#Polygon>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "MC Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:asWKT "POLYGON ((7.437454 43.743361, 7.432845 43.739853, 7.417957 43.730904, 7.404319 43.717969, 7.380723 43.719273, 7.36575 43.72273, 7.367263 43.734125, 7.372655 43.745832, 7.387538 43.757899, 7.406969 43.763506, 7.426246 43.755464, 7.437454 43.743361))"^^geo:wktLiteral .
+

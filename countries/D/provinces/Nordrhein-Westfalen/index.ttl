@@ -1,0 +1,53 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen> a ns1:Province,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Nordrhein-Westfalen" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasMetricArea 34097 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Düsseldorf> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Aachen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Bergisch+Gladbach>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Bielefeld>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Bochum>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Bonn>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Bottrop>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Dortmund>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Duisburg>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Düsseldorf>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Essen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Gelsenkirchen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Hagen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Hamm>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Herne>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Krefeld>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Köln>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Leverkusen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Moers>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Mönchengladbach>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Mülheim>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Münster>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Neuss>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Oberhausen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Paderborn>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Recklinghausen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Remscheid>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Siegen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Solingen>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Witten>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Wuppertal> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen_obpop>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen_obpophist4> .
+

@@ -1,0 +1,114 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/PE> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Peru" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PE_geom> ;
+    geo:hasMetricArea 1285220 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/PE/provinces/Lima+City/cities/Lima> ;
+    ns1:carCode "PE" ;
+    ns1:gdpAgri 6.2 ;
+    ns1:gdpInd 37.5 ;
+    ns1:gdpServ 56.3 ;
+    ns1:gdpTotal 210300 ;
+    ns1:government "constitutional republic" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/PE/provinces/Amazonas/cities/Chachapoyas>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Ancash/cities/Chimbote>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Ancash/cities/Huaraz>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Apurímac/cities/Abancay>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Arequipa/cities/Arequipa>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Ayacucho/cities/Ayacucho>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Cajamarca/cities/Cajamarca>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Callao/cities/Callao>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Cusco/cities/Cusco>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Huancavelica/cities/Huancavelica>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Huánuco/cities/Huánuco>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Ica/cities/Chincha+Alta>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Ica/cities/Ica>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Junín/cities/Huancayo>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/La+Libertad/cities/Trujillo>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Lambayeque/cities/Chiclayo>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Lima+City/cities/Lima>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Loreto/cities/Iquitos>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Madre+de+Dios/cities/Puerto+Maldonado>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Moquegua/cities/Moquegua>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Pasco/cities/Cerro+de+Pasco>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Piura/cities/Piura>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Piura/cities/Sullana>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Piura/cities/Talara>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Puno/cities/Juliaca>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Puno/cities/Puno>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/San+Martín/cities/Moyobamba>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/San+Martín/cities/Tarapoto>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Tacna/cities/Tacna>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Tumbes/cities/Tumbes>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Ucayali/cities/Pucallpa> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/PE/provinces/Amazonas>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Ancash>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Apurímac>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Arequipa>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Ayacucho>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Cajamarca>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Callao>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Cusco>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Huancavelica>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Huánuco>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Ica>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Junín>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/La+Libertad>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Lambayeque>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Lima>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Lima+City>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Loreto>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Madre+de+Dios>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Moquegua>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Pasco>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Piura>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Puno>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/San+Martín>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Tacna>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Tumbes>,
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Ucayali> ;
+    ns1:independenceDate "1821-07-28"^^xsd:date ;
+    ns1:infantMortality 20.21 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/BOL>,
+        <http://www.semwebtech.org/mondial/countries/BR>,
+        <http://www.semwebtech.org/mondial/countries/CO>,
+        <http://www.semwebtech.org/mondial/countries/EC>,
+        <http://www.semwebtech.org/mondial/countries/RCH> ;
+    ns1:populationGrowth 0.99 ;
+    ns1:unemployment 3.6 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
+    skos:prefLabel "Piruw Suyu" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PE_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/PE_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/PE_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/PE_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/PE_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/PE_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/PE_obeth7>,
+        <http://www.semwebtech.org/mondial/countries/PE_obpop>,
+        <http://www.semwebtech.org/mondial/countries/PE_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/PE_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/PE_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/PE_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/PE_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/PE_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/PE_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/PE_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/PE_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/PE_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/PE_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/PE_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/PE_obrel5> .
+

@@ -1,0 +1,77 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/C> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Cuba" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/C_geom> ;
+    geo:hasMetricArea 110860 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/C/provinces/La+Habana/cities/La+Habana> ;
+    ns1:carCode "C" ;
+    ns1:gdpAgri 3.8 ;
+    ns1:gdpInd 22.3 ;
+    ns1:gdpServ 73.9 ;
+    ns1:gdpTotal 72300 ;
+    ns1:government "Communist state" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/C/provinces/Artemisa/cities/Artemisa>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Camagüey/cities/Camagüey>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Ciego+de+Ávila/cities/Ciego+de+Ávila>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Cienfuegos/cities/Cienfuegos>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Granma/cities/Bayamo>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Granma/cities/Manzanillo>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Guantánamo/cities/Guantánamo>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Holguín/cities/Holguín>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Isla+de+la+Juventud/cities/Nueva+Gerona>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/La+Habana/cities/La+Habana>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Las+Tunas/cities/Victoria+de+las+Tunas>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Matanzas/cities/Matanzas>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Mayabeque/cities/San+José+de+las+Lajas>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Pinar+del+Río/cities/Pinar+del+Río>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Sancti+Spíritus/cities/Sancti+Spíritus>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Santiago+de+Cuba/cities/Santiago+de+Cuba>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Villa+Clara/cities/Santa+Clara> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/C/provinces/Artemisa>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Camagüey>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Ciego+de+Ávila>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Cienfuegos>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Granma>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Guantánamo>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Holguín>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Isla+de+la+Juventud>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/La+Habana>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Las+Tunas>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Matanzas>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Mayabeque>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Pinar+del+Río>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Sancti+Spíritus>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Santiago+de+Cuba>,
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Villa+Clara> ;
+    ns1:independenceDate "1902-05-20"^^xsd:date ;
+    ns1:infantMortality 4.7 ;
+    ns1:populationGrowth -0.14 ;
+    ns1:unemployment 4.3 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/C_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/C_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/C_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/C_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/C_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/C_obpop>,
+        <http://www.semwebtech.org/mondial/countries/C_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/C_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/C_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/C_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/C_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/C_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/C_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/C_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/C_obrel3> .
+

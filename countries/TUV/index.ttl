@@ -1,0 +1,48 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/TUV> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Tuvalu" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/TUV_geom> ;
+    geo:hasMetricArea 26 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/TUV/cities/Funafuti> ;
+    ns1:carCode "TUV" ;
+    ns1:gdpAgri 16.6 ;
+    ns1:gdpInd 27.2 ;
+    ns1:gdpServ 56.2 ;
+    ns1:gdpTotal 38 ;
+    ns1:government "parliamentary democracy and a Commonwealth realm" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/TUV/cities/Funafuti> ;
+    ns1:independenceDate "1978-10-01"^^xsd:date ;
+    ns1:infantMortality 31.69 ;
+    ns1:populationGrowth 0.8 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
+    skos:prefLabel "Tuvalu" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TUV_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/TUV_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/TUV_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/TUV_obpop>,
+        <http://www.semwebtech.org/mondial/countries/TUV_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/TUV_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/TUV_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/TUV_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/TUV_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/TUV_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/TUV_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/TUV_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/TUV_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/TUV_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/TUV_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/TUV_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/TUV_obrel4> .
+

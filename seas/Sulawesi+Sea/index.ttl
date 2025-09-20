@@ -1,0 +1,40 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/seas/Sulawesi+Sea> a ns1:Sea,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Sulawesi Sea" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:contains <http://www.semwebtech.org/mondial/islands/Borneo>,
+        <http://www.semwebtech.org/mondial/islands/Jolo>,
+        <http://www.semwebtech.org/mondial/islands/Mindanao>,
+        <http://www.semwebtech.org/mondial/islands/Sulawesi> ;
+    geo:hasMetricArea 280000 ;
+    ns1:locatedIn <http://www.semwebtech.org/mondial/countries/MAL>,
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sabah>,
+        <http://www.semwebtech.org/mondial/countries/RI>,
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Gorontalo>,
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur>,
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Utara>,
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tengah>,
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Utara>,
+        <http://www.semwebtech.org/mondial/countries/RP>,
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Davao>,
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Mimaropa>,
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Muslim+Mindanao>,
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Northern+Mindanao>,
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen>,
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Zamboanga+Peninsula> ;
+    ns1:mergesWith <http://www.semwebtech.org/mondial/seas/Banda+Sea>,
+        <http://www.semwebtech.org/mondial/seas/Java+Sea>,
+        <http://www.semwebtech.org/mondial/seas/Pacific+Ocean>,
+        <http://www.semwebtech.org/mondial/seas/Sulu+Sea> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/seas/Sulawesi+Sea_obdep> .
+

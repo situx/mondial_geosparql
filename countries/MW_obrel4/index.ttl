@@ -1,0 +1,16 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/countries/MW_obrel4> a <http://www.w3.org/ns/ldp#Resource>,
+        sosa:Observation,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Observation of Language Sena of MW"@en,
+        "Observation of Religion Jehovas+Witnesses of MW"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    sosa:hasResult <http://www.semwebtech.org/mondial/countries/MW_obrel4res> ;
+    sosa:observedProperty <http://www.semwebtech.org/mondial/languages/Sena>,
+        <http://www.semwebtech.org/mondial/religions/Jehovas+Witnesses> .
+

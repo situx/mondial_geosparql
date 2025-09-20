@@ -1,0 +1,48 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/SSD> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "South Sudan" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SSD_geom> ;
+    geo:hasMetricArea 644329 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/SSD/cities/Juba> ;
+    ns1:carCode "SSD" ;
+    ns1:gdpTotal 11770 ;
+    ns1:government <http://www.wikidata.org/entry/Q7270> ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/SSD/cities/Juba> ;
+    ns1:independenceDate "2011-07-09"^^xsd:date ;
+    ns1:infantMortality 68.16 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/CGO>,
+        <http://www.semwebtech.org/mondial/countries/EAK>,
+        <http://www.semwebtech.org/mondial/countries/EAU>,
+        <http://www.semwebtech.org/mondial/countries/ETH>,
+        <http://www.semwebtech.org/mondial/countries/RCA>,
+        <http://www.semwebtech.org/mondial/countries/SUD> ;
+    ns1:populationGrowth 4.12 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/SUD> ;
+    skos:prefLabel "the Republic of South Sudan" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SSD_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/SSD_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/SSD_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/SSD_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/SSD_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/SSD_obpop>,
+        <http://www.semwebtech.org/mondial/countries/SSD_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/SSD_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/SSD_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/SSD_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/SSD_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/SSD_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/SSD_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/SSD_obrel5> .
+

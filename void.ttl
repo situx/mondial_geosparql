@@ -1,0 +1,1070 @@
+@prefix adms: <http://www.w3.org/ns/adms#> .
+@prefix brick: <https://brickschema.org/schema/Brick#> .
+@prefix csvw: <http://www.w3.org/ns/csvw#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcam: <http://purl.org/dc/dcam/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix odrl: <http://www.w3.org/ns/odrl/2/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prof: <http://www.w3.org/ns/dx/prof/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix ssn: <http://www.w3.org/ns/ssn/> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix vext: <http://ldf.fi/void-ext#> .
+@prefix voaf: <http://purl.org/vocommons/voaf#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wgs: <https://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/adms_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/adms# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/brick_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary https://brickschema.org/schema/Brick# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/csvw_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/csvw# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/dc_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/elements/1.1/ in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/dcam_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/dcam/ in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/dcat_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/dcat# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/dcmitype_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/dcmitype/ in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/dcterms_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/dc/terms/ in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/doap_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://usefulinc.com/ns/doap# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/foaf_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://xmlns.com/foaf/0.1/ in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/geo_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.opengis.net/ont/geosparql# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    voaf:occurrences 40 .
+
+<http://www.semwebtech.org/mondial/md_dataset_www.ontology-of-units-of-measure.org_resource_om-2_> a void:Linkset ;
+    rdfs:label "Linkset: md_dataset - Ontology of Units of Measurement (om:)"@en ;
+    void:linkPredicate <http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit> ;
+    void:objectsTarget <http://www.ontology-of-units-of-measure.org/resource/om-2/> ;
+    void:subjectsTarget <http://www.semwebtech.org/mondial/md_dataset> ;
+    void:triples 8540 .
+
+<http://www.semwebtech.org/mondial/md_dataset_www.opengis.net_ont_geosparql_> a void:Linkset ;
+    rdfs:label "Linkset: md_dataset - The GeoSPARQL Ontology (gsp:)"@en ;
+    void:linkPredicate rdf:type,
+        rdfs:subClassOf ;
+    void:objectsTarget geo: ;
+    void:subjectsTarget <http://www.semwebtech.org/mondial/md_dataset> ;
+    void:triples 9,
+        11 .
+
+<http://www.semwebtech.org/mondial/md_dataset_www.opengis.net_ont_sf_> a void:Linkset ;
+    rdfs:label "Linkset: md_dataset - Simple Features Vocabulary (sf:)"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget <http://www.opengis.net/ont/sf#> ;
+    void:subjectsTarget <http://www.semwebtech.org/mondial/md_dataset> ;
+    void:triples 6273 .
+
+<http://www.semwebtech.org/mondial/md_dataset_www.w3.org_2002_07_owl_> a void:Linkset ;
+    rdfs:label "Linkset: md_dataset - Web Ontology Language 2 Vocabulary (owl:)"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget owl: ;
+    void:subjectsTarget <http://www.semwebtech.org/mondial/md_dataset> ;
+    void:triples 9 .
+
+<http://www.semwebtech.org/mondial/md_dataset_www.w3.org_2004_02_skos_core_> a void:Linkset ;
+    rdfs:label "Linkset: md_dataset - skos:"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget skos: ;
+    void:subjectsTarget <http://www.semwebtech.org/mondial/md_dataset> ;
+    void:triples 14 .
+
+<http://www.semwebtech.org/mondial/md_dataset_www.w3.org_ns_sosa_> a void:Linkset ;
+    rdfs:label "Linkset: md_dataset - Sensor, Observation, Sample, and Actuator (SOSA) Ontology (sosa:)"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget sosa: ;
+    void:subjectsTarget <http://www.semwebtech.org/mondial/md_dataset> ;
+    void:triples 42479 .
+
+<http://www.semwebtech.org/mondial/md_dataset_www.wikidata.org_entity_> a void:Linkset ;
+    rdfs:label "Linkset: md_dataset - Wikidata Entities (wde:)"@en ;
+    void:linkPredicate <http://www.semwebtech.org/mondial/10/meta#government>,
+        sosa:observedProperty ;
+    void:objectsTarget <http://www.wikidata.org/entity/> ;
+    void:subjectsTarget <http://www.semwebtech.org/mondial/md_dataset> ;
+    void:triples 47,
+        30918 .
+
+<http://www.semwebtech.org/mondial/md_dataset_www.wikidata.org_entry_> a void:Linkset ;
+    rdfs:label "Linkset: md_dataset - entry"@en ;
+    void:linkPredicate <http://www.semwebtech.org/mondial/10/meta#government> ;
+    void:objectsTarget <http://www.wikidata.org/entry/> ;
+    void:subjectsTarget <http://www.semwebtech.org/mondial/md_dataset> ;
+    void:triples 67 .
+
+<http://www.semwebtech.org/mondial/odrl_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/odrl/2/ in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/org_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/org# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/owl_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2002/07/owl# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    voaf:occurrences 18 .
+
+<http://www.semwebtech.org/mondial/prof_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/dx/prof/ in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/prov_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/prov# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/qb_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/linked-data/cube# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/rdf_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/1999/02/22-rdf-syntax-ns# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/rdfs_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2000/01/rdf-schema# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/schema_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary https://schema.org/ in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/sh_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/shacl# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/skos_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2004/02/skos/core# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    voaf:occurrences 28 .
+
+<http://www.semwebtech.org/mondial/sosa_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/sosa/ in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    voaf:occurrences 84958 .
+
+<http://www.semwebtech.org/mondial/ssn_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/ssn/ in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/time_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2006/time# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/vann_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/vocab/vann/ in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/vext_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://ldf.fi/void-ext# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/voaf_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://purl.org/vocommons/voaf# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/void_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://rdfs.org/ns/void# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/wgs_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary https://www.w3.org/2003/01/geo/wgs84_pos# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/xml_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/XML/1998/namespace in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://www.semwebtech.org/mondial/xsd_md_dataset_occ> a voaf:DatasetOccurrence ;
+    rdfs:label "Occurrences of vocabulary http://www.w3.org/2001/XMLSchema# in md_dataset" ;
+    voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<https://github.com/situx/mondial_geosparql> a adms:AssetRepository ;
+    rdfs:label "Repository for md_dataset"@en ;
+    dcat:accessURL "https://github.com/situx/mondial_geosparql"^^xsd:anyURI ;
+    dcat:dataset <http://www.semwebtech.org/mondial/md_dataset> .
+
+<http://dbpedia.org/resource/Location> rdfs:label "Location"@en .
+
+<http://dbpedia.org/resource/OGC_GeoSPARQL> rdfs:label "OGC GeoSPARQL"@en .
+
+<http://dbpedia.org/resource/Time> rdfs:label "Time Data"@en .
+
+vext: a voaf:Vocabulary ;
+    rdfs:label "vext Vocabulary"@en ;
+    vann:preferredNamespacePrefix "vext"^^xsd:string ;
+    vann:preferredNamespaceUri "http://ldf.fi/void-ext#"^^xsd:anyURI ;
+    voaf:usageInDataset vext:_md_dataset_occ .
+
+dcam: a voaf:Vocabulary ;
+    rdfs:label "dcam Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dcam"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/dc/dcam/"^^xsd:anyURI ;
+    voaf:usageInDataset dcam:_md_dataset_occ .
+
+dcmitype: a voaf:Vocabulary ;
+    rdfs:label "dcmitype Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dcmitype"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/dc/dcmitype/"^^xsd:anyURI ;
+    voaf:usageInDataset dcmitype:_md_dataset_occ .
+
+dc: a voaf:Vocabulary ;
+    rdfs:label "dc Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dc"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/dc/elements/1.1/"^^xsd:anyURI ;
+    voaf:usageInDataset dc:_md_dataset_occ .
+
+dcterms: a voaf:Vocabulary ;
+    rdfs:label "dcterms Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dcterms"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/dc/terms/"^^xsd:anyURI ;
+    voaf:usageInDataset dcterms:_md_dataset_occ .
+
+qb: a voaf:Vocabulary ;
+    rdfs:label "qb Vocabulary"@en ;
+    vann:preferredNamespacePrefix "qb"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/linked-data/cube#"^^xsd:anyURI ;
+    voaf:usageInDataset qb:_md_dataset_occ .
+
+vann: a voaf:Vocabulary ;
+    rdfs:label "vann Vocabulary"@en ;
+    vann:preferredNamespacePrefix "vann"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/vocab/vann/"^^xsd:anyURI ;
+    voaf:usageInDataset vann:_md_dataset_occ .
+
+voaf: a voaf:Vocabulary ;
+    rdfs:label "voaf Vocabulary"@en ;
+    vann:preferredNamespacePrefix "voaf"^^xsd:string ;
+    vann:preferredNamespaceUri "http://purl.org/vocommons/voaf#"^^xsd:anyURI ;
+    voaf:usageInDataset voaf:_md_dataset_occ .
+
+void: a voaf:Vocabulary ;
+    rdfs:label "Vocabulary of Interlinked Datasets (VoID)"@en ;
+    vann:preferredNamespacePrefix "void"^^xsd:string ;
+    vann:preferredNamespaceUri "http://rdfs.org/ns/void#"^^xsd:anyURI ;
+    voaf:usageInDataset void:_md_dataset_occ .
+
+doap: a voaf:Vocabulary ;
+    rdfs:label "doap Vocabulary"@en ;
+    vann:preferredNamespacePrefix "doap"^^xsd:string ;
+    vann:preferredNamespaceUri "http://usefulinc.com/ns/doap#"^^xsd:anyURI ;
+    voaf:usageInDataset doap:_md_dataset_occ .
+
+<http://www.semwebtech.org/mondial/md_dataset_Archipelago> a void:Dataset ;
+    rdfs:label "Class Partition: Archipelago"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#Archipelago> ;
+    void:entities 72 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Border> a void:Dataset ;
+    rdfs:label "Class Partition: Border"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#Border> ;
+    void:entities 326 .
+
+<http://www.semwebtech.org/mondial/md_dataset_City> a void:Dataset ;
+    rdfs:label "Class Partition: City"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#City> ;
+    void:entities 3427 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Collection> a void:Dataset ;
+    rdfs:label "Class Partition: Collection"@en ;
+    void:class skos:Collection ;
+    void:entities 14 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Continent> a void:Dataset ;
+    rdfs:label "Class Partition: Continent"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#Continent> ;
+    void:entities 6 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Country> a void:Dataset ;
+    rdfs:label "Class Partition: Country"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#Country> ;
+    void:entities 246 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Desert> a void:Dataset ;
+    rdfs:label "Class Partition: Desert"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#Desert> ;
+    void:entities 66 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Encompassed> a void:Dataset ;
+    rdfs:label "Class Partition: Encompassed"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#Encompassed> ;
+    void:entities 251 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Estuary> a void:Dataset ;
+    rdfs:label "Class Partition: Estuary"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#Estuary> ;
+    void:entities 665 .
+
+<http://www.semwebtech.org/mondial/md_dataset_EthnicGroup> a void:Dataset ;
+    rdfs:label "Class Partition: EthnicGroup"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#EthnicGroup> ;
+    void:entities 497 .
+
+<http://www.semwebtech.org/mondial/md_dataset_EthnicProportion> a void:Dataset ;
+    rdfs:label "Class Partition: EthnicProportion"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#EthnicProportion> ;
+    void:entities 2 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Feature> a void:Dataset ;
+    rdfs:label "Class Partition: Feature"@en ;
+    void:class geo:Feature .
+
+<http://www.semwebtech.org/mondial/md_dataset_FeatureCollection> a void:Dataset ;
+    rdfs:label "Class Partition: FeatureCollection"@en ;
+    void:class geo:FeatureCollection ;
+    void:entities 8 .
+
+<http://www.semwebtech.org/mondial/md_dataset_GeometryCollection> a void:Dataset ;
+    rdfs:label "Class Partition: GeometryCollection"@en ;
+    void:class geo:GeometryCollection ;
+    void:entities 3 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Government> a void:Dataset ;
+    rdfs:label "Class Partition: Government"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#Government> .
+
+<http://www.semwebtech.org/mondial/md_dataset_Island> a void:Dataset ;
+    rdfs:label "Class Partition: Island"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#Island> ;
+    void:entities 382 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Lake> a void:Dataset ;
+    rdfs:label "Class Partition: Lake"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#Lake> ;
+    void:entities 225 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Language> a void:Dataset ;
+    rdfs:label "Class Partition: Language"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#Language> ;
+    void:entities 527 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Mountain> a void:Dataset ;
+    rdfs:label "Class Partition: Mountain"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#Mountain> ;
+    void:entities 587 .
+
+<http://www.semwebtech.org/mondial/md_dataset_MountainRange> a void:Dataset ;
+    rdfs:label "Class Partition: MountainRange"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#MountainRange> ;
+    void:entities 196 .
+
+<http://www.semwebtech.org/mondial/md_dataset_MultiPolygon> a void:Dataset ;
+    rdfs:label "Class Partition: MultiPolygon"@en ;
+    void:class <http://www.opengis.net/ont/sf#MultiPolygon> ;
+    void:entities 133 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Observation> a void:Dataset ;
+    rdfs:label "Class Partition: Observation"@en ;
+    void:class sosa:Observation ;
+    void:entities 33938 .
+
+<http://www.semwebtech.org/mondial/md_dataset_ObservationCollection> a void:Dataset ;
+    rdfs:label "Class Partition: ObservationCollection"@en ;
+    void:class sosa:ObservationCollection ;
+    void:entities 1 .
+
+<http://www.semwebtech.org/mondial/md_dataset_ObservationResult> a void:Dataset ;
+    rdfs:label "Class Partition: ObservationResult"@en ;
+    void:class sosa:ObservationResult ;
+    void:entities 8540 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Organization> a void:Dataset ;
+    rdfs:label "Class Partition: Organization"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#Organization> ;
+    void:entities 169 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Point> a void:Dataset ;
+    rdfs:label "Class Partition: Point"@en ;
+    void:class <http://www.opengis.net/ont/sf#Point> ;
+    void:entities 6017 .
+
+<http://www.semwebtech.org/mondial/md_dataset_PoliticalBody> a void:Dataset ;
+    rdfs:label "Class Partition: PoliticalBody"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#PoliticalBody> ;
+    void:entities 7 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Polygon> a void:Dataset ;
+    rdfs:label "Class Partition: Polygon"@en ;
+    void:class <http://www.opengis.net/ont/sf#Polygon> ;
+    void:entities 123 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Province> a void:Dataset ;
+    rdfs:label "Class Partition: Province"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#Province> ;
+    void:entities 1483 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Religion> a void:Dataset ;
+    rdfs:label "Class Partition: Religion"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#Religion> ;
+    void:entities 34 .
+
+<http://www.semwebtech.org/mondial/md_dataset_River> a void:Dataset ;
+    rdfs:label "Class Partition: River"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#River> ;
+    void:entities 665 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Sea> a void:Dataset ;
+    rdfs:label "Class Partition: Sea"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#Sea> ;
+    void:entities 56 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Source> a void:Dataset ;
+    rdfs:label "Class Partition: Source"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#Source> ;
+    void:entities 665 .
+
+<http://www.semwebtech.org/mondial/md_dataset_SpatialObject> a void:Dataset ;
+    rdfs:label "Class Partition: SpatialObject"@en ;
+    void:class geo:SpatialObject .
+
+<http://www.semwebtech.org/mondial/md_dataset_SpatialObjectCollection> a void:Dataset ;
+    rdfs:label "Class Partition: SpatialObjectCollection"@en ;
+    void:class geo:SpatialObjectCollection .
+
+<http://www.semwebtech.org/mondial/md_dataset_SpokenBy> a void:Dataset ;
+    rdfs:label "Class Partition: SpokenBy"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#SpokenBy> ;
+    void:entities 85 .
+
+<http://www.semwebtech.org/mondial/md_dataset_Volcano> a void:Dataset ;
+    rdfs:label "Class Partition: Volcano"@en ;
+    void:class <http://www.semwebtech.org/mondial/10/meta#Volcano> ;
+    void:entities 201 .
+
+<http://www.semwebtech.org/mondial/md_dataset_abbrev> a void:Dataset ;
+    rdfs:label "Property Partition: abbrev"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#abbrev> ;
+    void:triples 169 .
+
+<http://www.semwebtech.org/mondial/md_dataset_altLabel> a void:Dataset ;
+    rdfs:label "Property Partition: altLabel"@en ;
+    void:property skos:altLabel ;
+    void:triples 811 .
+
+<http://www.semwebtech.org/mondial/md_dataset_asWKT> a void:Dataset ;
+    rdfs:label "Property Partition: asWKT"@en ;
+    void:property geo:asWKT ;
+    void:triples 6273 .
+
+<http://www.semwebtech.org/mondial/md_dataset_belongsToArchipelago> a void:Dataset ;
+    rdfs:label "Property Partition: belongsToArchipelago"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#belongsToArchipelago> ;
+    void:triples 262 .
+
+<http://www.semwebtech.org/mondial/md_dataset_capital> a void:Dataset ;
+    rdfs:label "Property Partition: capital"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#capital> ;
+    void:triples 1719 .
+
+<http://www.semwebtech.org/mondial/md_dataset_carCode> a void:Dataset ;
+    rdfs:label "Property Partition: carCode"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#carCode> ;
+    void:triples 246 .
+
+<http://www.semwebtech.org/mondial/md_dataset_contains> a void:Dataset ;
+    rdfs:label "Property Partition: contains"@en ;
+    void:property geo:contains ;
+    void:triples 765 .
+
+<http://www.semwebtech.org/mondial/md_dataset_dependentOf> a void:Dataset ;
+    rdfs:label "Property Partition: dependentOf"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#dependentOf> ;
+    void:triples 45 .
+
+<http://www.semwebtech.org/mondial/md_dataset_dist_ttl> a adms:AssetDistribution ;
+    rdfs:label "md_dataset TTL Distribution"@en ;
+    dcat:downloadURL "https://situx.github.io/mondial_geosparql//index.ttl"^^xsd:anyURI ;
+    dcat:mediaType <http://www.w3.org/ns/formats/Turtle> .
+
+<http://www.semwebtech.org/mondial/md_dataset_encompassedArea> a void:Dataset ;
+    rdfs:label "Property Partition: encompassedArea"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#encompassedArea> ;
+    void:triples 251 .
+
+<http://www.semwebtech.org/mondial/md_dataset_encompassedBy> a void:Dataset ;
+    rdfs:label "Property Partition: encompassedBy"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#encompassedBy> ;
+    void:triples 251 .
+
+<http://www.semwebtech.org/mondial/md_dataset_established> a void:Dataset ;
+    rdfs:label "Property Partition: established"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#established> ;
+    void:triples 153 .
+
+<http://www.semwebtech.org/mondial/md_dataset_ethnicInfo-> a void:Dataset ;
+    rdfs:label "Property Partition: ethnicInfo-"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#ethnicInfo-> ;
+    void:triples 2 .
+
+<http://www.semwebtech.org/mondial/md_dataset_flowsInto> a void:Dataset ;
+    rdfs:label "Property Partition: flowsInto"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#flowsInto> ;
+    void:triples 814 .
+
+<http://www.semwebtech.org/mondial/md_dataset_flowsThrough> a void:Dataset ;
+    rdfs:label "Property Partition: flowsThrough"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#flowsThrough> ;
+    void:triples 74 .
+
+<http://www.semwebtech.org/mondial/md_dataset_gdpAgri> a void:Dataset ;
+    rdfs:label "Property Partition: gdpAgri"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#gdpAgri> ;
+    void:triples 224 .
+
+<http://www.semwebtech.org/mondial/md_dataset_gdpInd> a void:Dataset ;
+    rdfs:label "Property Partition: gdpInd"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#gdpInd> ;
+    void:triples 223 .
+
+<http://www.semwebtech.org/mondial/md_dataset_gdpServ> a void:Dataset ;
+    rdfs:label "Property Partition: gdpServ"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#gdpServ> ;
+    void:triples 223 .
+
+<http://www.semwebtech.org/mondial/md_dataset_gdpTotal> a void:Dataset ;
+    rdfs:label "Property Partition: gdpTotal"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#gdpTotal> ;
+    void:triples 234 .
+
+<http://www.semwebtech.org/mondial/md_dataset_government> a void:Dataset ;
+    rdfs:label "Property Partition: government"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#government> ;
+    void:triples 243 .
+
+<http://www.semwebtech.org/mondial/md_dataset_hasCity> a void:Dataset ;
+    rdfs:label "Property Partition: hasCity"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#hasCity> ;
+    void:triples 6426 .
+
+<http://www.semwebtech.org/mondial/md_dataset_hasEstuary> a void:Dataset ;
+    rdfs:label "Property Partition: hasEstuary"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#hasEstuary> ;
+    void:triples 665 .
+
+<http://www.semwebtech.org/mondial/md_dataset_hasGeometry> a void:Dataset ;
+    rdfs:label "Property Partition: hasGeometry"@en ;
+    void:property geo:hasGeometry ;
+    void:triples 6273 .
+
+<http://www.semwebtech.org/mondial/md_dataset_hasHeadq> a void:Dataset ;
+    rdfs:label "Property Partition: hasHeadq"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#hasHeadq> ;
+    void:triples 121 .
+
+<http://www.semwebtech.org/mondial/md_dataset_hasMetricArea> a void:Dataset ;
+    rdfs:label "Property Partition: hasMetricArea"@en ;
+    void:property geo:hasMetricArea ;
+    void:triples 3097 .
+
+<http://www.semwebtech.org/mondial/md_dataset_hasMetricLength> a void:Dataset ;
+    rdfs:label "Property Partition: hasMetricLength"@en ;
+    void:property geo:hasMetricLength ;
+    void:triples 990 .
+
+<http://www.semwebtech.org/mondial/md_dataset_hasNumericalValue> a void:Dataset ;
+    rdfs:label "Property Partition: hasNumericalValue"@en ;
+    void:property <http://www.ontology-of-units-of-measure.org/resource/om-2/hasNumericalValue> ;
+    void:triples 9258 .
+
+<http://www.semwebtech.org/mondial/md_dataset_hasObservation> a void:Dataset ;
+    rdfs:label "Property Partition: hasObservation"@en ;
+    void:property sosa:hasObservation ;
+    void:triples 33712 .
+
+<http://www.semwebtech.org/mondial/md_dataset_hasProvince> a void:Dataset ;
+    rdfs:label "Property Partition: hasProvince"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#hasProvince> ;
+    void:triples 1483 .
+
+<http://www.semwebtech.org/mondial/md_dataset_hasResult> a void:Dataset ;
+    rdfs:label "Property Partition: hasResult"@en ;
+    void:property sosa:hasResult ;
+    void:triples 8540 .
+
+<http://www.semwebtech.org/mondial/md_dataset_hasSimpleResult> a void:Dataset ;
+    rdfs:label "Property Partition: hasSimpleResult"@en ;
+    void:property sosa:hasSimpleResult ;
+    void:triples 25398 .
+
+<http://www.semwebtech.org/mondial/md_dataset_hasSource> a void:Dataset ;
+    rdfs:label "Property Partition: hasSource"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#hasSource> ;
+    void:triples 665 .
+
+<http://www.semwebtech.org/mondial/md_dataset_hasUnit> a void:Dataset ;
+    rdfs:label "Property Partition: hasUnit"@en ;
+    void:property <http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit> ;
+    void:triples 8540 .
+
+<http://www.semwebtech.org/mondial/md_dataset_inMountains> a void:Dataset ;
+    rdfs:label "Property Partition: inMountains"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#inMountains> ;
+    void:triples 751 .
+
+<http://www.semwebtech.org/mondial/md_dataset_independenceDate> a void:Dataset ;
+    rdfs:label "Property Partition: independenceDate"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#independenceDate> ;
+    void:triples 191 .
+
+<http://www.semwebtech.org/mondial/md_dataset_infantMortality> a void:Dataset ;
+    rdfs:label "Property Partition: infantMortality"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#infantMortality> ;
+    void:triples 228 .
+
+<http://www.semwebtech.org/mondial/md_dataset_isBorderOf> a void:Dataset ;
+    rdfs:label "Property Partition: isBorderOf"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#isBorderOf> ;
+    void:triples 652 .
+
+<http://www.semwebtech.org/mondial/md_dataset_label> a void:Dataset ;
+    rdfs:label "Property Partition: label"@en ;
+    void:property rdfs:label ;
+    void:triples 58904 .
+
+<http://www.semwebtech.org/mondial/md_dataset_languageInfo-> a void:Dataset ;
+    rdfs:label "Property Partition: languageInfo-"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#languageInfo-> ;
+    void:triples 85 .
+
+<http://www.semwebtech.org/mondial/md_dataset_lastEruption> a void:Dataset ;
+    rdfs:label "Property Partition: lastEruption"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#lastEruption> ;
+    void:triples 22 .
+
+<http://www.semwebtech.org/mondial/md_dataset_locatedAt> a void:Dataset ;
+    rdfs:label "Property Partition: locatedAt"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#locatedAt> ;
+    void:triples 1870 .
+
+<http://www.semwebtech.org/mondial/md_dataset_locatedIn> a void:Dataset ;
+    rdfs:label "Property Partition: locatedIn"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#locatedIn> ;
+    void:triples 9408 .
+
+<http://www.semwebtech.org/mondial/md_dataset_locatedOnIsland> a void:Dataset ;
+    rdfs:label "Property Partition: locatedOnIsland"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#locatedOnIsland> ;
+    void:triples 784 .
+
+<http://www.semwebtech.org/mondial/md_dataset_member> a void:Dataset ;
+    rdfs:label "Property Partition: member"@en ;
+    void:property rdfs:member ;
+    void:triples 69027 .
+
+<http://www.semwebtech.org/mondial/md_dataset_mergesWith> a void:Dataset ;
+    rdfs:label "Property Partition: mergesWith"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#mergesWith> ;
+    void:triples 183 .
+
+<http://www.semwebtech.org/mondial/md_dataset_neighbor> a void:Dataset ;
+    rdfs:label "Property Partition: neighbor"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#neighbor> ;
+    void:triples 652 .
+
+<http://www.semwebtech.org/mondial/md_dataset_observedProperty> a void:Dataset ;
+    rdfs:label "Property Partition: observedProperty"@en ;
+    void:property sosa:observedProperty ;
+    void:triples 34675 .
+
+<http://www.semwebtech.org/mondial/md_dataset_onEthnicGroup> a void:Dataset ;
+    rdfs:label "Property Partition: onEthnicGroup"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#onEthnicGroup> ;
+    void:triples 2 .
+
+<http://www.semwebtech.org/mondial/md_dataset_onLanguage> a void:Dataset ;
+    rdfs:label "Property Partition: onLanguage"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#onLanguage> ;
+    void:triples 85 .
+
+<http://www.semwebtech.org/mondial/md_dataset_percent> a void:Dataset ;
+    rdfs:label "Property Partition: percent"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#percent> ;
+    void:triples 251 .
+
+<http://www.semwebtech.org/mondial/md_dataset_phenomenonTime> a void:Dataset ;
+    rdfs:label "Property Partition: phenomenonTime"@en ;
+    void:property sosa:phenomenonTime ;
+    void:triples 20524 .
+
+<http://www.semwebtech.org/mondial/md_dataset_populationGrowth> a void:Dataset ;
+    rdfs:label "Property Partition: populationGrowth"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#populationGrowth> ;
+    void:triples 234 .
+
+<http://www.semwebtech.org/mondial/md_dataset_prefLabel> a void:Dataset ;
+    rdfs:label "Property Partition: prefLabel"@en ;
+    void:property skos:prefLabel ;
+    void:triples 1189 .
+
+<http://www.semwebtech.org/mondial/md_dataset_subClassOf> a void:Dataset ;
+    rdfs:label "Property Partition: subClassOf"@en ;
+    void:property rdfs:subClassOf ;
+    void:triples 14 .
+
+<http://www.semwebtech.org/mondial/md_dataset_type> a void:Dataset ;
+    rdfs:label "Property Partition: type"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#type>,
+        rdf:type ;
+    void:triples 472,
+        59637 .
+
+<http://www.semwebtech.org/mondial/md_dataset_unemployment> a void:Dataset ;
+    rdfs:label "Property Partition: unemployment"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#unemployment> ;
+    void:triples 198 .
+
+<http://www.semwebtech.org/mondial/md_dataset_wasDependentOf> a void:Dataset ;
+    rdfs:label "Property Partition: wasDependentOf"@en ;
+    void:property <http://www.semwebtech.org/mondial/10/meta#wasDependentOf> ;
+    void:triples 177 .
+
+rdf: a voaf:Vocabulary ;
+    rdfs:label "The RDF Concepts Vocabulary (RDF)"@en ;
+    vann:preferredNamespacePrefix "rdf"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/1999/02/22-rdf-syntax-ns#"^^xsd:anyURI ;
+    voaf:usageInDataset rdf:_md_dataset_occ .
+
+rdfs: a voaf:Vocabulary ;
+    rdfs:label "The RDF Schema vocabulary (RDFS)"@en ;
+    vann:preferredNamespacePrefix "rdfs"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2000/01/rdf-schema#"^^xsd:anyURI ;
+    voaf:usageInDataset rdfs:_md_dataset_occ .
+
+xsd: a voaf:Vocabulary ;
+    rdfs:label "XML Schema"@en ;
+    vann:preferredNamespacePrefix "xsd"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2001/XMLSchema#"^^xsd:anyURI ;
+    voaf:usageInDataset xsd:_md_dataset_occ .
+
+time: a voaf:Vocabulary ;
+    rdfs:label "time Vocabulary"@en ;
+    vann:preferredNamespacePrefix "time"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2006/time#"^^xsd:anyURI ;
+    voaf:usageInDataset time:_md_dataset_occ .
+
+xml: a voaf:Vocabulary ;
+    rdfs:label "xml Vocabulary"@en ;
+    vann:preferredNamespacePrefix "xml"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/XML/1998/namespace"^^xsd:anyURI ;
+    voaf:usageInDataset xml:_md_dataset_occ .
+
+adms: a voaf:Vocabulary ;
+    rdfs:label "adms Vocabulary"@en ;
+    vann:preferredNamespacePrefix "adms"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/adms#"^^xsd:anyURI ;
+    voaf:usageInDataset adms:_md_dataset_occ .
+
+csvw: a voaf:Vocabulary ;
+    rdfs:label "csvw Vocabulary"@en ;
+    vann:preferredNamespacePrefix "csvw"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/csvw#"^^xsd:anyURI ;
+    voaf:usageInDataset csvw:_md_dataset_occ .
+
+dcat: a voaf:Vocabulary ;
+    rdfs:label "DCAT Vocabulary"@en ;
+    vann:preferredNamespacePrefix "dcat"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/dcat#"^^xsd:anyURI ;
+    voaf:usageInDataset dcat:_md_dataset_occ .
+
+prof: a voaf:Vocabulary ;
+    rdfs:label "prof Vocabulary"@en ;
+    vann:preferredNamespacePrefix "prof"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/dx/prof/"^^xsd:anyURI ;
+    voaf:usageInDataset prof:_md_dataset_occ .
+
+odrl: a voaf:Vocabulary ;
+    rdfs:label "odrl Vocabulary"@en ;
+    vann:preferredNamespacePrefix "odrl"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/odrl/2/"^^xsd:anyURI ;
+    voaf:usageInDataset odrl:_md_dataset_occ .
+
+org: a voaf:Vocabulary ;
+    rdfs:label "org Vocabulary"@en ;
+    vann:preferredNamespacePrefix "org"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/org#"^^xsd:anyURI ;
+    voaf:usageInDataset org:_md_dataset_occ .
+
+prov: a voaf:Vocabulary ;
+    rdfs:label "W3C Provenance Ontology"@en ;
+    vann:preferredNamespacePrefix "prov"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/prov#"^^xsd:anyURI ;
+    voaf:usageInDataset prov:_md_dataset_occ .
+
+sh: a voaf:Vocabulary ;
+    rdfs:label "Shapes Constraint Language (SHACL)"@en ;
+    vann:preferredNamespacePrefix "sh"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/shacl#"^^xsd:anyURI ;
+    voaf:usageInDataset sh:_md_dataset_occ .
+
+ssn: a voaf:Vocabulary ;
+    rdfs:label "ssn Vocabulary"@en ;
+    vann:preferredNamespacePrefix "ssn"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/ssn/"^^xsd:anyURI ;
+    voaf:usageInDataset ssn:_md_dataset_occ .
+
+<http://www.wikidata.org/entity/Q121810372> rdfs:label "geospatial data"@en .
+
+foaf: a voaf:Vocabulary ;
+    rdfs:label "Friend Of A Friend Ontology"@en ;
+    vann:preferredNamespacePrefix "foaf"^^xsd:string ;
+    vann:preferredNamespaceUri "http://xmlns.com/foaf/0.1/"^^xsd:anyURI ;
+    voaf:usageInDataset foaf:_md_dataset_occ .
+
+foaf:Person rdfs:label "Person"@en .
+
+brick: a voaf:Vocabulary ;
+    rdfs:label "brick Vocabulary"@en ;
+    vann:preferredNamespacePrefix "brick"^^xsd:string ;
+    vann:preferredNamespaceUri "https://brickschema.org/schema/Brick#"^^xsd:anyURI ;
+    voaf:usageInDataset brick:_md_dataset_occ .
+
+schema: a voaf:Vocabulary ;
+    rdfs:label "schema Vocabulary"@en ;
+    vann:preferredNamespacePrefix "schema"^^xsd:string ;
+    vann:preferredNamespaceUri "https://schema.org/"^^xsd:anyURI ;
+    voaf:usageInDataset schema:_md_dataset_occ .
+
+wgs: a voaf:Vocabulary ;
+    rdfs:label "wgs Vocabulary"@en ;
+    vann:preferredNamespacePrefix "wgs"^^xsd:string ;
+    vann:preferredNamespaceUri "https://www.w3.org/2003/01/geo/wgs84_pos#"^^xsd:anyURI ;
+    voaf:usageInDataset wgs:_md_dataset_occ .
+
+geo: a voaf:Vocabulary ;
+    rdfs:label "The GeoSPARQL Ontology"@en ;
+    vann:preferredNamespacePrefix "geo"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.opengis.net/ont/geosparql#"^^xsd:anyURI ;
+    voaf:usageInDataset geo:_md_dataset_occ .
+
+owl: a voaf:Vocabulary ;
+    rdfs:label "Web Ontology Language 2 Vocabulary"@en ;
+    vann:preferredNamespacePrefix "owl"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2002/07/owl#"^^xsd:anyURI ;
+    voaf:usageInDataset owl:_md_dataset_occ .
+
+skos: a voaf:Vocabulary ;
+    rdfs:label "skos Vocabulary"@en ;
+    vann:preferredNamespacePrefix "skos"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/2004/02/skos/core#"^^xsd:anyURI ;
+    voaf:usageInDataset skos:_md_dataset_occ .
+
+sosa: a voaf:Vocabulary ;
+    rdfs:label "Sensor, Observation, Sample, and Actuator (SOSA) Ontology"@en ;
+    vann:preferredNamespacePrefix "sosa"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.w3.org/ns/sosa/"^^xsd:anyURI ;
+    voaf:usageInDataset sosa:_md_dataset_occ .
+
+<http://www.semwebtech.org/mondial/md_dataset> a void:Dataset,
+        adms:Asset ;
+    rdfs:label "md_dataset"@en ;
+    vext:averageLiteralLength 0 ;
+    vext:averageObjectIRILength 70 ;
+    vext:averagePropertyIRILength 50 ;
+    vext:averageSubjectIRILength 73 ;
+    vext:datatypes 0 ;
+    vext:distinctBlankNodes 664 ;
+    vext:distinctIRIReferences 203857 ;
+    vext:distinctLiterals 0 ;
+    vext:distinctRDFNodes 204521 ;
+    vext:languages 0 ;
+    vext:propertyClasses 0 ;
+    dc:language <http://www.lexvo.org/page/iso639-1/en> ;
+    dcterms:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    dcterms:modified "2025-09-20T00:18:21"^^xsd:dateTime ;
+    dcterms:subject <http://dbpedia.org/resource/Location>,
+        <http://dbpedia.org/resource/OGC_GeoSPARQL>,
+        <http://dbpedia.org/resource/Time>,
+        <http://www.wikidata.org/entity/Q121810372>,
+        foaf:Person ;
+    dcterms:title "md_dataset"@en ;
+    vann:preferredNamespacePrefix "md"^^xsd:string ;
+    vann:preferredNamespaceUri "http://www.semwebtech.org/mondial/"^^xsd:anyURI ;
+    void:classPartition <http://www.semwebtech.org/mondial/md_dataset_Archipelago>,
+        <http://www.semwebtech.org/mondial/md_dataset_Border>,
+        <http://www.semwebtech.org/mondial/md_dataset_City>,
+        <http://www.semwebtech.org/mondial/md_dataset_Collection>,
+        <http://www.semwebtech.org/mondial/md_dataset_Continent>,
+        <http://www.semwebtech.org/mondial/md_dataset_Country>,
+        <http://www.semwebtech.org/mondial/md_dataset_Desert>,
+        <http://www.semwebtech.org/mondial/md_dataset_Encompassed>,
+        <http://www.semwebtech.org/mondial/md_dataset_Estuary>,
+        <http://www.semwebtech.org/mondial/md_dataset_EthnicGroup>,
+        <http://www.semwebtech.org/mondial/md_dataset_EthnicProportion>,
+        <http://www.semwebtech.org/mondial/md_dataset_Feature>,
+        <http://www.semwebtech.org/mondial/md_dataset_FeatureCollection>,
+        <http://www.semwebtech.org/mondial/md_dataset_GeometryCollection>,
+        <http://www.semwebtech.org/mondial/md_dataset_Government>,
+        <http://www.semwebtech.org/mondial/md_dataset_Island>,
+        <http://www.semwebtech.org/mondial/md_dataset_Lake>,
+        <http://www.semwebtech.org/mondial/md_dataset_Language>,
+        <http://www.semwebtech.org/mondial/md_dataset_Mountain>,
+        <http://www.semwebtech.org/mondial/md_dataset_MountainRange>,
+        <http://www.semwebtech.org/mondial/md_dataset_MultiPolygon>,
+        <http://www.semwebtech.org/mondial/md_dataset_Observation>,
+        <http://www.semwebtech.org/mondial/md_dataset_ObservationCollection>,
+        <http://www.semwebtech.org/mondial/md_dataset_ObservationResult>,
+        <http://www.semwebtech.org/mondial/md_dataset_Organization>,
+        <http://www.semwebtech.org/mondial/md_dataset_Point>,
+        <http://www.semwebtech.org/mondial/md_dataset_PoliticalBody>,
+        <http://www.semwebtech.org/mondial/md_dataset_Polygon>,
+        <http://www.semwebtech.org/mondial/md_dataset_Province>,
+        <http://www.semwebtech.org/mondial/md_dataset_Religion>,
+        <http://www.semwebtech.org/mondial/md_dataset_River>,
+        <http://www.semwebtech.org/mondial/md_dataset_Sea>,
+        <http://www.semwebtech.org/mondial/md_dataset_Source>,
+        <http://www.semwebtech.org/mondial/md_dataset_SpatialObject>,
+        <http://www.semwebtech.org/mondial/md_dataset_SpatialObjectCollection>,
+        <http://www.semwebtech.org/mondial/md_dataset_SpokenBy>,
+        <http://www.semwebtech.org/mondial/md_dataset_Volcano> ;
+    void:classes 37 ;
+    void:dataDump <https://situx.github.io/mondial_geosparql//index.ttl> ;
+    void:distinctObjects 144355 ;
+    void:distinctSubjects 59445 ;
+    void:entities 59427 ;
+    void:feature <http://www.w3.org/ns/formats/RDFa>,
+        <http://www.w3.org/ns/formats/Turtle> ;
+    void:properties 57 ;
+    void:propertyPartition <http://www.semwebtech.org/mondial/md_dataset_abbrev>,
+        <http://www.semwebtech.org/mondial/md_dataset_altLabel>,
+        <http://www.semwebtech.org/mondial/md_dataset_asWKT>,
+        <http://www.semwebtech.org/mondial/md_dataset_belongsToArchipelago>,
+        <http://www.semwebtech.org/mondial/md_dataset_capital>,
+        <http://www.semwebtech.org/mondial/md_dataset_carCode>,
+        <http://www.semwebtech.org/mondial/md_dataset_contains>,
+        <http://www.semwebtech.org/mondial/md_dataset_dependentOf>,
+        <http://www.semwebtech.org/mondial/md_dataset_encompassedArea>,
+        <http://www.semwebtech.org/mondial/md_dataset_encompassedBy>,
+        <http://www.semwebtech.org/mondial/md_dataset_established>,
+        <http://www.semwebtech.org/mondial/md_dataset_ethnicInfo->,
+        <http://www.semwebtech.org/mondial/md_dataset_flowsInto>,
+        <http://www.semwebtech.org/mondial/md_dataset_flowsThrough>,
+        <http://www.semwebtech.org/mondial/md_dataset_gdpAgri>,
+        <http://www.semwebtech.org/mondial/md_dataset_gdpInd>,
+        <http://www.semwebtech.org/mondial/md_dataset_gdpServ>,
+        <http://www.semwebtech.org/mondial/md_dataset_gdpTotal>,
+        <http://www.semwebtech.org/mondial/md_dataset_government>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasCity>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasEstuary>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasGeometry>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasHeadq>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasMetricArea>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasMetricLength>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasNumericalValue>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasObservation>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasProvince>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasResult>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasSimpleResult>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasSource>,
+        <http://www.semwebtech.org/mondial/md_dataset_hasUnit>,
+        <http://www.semwebtech.org/mondial/md_dataset_inMountains>,
+        <http://www.semwebtech.org/mondial/md_dataset_independenceDate>,
+        <http://www.semwebtech.org/mondial/md_dataset_infantMortality>,
+        <http://www.semwebtech.org/mondial/md_dataset_isBorderOf>,
+        <http://www.semwebtech.org/mondial/md_dataset_label>,
+        <http://www.semwebtech.org/mondial/md_dataset_languageInfo->,
+        <http://www.semwebtech.org/mondial/md_dataset_lastEruption>,
+        <http://www.semwebtech.org/mondial/md_dataset_locatedAt>,
+        <http://www.semwebtech.org/mondial/md_dataset_locatedIn>,
+        <http://www.semwebtech.org/mondial/md_dataset_locatedOnIsland>,
+        <http://www.semwebtech.org/mondial/md_dataset_member>,
+        <http://www.semwebtech.org/mondial/md_dataset_mergesWith>,
+        <http://www.semwebtech.org/mondial/md_dataset_neighbor>,
+        <http://www.semwebtech.org/mondial/md_dataset_observedProperty>,
+        <http://www.semwebtech.org/mondial/md_dataset_onEthnicGroup>,
+        <http://www.semwebtech.org/mondial/md_dataset_onLanguage>,
+        <http://www.semwebtech.org/mondial/md_dataset_percent>,
+        <http://www.semwebtech.org/mondial/md_dataset_phenomenonTime>,
+        <http://www.semwebtech.org/mondial/md_dataset_populationGrowth>,
+        <http://www.semwebtech.org/mondial/md_dataset_prefLabel>,
+        <http://www.semwebtech.org/mondial/md_dataset_subClassOf>,
+        <http://www.semwebtech.org/mondial/md_dataset_type>,
+        <http://www.semwebtech.org/mondial/md_dataset_unemployment>,
+        <http://www.semwebtech.org/mondial/md_dataset_wasDependentOf> ;
+    void:triples 437791 ;
+    void:uriSpace "http://www.semwebtech.org/mondial/"^^xsd:string ;
+    void:vocabulary vext:,
+        dcam:,
+        dcmitype:,
+        dc:,
+        dcterms:,
+        qb:,
+        vann:,
+        voaf:,
+        void:,
+        doap:,
+        geo:,
+        rdf:,
+        rdfs:,
+        xsd:,
+        owl:,
+        skos:,
+        time:,
+        xml:,
+        adms:,
+        csvw:,
+        dcat:,
+        prof:,
+        odrl:,
+        org:,
+        prov:,
+        sh:,
+        sosa:,
+        ssn:,
+        foaf:,
+        brick:,
+        schema:,
+        wgs: ;
+    dcat:distribution <http://www.semwebtech.org/mondial/md_dataset_dist_ttl> ;
+    dcat:keyword "Location"@en,
+        "OGC GeoSPARQL"@en,
+        "Person"@en,
+        "Q121810372"@en,
+        "Time"@en ;
+    dcat:landingPage <https://situx.github.io/mondial_geosparql/> ;
+    foaf:homepage <https://situx.github.io/mondial_geosparql/> ;
+    foaf:page <https://situx.github.io/mondial_geosparql//index.html> .
+

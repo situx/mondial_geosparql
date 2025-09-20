@@ -1,0 +1,146 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/E> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Spain" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/E_geom> ;
+    geo:hasMetricArea 504750 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Madrid> ;
+    ns1:carCode "E" ;
+    ns1:gdpAgri 3.1 ;
+    ns1:gdpInd 26 ;
+    ns1:gdpServ 70.8 ;
+    ns1:gdpTotal 1356000 ;
+    ns1:government "parliamentary monarchy" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Algeciras>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Almería>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Cádiz>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Córdoba>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Dos+Hermanas>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Granada>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Huelva>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Jaén>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Jerez+de+la+Frontera>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Marbella>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Málaga>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Sevilla>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Aragón/cities/Zaragoza>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Asturias/cities/Gijón>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Asturias/cities/Oviedo>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/Las+Palmas+de+Gran+Canaria>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/San+Cristóbal+de+La+Laguna>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/Santa+Cruz+de+Tenerife>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/Telde>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Cantabria/cities/Santander>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León/cities/Burgos>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León/cities/León>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León/cities/Salamanca>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León/cities/Valladolid>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla-La+Mancha/cities/Albacete>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla-La+Mancha/cities/Toledo>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Badalona>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Barcelona>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Girona>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Hospitalet+de+Llobregat>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Lleida>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Mataró>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Reus>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Sabadell>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Santa+Coloma+de+Gramenet>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Tarragona>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Terrassa>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Barakaldo>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Bilbao>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Donostia>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Vitoria-Gasteiz>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Extremadura/cities/Badajoz>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Extremadura/cities/Merida>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/A+Coruña>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/Ourense>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/Santiago+de+Compostela>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/Vigo>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Illes+Balears/cities/Palma+de+Mallorca>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/La+Rioja/cities/Logroño>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Alcalá+de+Henares>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Alcobendas>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Alcorcón>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Fuenlabrada>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Getafe>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Leganés>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Madrid>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Móstoles>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Parla>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Torrejón+de+Ardoz>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Murcia/cities/Cartagena>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Murcia/cities/Murcia>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Navarra/cities/Pamplona>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Alicante>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Castellón+de+la+Plana>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Elche>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Valencia> ;
+    ns1:hasProvince <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Aragón>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Asturias>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Cantabria>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla-La+Mancha>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Extremadura>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Illes+Balears>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/La+Rioja>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Murcia>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Navarra>,
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana> ;
+    ns1:independenceDate "1479-01-20"^^xsd:date ;
+    ns1:infantMortality 2.7 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/AND>,
+        <http://www.semwebtech.org/mondial/countries/F>,
+        <http://www.semwebtech.org/mondial/countries/GBZ>,
+        <http://www.semwebtech.org/mondial/countries/P> ;
+    ns1:populationGrowth 0.78 ;
+    ns1:unemployment 26.3 ;
+    skos:prefLabel "el Reino de España" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/E_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/E_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/E_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/E_obeth5>,
+        <http://www.semwebtech.org/mondial/countries/E_obeth6>,
+        <http://www.semwebtech.org/mondial/countries/E_obpop>,
+        <http://www.semwebtech.org/mondial/countries/E_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/E_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/E_obpophist10>,
+        <http://www.semwebtech.org/mondial/countries/E_obpophist11>,
+        <http://www.semwebtech.org/mondial/countries/E_obpophist12>,
+        <http://www.semwebtech.org/mondial/countries/E_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/E_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/E_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/E_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/E_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/E_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/E_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/E_obpophist9>,
+        <http://www.semwebtech.org/mondial/countries/E_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/E_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/E_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/E_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/E_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/E_obrel6>,
+        <http://www.semwebtech.org/mondial/countries/E_obrel7>,
+        <http://www.semwebtech.org/mondial/countries/E_obrel8>,
+        <http://www.semwebtech.org/mondial/countries/E_obrel9> .
+

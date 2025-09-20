@@ -1,0 +1,53 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/PF> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "French Polynesia" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PF_geom> ;
+    geo:hasMetricArea 4167 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/PF/cities/Papeete> ;
+    ns1:carCode "PF" ;
+    ns1:dependentOf <http://www.semwebtech.org/mondial/countries/F> ;
+    ns1:gdpAgri 3.1 ;
+    ns1:gdpInd 20 ;
+    ns1:gdpServ 76.9 ;
+    ns1:gdpTotal 5650 ;
+    ns1:government "parliamentary representative democratic French overseas collectivity" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/PF/cities/Papeete>,
+        <http://www.semwebtech.org/mondial/countries/PF/cities/Rikitea> ;
+    ns1:infantMortality 4.78 ;
+    ns1:populationGrowth 0.97 ;
+    ns1:unemployment 11.7 ;
+    skos:prefLabel "Pōrīnetia Farāni" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PF_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/PF_obeth2>,
+        <http://www.semwebtech.org/mondial/countries/PF_obeth3>,
+        <http://www.semwebtech.org/mondial/countries/PF_obeth4>,
+        <http://www.semwebtech.org/mondial/countries/PF_obpop>,
+        <http://www.semwebtech.org/mondial/countries/PF_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/PF_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/PF_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/PF_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/PF_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/PF_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/PF_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/PF_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/PF_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/PF_obpophist9>,
+        <http://www.semwebtech.org/mondial/countries/PF_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/PF_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/PF_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/PF_obrel4>,
+        <http://www.semwebtech.org/mondial/countries/PF_obrel5>,
+        <http://www.semwebtech.org/mondial/countries/PF_obrel6> .
+

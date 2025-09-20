@@ -1,0 +1,32 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/seas/Seto+Inland+Sea> a ns1:Sea,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Seto Inland Sea" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:contains <http://www.semwebtech.org/mondial/islands/Awajishima> ;
+    geo:hasMetricArea 23200 ;
+    ns1:locatedIn <http://www.semwebtech.org/mondial/countries/J>,
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Ehime>,
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukuoka>,
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Hiroshima>,
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Hyogo>,
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Kagawa>,
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Oita>,
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Okayama>,
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Osaka>,
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokushima>,
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Wakayama>,
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamaguchi> ;
+    ns1:mergesWith <http://www.semwebtech.org/mondial/seas/Pacific+Ocean>,
+        <http://www.semwebtech.org/mondial/seas/Sea+of+Japan> ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/seas/Seto+Inland+Sea_obdep> .
+

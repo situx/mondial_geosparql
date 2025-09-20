@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/countries/BDS_geom> a <http://www.opengis.net/ont/sf#Polygon>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "BDS Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:asWKT "POLYGON ((-59.42691 13.160386, -59.430043 13.125922, -59.455719 13.100043, -59.475779 13.086493, -59.487538 13.078559, -59.50886 13.057318, -59.516713 13.056383, -59.523101 13.056464, -59.529286 13.055406, -59.536122 13.051174, -59.545969 13.067694, -59.564443 13.07803, -59.586903 13.083197, -59.60025 13.084133, -59.608144 13.084662, -59.621571 13.09398, -59.633127 13.115912, -59.646067 13.160386, -59.654205 13.295111, -59.652211 13.310614, -59.645131 13.323717, -59.63093 13.337958, -59.612864 13.34455, -59.594472 13.334784, -59.580719 13.314521, -59.575917 13.304389, -59.568959 13.289659, -59.549794 13.249172, -59.53661 13.231391, -59.518056 13.217515, -59.491811 13.197943, -59.476674 13.189399, -59.457102 13.183173, -59.438629 13.174872, -59.42691 13.160386))"^^geo:wktLiteral .
+

@@ -1,0 +1,65 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.semwebtech.org/mondial/10/meta#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semwebtech.org/mondial/countries/KP> a ns1:Country,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "North Korea" ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/countries/KP_geom> ;
+    geo:hasMetricArea 120540 ;
+    ns1:capital <http://www.semwebtech.org/mondial/countries/KP/cities/Pyongyang> ;
+    ns1:carCode "KP" ;
+    ns1:gdpAgri 23.4 ;
+    ns1:gdpInd 47.2 ;
+    ns1:gdpServ 29.4 ;
+    ns1:gdpTotal 28000 ;
+    ns1:government "Communist state one-man dictatorship" ;
+    ns1:hasCity <http://www.semwebtech.org/mondial/countries/KP/cities/Anju>,
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Chongjin>,
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Haeju>,
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Hamhung-Hungnam>,
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Huichon>,
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Kaechon>,
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Kaesong>,
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Kanggye>,
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Kim+Chaek>,
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Kusong>,
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Nampho>,
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Pyongyang>,
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Sariwon>,
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Sinpho>,
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Sinuiju>,
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Sunchon>,
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Tanchon>,
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Tokchon>,
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Wonsan> ;
+    ns1:independenceDate "1945-08-15"^^xsd:date ;
+    ns1:infantMortality 24.5 ;
+    ns1:neighbor <http://www.semwebtech.org/mondial/countries/CN>,
+        <http://www.semwebtech.org/mondial/countries/R>,
+        <http://www.semwebtech.org/mondial/countries/ROK> ;
+    ns1:populationGrowth 0.53 ;
+    ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/J> ;
+    skos:prefLabel "조선 민주주의 인민 공화국" ;
+    sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KP_obeth1>,
+        <http://www.semwebtech.org/mondial/countries/KP_obpop>,
+        <http://www.semwebtech.org/mondial/countries/KP_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/KP_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/KP_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/KP_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/KP_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/KP_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/KP_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/KP_obrel1>,
+        <http://www.semwebtech.org/mondial/countries/KP_obrel2>,
+        <http://www.semwebtech.org/mondial/countries/KP_obrel3>,
+        <http://www.semwebtech.org/mondial/countries/KP_obrel4> .
+
