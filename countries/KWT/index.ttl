@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/KWT_geom> ;
     geo:hasMetricArea 17820 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/KWT/cities/Al+Kuwayt> ;
-    ns1:carCode "KWT" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/kwt> ;
     ns1:gdpAgri 0.3 ;
     ns1:gdpInd 50.6 ;
     ns1:gdpServ 49.1 ;
@@ -27,7 +27,6 @@
     ns1:infantMortality 7.51 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/IRQ>,
         <http://www.semwebtech.org/mondial/countries/SA> ;
-    ns1:populationGrowth 1.7 ;
     ns1:unemployment 3.4 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "دولة الكويت" ;

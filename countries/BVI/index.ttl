@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BVI_geom> ;
     geo:hasMetricArea 153 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/BVI/cities/Road+Town> ;
-    ns1:carCode "BVI" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/bvi> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     ns1:gdpAgri 1.1 ;
     ns1:gdpInd 11.7 ;
@@ -24,7 +24,6 @@
     ns1:government <http://www.wikidata.org/entity/Q46395> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BVI/cities/Road+Town> ;
     ns1:infantMortality 13.45 ;
-    ns1:populationGrowth 2.36 ;
     ns1:unemployment 8.7 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BVI_obeth1>,
         <http://www.semwebtech.org/mondial/countries/BVI_obeth2>,

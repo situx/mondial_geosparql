@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/YE_geom> ;
     geo:hasMetricArea 527970 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/YE/cities/Sanaa> ;
-    ns1:carCode "YE" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ye> ;
     ns1:gdpAgri 7.7 ;
     ns1:gdpInd 30.9 ;
     ns1:gdpServ 61.4 ;
@@ -30,7 +30,6 @@
     ns1:infantMortality 50.41 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/OM>,
         <http://www.semwebtech.org/mondial/countries/SA> ;
-    ns1:populationGrowth 2.72 ;
     ns1:unemployment 35 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Merger+of+North$South+Yemen> ;
     skos:prefLabel "الجمهورية اليمنية" ;

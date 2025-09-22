@@ -15,7 +15,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 15007 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/TL/cities/Dili> ;
-    ns1:carCode "TL" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/tl> ;
     ns1:gdpAgri 2.6 ;
     ns1:gdpInd 81.6 ;
     ns1:gdpServ 15.8 ;
@@ -25,7 +25,6 @@
     ns1:independenceDate "2002-05-20"^^xsd:date ;
     ns1:infantMortality 38.79 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/RI> ;
-    ns1:populationGrowth 2.44 ;
     ns1:unemployment 18.4 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/RI> ;
     skos:prefLabel "República Democrática de Timor-Leste" ;

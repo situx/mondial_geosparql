@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MNTS_geom> ;
     geo:hasMetricArea 102 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/MNTS/cities/Plymouth> ;
-    ns1:carCode "MNTS" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/mnts> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     ns1:gdpAgri 1.6 ;
     ns1:gdpInd 23.2 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MNTS/cities/Brades>,
         <http://www.semwebtech.org/mondial/countries/MNTS/cities/Plymouth> ;
     ns1:infantMortality 13.66 ;
-    ns1:populationGrowth 0.48 ;
     ns1:unemployment 6 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MNTS_obeth1>,
         <http://www.semwebtech.org/mondial/countries/MNTS_obeth2>,

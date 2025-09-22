@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BHT_geom> ;
     geo:hasMetricArea 47000 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/BHT/cities/Thimphu> ;
-    ns1:carCode "BHT" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/bht> ;
     ns1:gdpAgri 13.8 ;
     ns1:gdpInd 41.2 ;
     ns1:gdpServ 45 ;
@@ -27,7 +27,6 @@
     ns1:infantMortality 37.89 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/CN>,
         <http://www.semwebtech.org/mondial/countries/IND> ;
-    ns1:populationGrowth 1.13 ;
     ns1:unemployment 2.1 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "འབྲུག་གྷལ་ཁབ" ;

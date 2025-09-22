@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MYA_geom> ;
     geo:hasMetricArea 678500 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/MYA/provinces/Nay+Pyi+Taw/cities/Nay+Pyi+Taw> ;
-    ns1:carCode "MYA" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/mya> ;
     ns1:gdpAgri 38 ;
     ns1:gdpInd 20.3 ;
     ns1:gdpServ 41.7 ;
@@ -60,7 +60,6 @@
         <http://www.semwebtech.org/mondial/countries/IND>,
         <http://www.semwebtech.org/mondial/countries/LAO>,
         <http://www.semwebtech.org/mondial/countries/THA> ;
-    ns1:populationGrowth 1.03 ;
     ns1:unemployment 5.2 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:altLabel "Burma" ;

@@ -16,13 +16,12 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/WF_geom> ;
     geo:hasMetricArea 274 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/WF/cities/Mata-Utu> ;
-    ns1:carCode "WF" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/wf> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     ns1:gdpTotal 60 ;
     ns1:government "parliamentary representative democratic French overseas collectivity" ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/WF/cities/Mata-Utu> ;
     ns1:infantMortality 4.49 ;
-    ns1:populationGrowth 0.33 ;
     ns1:unemployment 12.2 ;
     skos:prefLabel "Uvea mo Futuna" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/WF_obeth1>,

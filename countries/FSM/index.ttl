@@ -15,7 +15,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 702 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/FSM/cities/Palikir> ;
-    ns1:carCode "FSM" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/fsm> ;
     ns1:gdpAgri 14 ;
     ns1:gdpInd 12 ;
     ns1:gdpServ 74 ;
@@ -24,7 +24,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/FSM/cities/Palikir> ;
     ns1:independenceDate "1986-11-03"^^xsd:date ;
     ns1:infantMortality 21.93 ;
-    ns1:populationGrowth -0.42 ;
     ns1:unemployment 22 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/organizations/UN> ;
     skos:prefLabel "the Federated States of Micronesia" ;

@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SSD_geom> ;
     geo:hasMetricArea 644329 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SSD/cities/Juba> ;
-    ns1:carCode "SSD" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ssd> ;
     ns1:gdpTotal 11770 ;
     ns1:government <http://www.wikidata.org/entry/Q7270> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SSD/cities/Juba> ;
@@ -28,7 +28,6 @@
         <http://www.semwebtech.org/mondial/countries/ETH>,
         <http://www.semwebtech.org/mondial/countries/RCA>,
         <http://www.semwebtech.org/mondial/countries/SUD> ;
-    ns1:populationGrowth 4.12 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/SUD> ;
     skos:prefLabel "the Republic of South Sudan" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SSD_obeth1>,

@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GUY_geom> ;
     geo:hasMetricArea 214970 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/GUY/cities/Georgetown> ;
-    ns1:carCode "GUY" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/guy> ;
     ns1:gdpAgri 20.7 ;
     ns1:gdpInd 38.5 ;
     ns1:gdpServ 40.8 ;
@@ -28,7 +28,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/BR>,
         <http://www.semwebtech.org/mondial/countries/SME>,
         <http://www.semwebtech.org/mondial/countries/YV> ;
-    ns1:populationGrowth -0.11 ;
     ns1:unemployment 11 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "the Republic of Guyana" ;

@@ -15,7 +15,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 0.44 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/V/cities/Vatican+City> ;
-    ns1:carCode "V" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/v> ;
     ns1:government "monarchical sacerdotal state" ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/V/cities/Vatican+City> ;
     ns1:independenceDate "1929-02-11"^^xsd:date ;

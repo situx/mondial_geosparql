@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/LB_geom> ;
     geo:hasMetricArea 111370 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/LB/cities/Monrovia> ;
-    ns1:carCode "LB" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/lb> ;
     ns1:gdpAgri 76.9 ;
     ns1:gdpInd 5.4 ;
     ns1:gdpServ 17.7 ;
@@ -28,7 +28,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/CI>,
         <http://www.semwebtech.org/mondial/countries/RG>,
         <http://www.semwebtech.org/mondial/countries/SLE> ;
-    ns1:populationGrowth 2.52 ;
     ns1:unemployment 85 ;
     skos:prefLabel "the Republic of Liberia" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/LB_obeth1>,

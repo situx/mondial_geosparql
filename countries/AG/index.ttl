@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/AG_geom> ;
     geo:hasMetricArea 442 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/AG/cities/St.+John's> ;
-    ns1:carCode "AG" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ag> ;
     ns1:gdpAgri 2.2 ;
     ns1:gdpInd 16.4 ;
     ns1:gdpServ 81.4 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/AG/cities/St.+John's> ;
     ns1:independenceDate "1981-11-01"^^xsd:date ;
     ns1:infantMortality 13.29 ;
-    ns1:populationGrowth 1.25 ;
     ns1:unemployment 11 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "Antigua and Barbuda" ;

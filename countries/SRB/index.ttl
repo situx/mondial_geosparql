@@ -15,7 +15,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 77474 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SRB/cities/Beograd> ;
-    ns1:carCode "SRB" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/srb> ;
     ns1:gdpAgri 7.9 ;
     ns1:gdpInd 31.8 ;
     ns1:gdpServ 60.3 ;
@@ -35,7 +35,6 @@
         <http://www.semwebtech.org/mondial/countries/MK>,
         <http://www.semwebtech.org/mondial/countries/MNE>,
         <http://www.semwebtech.org/mondial/countries/RO> ;
-    ns1:populationGrowth -0.46 ;
     ns1:unemployment 20.1 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Yugoslavia> ;
     skos:prefLabel "Република Србија" ;

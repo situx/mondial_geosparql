@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/KG_geom> ;
     geo:hasMetricArea 198500 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/KG/cities/Bishkek> ;
-    ns1:carCode "KG" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/kg> ;
     ns1:gdpAgri 20.8 ;
     ns1:gdpInd 34.4 ;
     ns1:gdpServ 44.8 ;
@@ -30,7 +30,6 @@
         <http://www.semwebtech.org/mondial/countries/KZ>,
         <http://www.semwebtech.org/mondial/countries/TJ>,
         <http://www.semwebtech.org/mondial/countries/UZ> ;
-    ns1:populationGrowth 1.04 ;
     ns1:unemployment 8.6 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Soviet+Union> ;
     skos:prefLabel "Кыргыз Республикасы" ;

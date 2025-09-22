@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RG_geom> ;
     geo:hasMetricArea 245860 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/RG/cities/Conakry> ;
-    ns1:carCode "RG" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/rg> ;
     ns1:gdpAgri 22.9 ;
     ns1:gdpInd 46.5 ;
     ns1:gdpServ 30.5 ;
@@ -32,7 +32,6 @@
         <http://www.semwebtech.org/mondial/countries/RMM>,
         <http://www.semwebtech.org/mondial/countries/SLE>,
         <http://www.semwebtech.org/mondial/countries/SN> ;
-    ns1:populationGrowth 2.63 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     skos:prefLabel "la République de Guinée" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RG_obeth1>,

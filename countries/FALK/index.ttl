@@ -15,13 +15,12 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/FALK_geom> ;
     geo:hasMetricArea 12173 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/FALK/cities/Stanley> ;
-    ns1:carCode "FALK" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/falk> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     ns1:gdpAgri 95 ;
     ns1:gdpTotal 164.5 ;
     ns1:government <http://www.wikidata.org/entity/Q46395> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/FALK/cities/Stanley> ;
-    ns1:populationGrowth 0.01 ;
     ns1:unemployment 4.1 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/FALK_obeth1>,
         <http://www.semwebtech.org/mondial/countries/FALK_obpop>,

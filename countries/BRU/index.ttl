@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BRU_geom> ;
     geo:hasMetricArea 5770 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/BRU/cities/Bandar+Seri+Begawan> ;
-    ns1:carCode "BRU" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/bru> ;
     ns1:gdpAgri 0.7 ;
     ns1:gdpInd 70.9 ;
     ns1:gdpServ 28.4 ;
@@ -26,7 +26,6 @@
     ns1:independenceDate "1984-01-01"^^xsd:date ;
     ns1:infantMortality 10.48 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/MAL> ;
-    ns1:populationGrowth 1.65 ;
     ns1:unemployment 2.6 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "Brunei Darussalam" ;

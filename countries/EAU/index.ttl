@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/EAU_geom> ;
     geo:hasMetricArea 236040 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central/cities/Kampala> ;
-    ns1:carCode "EAU" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/eau> ;
     ns1:gdpAgri 23.1 ;
     ns1:gdpInd 26.9 ;
     ns1:gdpServ 50 ;
@@ -37,7 +37,6 @@
         <http://www.semwebtech.org/mondial/countries/EAT>,
         <http://www.semwebtech.org/mondial/countries/RWA>,
         <http://www.semwebtech.org/mondial/countries/SSD> ;
-    ns1:populationGrowth 3.24 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAU_obeth1>,
         <http://www.semwebtech.org/mondial/countries/EAU_obeth10>,

@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/WS_geom> ;
     geo:hasMetricArea 2860 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/WS/cities/Apia> ;
-    ns1:carCode "WS" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ws> ;
     ns1:gdpAgri 10.2 ;
     ns1:gdpInd 25.9 ;
     ns1:gdpServ 64 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/WS/cities/Apia> ;
     ns1:independenceDate "1962-01-01"^^xsd:date ;
     ns1:infantMortality 20.5 ;
-    ns1:populationGrowth 0.59 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/organizations/UN> ;
     skos:prefLabel "Malo Saʻoloto Tutoʻatasi o Sāmoa" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/WS_obeth1>,

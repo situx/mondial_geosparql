@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/N_geom> ;
     geo:hasMetricArea 324220 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/N/provinces/Oslo/cities/Oslo> ;
-    ns1:carCode "N" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/n> ;
     ns1:gdpAgri 1.2 ;
     ns1:gdpInd 42.3 ;
     ns1:gdpServ 56.5 ;
@@ -67,7 +67,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/R>,
         <http://www.semwebtech.org/mondial/countries/S>,
         <http://www.semwebtech.org/mondial/countries/SF> ;
-    ns1:populationGrowth 1.19 ;
     ns1:unemployment 3.6 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/S> ;
     skos:prefLabel "Norge" ;

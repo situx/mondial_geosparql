@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BI_geom> ;
     geo:hasMetricArea 27830 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/BI/cities/Gitega> ;
-    ns1:carCode "BI" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/bi> ;
     ns1:gdpAgri 34.4 ;
     ns1:gdpInd 18.4 ;
     ns1:gdpServ 47.2 ;
@@ -29,7 +29,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/CGO>,
         <http://www.semwebtech.org/mondial/countries/EAT>,
         <http://www.semwebtech.org/mondial/countries/RWA> ;
-    ns1:populationGrowth 3.28 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/organizations/UN> ;
     skos:prefLabel "la République du Burundi" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BI_obeth1>,

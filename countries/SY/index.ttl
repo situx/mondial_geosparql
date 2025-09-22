@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SY_geom> ;
     geo:hasMetricArea 455 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SY/cities/Victoria> ;
-    ns1:carCode "SY" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/sy> ;
     ns1:gdpAgri 2 ;
     ns1:gdpInd 18.7 ;
     ns1:gdpServ 79.4 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SY/cities/Victoria> ;
     ns1:independenceDate "1976-06-29"^^xsd:date ;
     ns1:infantMortality 10.77 ;
-    ns1:populationGrowth 0.4 ;
     ns1:unemployment 2 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "Repiblik Sesel" ;

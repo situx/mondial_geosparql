@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BZ_geom> ;
     geo:hasMetricArea 22960 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/BZ/cities/Belmopan> ;
-    ns1:carCode "BZ" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/bz> ;
     ns1:gdpAgri 13 ;
     ns1:gdpInd 23 ;
     ns1:gdpServ 64 ;
@@ -27,7 +27,6 @@
     ns1:infantMortality 20.31 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/GCA>,
         <http://www.semwebtech.org/mondial/countries/MEX> ;
-    ns1:populationGrowth 1.92 ;
     ns1:unemployment 15.5 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BZ_obeth1>,

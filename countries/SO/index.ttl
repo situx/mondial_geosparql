@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SO_geom> ;
     geo:hasMetricArea 637660 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SO/cities/Mogadishu> ;
-    ns1:carCode "SO" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/so> ;
     ns1:gdpAgri 59.3 ;
     ns1:gdpInd 7.2 ;
     ns1:gdpServ 33.5 ;
@@ -31,7 +31,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/DJI>,
         <http://www.semwebtech.org/mondial/countries/EAK>,
         <http://www.semwebtech.org/mondial/countries/ETH> ;
-    ns1:populationGrowth 1.75 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "جُمْهُورِيَّة الصُّومَال" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SO_obeth1>,

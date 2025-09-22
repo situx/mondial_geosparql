@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/AUS_geom> ;
     geo:hasMetricArea 7692024 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/AUS/provinces/Australia+Capital+Territory/cities/Canberra> ;
-    ns1:carCode "AUS" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/aus> ;
     ns1:gdpAgri 3.8 ;
     ns1:gdpInd 27.4 ;
     ns1:gdpServ 68.7 ;
@@ -50,7 +50,6 @@
         <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia> ;
     ns1:independenceDate "1901-01-01"^^xsd:date ;
     ns1:infantMortality 4.43 ;
-    ns1:populationGrowth 1.09 ;
     ns1:unemployment 5.7 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "Australia" ;

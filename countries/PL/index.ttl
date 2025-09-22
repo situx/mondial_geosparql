@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PL_geom> ;
     geo:hasMetricArea 312683 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/PL/provinces/Mazowieckie/cities/Warszawa> ;
-    ns1:carCode "PL" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/pl> ;
     ns1:gdpAgri 4 ;
     ns1:gdpInd 33.3 ;
     ns1:gdpServ 62.7 ;
@@ -87,7 +87,6 @@
         <http://www.semwebtech.org/mondial/countries/R>,
         <http://www.semwebtech.org/mondial/countries/SK>,
         <http://www.semwebtech.org/mondial/countries/UA> ;
-    ns1:populationGrowth -0.11 ;
     ns1:unemployment 10.3 ;
     skos:prefLabel "Rzeczpospolita Polska" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL_obeth1>,

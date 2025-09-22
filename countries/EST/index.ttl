@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/EST_geom> ;
     geo:hasMetricArea 45100 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/EST/cities/Tallinn> ;
-    ns1:carCode "EST" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/est> ;
     ns1:gdpAgri 3.9 ;
     ns1:gdpInd 30 ;
     ns1:gdpServ 66.2 ;
@@ -28,7 +28,6 @@
     ns1:infantMortality 6.7 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/LV>,
         <http://www.semwebtech.org/mondial/countries/R> ;
-    ns1:populationGrowth -0.68 ;
     ns1:unemployment 10.9 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Soviet+Union> ;
     skos:prefLabel "Eesti Vabariik" ;

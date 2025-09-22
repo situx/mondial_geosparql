@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MC_geom> ;
     geo:hasMetricArea 1.9 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/MC/cities/Monaco> ;
-    ns1:carCode "MC" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/mc> ;
     ns1:gdpAgri 0 ;
     ns1:gdpInd 10 ;
     ns1:gdpServ 90 ;
@@ -27,7 +27,6 @@
     ns1:independenceDate "1297-01-08"^^xsd:date ;
     ns1:infantMortality 1.81 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/F> ;
-    ns1:populationGrowth 0.06 ;
     ns1:unemployment 2 ;
     skos:prefLabel "la Principauté de Monaco " ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MC_obeth1>,

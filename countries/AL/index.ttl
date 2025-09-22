@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/AL_geom> ;
     geo:hasMetricArea 28750 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/AL/cities/Tirana> ;
-    ns1:carCode "AL" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/al> ;
     ns1:gdpAgri 19.5 ;
     ns1:gdpInd 12 ;
     ns1:gdpServ 68.5 ;
@@ -34,7 +34,6 @@
         <http://www.semwebtech.org/mondial/countries/KOS>,
         <http://www.semwebtech.org/mondial/countries/MK>,
         <http://www.semwebtech.org/mondial/countries/MNE> ;
-    ns1:populationGrowth 0.3 ;
     ns1:unemployment 16.9 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Ottoman+Empire> ;
     skos:prefLabel "Shqipëri" ;

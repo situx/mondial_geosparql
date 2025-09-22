@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CAM_geom> ;
     geo:hasMetricArea 475440 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/CAM/provinces/Centre/cities/Yaoundé> ;
-    ns1:carCode "CAM" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/cam> ;
     ns1:gdpAgri 20.6 ;
     ns1:gdpInd 27.3 ;
     ns1:gdpServ 52.1 ;
@@ -50,7 +50,6 @@
         <http://www.semwebtech.org/mondial/countries/RCA>,
         <http://www.semwebtech.org/mondial/countries/RCB>,
         <http://www.semwebtech.org/mondial/countries/TCH> ;
-    ns1:populationGrowth 2.6 ;
     ns1:unemployment 30 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/organizations/UN> ;
     skos:prefLabel "the Republic of Cameroon " ;

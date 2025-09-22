@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MOC_geom> ;
     geo:hasMetricArea 801590 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/MOC/provinces/Cidade+de+Maputo/cities/Maputo> ;
-    ns1:carCode "MOC" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/moc> ;
     ns1:gdpAgri 28.7 ;
     ns1:gdpInd 24.9 ;
     ns1:gdpServ 46.4 ;
@@ -53,7 +53,6 @@
         <http://www.semwebtech.org/mondial/countries/SD>,
         <http://www.semwebtech.org/mondial/countries/Z>,
         <http://www.semwebtech.org/mondial/countries/ZW> ;
-    ns1:populationGrowth 2.45 ;
     ns1:unemployment 17 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/P> ;
     skos:prefLabel "República de Moçambique (a)" ;

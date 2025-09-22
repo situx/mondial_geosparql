@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/LAR_geom> ;
     geo:hasMetricArea 1759540 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/LAR/cities/Tripoli> ;
-    ns1:carCode "LAR" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/lar> ;
     ns1:gdpAgri 2 ;
     ns1:gdpInd 58.3 ;
     ns1:gdpServ 39.7 ;
@@ -33,7 +33,6 @@
         <http://www.semwebtech.org/mondial/countries/SUD>,
         <http://www.semwebtech.org/mondial/countries/TCH>,
         <http://www.semwebtech.org/mondial/countries/TN> ;
-    ns1:populationGrowth 3.08 ;
     ns1:unemployment 30 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/I> ;
     skos:prefLabel "لِيبِيَا" ;

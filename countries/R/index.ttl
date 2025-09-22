@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/R_geom> ;
     geo:hasMetricArea 17075200 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/R/provinces/Moscow/cities/Moskva> ;
-    ns1:carCode "R" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/r> ;
     ns1:gdpAgri 4.2 ;
     ns1:gdpInd 37.5 ;
     ns1:gdpServ 58.3 ;
@@ -298,7 +298,6 @@
         <http://www.semwebtech.org/mondial/countries/PL>,
         <http://www.semwebtech.org/mondial/countries/SF>,
         <http://www.semwebtech.org/mondial/countries/UA> ;
-    ns1:populationGrowth -0.03 ;
     ns1:unemployment 5.8 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Soviet+Union> ;
     skos:prefLabel "Россия" ;

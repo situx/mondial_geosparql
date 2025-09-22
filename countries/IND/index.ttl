@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/IND_geom> ;
     geo:hasMetricArea 3287590 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/IND/provinces/Delhi/cities/Delhi> ;
-    ns1:carCode "IND" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ind> ;
     ns1:gdpAgri 17.4 ;
     ns1:gdpInd 25.8 ;
     ns1:gdpServ 56.9 ;
@@ -165,7 +165,6 @@
         <http://www.semwebtech.org/mondial/countries/MYA>,
         <http://www.semwebtech.org/mondial/countries/NEP>,
         <http://www.semwebtech.org/mondial/countries/PK> ;
-    ns1:populationGrowth 1.25 ;
     ns1:unemployment 8.8 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "the Republic of India" ;

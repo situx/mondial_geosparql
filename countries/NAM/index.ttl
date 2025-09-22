@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NAM_geom> ;
     geo:hasMetricArea 825418 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/NAM/cities/Windhoek> ;
-    ns1:carCode "NAM" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/nam> ;
     ns1:gdpAgri 7.7 ;
     ns1:gdpInd 29.6 ;
     ns1:gdpServ 62.6 ;
@@ -31,7 +31,6 @@
         <http://www.semwebtech.org/mondial/countries/RB>,
         <http://www.semwebtech.org/mondial/countries/RSA>,
         <http://www.semwebtech.org/mondial/countries/Z> ;
-    ns1:populationGrowth 0.67 ;
     ns1:unemployment 27.4 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/organizations/UN> ;
     skos:prefLabel "the Republic of Namibia" ;

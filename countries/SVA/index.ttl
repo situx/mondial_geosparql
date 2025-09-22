@@ -15,11 +15,10 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 62049 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SVA/cities/Longyearbyen> ;
-    ns1:carCode "SVA" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/sva> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/N> ;
     ns1:government "territory of Norway administered by the Ministry of Industry" ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SVA/cities/Longyearbyen> ;
-    ns1:populationGrowth -0.03 ;
     skos:prefLabel "Svalbard" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SVA_obeth1>,
         <http://www.semwebtech.org/mondial/countries/SVA_obeth2>,

@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RMM_geom> ;
     geo:hasMetricArea 1240000 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/RMM/provinces/Bamako/cities/Bamako> ;
-    ns1:carCode "RMM" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/rmm> ;
     ns1:gdpAgri 38.5 ;
     ns1:gdpInd 24.4 ;
     ns1:gdpServ 37 ;
@@ -52,7 +52,6 @@
         <http://www.semwebtech.org/mondial/countries/RIM>,
         <http://www.semwebtech.org/mondial/countries/RN>,
         <http://www.semwebtech.org/mondial/countries/SN> ;
-    ns1:populationGrowth 3 ;
     ns1:unemployment 30 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     skos:prefLabel "la République du Mali " ;

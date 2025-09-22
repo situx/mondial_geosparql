@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/P_geom> ;
     geo:hasMetricArea 92080 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Lisboa> ;
-    ns1:carCode "P" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/p> ;
     ns1:gdpAgri 2.6 ;
     ns1:gdpInd 22.2 ;
     ns1:gdpServ 75.2 ;
@@ -69,7 +69,6 @@
     ns1:independenceDate "1139-07-25"^^xsd:date ;
     ns1:infantMortality 4.48 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/E> ;
-    ns1:populationGrowth 0.12 ;
     ns1:unemployment 16.8 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
     skos:prefLabel "República Portuguesa (a)" ;

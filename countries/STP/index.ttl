@@ -15,7 +15,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 1001 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/STP/cities/São+Tomé> ;
-    ns1:carCode "STP" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/stp> ;
     ns1:gdpAgri 13.7 ;
     ns1:gdpInd 19.5 ;
     ns1:gdpServ 66.8 ;
@@ -24,7 +24,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/STP/cities/São+Tomé> ;
     ns1:independenceDate "1975-07-12"^^xsd:date ;
     ns1:infantMortality 49.16 ;
-    ns1:populationGrowth 1.89 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/P> ;
     skos:prefLabel "República Democrática de São Tomé e Príncipe (a)" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/STP_obeth1>,

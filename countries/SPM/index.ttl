@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SPM_geom> ;
     geo:hasMetricArea 242 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SPM/cities/Saint-Pierre> ;
-    ns1:carCode "SPM" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/spm> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     ns1:gdpAgri 2 ;
     ns1:gdpInd 15 ;
@@ -24,7 +24,6 @@
     ns1:government "parliamentary representative democracy" ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SPM/cities/Saint-Pierre> ;
     ns1:infantMortality 6.95 ;
-    ns1:populationGrowth -1.02 ;
     ns1:unemployment 9.9 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SPM_obeth1>,
         <http://www.semwebtech.org/mondial/countries/SPM_obpop>,

@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/EAK_geom> ;
     geo:hasMetricArea 582650 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAK/cities/Nairobi> ;
-    ns1:carCode "EAK" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/eak> ;
     ns1:gdpAgri 29.3 ;
     ns1:gdpInd 17.4 ;
     ns1:gdpServ 53.3 ;
@@ -35,7 +35,6 @@
         <http://www.semwebtech.org/mondial/countries/ETH>,
         <http://www.semwebtech.org/mondial/countries/SO>,
         <http://www.semwebtech.org/mondial/countries/SSD> ;
-    ns1:populationGrowth 2.11 ;
     ns1:unemployment 40 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "the Republic of Kenya " ;

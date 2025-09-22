@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/TN_geom> ;
     geo:hasMetricArea 163610 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/TN/cities/Tunis> ;
-    ns1:carCode "TN" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/tn> ;
     ns1:gdpAgri 8.6 ;
     ns1:gdpInd 30.4 ;
     ns1:gdpServ 61 ;
@@ -31,7 +31,6 @@
     ns1:infantMortality 23.19 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/DZ>,
         <http://www.semwebtech.org/mondial/countries/LAR> ;
-    ns1:populationGrowth 0.92 ;
     ns1:unemployment 17.2 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     skos:prefLabel "الجمهورية التونسية" ;

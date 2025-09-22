@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GH_geom> ;
     geo:hasMetricArea 238540 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra/cities/Accra> ;
-    ns1:carCode "GH" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/gh> ;
     ns1:gdpAgri 21.5 ;
     ns1:gdpInd 28.7 ;
     ns1:gdpServ 49.8 ;
@@ -62,7 +62,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/BF>,
         <http://www.semwebtech.org/mondial/countries/CI>,
         <http://www.semwebtech.org/mondial/countries/RT> ;
-    ns1:populationGrowth 2.19 ;
     ns1:unemployment 11 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "the Republic of Ghana" ;

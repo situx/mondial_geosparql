@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/IR_geom> ;
     geo:hasMetricArea 1648000 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/IR/provinces/Tehran/cities/Tehran> ;
-    ns1:carCode "IR" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ir> ;
     ns1:gdpAgri 10.6 ;
     ns1:gdpInd 44.9 ;
     ns1:gdpServ 44.5 ;
@@ -111,7 +111,6 @@
         <http://www.semwebtech.org/mondial/countries/PK>,
         <http://www.semwebtech.org/mondial/countries/TM>,
         <http://www.semwebtech.org/mondial/countries/TR> ;
-    ns1:populationGrowth 1.22 ;
     ns1:unemployment 16 ;
     skos:prefLabel "جُمْهُورِئ إِسْلامِئ إِيرَان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR_obeth1>,

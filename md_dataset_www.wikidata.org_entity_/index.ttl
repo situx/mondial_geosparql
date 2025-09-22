@@ -14,5 +14,5 @@
     void:objectsTarget <http://www.wikidata.org/entity/> ;
     void:subjectsTarget <http://www.semwebtech.org/mondial/md_dataset> ;
     void:triples 47,
-        30918 .
+        30928 .
 

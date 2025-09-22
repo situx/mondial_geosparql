@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/AXA_geom> ;
     geo:hasMetricArea 102 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/AXA/cities/The+Valley> ;
-    ns1:carCode "AXA" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/axa> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     ns1:gdpAgri 2.5 ;
     ns1:gdpInd 23.6 ;
@@ -24,7 +24,6 @@
     ns1:government <http://www.wikidata.org/entity/Q46395> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/AXA/cities/The+Valley> ;
     ns1:infantMortality 3.4 ;
-    ns1:populationGrowth 2.06 ;
     ns1:unemployment 8 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AXA_obeth1>,
         <http://www.semwebtech.org/mondial/countries/AXA_obeth2>,

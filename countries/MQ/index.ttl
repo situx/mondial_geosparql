@@ -14,7 +14,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 1128 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/MQ/cities/Fort-de-France> ;
-    ns1:carCode "MQ" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/mq> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     ns1:gdpAgri 6 ;
     ns1:gdpInd 11 ;
@@ -23,7 +23,6 @@
     ns1:government "overseas department of France" ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MQ/cities/Fort-de-France> ;
     ns1:infantMortality 7.1 ;
-    ns1:populationGrowth 1.1 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MQ_obeth1>,
         <http://www.semwebtech.org/mondial/countries/MQ_obeth2>,
         <http://www.semwebtech.org/mondial/countries/MQ_obeth3>,

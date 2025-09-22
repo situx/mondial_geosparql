@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SLE_geom> ;
     geo:hasMetricArea 71740 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SLE/cities/Freetown> ;
-    ns1:carCode "SLE" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/sle> ;
     ns1:gdpAgri 47.9 ;
     ns1:gdpInd 18.6 ;
     ns1:gdpServ 33.5 ;
@@ -29,7 +29,6 @@
     ns1:infantMortality 73.29 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/LB>,
         <http://www.semwebtech.org/mondial/countries/RG> ;
-    ns1:populationGrowth 2.33 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "the Republic of Sierra Leone " ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SLE_obeth1>,

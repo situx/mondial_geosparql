@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ER_geom> ;
     geo:hasMetricArea 121320 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/ER/cities/Asmara> ;
-    ns1:carCode "ER" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/er> ;
     ns1:gdpAgri 11.7 ;
     ns1:gdpInd 26.9 ;
     ns1:gdpServ 61.4 ;
@@ -29,7 +29,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/DJI>,
         <http://www.semwebtech.org/mondial/countries/ETH>,
         <http://www.semwebtech.org/mondial/countries/SUD> ;
-    ns1:populationGrowth 2.3 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/ETH> ;
     skos:prefLabel "إريتريا" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ER_obeth1>,

@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/WD_geom> ;
     geo:hasMetricArea 746 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/WD/cities/Roseau> ;
-    ns1:carCode "WD" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/wd> ;
     ns1:gdpAgri 15.7 ;
     ns1:gdpInd 15.6 ;
     ns1:gdpServ 68.7 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/WD/cities/Roseau> ;
     ns1:independenceDate "1978-11-03"^^xsd:date ;
     ns1:infantMortality 11.61 ;
-    ns1:populationGrowth 0.22 ;
     ns1:unemployment 23 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "the Commonwealth of Dominica" ;

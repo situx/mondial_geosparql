@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RWA_geom> ;
     geo:hasMetricArea 26340 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/RWA/cities/Kigali> ;
-    ns1:carCode "RWA" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/rwa> ;
     ns1:gdpAgri 31.9 ;
     ns1:gdpInd 14.8 ;
     ns1:gdpServ 53.3 ;
@@ -30,7 +30,6 @@
         <http://www.semwebtech.org/mondial/countries/CGO>,
         <http://www.semwebtech.org/mondial/countries/EAT>,
         <http://www.semwebtech.org/mondial/countries/EAU> ;
-    ns1:populationGrowth 2.63 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/organizations/UN> ;
     skos:prefLabel "the Republic of Rwanda" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RWA_obeth1>,

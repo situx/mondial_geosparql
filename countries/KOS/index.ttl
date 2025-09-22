@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/KOS_geom> ;
     geo:hasMetricArea 10887 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/KOS/cities/Prishtine> ;
-    ns1:carCode "KOS" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/kos> ;
     ns1:gdpAgri 12.9 ;
     ns1:gdpInd 22.6 ;
     ns1:gdpServ 64.5 ;

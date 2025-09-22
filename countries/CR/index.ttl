@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CR_geom> ;
     geo:hasMetricArea 51100 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/CR/provinces/San+José/cities/San+José> ;
-    ns1:carCode "CR" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/cr> ;
     ns1:gdpAgri 6.2 ;
     ns1:gdpInd 21.3 ;
     ns1:gdpServ 72.5 ;
@@ -40,7 +40,6 @@
     ns1:infantMortality 8.7 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/NIC>,
         <http://www.semwebtech.org/mondial/countries/PA> ;
-    ns1:populationGrowth 1.24 ;
     ns1:unemployment 7.9 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
     skos:prefLabel "la República de Costa Rica" ;

@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RA_geom> ;
     geo:hasMetricArea 2766890 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/RA/provinces/Distrito+Federal/cities/Buenos+Aires> ;
-    ns1:carCode "RA" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ra> ;
     ns1:gdpAgri 9.3 ;
     ns1:gdpInd 29.7 ;
     ns1:gdpServ 61 ;
@@ -91,7 +91,6 @@
         <http://www.semwebtech.org/mondial/countries/PY>,
         <http://www.semwebtech.org/mondial/countries/RCH>,
         <http://www.semwebtech.org/mondial/countries/ROU> ;
-    ns1:populationGrowth 0.95 ;
     ns1:unemployment 7.5 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA_obeth1>,

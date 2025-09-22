@@ -14,7 +14,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 9372610 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/USA/provinces/District+of+Columbia/cities/Washington> ;
-    ns1:carCode "USA" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/usa> ;
     ns1:gdpAgri 1.1 ;
     ns1:gdpInd 19.5 ;
     ns1:gdpServ 79.4 ;
@@ -333,7 +333,6 @@
     ns1:infantMortality 6.17 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/CDN>,
         <http://www.semwebtech.org/mondial/countries/MEX> ;
-    ns1:populationGrowth 0.77 ;
     ns1:unemployment 7.3 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA_obeth1>,

@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SBAR_geom> ;
     geo:hasMetricArea 21 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SBAR/cities/Gustavia> ;
-    ns1:carCode "SBAR" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/sbar> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     ns1:government <http://www.wikidata.org/entity/Q719487> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SBAR/cities/Gustavia> ;

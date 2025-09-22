@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/YV_geom> ;
     geo:hasMetricArea 912050 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/YV/provinces/Distrito+Federal/cities/Caracas> ;
-    ns1:carCode "YV" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/yv> ;
     ns1:gdpAgri 3.7 ;
     ns1:gdpInd 35.5 ;
     ns1:gdpServ 60.8 ;
@@ -85,7 +85,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/BR>,
         <http://www.semwebtech.org/mondial/countries/CO>,
         <http://www.semwebtech.org/mondial/countries/GUY> ;
-    ns1:populationGrowth 1.42 ;
     ns1:unemployment 7.9 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV_obeth1>,

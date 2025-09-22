@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/B_geom> ;
     geo:hasMetricArea 30510 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles/cities/Bruxelles> ;
-    ns1:carCode "B" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/b> ;
     ns1:gdpAgri 0.8 ;
     ns1:gdpInd 22.6 ;
     ns1:gdpServ 76.6 ;
@@ -55,7 +55,6 @@
         <http://www.semwebtech.org/mondial/countries/F>,
         <http://www.semwebtech.org/mondial/countries/L>,
         <http://www.semwebtech.org/mondial/countries/NL> ;
-    ns1:populationGrowth 0.05 ;
     ns1:unemployment 8.8 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/NL> ;
     skos:prefLabel "Koninkrijk België (het)" ;

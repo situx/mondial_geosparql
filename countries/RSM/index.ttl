@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RSM_geom> ;
     geo:hasMetricArea 60 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/RSM/cities/San+Marino> ;
-    ns1:carCode "RSM" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/rsm> ;
     ns1:gdpAgri 0.1 ;
     ns1:gdpInd 39.2 ;
     ns1:gdpServ 60.7 ;
@@ -26,7 +26,6 @@
     ns1:independenceDate "0301-01-01"^^xsd:date ;
     ns1:infantMortality 4.52 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/I> ;
-    ns1:populationGrowth 0.87 ;
     ns1:unemployment 7 ;
     skos:prefLabel "Repubblica di San Marino (la)" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RSM_obeth1>,

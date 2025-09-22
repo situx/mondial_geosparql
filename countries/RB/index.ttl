@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RB_geom> ;
     geo:hasMetricArea 600370 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/RB/cities/Gaborone> ;
-    ns1:carCode "RB" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/rb> ;
     ns1:gdpAgri 1.9 ;
     ns1:gdpInd 35.7 ;
     ns1:gdpServ 62.4 ;
@@ -29,7 +29,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/NAM>,
         <http://www.semwebtech.org/mondial/countries/RSA>,
         <http://www.semwebtech.org/mondial/countries/ZW> ;
-    ns1:populationGrowth 1.26 ;
     ns1:unemployment 17.8 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "the Republic of Botswana" ;

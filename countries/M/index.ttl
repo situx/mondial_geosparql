@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/M_geom> ;
     geo:hasMetricArea 316 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/M/cities/Valletta> ;
-    ns1:carCode "M" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/m> ;
     ns1:gdpAgri 1.4 ;
     ns1:gdpInd 25.3 ;
     ns1:gdpServ 73.3 ;
@@ -26,7 +26,6 @@
         <http://www.semwebtech.org/mondial/countries/M/cities/Victoria> ;
     ns1:independenceDate "1964-09-21"^^xsd:date ;
     ns1:infantMortality 3.59 ;
-    ns1:populationGrowth 0.33 ;
     ns1:unemployment 6.4 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "the Republic of Malta " ;

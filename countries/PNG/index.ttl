@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PNG_geom> ;
     geo:hasMetricArea 461690 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/PNG/provinces/South/cities/Port+Moresby> ;
-    ns1:carCode "PNG" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/png> ;
     ns1:gdpAgri 27.6 ;
     ns1:gdpInd 39.1 ;
     ns1:gdpServ 33.3 ;
@@ -31,7 +31,6 @@
     ns1:independenceDate "1975-09-16"^^xsd:date ;
     ns1:infantMortality 39.67 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/RI> ;
-    ns1:populationGrowth 1.84 ;
     ns1:unemployment 1.9 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/organizations/UN> ;
     skos:prefLabel "Papua New Guinea" ;

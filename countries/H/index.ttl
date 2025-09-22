@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/H_geom> ;
     geo:hasMetricArea 93030 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/H/provinces/Budapest/cities/Budapest> ;
-    ns1:carCode "H" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/h> ;
     ns1:gdpAgri 3.4 ;
     ns1:gdpInd 28 ;
     ns1:gdpServ 68.7 ;
@@ -71,7 +71,6 @@
         <http://www.semwebtech.org/mondial/countries/SLO>,
         <http://www.semwebtech.org/mondial/countries/SRB>,
         <http://www.semwebtech.org/mondial/countries/UA> ;
-    ns1:populationGrowth -0.21 ;
     ns1:unemployment 10.5 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Austria-Hungary> ;
     skos:prefLabel "Magyar Köztársaság (a)" ;

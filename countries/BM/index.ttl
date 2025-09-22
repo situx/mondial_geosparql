@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BM_geom> ;
     geo:hasMetricArea 53.3 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/BM/cities/Hamilton> ;
-    ns1:carCode "BM" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/bm> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     ns1:gdpAgri 0.7 ;
     ns1:gdpInd 5.7 ;
@@ -24,7 +24,6 @@
     ns1:government "parliamentary; self-governing territory" ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BM/cities/Hamilton> ;
     ns1:infantMortality 2.48 ;
-    ns1:populationGrowth 0.52 ;
     ns1:unemployment 8 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BM_obeth1>,
         <http://www.semwebtech.org/mondial/countries/BM_obeth2>,

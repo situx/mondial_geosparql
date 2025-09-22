@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NCL_geom> ;
     geo:hasMetricArea 19060 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/NCL/cities/Noumea> ;
-    ns1:carCode "NCL" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ncl> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     ns1:gdpAgri 2.1 ;
     ns1:gdpInd 30 ;
@@ -24,7 +24,6 @@
     ns1:government "parliamentary representative democracy" ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NCL/cities/Noumea> ;
     ns1:infantMortality 5.46 ;
-    ns1:populationGrowth 1.42 ;
     ns1:unemployment 17.1 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NCL_obeth1>,
         <http://www.semwebtech.org/mondial/countries/NCL_obeth2>,

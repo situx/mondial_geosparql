@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ET_geom> ;
     geo:hasMetricArea 1001450 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Qahirah> ;
-    ns1:carCode "ET" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/et> ;
     ns1:gdpAgri 14.5 ;
     ns1:gdpInd 37.5 ;
     ns1:gdpServ 48 ;
@@ -56,7 +56,6 @@
         <http://www.semwebtech.org/mondial/countries/IL>,
         <http://www.semwebtech.org/mondial/countries/LAR>,
         <http://www.semwebtech.org/mondial/countries/SUD> ;
-    ns1:populationGrowth 1.84 ;
     ns1:unemployment 13.4 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "جمهورية مصر العربية" ;

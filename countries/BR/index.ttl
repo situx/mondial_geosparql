@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR_geom> ;
     geo:hasMetricArea 8511965 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/BR/provinces/Distrito+Federal/cities/Brasília> ;
-    ns1:carCode "BR" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/br> ;
     ns1:gdpAgri 5.5 ;
     ns1:gdpInd 26.4 ;
     ns1:gdpServ 68.1 ;
@@ -268,7 +268,6 @@
         <http://www.semwebtech.org/mondial/countries/ROU>,
         <http://www.semwebtech.org/mondial/countries/SME>,
         <http://www.semwebtech.org/mondial/countries/YV> ;
-    ns1:populationGrowth 0.8 ;
     ns1:unemployment 5.7 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/P> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR_obeth1>,

@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MNE_geom> ;
     geo:hasMetricArea 14026 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/MNE/cities/Podgorica> ;
-    ns1:carCode "MNE" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/mne> ;
     ns1:gdpAgri 0.8 ;
     ns1:gdpInd 11.3 ;
     ns1:gdpServ 87.9 ;
@@ -29,7 +29,6 @@
         <http://www.semwebtech.org/mondial/countries/HR>,
         <http://www.semwebtech.org/mondial/countries/KOS>,
         <http://www.semwebtech.org/mondial/countries/SRB> ;
-    ns1:populationGrowth -0.49 ;
     ns1:unemployment 19.1 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/SRB> ;
     skos:prefLabel "Црна Гора" ;

@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/E_geom> ;
     geo:hasMetricArea 504750 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Madrid> ;
-    ns1:carCode "E" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/e> ;
     ns1:gdpAgri 3.1 ;
     ns1:gdpInd 26 ;
     ns1:gdpServ 70.8 ;
@@ -111,7 +111,6 @@
         <http://www.semwebtech.org/mondial/countries/F>,
         <http://www.semwebtech.org/mondial/countries/GBZ>,
         <http://www.semwebtech.org/mondial/countries/P> ;
-    ns1:populationGrowth 0.78 ;
     ns1:unemployment 26.3 ;
     skos:prefLabel "el Reino de España" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E_obeth1>,

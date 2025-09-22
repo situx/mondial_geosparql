@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MS_geom> ;
     geo:hasMetricArea 2040 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/MS/cities/Port+Louis> ;
-    ns1:carCode "MS" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ms> ;
     ns1:gdpAgri 4.5 ;
     ns1:gdpInd 22 ;
     ns1:gdpServ 73.4 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MS/cities/Port+Louis> ;
     ns1:independenceDate "1968-03-12"^^xsd:date ;
     ns1:infantMortality 10.59 ;
-    ns1:populationGrowth 0.66 ;
     ns1:unemployment 8.3 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "The Republic of Mauritius" ;

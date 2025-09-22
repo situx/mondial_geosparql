@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/DK_geom> ;
     geo:hasMetricArea 43070 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/DK/provinces/Hovedstaden/cities/Copenhagen> ;
-    ns1:carCode "DK" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/dk> ;
     ns1:gdpAgri 1.5 ;
     ns1:gdpInd 21.7 ;
     ns1:gdpServ 76.8 ;
@@ -41,7 +41,6 @@
         <http://www.semwebtech.org/mondial/countries/DK/provinces/Syddanmark> ;
     ns1:infantMortality 4.1 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/D> ;
-    ns1:populationGrowth 0.22 ;
     ns1:unemployment 6 ;
     skos:prefLabel "Kongeriget Danmark" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DK_obeth1>,

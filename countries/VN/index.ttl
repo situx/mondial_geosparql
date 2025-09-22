@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/VN_geom> ;
     geo:hasMetricArea 329560 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/VN/provinces/Red+River+Delta/cities/Hanoi> ;
-    ns1:carCode "VN" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/vn> ;
     ns1:gdpAgri 19.3 ;
     ns1:gdpInd 38.5 ;
     ns1:gdpServ 42.2 ;
@@ -51,7 +51,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/CN>,
         <http://www.semwebtech.org/mondial/countries/K>,
         <http://www.semwebtech.org/mondial/countries/LAO> ;
-    ns1:populationGrowth 1 ;
     ns1:unemployment 1.3 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     skos:prefLabel "Việt Nam" ;

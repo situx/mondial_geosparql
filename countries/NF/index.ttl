@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NF_geom> ;
     geo:hasMetricArea 34.6 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/NF/cities/Kingston> ;
-    ns1:carCode "NF" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/nf> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/AUS> ;
     ns1:government <http://www.wikidata.org/entity/Q11687019> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NF/cities/Kingston> ;

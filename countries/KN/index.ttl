@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/KN_geom> ;
     geo:hasMetricArea 269 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/KN/cities/Basseterre> ;
-    ns1:carCode "KN" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/kn> ;
     ns1:gdpAgri 1.8 ;
     ns1:gdpInd 23.1 ;
     ns1:gdpServ 75.1 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/KN/cities/Basseterre> ;
     ns1:independenceDate "1983-09-19"^^xsd:date ;
     ns1:infantMortality 8.98 ;
-    ns1:populationGrowth 0.78 ;
     ns1:unemployment 4.5 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "Saint Kitts and Nevis" ;

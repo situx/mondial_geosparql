@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GCA_geom> ;
     geo:hasMetricArea 108890 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/GCA/cities/Ciudad+de+Guatemala> ;
-    ns1:carCode "GCA" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/gca> ;
     ns1:gdpAgri 13.5 ;
     ns1:gdpInd 23.8 ;
     ns1:gdpServ 62.7 ;
@@ -33,7 +33,6 @@
         <http://www.semwebtech.org/mondial/countries/ES>,
         <http://www.semwebtech.org/mondial/countries/HN>,
         <http://www.semwebtech.org/mondial/countries/MEX> ;
-    ns1:populationGrowth 1.86 ;
     ns1:unemployment 4.1 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
     skos:prefLabel "República de Guatemala (la)" ;

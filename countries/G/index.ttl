@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/G_geom> ;
     geo:hasMetricArea 267670 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/G/cities/Libreville> ;
-    ns1:carCode "G" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/g> ;
     ns1:gdpAgri 3.6 ;
     ns1:gdpInd 63.9 ;
     ns1:gdpServ 32.5 ;
@@ -30,7 +30,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/CAM>,
         <http://www.semwebtech.org/mondial/countries/GQ>,
         <http://www.semwebtech.org/mondial/countries/RCB> ;
-    ns1:populationGrowth 1.94 ;
     ns1:unemployment 21 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     skos:prefLabel "la République Gabonaise" ;

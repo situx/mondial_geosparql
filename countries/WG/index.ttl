@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/WG_geom> ;
     geo:hasMetricArea 344 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/WG/cities/Saint+George's> ;
-    ns1:carCode "WG" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/wg> ;
     ns1:gdpAgri 5.6 ;
     ns1:gdpInd 15.8 ;
     ns1:gdpServ 78.5 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/WG/cities/Saint+George's> ;
     ns1:independenceDate "1974-02-07"^^xsd:date ;
     ns1:infantMortality 10.5 ;
-    ns1:populationGrowth 0.5 ;
     ns1:unemployment 33.5 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "Grenada" ;

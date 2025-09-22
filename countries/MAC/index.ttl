@@ -15,7 +15,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 16 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/MAC/cities/Macao> ;
-    ns1:carCode "MAC" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/mac> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/CN> ;
     ns1:gdpAgri 0 ;
     ns1:gdpInd 6.5 ;
@@ -26,7 +26,6 @@
         <http://www.semwebtech.org/mondial/countries/MAC/cities/Taipa-Coloane> ;
     ns1:infantMortality 3.13 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/CN> ;
-    ns1:populationGrowth 0.83 ;
     ns1:unemployment 1.8 ;
     skos:prefLabel "澳門" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAC_obeth1>,

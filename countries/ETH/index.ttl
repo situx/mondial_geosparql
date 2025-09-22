@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ETH_geom> ;
     geo:hasMetricArea 1127127 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/ETH/provinces/Addis+Ababa/cities/Addis+Ababa> ;
-    ns1:carCode "ETH" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/eth> ;
     ns1:gdpAgri 47 ;
     ns1:gdpInd 10.8 ;
     ns1:gdpServ 42.2 ;
@@ -59,7 +59,6 @@
         <http://www.semwebtech.org/mondial/countries/SO>,
         <http://www.semwebtech.org/mondial/countries/SSD>,
         <http://www.semwebtech.org/mondial/countries/SUD> ;
-    ns1:populationGrowth 2.89 ;
     ns1:unemployment 17.5 ;
     skos:prefLabel "የኢትዮጵያ ፈደራላዊ ዲሞክራሲያዊ ሪፐብሊክ" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ETH_obeth1>,

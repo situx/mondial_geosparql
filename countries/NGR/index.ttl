@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NGR_geom> ;
     geo:hasMetricArea 923770 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/NGR/provinces/Abuja/cities/Abuja> ;
-    ns1:carCode "NGR" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ngr> ;
     ns1:gdpAgri 30.9 ;
     ns1:gdpInd 43 ;
     ns1:gdpServ 26 ;
@@ -123,7 +123,6 @@
         <http://www.semwebtech.org/mondial/countries/CAM>,
         <http://www.semwebtech.org/mondial/countries/RN>,
         <http://www.semwebtech.org/mondial/countries/TCH> ;
-    ns1:populationGrowth 2.47 ;
     ns1:unemployment 23.9 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "the Federal Republic of Nigeria" ;

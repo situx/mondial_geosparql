@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/TR_geom> ;
     geo:hasMetricArea 780580 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Ankara/cities/Ankara> ;
-    ns1:carCode "TR" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/tr> ;
     ns1:gdpAgri 8.9 ;
     ns1:gdpInd 27.3 ;
     ns1:gdpServ 63.8 ;
@@ -216,7 +216,6 @@
         <http://www.semwebtech.org/mondial/countries/IR>,
         <http://www.semwebtech.org/mondial/countries/IRQ>,
         <http://www.semwebtech.org/mondial/countries/SYR> ;
-    ns1:populationGrowth 1.12 ;
     ns1:unemployment 9.3 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Ottoman+Empire> ;
     skos:prefLabel "Türkiye Cumhuriyeti" ;

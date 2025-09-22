@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/IL_geom> ;
     geo:hasMetricArea 22072 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/IL/provinces/Yerushalayim/cities/Yerushalayim> ;
-    ns1:carCode "IL" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/il> ;
     ns1:gdpAgri 2.4 ;
     ns1:gdpInd 31.2 ;
     ns1:gdpServ 66.4 ;
@@ -46,7 +46,6 @@
         <http://www.semwebtech.org/mondial/countries/RL>,
         <http://www.semwebtech.org/mondial/countries/SYR>,
         <http://www.semwebtech.org/mondial/countries/WB> ;
-    ns1:populationGrowth 1.46 ;
     ns1:unemployment 5.8 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/organizations/UN> ;
     skos:prefLabel "دولة إسرائيل" ;

@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BOL_geom> ;
     geo:hasMetricArea 1098580 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz/cities/La+Paz> ;
-    ns1:carCode "BOL" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/bol> ;
     ns1:gdpAgri 9.2 ;
     ns1:gdpInd 38.5 ;
     ns1:gdpServ 52.3 ;
@@ -51,7 +51,6 @@
         <http://www.semwebtech.org/mondial/countries/PY>,
         <http://www.semwebtech.org/mondial/countries/RA>,
         <http://www.semwebtech.org/mondial/countries/RCH> ;
-    ns1:populationGrowth 1.6 ;
     ns1:unemployment 7.4 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
     skos:prefLabel "Estado Plurinacional de Bolivia (el)" ;

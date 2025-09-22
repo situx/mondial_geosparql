@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RP_geom> ;
     geo:hasMetricArea 299764 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Manila> ;
-    ns1:carCode "RP" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/rp> ;
     ns1:gdpAgri 11.2 ;
     ns1:gdpInd 31.6 ;
     ns1:gdpServ 57.2 ;
@@ -110,7 +110,6 @@
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Zamboanga+Peninsula> ;
     ns1:independenceDate "1946-07-04"^^xsd:date ;
     ns1:infantMortality 17.64 ;
-    ns1:populationGrowth 1.81 ;
     ns1:unemployment 7.4 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/USA> ;
     skos:prefLabel "the Republic of the Philippines " ;

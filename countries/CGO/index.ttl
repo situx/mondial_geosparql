@@ -15,7 +15,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 2345410 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kinshasa/cities/Kinshasa> ;
-    ns1:carCode "CGO" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/cgo> ;
     ns1:gdpAgri 44.3 ;
     ns1:gdpInd 21.7 ;
     ns1:gdpServ 34 ;
@@ -91,7 +91,6 @@
         <http://www.semwebtech.org/mondial/countries/RWA>,
         <http://www.semwebtech.org/mondial/countries/SSD>,
         <http://www.semwebtech.org/mondial/countries/Z> ;
-    ns1:populationGrowth 2.5 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/B> ;
     skos:prefLabel "la République démocratique du Congo" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO_obeth1>,

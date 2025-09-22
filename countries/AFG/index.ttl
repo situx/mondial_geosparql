@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/AFG_geom> ;
     geo:hasMetricArea 647500 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/AFG/cities/Kabul> ;
-    ns1:carCode "AFG" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/afg> ;
     ns1:gdpAgri 20 ;
     ns1:gdpInd 25.6 ;
     ns1:gdpServ 54.4 ;
@@ -35,7 +35,6 @@
         <http://www.semwebtech.org/mondial/countries/TJ>,
         <http://www.semwebtech.org/mondial/countries/TM>,
         <http://www.semwebtech.org/mondial/countries/UZ> ;
-    ns1:populationGrowth 2.29 ;
     ns1:unemployment 35 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "جُمْهُورِئ إِسْلامِئ أَفْغَانِسْتَان" ;

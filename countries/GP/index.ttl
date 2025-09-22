@@ -14,7 +14,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 1628 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/GP/cities/Basse-Terre> ;
-    ns1:carCode "GP" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/gp> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     ns1:gdpAgri 6 ;
     ns1:gdpInd 9 ;
@@ -23,7 +23,6 @@
     ns1:government "overseas department of France" ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GP/cities/Basse-Terre> ;
     ns1:infantMortality 8.3 ;
-    ns1:populationGrowth 1.2 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GP_obeth1>,
         <http://www.semwebtech.org/mondial/countries/GP_obeth2>,
         <http://www.semwebtech.org/mondial/countries/GP_obeth3>,

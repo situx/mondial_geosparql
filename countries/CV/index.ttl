@@ -15,7 +15,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 4033 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/CV/cities/Praia> ;
-    ns1:carCode "CV" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/cv> ;
     ns1:gdpAgri 9.3 ;
     ns1:gdpInd 18.8 ;
     ns1:gdpServ 71.9 ;
@@ -24,7 +24,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CV/cities/Praia> ;
     ns1:independenceDate "1975-07-05"^^xsd:date ;
     ns1:infantMortality 24.28 ;
-    ns1:populationGrowth 1.39 ;
     ns1:unemployment 21 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/P> ;
     skos:prefLabel "República de Cabo Verde (a)" ;

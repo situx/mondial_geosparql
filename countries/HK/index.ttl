@@ -15,7 +15,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 1092 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/HK/cities/Victoria> ;
-    ns1:carCode "HK" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/hk> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/CN> ;
     ns1:gdpAgri 0 ;
     ns1:gdpInd 6.9 ;
@@ -28,7 +28,6 @@
         <http://www.semwebtech.org/mondial/countries/HK/cities/Victoria> ;
     ns1:infantMortality 2.73 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/CN> ;
-    ns1:populationGrowth 0.41 ;
     ns1:unemployment 3.1 ;
     skos:prefLabel "香港" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/HK_obeth1>,

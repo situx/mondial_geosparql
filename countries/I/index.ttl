@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/I_geom> ;
     geo:hasMetricArea 301230 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/I/provinces/Lazio/cities/Roma> ;
-    ns1:carCode "I" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/i> ;
     ns1:gdpAgri 2 ;
     ns1:gdpInd 24.4 ;
     ns1:gdpServ 73.5 ;
@@ -106,7 +106,6 @@
         <http://www.semwebtech.org/mondial/countries/RSM>,
         <http://www.semwebtech.org/mondial/countries/SLO>,
         <http://www.semwebtech.org/mondial/countries/V> ;
-    ns1:populationGrowth 0.3 ;
     ns1:unemployment 12.4 ;
     skos:prefLabel "Repubblica Italiana (la)" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I_obeth1>,

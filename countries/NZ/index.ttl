@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NZ_geom> ;
     geo:hasMetricArea 268680 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/NZ/cities/Wellington> ;
-    ns1:carCode "NZ" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/nz> ;
     ns1:gdpAgri 5 ;
     ns1:gdpInd 25.5 ;
     ns1:gdpServ 69.5 ;
@@ -29,7 +29,6 @@
         <http://www.semwebtech.org/mondial/countries/NZ/cities/Wellington> ;
     ns1:independenceDate "1907-09-26"^^xsd:date ;
     ns1:infantMortality 4.59 ;
-    ns1:populationGrowth 0.83 ;
     ns1:unemployment 6.4 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "New Zealand" ;

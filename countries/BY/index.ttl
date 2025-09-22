@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BY_geom> ;
     geo:hasMetricArea 207600 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/BY/provinces/Minsk+City/cities/Minsk> ;
-    ns1:carCode "BY" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/by> ;
     ns1:gdpAgri 9.2 ;
     ns1:gdpInd 46.2 ;
     ns1:gdpServ 44.7 ;
@@ -49,7 +49,6 @@
         <http://www.semwebtech.org/mondial/countries/PL>,
         <http://www.semwebtech.org/mondial/countries/R>,
         <http://www.semwebtech.org/mondial/countries/UA> ;
-    ns1:populationGrowth -0.19 ;
     ns1:unemployment 1 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Soviet+Union> ;
     skos:prefLabel "Рэспубліка Беларусь" ;

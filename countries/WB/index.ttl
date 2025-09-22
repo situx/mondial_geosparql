@@ -15,7 +15,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 5655 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/WB/cities/Ramallah> ;
-    ns1:carCode "WB" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/wb> ;
     ns1:gdpAgri 33 ;
     ns1:gdpInd 7 ;
     ns1:gdpServ 60 ;
@@ -26,7 +26,6 @@
     ns1:infantMortality 28.6 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/IL>,
         <http://www.semwebtech.org/mondial/countries/JOR> ;
-    ns1:populationGrowth 4.99 ;
     skos:prefLabel "الضفة الغربية" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/WB_obeth1>,
         <http://www.semwebtech.org/mondial/countries/WB_obeth2>,

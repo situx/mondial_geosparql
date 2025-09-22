@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SYR_geom> ;
     geo:hasMetricArea 185180 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SYR/provinces/Dimashq/cities/Dimashq> ;
-    ns1:carCode "SYR" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/syr> ;
     ns1:gdpAgri 17.6 ;
     ns1:gdpInd 22.2 ;
     ns1:gdpServ 60.2 ;
@@ -60,7 +60,6 @@
         <http://www.semwebtech.org/mondial/countries/JOR>,
         <http://www.semwebtech.org/mondial/countries/RL>,
         <http://www.semwebtech.org/mondial/countries/TR> ;
-    ns1:populationGrowth -9.73 ;
     ns1:unemployment 17.8 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/organizations/UN> ;
     skos:prefLabel "الجمهورية العربية السورية" ;

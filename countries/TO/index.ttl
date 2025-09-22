@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/TO_geom> ;
     geo:hasMetricArea 748 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/TO/cities/Nukualofa> ;
-    ns1:carCode "TO" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/to> ;
     ns1:gdpAgri 20.9 ;
     ns1:gdpInd 21.9 ;
     ns1:gdpServ 57.2 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TO/cities/Nukualofa> ;
     ns1:independenceDate "1970-06-04"^^xsd:date ;
     ns1:infantMortality 12.36 ;
-    ns1:populationGrowth 0.09 ;
     ns1:unemployment 13 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "the Kingdom of Tonga " ;

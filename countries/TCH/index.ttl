@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/TCH_geom> ;
     geo:hasMetricArea 1284000 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/TCH/cities/N'Djamena> ;
-    ns1:carCode "TCH" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/tch> ;
     ns1:gdpAgri 46.3 ;
     ns1:gdpInd 9.9 ;
     ns1:gdpServ 43.8 ;
@@ -32,7 +32,6 @@
         <http://www.semwebtech.org/mondial/countries/RCA>,
         <http://www.semwebtech.org/mondial/countries/RN>,
         <http://www.semwebtech.org/mondial/countries/SUD> ;
-    ns1:populationGrowth 1.92 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     skos:prefLabel "جمهورية تشاد" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TCH_obeth1>,

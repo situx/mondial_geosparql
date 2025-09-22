@@ -14,13 +14,12 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 374 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/MYT/cities/Mamoutzou> ;
-    ns1:carCode "MYT" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/myt> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     ns1:gdpTotal 953.6 ;
     ns1:government <http://www.wikidata.org/entity/Q583865> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MYT/cities/Mamoutzou> ;
     ns1:infantMortality 56.29 ;
-    ns1:populationGrowth 3.32 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYT_obeth1>,
         <http://www.semwebtech.org/mondial/countries/MYT_obpop>,
         <http://www.semwebtech.org/mondial/countries/MYT_obpophist0>,

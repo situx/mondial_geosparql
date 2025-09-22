@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ANG_geom> ;
     geo:hasMetricArea 1246700 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/ANG/provinces/Luanda/cities/Luanda> ;
-    ns1:carCode "ANG" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ang> ;
     ns1:gdpAgri 10.2 ;
     ns1:gdpInd 61.4 ;
     ns1:gdpServ 28.4 ;
@@ -64,7 +64,6 @@
         <http://www.semwebtech.org/mondial/countries/NAM>,
         <http://www.semwebtech.org/mondial/countries/RCB>,
         <http://www.semwebtech.org/mondial/countries/Z> ;
-    ns1:populationGrowth 2.78 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/P> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG_obeth1>,
         <http://www.semwebtech.org/mondial/countries/ANG_obeth10>,

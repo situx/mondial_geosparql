@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/UZ_geom> ;
     geo:hasMetricArea 447400 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/UZ/provinces/Toshkent+City/cities/Toshkent> ;
-    ns1:carCode "UZ" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/uz> ;
     ns1:gdpAgri 19.1 ;
     ns1:gdpInd 32.2 ;
     ns1:gdpServ 48.7 ;
@@ -61,7 +61,6 @@
         <http://www.semwebtech.org/mondial/countries/KZ>,
         <http://www.semwebtech.org/mondial/countries/TJ>,
         <http://www.semwebtech.org/mondial/countries/TM> ;
-    ns1:populationGrowth 0.93 ;
     ns1:unemployment 4.9 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Soviet+Union> ;
     skos:prefLabel "Oʻzbekiston" ;

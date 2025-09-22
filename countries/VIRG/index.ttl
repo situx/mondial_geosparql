@@ -14,7 +14,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 346 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/VIRG/cities/Charlotte+Amalie> ;
-    ns1:carCode "VIRG" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/virg> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/USA> ;
     ns1:gdpAgri 1 ;
     ns1:gdpInd 19 ;
@@ -23,7 +23,6 @@
     ns1:government "organized" ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/VIRG/cities/Charlotte+Amalie> ;
     ns1:infantMortality 6.79 ;
-    ns1:populationGrowth -0.56 ;
     ns1:unemployment 6.2 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/VIRG_obeth1>,
         <http://www.semwebtech.org/mondial/countries/VIRG_obeth2>,

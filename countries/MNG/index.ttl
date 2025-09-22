@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MNG_geom> ;
     geo:hasMetricArea 1565000 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/MNG/cities/Ulaanbaatar> ;
-    ns1:carCode "MNG" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/mng> ;
     ns1:gdpAgri 16.5 ;
     ns1:gdpInd 32.6 ;
     ns1:gdpServ 50.9 ;
@@ -28,7 +28,6 @@
     ns1:infantMortality 23.15 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/CN>,
         <http://www.semwebtech.org/mondial/countries/R> ;
-    ns1:populationGrowth 1.37 ;
     ns1:unemployment 9 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/CN> ;
     skos:prefLabel "Монгол улс" ;

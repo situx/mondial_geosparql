@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RO_geom> ;
     geo:hasMetricArea 237500 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Bucureşti/cities/Bucureşti> ;
-    ns1:carCode "RO" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ro> ;
     ns1:gdpAgri 6.4 ;
     ns1:gdpInd 34.2 ;
     ns1:gdpServ 59.4 ;
@@ -113,7 +113,6 @@
         <http://www.semwebtech.org/mondial/countries/MD>,
         <http://www.semwebtech.org/mondial/countries/SRB>,
         <http://www.semwebtech.org/mondial/countries/UA> ;
-    ns1:populationGrowth -0.29 ;
     ns1:unemployment 7.3 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Ottoman+Empire> ;
     skos:prefLabel "România" ;

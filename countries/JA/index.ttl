@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/JA_geom> ;
     geo:hasMetricArea 10991 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/JA/cities/Kingston> ;
-    ns1:carCode "JA" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ja> ;
     ns1:gdpAgri 6.5 ;
     ns1:gdpInd 29.4 ;
     ns1:gdpServ 64.1 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/JA/cities/Kingston> ;
     ns1:independenceDate "1962-08-06"^^xsd:date ;
     ns1:infantMortality 13.69 ;
-    ns1:populationGrowth 0.69 ;
     ns1:unemployment 16.3 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "Jamaica" ;

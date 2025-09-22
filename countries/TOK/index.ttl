@@ -15,11 +15,10 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 12 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/TOK/cities/Fakaofo> ;
-    ns1:carCode "TOK" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/tok> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/NZ> ;
     ns1:gdpTotal 1.5 ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TOK/cities/Fakaofo> ;
-    ns1:populationGrowth -0.01 ;
     skos:prefLabel "Tokelau" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TOK_obeth1>,
         <http://www.semwebtech.org/mondial/countries/TOK_obeth2>,

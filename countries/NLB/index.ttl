@@ -14,7 +14,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 294 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/NLB/cities/Kralendijk> ;
-    ns1:carCode "NLB" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/nlb> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/NL> ;
     ns1:government <http://www.wikidata.org/entity/Q7174> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NLB/cities/Kralendijk> ;

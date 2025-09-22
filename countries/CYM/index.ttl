@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CYM_geom> ;
     geo:hasMetricArea 262 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/CYM/cities/George+Town> ;
-    ns1:carCode "CYM" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/cym> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     ns1:gdpAgri 0.3 ;
     ns1:gdpInd 27.4 ;
@@ -24,7 +24,6 @@
     ns1:government <http://www.wikidata.org/entity/Q3043547> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CYM/cities/George+Town> ;
     ns1:infantMortality 6.21 ;
-    ns1:populationGrowth 2.14 ;
     ns1:unemployment 4 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CYM_obeth1>,
         <http://www.semwebtech.org/mondial/countries/CYM_obeth2>,

@@ -15,7 +15,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 78703 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/CZ/provinces/Praha/cities/Praha> ;
-    ns1:carCode "CZ" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/cz> ;
     ns1:gdpAgri 2.4 ;
     ns1:gdpInd 37.3 ;
     ns1:gdpServ 60.3 ;
@@ -54,7 +54,6 @@
         <http://www.semwebtech.org/mondial/countries/D>,
         <http://www.semwebtech.org/mondial/countries/PL>,
         <http://www.semwebtech.org/mondial/countries/SK> ;
-    ns1:populationGrowth 0.17 ;
     ns1:unemployment 7.1 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Czechoslovakia> ;
     skos:altLabel "Czechia" ;

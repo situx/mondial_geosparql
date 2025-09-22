@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SME_geom> ;
     geo:hasMetricArea 163270 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SME/cities/Paramaribo> ;
-    ns1:carCode "SME" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/sme> ;
     ns1:gdpAgri 8.9 ;
     ns1:gdpInd 36.6 ;
     ns1:gdpServ 54.5 ;
@@ -28,7 +28,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/BR>,
         <http://www.semwebtech.org/mondial/countries/GF>,
         <http://www.semwebtech.org/mondial/countries/GUY> ;
-    ns1:populationGrowth 1.12 ;
     ns1:unemployment 9 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/NL> ;
     skos:prefLabel "Republiek Suriname (de)" ;

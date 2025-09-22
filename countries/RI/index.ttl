@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RI_geom> ;
     geo:hasMetricArea 1919440 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/RI/provinces/DKI+Jakarta/cities/Jakarta> ;
-    ns1:carCode "RI" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ri> ;
     ns1:gdpAgri 14.3 ;
     ns1:gdpInd 46.6 ;
     ns1:gdpServ 39.1 ;
@@ -119,7 +119,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/MAL>,
         <http://www.semwebtech.org/mondial/countries/PNG>,
         <http://www.semwebtech.org/mondial/countries/TL> ;
-    ns1:populationGrowth 0.95 ;
     ns1:unemployment 6.6 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/NL> ;
     skos:prefLabel "Republik Indonesia" ;

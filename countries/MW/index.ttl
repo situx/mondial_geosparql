@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MW_geom> ;
     geo:hasMetricArea 118480 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/MW/cities/Lilongwe> ;
-    ns1:carCode "MW" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/mw> ;
     ns1:gdpAgri 29.4 ;
     ns1:gdpInd 18.9 ;
     ns1:gdpServ 51.7 ;
@@ -29,7 +29,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/EAT>,
         <http://www.semwebtech.org/mondial/countries/MOC>,
         <http://www.semwebtech.org/mondial/countries/Z> ;
-    ns1:populationGrowth 3.32 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "Dziko la Malaŵi" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MW_obeth1>,

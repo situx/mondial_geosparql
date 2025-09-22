@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/LT_geom> ;
     geo:hasMetricArea 65200 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/LT/cities/Vilnius> ;
-    ns1:carCode "LT" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/lt> ;
     ns1:gdpAgri 3.7 ;
     ns1:gdpInd 28.3 ;
     ns1:gdpServ 68 ;
@@ -31,7 +31,6 @@
         <http://www.semwebtech.org/mondial/countries/LV>,
         <http://www.semwebtech.org/mondial/countries/PL>,
         <http://www.semwebtech.org/mondial/countries/R> ;
-    ns1:populationGrowth -0.29 ;
     ns1:unemployment 12.4 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Soviet+Union> ;
     skos:prefLabel "Lietuvos Respublika" ;

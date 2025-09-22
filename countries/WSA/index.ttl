@@ -16,14 +16,13 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/WSA_geom> ;
     geo:hasMetricArea 266000 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/WSA/cities/El+Aaiun> ;
-    ns1:carCode "WSA" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/wsa> ;
     ns1:government "legal status of territory and question of sovereignty unresolved" ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/WSA/cities/El+Aaiun> ;
     ns1:infantMortality 145.82 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/DZ>,
         <http://www.semwebtech.org/mondial/countries/MA>,
         <http://www.semwebtech.org/mondial/countries/RIM> ;
-    ns1:populationGrowth 2.46 ;
     skos:prefLabel "الصحراء الغربية" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/WSA_obpop>,
         <http://www.semwebtech.org/mondial/countries/WSA_obpophist0>,

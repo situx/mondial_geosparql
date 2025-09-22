@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CK_geom> ;
     geo:hasMetricArea 240 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/CK/cities/Avarua> ;
-    ns1:carCode "CK" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ck> ;
     ns1:gdpAgri 5.1 ;
     ns1:gdpInd 12.7 ;
     ns1:gdpServ 82.1 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CK/cities/Avarua> ;
     ns1:independenceDate "1965-08-04"^^xsd:date ;
     ns1:infantMortality 14.33 ;
-    ns1:populationGrowth -3 ;
     ns1:unemployment 13.1 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/NZ> ;
     skos:prefLabel "Cook Islands" ;

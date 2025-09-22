@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MD_geom> ;
     geo:hasMetricArea 33700 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/MD/cities/Chişinău> ;
-    ns1:carCode "MD" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/md> ;
     ns1:gdpAgri 13.8 ;
     ns1:gdpInd 19.9 ;
     ns1:gdpServ 66.2 ;
@@ -29,7 +29,6 @@
     ns1:infantMortality 12.93 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/RO>,
         <http://www.semwebtech.org/mondial/countries/UA> ;
-    ns1:populationGrowth -1.02 ;
     ns1:unemployment 5.8 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Soviet+Union> ;
     skos:prefLabel "Republica Moldova" ;

@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PAL_geom> ;
     geo:hasMetricArea 458 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/PAL/cities/Ngerulmud> ;
-    ns1:carCode "PAL" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/pal> ;
     ns1:gdpAgri 3.2 ;
     ns1:gdpInd 20 ;
     ns1:gdpServ 76.8 ;
@@ -26,7 +26,6 @@
         <http://www.semwebtech.org/mondial/countries/PAL/cities/Ngerulmud> ;
     ns1:independenceDate "1994-10-01"^^xsd:date ;
     ns1:infantMortality 11.46 ;
-    ns1:populationGrowth 0.37 ;
     ns1:unemployment 4.2 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/organizations/UN> ;
     skos:prefLabel "Beluu er a Belau" ;

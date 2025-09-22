@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MH_geom> ;
     geo:hasMetricArea 181.3 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/MH/cities/Majuro> ;
-    ns1:carCode "MH" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/mh> ;
     ns1:gdpAgri 14.3 ;
     ns1:gdpInd 13.9 ;
     ns1:gdpServ 71.8 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MH/cities/Majuro> ;
     ns1:independenceDate "1986-10-21"^^xsd:date ;
     ns1:infantMortality 21.39 ;
-    ns1:populationGrowth 1.72 ;
     ns1:unemployment 36 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/organizations/UN> ;
     skos:prefLabel "The Republic of the Marshall Islands" ;

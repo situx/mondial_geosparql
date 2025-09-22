@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NAU_geom> ;
     geo:hasMetricArea 21 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/NAU/cities/Yaren> ;
-    ns1:carCode "NAU" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/nau> ;
     ns1:gdpAgri 6.1 ;
     ns1:gdpInd 33 ;
     ns1:gdpServ 60.8 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NAU/cities/Yaren> ;
     ns1:independenceDate "1968-01-31"^^xsd:date ;
     ns1:infantMortality 8.21 ;
-    ns1:populationGrowth 0.56 ;
     ns1:unemployment 90 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/organizations/UN> ;
     skos:prefLabel "the Republic of Nauru" ;

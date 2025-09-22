@@ -15,13 +15,12 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GU_geom> ;
     geo:hasMetricArea 545 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/GU/cities/Hagåtña> ;
-    ns1:carCode "GU" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/gu> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/USA> ;
     ns1:gdpTotal 4600 ;
     ns1:government "organized" ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GU/cities/Hagåtña> ;
     ns1:infantMortality 5.51 ;
-    ns1:populationGrowth 0.44 ;
     ns1:unemployment 8.2 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GU_obeth1>,
         <http://www.semwebtech.org/mondial/countries/GU_obeth2>,

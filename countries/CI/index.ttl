@@ -15,7 +15,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 322460 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/CI/provinces/Yamoussoukro/cities/Yamoussoukro> ;
-    ns1:carCode "CI" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ci> ;
     ns1:gdpAgri 26.3 ;
     ns1:gdpInd 21.3 ;
     ns1:gdpServ 52.4 ;
@@ -56,7 +56,6 @@
         <http://www.semwebtech.org/mondial/countries/LB>,
         <http://www.semwebtech.org/mondial/countries/RG>,
         <http://www.semwebtech.org/mondial/countries/RMM> ;
-    ns1:populationGrowth 1.96 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     skos:prefLabel "la République de Côte d'Ivoire" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CI_obeth1>,

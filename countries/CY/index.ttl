@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CY_geom> ;
     geo:hasMetricArea 9251 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/CY/cities/Nicosia> ;
-    ns1:carCode "CY" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/cy> ;
     ns1:gdpAgri 2.4 ;
     ns1:gdpInd 15.9 ;
     ns1:gdpServ 81.7 ;
@@ -28,7 +28,6 @@
     ns1:independenceDate "1960-08-16"^^xsd:date ;
     ns1:infantMortality 8.54 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/AD> ;
-    ns1:populationGrowth 1.48 ;
     ns1:unemployment 17.4 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "Κυπριακή Δημοκρατία" ;

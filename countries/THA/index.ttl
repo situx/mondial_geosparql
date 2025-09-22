@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/THA_geom> ;
     geo:hasMetricArea 514000 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/THA/cities/Bangkok> ;
-    ns1:carCode "THA" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/tha> ;
     ns1:gdpAgri 12.1 ;
     ns1:gdpInd 43.6 ;
     ns1:gdpServ 44.2 ;
@@ -39,7 +39,6 @@
         <http://www.semwebtech.org/mondial/countries/LAO>,
         <http://www.semwebtech.org/mondial/countries/MAL>,
         <http://www.semwebtech.org/mondial/countries/MYA> ;
-    ns1:populationGrowth 0.35 ;
     ns1:unemployment 0.7 ;
     skos:prefLabel "ราชอาณาจักรไทย" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/THA_obeth1>,

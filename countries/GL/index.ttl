@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GL_geom> ;
     geo:hasMetricArea 2175600 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/GL/cities/Nuuk> ;
-    ns1:carCode "GL" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/gl> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/DK> ;
     ns1:gdpAgri 4 ;
     ns1:gdpInd 29 ;
@@ -25,7 +25,6 @@
     ns1:government "parliamentary democracy within a constitutional monarchy" ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GL/cities/Nuuk> ;
     ns1:infantMortality 9.42 ;
-    ns1:populationGrowth 0.02 ;
     ns1:unemployment 9.4 ;
     skos:prefLabel "Kalaallit Nunaat" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GL_obeth1>,

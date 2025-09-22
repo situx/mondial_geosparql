@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MV_geom> ;
     geo:hasMetricArea 300 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/MV/cities/Male> ;
-    ns1:carCode "MV" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/mv> ;
     ns1:gdpAgri 3 ;
     ns1:gdpInd 17 ;
     ns1:gdpServ 80 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MV/cities/Male> ;
     ns1:independenceDate "1965-07-26"^^xsd:date ;
     ns1:infantMortality 24.59 ;
-    ns1:populationGrowth -0.09 ;
     ns1:unemployment 28 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "ދިވެހިރާއްޖޭގެ ޖުމުހޫރިއްޔާ" ;

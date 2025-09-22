@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BD_geom> ;
     geo:hasMetricArea 144000 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/BD/provinces/Dhaka/cities/Dhaka> ;
-    ns1:carCode "BD" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/bd> ;
     ns1:gdpAgri 17.2 ;
     ns1:gdpInd 28.9 ;
     ns1:gdpServ 53.9 ;
@@ -47,7 +47,6 @@
     ns1:infantMortality 45.67 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/IND>,
         <http://www.semwebtech.org/mondial/countries/MYA> ;
-    ns1:populationGrowth 1.6 ;
     ns1:unemployment 5 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/PK> ;
     skos:prefLabel "গণপ্রজাতন্ত্রী বাংলাদেশ" ;

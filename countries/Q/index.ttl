@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/Q_geom> ;
     geo:hasMetricArea 11000 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/Q/cities/Doha> ;
-    ns1:carCode "Q" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/q> ;
     ns1:gdpAgri 0.1 ;
     ns1:gdpInd 72.2 ;
     ns1:gdpServ 27.7 ;
@@ -27,7 +27,6 @@
     ns1:independenceDate "1971-09-03"^^xsd:date ;
     ns1:infantMortality 6.42 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/SA> ;
-    ns1:populationGrowth 3.58 ;
     ns1:unemployment 0.3 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "دولة قطر" ;

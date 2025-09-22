@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RN_geom> ;
     geo:hasMetricArea 1267000 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/RN/provinces/Niamey/cities/Niamey> ;
-    ns1:carCode "RN" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/rn> ;
     ns1:gdpAgri 35.2 ;
     ns1:gdpInd 14.2 ;
     ns1:gdpServ 50.6 ;
@@ -53,7 +53,6 @@
         <http://www.semwebtech.org/mondial/countries/NGR>,
         <http://www.semwebtech.org/mondial/countries/RMM>,
         <http://www.semwebtech.org/mondial/countries/TCH> ;
-    ns1:populationGrowth 3.28 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     skos:prefLabel "la République du Niger" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RN_obeth1>,

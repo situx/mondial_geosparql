@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BG_geom> ;
     geo:hasMetricArea 110910 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/BG/cities/Sofia> ;
-    ns1:carCode "BG" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/bg> ;
     ns1:gdpAgri 6.7 ;
     ns1:gdpInd 30.3 ;
     ns1:gdpServ 63 ;
@@ -36,7 +36,6 @@
         <http://www.semwebtech.org/mondial/countries/RO>,
         <http://www.semwebtech.org/mondial/countries/SRB>,
         <http://www.semwebtech.org/mondial/countries/TR> ;
-    ns1:populationGrowth -0.83 ;
     ns1:unemployment 11.6 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Ottoman+Empire> ;
     skos:prefLabel "Република България" ;

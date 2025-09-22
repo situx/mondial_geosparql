@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PR_geom> ;
     geo:hasMetricArea 8870 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/PR/cities/San+Juan> ;
-    ns1:carCode "PR" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/pr> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/USA> ;
     ns1:gdpAgri 0.7 ;
     ns1:gdpInd 48.8 ;
@@ -27,7 +27,6 @@
         <http://www.semwebtech.org/mondial/countries/PR/cities/Ponce>,
         <http://www.semwebtech.org/mondial/countries/PR/cities/San+Juan> ;
     ns1:infantMortality 7.73 ;
-    ns1:populationGrowth -0.65 ;
     ns1:unemployment 16 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PR_obeth1>,
         <http://www.semwebtech.org/mondial/countries/PR_obeth2>,

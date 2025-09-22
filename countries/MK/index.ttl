@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MK_geom> ;
     geo:hasMetricArea 25333 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/MK/cities/Skopje> ;
-    ns1:carCode "MK" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/mk> ;
     ns1:gdpAgri 10.2 ;
     ns1:gdpInd 27.5 ;
     ns1:gdpServ 62.3 ;
@@ -31,7 +31,6 @@
         <http://www.semwebtech.org/mondial/countries/GR>,
         <http://www.semwebtech.org/mondial/countries/KOS>,
         <http://www.semwebtech.org/mondial/countries/SRB> ;
-    ns1:populationGrowth 0.21 ;
     ns1:unemployment 28.6 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Yugoslavia> ;
     skos:prefLabel "Република Cеверна Македонија" ;

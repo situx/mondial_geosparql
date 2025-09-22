@@ -14,14 +14,13 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 2510 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/RE/cities/Saint-Denis> ;
-    ns1:carCode "RE" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/re> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     ns1:gdpTotal 2900 ;
     ns1:government "overseas department of France" ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RE/cities/Saint-Denis>,
         <http://www.semwebtech.org/mondial/countries/RE/cities/Saint-Paul> ;
     ns1:infantMortality 7.5 ;
-    ns1:populationGrowth 1.93 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RE_obeth1>,
         <http://www.semwebtech.org/mondial/countries/RE_obeth2>,
         <http://www.semwebtech.org/mondial/countries/RE_obeth3>,

@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/KP_geom> ;
     geo:hasMetricArea 120540 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/KP/cities/Pyongyang> ;
-    ns1:carCode "KP" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/kp> ;
     ns1:gdpAgri 23.4 ;
     ns1:gdpInd 47.2 ;
     ns1:gdpServ 29.4 ;
@@ -46,7 +46,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/CN>,
         <http://www.semwebtech.org/mondial/countries/R>,
         <http://www.semwebtech.org/mondial/countries/ROK> ;
-    ns1:populationGrowth 0.53 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/J> ;
     skos:prefLabel "조선 민주주의 인민 공화국" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KP_obeth1>,

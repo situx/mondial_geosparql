@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BF_geom> ;
     geo:hasMetricArea 274200 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/BF/cities/Ouagadougou> ;
-    ns1:carCode "BF" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/bf> ;
     ns1:gdpAgri 33.6 ;
     ns1:gdpInd 23.6 ;
     ns1:gdpServ 42.8 ;
@@ -32,7 +32,6 @@
         <http://www.semwebtech.org/mondial/countries/RMM>,
         <http://www.semwebtech.org/mondial/countries/RN>,
         <http://www.semwebtech.org/mondial/countries/RT> ;
-    ns1:populationGrowth 3.05 ;
     ns1:unemployment 77 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     skos:prefLabel "le Burkina Faso" ;

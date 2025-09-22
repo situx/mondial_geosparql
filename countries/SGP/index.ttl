@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SGP_geom> ;
     geo:hasMetricArea 632.6 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SGP/cities/Singapore> ;
-    ns1:carCode "SGP" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/sgp> ;
     ns1:gdpAgri 0 ;
     ns1:gdpInd 29.4 ;
     ns1:gdpServ 70.6 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SGP/cities/Singapore> ;
     ns1:independenceDate "1965-08-09"^^xsd:date ;
     ns1:infantMortality 2.53 ;
-    ns1:populationGrowth 1.92 ;
     ns1:unemployment 1.9 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/MAL> ;
     skos:prefLabel "新加坡共和国" ;

@@ -14,7 +14,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 14 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/CC/cities/West+Island> ;
-    ns1:carCode "CC" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/cc> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/AUS> ;
     ns1:government <http://www.wikidata.org/entity/Q11687019> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CC/cities/West+Island> ;

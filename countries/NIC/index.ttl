@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NIC_geom> ;
     geo:hasMetricArea 129494 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/NIC/cities/Managua> ;
-    ns1:carCode "NIC" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/nic> ;
     ns1:gdpAgri 17.1 ;
     ns1:gdpInd 25.5 ;
     ns1:gdpServ 57.5 ;
@@ -35,7 +35,6 @@
     ns1:infantMortality 20.36 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/CR>,
         <http://www.semwebtech.org/mondial/countries/HN> ;
-    ns1:populationGrowth 1.02 ;
     ns1:unemployment 7.2 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
     skos:prefLabel "la República de Nicaragua" ;

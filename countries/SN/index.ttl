@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SN_geom> ;
     geo:hasMetricArea 196190 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SN/provinces/Dakar/cities/Dakar> ;
-    ns1:carCode "SN" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/sn> ;
     ns1:gdpAgri 14.9 ;
     ns1:gdpInd 22.7 ;
     ns1:gdpServ 62.4 ;
@@ -58,7 +58,6 @@
         <http://www.semwebtech.org/mondial/countries/RIM>,
         <http://www.semwebtech.org/mondial/countries/RMM>,
         <http://www.semwebtech.org/mondial/countries/WAG> ;
-    ns1:populationGrowth 2.48 ;
     ns1:unemployment 48 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SN_obeth1>,

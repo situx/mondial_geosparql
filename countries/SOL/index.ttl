@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SOL_geom> ;
     geo:hasMetricArea 28450 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SOL/cities/Honiara> ;
-    ns1:carCode "SOL" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/sol> ;
     ns1:gdpAgri 50 ;
     ns1:gdpInd 10.6 ;
     ns1:gdpServ 39.4 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SOL/cities/Honiara> ;
     ns1:independenceDate "1978-07-07"^^xsd:date ;
     ns1:infantMortality 16.17 ;
-    ns1:populationGrowth 2.07 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "Solomon Islands" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SOL_obeth1>,

@@ -15,13 +15,12 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/AS_geom> ;
     geo:hasMetricArea 199 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/AS/cities/Pago+Pago> ;
-    ns1:carCode "AS" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/as> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/USA> ;
     ns1:gdpTotal 462.2 ;
     ns1:government "unincorporated and unorganized territory of the US" ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/AS/cities/Pago+Pago> ;
     ns1:infantMortality 8.92 ;
-    ns1:populationGrowth -0.35 ;
     ns1:unemployment 29.8 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AS_obeth1>,
         <http://www.semwebtech.org/mondial/countries/AS_obeth2>,

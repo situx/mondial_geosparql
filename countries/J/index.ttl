@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/J_geom> ;
     geo:hasMetricArea 377835 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/J/provinces/Tokyo/cities/Tokyo> ;
-    ns1:carCode "J" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/j> ;
     ns1:gdpAgri 1.1 ;
     ns1:gdpInd 25.6 ;
     ns1:gdpServ 73.2 ;
@@ -142,7 +142,6 @@
         <http://www.semwebtech.org/mondial/countries/J/provinces/Yamaguchi>,
         <http://www.semwebtech.org/mondial/countries/J/provinces/Yamanashi> ;
     ns1:infantMortality 2.13 ;
-    ns1:populationGrowth -0.13 ;
     ns1:unemployment 4.1 ;
     skos:prefLabel "日本" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J_obeth1>,

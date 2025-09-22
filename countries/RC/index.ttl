@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RC_geom> ;
     geo:hasMetricArea 36179 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/RC/cities/Taipei> ;
-    ns1:carCode "RC" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/rc> ;
     ns1:gdpAgri 2 ;
     ns1:gdpInd 29.4 ;
     ns1:gdpServ 68.6 ;
@@ -38,7 +38,6 @@
         <http://www.semwebtech.org/mondial/countries/RC/cities/Taoyuan> ;
     ns1:independenceDate "1949-10-01"^^xsd:date ;
     ns1:infantMortality 4.49 ;
-    ns1:populationGrowth 0.25 ;
     ns1:unemployment 4.1 ;
     skos:prefLabel "中華民國" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RC_obeth1>,

@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/S_geom> ;
     geo:hasMetricArea 449964 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm/cities/Stockholm> ;
-    ns1:carCode "S" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/s> ;
     ns1:gdpAgri 2 ;
     ns1:gdpInd 31.3 ;
     ns1:gdpServ 66.8 ;
@@ -75,7 +75,6 @@
     ns1:infantMortality 2.6 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/N>,
         <http://www.semwebtech.org/mondial/countries/SF> ;
-    ns1:populationGrowth 0.79 ;
     ns1:unemployment 8.1 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S_obeth1>,
         <http://www.semwebtech.org/mondial/countries/S_obeth2>,

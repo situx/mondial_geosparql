@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SMAR_geom> ;
     geo:hasMetricArea 54 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SMAR/cities/Marigot> ;
-    ns1:carCode "SMAR" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/smar> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     ns1:gdpAgri 1 ;
     ns1:gdpInd 15 ;

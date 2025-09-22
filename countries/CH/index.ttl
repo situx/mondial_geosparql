@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CH_geom> ;
     geo:hasMetricArea 41290 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/CH/provinces/Bern/cities/Bern> ;
-    ns1:carCode "CH" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ch> ;
     ns1:gdpAgri 0.7 ;
     ns1:gdpInd 26.8 ;
     ns1:gdpServ 72.5 ;
@@ -83,7 +83,6 @@
         <http://www.semwebtech.org/mondial/countries/F>,
         <http://www.semwebtech.org/mondial/countries/FL>,
         <http://www.semwebtech.org/mondial/countries/I> ;
-    ns1:populationGrowth 0.78 ;
     ns1:unemployment 3.2 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CH_obeth1>,
         <http://www.semwebtech.org/mondial/countries/CH_obeth2>,

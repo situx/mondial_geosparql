@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NEP_geom> ;
     geo:hasMetricArea 140800 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/NEP/cities/Kathmandu> ;
-    ns1:carCode "NEP" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/nep> ;
     ns1:gdpAgri 36.8 ;
     ns1:gdpInd 14.5 ;
     ns1:gdpServ 48.7 ;
@@ -31,7 +31,6 @@
     ns1:infantMortality 40.43 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/CN>,
         <http://www.semwebtech.org/mondial/countries/IND> ;
-    ns1:populationGrowth 1.82 ;
     ns1:unemployment 46 ;
     skos:prefLabel "संघीय लोकतान्त्रिक गणतन्त्र नेपाल" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NEP_obeth1>,

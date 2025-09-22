@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/EC_geom> ;
     geo:hasMetricArea 283560 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/EC/cities/Quito> ;
-    ns1:carCode "EC" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ec> ;
     ns1:gdpAgri 5.9 ;
     ns1:gdpInd 35.1 ;
     ns1:gdpServ 59 ;
@@ -29,7 +29,6 @@
     ns1:infantMortality 17.93 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/CO>,
         <http://www.semwebtech.org/mondial/countries/PE> ;
-    ns1:populationGrowth 1.37 ;
     ns1:unemployment 4.2 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EC_obeth1>,

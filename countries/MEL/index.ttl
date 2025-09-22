@@ -14,7 +14,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 12 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/MEL/cities/Melilla> ;
-    ns1:carCode "MEL" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/mel> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/E> ;
     ns1:government "dependent territory of Spain" ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MEL/cities/Melilla> ;

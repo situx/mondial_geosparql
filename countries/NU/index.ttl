@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NU_geom> ;
     geo:hasMetricArea 260 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/NU/cities/Alofi> ;
-    ns1:carCode "NU" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/nu> ;
     ns1:gdpAgri 23.5 ;
     ns1:gdpInd 26.9 ;
     ns1:gdpServ 49.5 ;
@@ -24,7 +24,6 @@
     ns1:government "self-governing parliamentary democracy" ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NU/cities/Alofi> ;
     ns1:independenceDate "1974-10-19"^^xsd:date ;
-    ns1:populationGrowth -0.03 ;
     ns1:unemployment 12 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/NZ> ;
     skos:prefLabel "Niuē" ;

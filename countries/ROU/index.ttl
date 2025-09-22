@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ROU_geom> ;
     geo:hasMetricArea 176220 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/ROU/cities/Montevideo> ;
-    ns1:carCode "ROU" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/rou> ;
     ns1:gdpAgri 7.5 ;
     ns1:gdpInd 21.5 ;
     ns1:gdpServ 71 ;
@@ -28,7 +28,6 @@
     ns1:infantMortality 8.97 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/BR>,
         <http://www.semwebtech.org/mondial/countries/RA> ;
-    ns1:populationGrowth 0.26 ;
     ns1:unemployment 6.5 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/BR> ;
     skos:prefLabel "la República Oriental del Uruguay" ;

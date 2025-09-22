@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CDN_geom> ;
     geo:hasMetricArea 9976140 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Ottawa> ;
-    ns1:carCode "CDN" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/cdn> ;
     ns1:gdpAgri 1.7 ;
     ns1:gdpInd 28.4 ;
     ns1:gdpServ 69.9 ;
@@ -76,7 +76,6 @@
     ns1:independenceDate "1867-07-01"^^xsd:date ;
     ns1:infantMortality 4.71 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/USA> ;
-    ns1:populationGrowth 0.76 ;
     ns1:unemployment 7.1 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "Canada" ;

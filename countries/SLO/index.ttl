@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SLO_geom> ;
     geo:hasMetricArea 20256 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SLO/cities/Ljubljana> ;
-    ns1:carCode "SLO" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/slo> ;
     ns1:gdpAgri 2.8 ;
     ns1:gdpInd 28.9 ;
     ns1:gdpServ 68.3 ;
@@ -30,7 +30,6 @@
         <http://www.semwebtech.org/mondial/countries/H>,
         <http://www.semwebtech.org/mondial/countries/HR>,
         <http://www.semwebtech.org/mondial/countries/I> ;
-    ns1:populationGrowth -0.23 ;
     ns1:unemployment 13.1 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Yugoslavia> ;
     skos:prefLabel "Republika Slovenija" ;

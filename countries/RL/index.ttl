@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RL_geom> ;
     geo:hasMetricArea 10400 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/RL/cities/Bayrūt> ;
-    ns1:carCode "RL" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/rl> ;
     ns1:gdpAgri 4.6 ;
     ns1:gdpInd 20 ;
     ns1:gdpServ 75.4 ;
@@ -27,7 +27,6 @@
     ns1:infantMortality 7.98 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/IL>,
         <http://www.semwebtech.org/mondial/countries/SYR> ;
-    ns1:populationGrowth 9.37 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/organizations/UN> ;
     skos:prefLabel "الجمهورية" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RL_obeth1>,

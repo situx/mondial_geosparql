@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/FO_geom> ;
     geo:hasMetricArea 1400 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/FO/cities/Tórshavn> ;
-    ns1:carCode "FO" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/fo> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/DK> ;
     ns1:gdpAgri 16 ;
     ns1:gdpInd 29 ;
@@ -25,7 +25,6 @@
     ns1:government "part of the Danish realm" ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/FO/cities/Tórshavn> ;
     ns1:infantMortality 5.71 ;
-    ns1:populationGrowth 0.49 ;
     ns1:unemployment 6.8 ;
     skos:prefLabel "Føroyar" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/FO_obeth1>,

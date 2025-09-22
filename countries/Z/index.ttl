@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/Z_geom> ;
     geo:hasMetricArea 752610 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/Z/provinces/Lusaka/cities/Lusaka> ;
-    ns1:carCode "Z" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/z> ;
     ns1:gdpAgri 19.8 ;
     ns1:gdpInd 33.8 ;
     ns1:gdpServ 46.5 ;
@@ -54,7 +54,6 @@
         <http://www.semwebtech.org/mondial/countries/MW>,
         <http://www.semwebtech.org/mondial/countries/NAM>,
         <http://www.semwebtech.org/mondial/countries/ZW> ;
-    ns1:populationGrowth 2.88 ;
     ns1:unemployment 15 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/Z_obeth1>,

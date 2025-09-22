@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GBM_geom> ;
     geo:hasMetricArea 588 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/GBM/cities/Douglas> ;
-    ns1:carCode "GBM" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/gbm> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     ns1:gdpAgri 1 ;
     ns1:gdpInd 11 ;
@@ -25,7 +25,6 @@
     ns1:government <http://www.wikidata.org/entity/Q3043547> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GBM/cities/Douglas> ;
     ns1:infantMortality 4.17 ;
-    ns1:populationGrowth 0.8 ;
     ns1:unemployment 2 ;
     skos:prefLabel "the Isle of Man" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GBM_obeth1>,

@@ -15,7 +15,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 945090 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Dodoma/cities/Dodoma> ;
-    ns1:carCode "EAT" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/eat> ;
     ns1:gdpAgri 27.6 ;
     ns1:gdpInd 25 ;
     ns1:gdpServ 47.4 ;
@@ -85,7 +85,6 @@
         <http://www.semwebtech.org/mondial/countries/MW>,
         <http://www.semwebtech.org/mondial/countries/RWA>,
         <http://www.semwebtech.org/mondial/countries/Z> ;
-    ns1:populationGrowth 2.8 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "Jamhuri ya Muungano wa Tanzania" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT_obeth1>,

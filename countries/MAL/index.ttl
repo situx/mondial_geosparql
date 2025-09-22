@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MAL_geom> ;
     geo:hasMetricArea 329750 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kuala+Lumpur/cities/Kuala+Lumpur> ;
-    ns1:carCode "MAL" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/mal> ;
     ns1:gdpAgri 11.2 ;
     ns1:gdpInd 40.6 ;
     ns1:gdpServ 48.1 ;
@@ -65,7 +65,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/BRU>,
         <http://www.semwebtech.org/mondial/countries/RI>,
         <http://www.semwebtech.org/mondial/countries/THA> ;
-    ns1:populationGrowth 1.47 ;
     ns1:unemployment 3.1 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "Malaysia" ;

@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/AND_geom> ;
     geo:hasMetricArea 450 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/AND/cities/Andorra+la+Vella> ;
-    ns1:carCode "AND" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/and> ;
     ns1:gdpAgri 14 ;
     ns1:gdpInd 79 ;
     ns1:gdpServ 6 ;
@@ -27,7 +27,6 @@
     ns1:infantMortality 3.69 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/E>,
         <http://www.semwebtech.org/mondial/countries/F> ;
-    ns1:populationGrowth 0.17 ;
     ns1:unemployment 4 ;
     skos:prefLabel "Principat d'Andorra" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AND_obeth1>,

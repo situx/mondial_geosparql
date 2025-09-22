@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CN_geom> ;
     geo:hasMetricArea 9596960 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/CN/provinces/Beijing/cities/Beijing> ;
-    ns1:carCode "CN" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/cn> ;
     ns1:gdpAgri 10 ;
     ns1:gdpInd 43.9 ;
     ns1:gdpServ 46.1 ;
@@ -261,7 +261,6 @@
         <http://www.semwebtech.org/mondial/countries/R>,
         <http://www.semwebtech.org/mondial/countries/TJ>,
         <http://www.semwebtech.org/mondial/countries/VN> ;
-    ns1:populationGrowth 0.44 ;
     ns1:unemployment 4.1 ;
     skos:prefLabel "中國" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN_obeth1>,

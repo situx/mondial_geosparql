@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PF_geom> ;
     geo:hasMetricArea 4167 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/PF/cities/Papeete> ;
-    ns1:carCode "PF" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/pf> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     ns1:gdpAgri 3.1 ;
     ns1:gdpInd 20 ;
@@ -26,7 +26,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PF/cities/Papeete>,
         <http://www.semwebtech.org/mondial/countries/PF/cities/Rikitea> ;
     ns1:infantMortality 4.78 ;
-    ns1:populationGrowth 0.97 ;
     ns1:unemployment 11.7 ;
     skos:prefLabel "Pōrīnetia Farāni" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PF_obeth1>,

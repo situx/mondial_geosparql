@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/FL_geom> ;
     geo:hasMetricArea 160 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/FL/cities/Vaduz> ;
-    ns1:carCode "FL" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/fl> ;
     ns1:gdpAgri 8 ;
     ns1:gdpInd 37 ;
     ns1:gdpServ 55 ;
@@ -27,7 +27,6 @@
     ns1:infantMortality 4.33 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/A>,
         <http://www.semwebtech.org/mondial/countries/CH> ;
-    ns1:populationGrowth 0.82 ;
     ns1:unemployment 2.3 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Holy+Roman+Empire> ;
     skos:prefLabel "Fürstentum Liechtenstein (das)" ;

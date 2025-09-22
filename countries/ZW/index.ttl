@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ZW_geom> ;
     geo:hasMetricArea 390580 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/ZW/cities/Harare> ;
-    ns1:carCode "ZW" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/zw> ;
     ns1:gdpAgri 20.1 ;
     ns1:gdpInd 25.4 ;
     ns1:gdpServ 54.5 ;
@@ -30,7 +30,6 @@
         <http://www.semwebtech.org/mondial/countries/RB>,
         <http://www.semwebtech.org/mondial/countries/RSA>,
         <http://www.semwebtech.org/mondial/countries/Z> ;
-    ns1:populationGrowth 4.36 ;
     ns1:unemployment 95 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ZW_obeth1>,

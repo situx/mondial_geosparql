@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/OM_geom> ;
     geo:hasMetricArea 212460 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/OM/cities/Muscat> ;
-    ns1:carCode "OM" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/om> ;
     ns1:gdpAgri 1 ;
     ns1:gdpInd 64.4 ;
     ns1:gdpServ 34.6 ;
@@ -30,7 +30,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/SA>,
         <http://www.semwebtech.org/mondial/countries/UAE>,
         <http://www.semwebtech.org/mondial/countries/YE> ;
-    ns1:populationGrowth 2.06 ;
     ns1:unemployment 15 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/P> ;
     skos:prefLabel "سلطنة عمان" ;

@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/F_geom> ;
     geo:hasMetricArea 547030 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France/cities/Paris> ;
-    ns1:carCode "F" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/f> ;
     ns1:gdpAgri 1.9 ;
     ns1:gdpInd 18.7 ;
     ns1:gdpServ 79.4 ;
@@ -85,7 +85,6 @@
         <http://www.semwebtech.org/mondial/countries/I>,
         <http://www.semwebtech.org/mondial/countries/L>,
         <http://www.semwebtech.org/mondial/countries/MC> ;
-    ns1:populationGrowth 0.45 ;
     ns1:unemployment 10.2 ;
     skos:prefLabel "la République française " ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F_obeth1>,

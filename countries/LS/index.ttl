@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/LS_geom> ;
     geo:hasMetricArea 30350 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/LS/cities/Maseru> ;
-    ns1:carCode "LS" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ls> ;
     ns1:gdpAgri 7.4 ;
     ns1:gdpInd 34.5 ;
     ns1:gdpServ 58.2 ;
@@ -26,7 +26,6 @@
     ns1:independenceDate "1966-10-04"^^xsd:date ;
     ns1:infantMortality 50.48 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/RSA> ;
-    ns1:populationGrowth 0.34 ;
     ns1:unemployment 25 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "the Kingdom of Lesotho" ;

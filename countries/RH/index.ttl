@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RH_geom> ;
     geo:hasMetricArea 27750 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/RH/cities/Port-au-Prince> ;
-    ns1:carCode "RH" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/rh> ;
     ns1:gdpAgri 24.1 ;
     ns1:gdpInd 19.9 ;
     ns1:gdpServ 56 ;
@@ -32,7 +32,6 @@
     ns1:independenceDate "1804-01-01"^^xsd:date ;
     ns1:infantMortality 49.43 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/DOM> ;
-    ns1:populationGrowth 1.31 ;
     ns1:unemployment 40.6 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     skos:prefLabel "la République d' Haïti" ;

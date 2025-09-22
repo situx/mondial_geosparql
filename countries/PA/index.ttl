@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PA_geom> ;
     geo:hasMetricArea 78200 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá/cities/Panamá+City> ;
-    ns1:carCode "PA" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/pa> ;
     ns1:gdpAgri 3.7 ;
     ns1:gdpInd 17.9 ;
     ns1:gdpServ 78.4 ;
@@ -55,7 +55,6 @@
     ns1:infantMortality 10.7 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/CO>,
         <http://www.semwebtech.org/mondial/countries/CR> ;
-    ns1:populationGrowth 1.35 ;
     ns1:unemployment 4.5 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/CO> ;
     skos:prefLabel "la República de Panamá" ;

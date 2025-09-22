@@ -15,7 +15,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 444 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/CUR/cities/Willemstad> ;
-    ns1:carCode "CUR" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/cur> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/NL> ;
     ns1:gdpAgri 0.7 ;
     ns1:gdpInd 15.5 ;

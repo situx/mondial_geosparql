@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RSA_geom> ;
     geo:hasMetricArea 1219912 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Tshwane> ;
-    ns1:carCode "RSA" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/rsa> ;
     ns1:gdpAgri 2.6 ;
     ns1:gdpInd 29 ;
     ns1:gdpServ 68.4 ;
@@ -55,7 +55,6 @@
         <http://www.semwebtech.org/mondial/countries/RB>,
         <http://www.semwebtech.org/mondial/countries/SD>,
         <http://www.semwebtech.org/mondial/countries/ZW> ;
-    ns1:populationGrowth -0.48 ;
     ns1:unemployment 24.9 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "Republiek van Suid-Afrika" ;

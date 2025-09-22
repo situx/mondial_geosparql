@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PK_geom> ;
     geo:hasMetricArea 803940 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/PK/provinces/FCT+Islamabad/cities/Islamabad> ;
-    ns1:carCode "PK" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/pk> ;
     ns1:gdpAgri 25.3 ;
     ns1:gdpInd 21.6 ;
     ns1:gdpServ 53.1 ;
@@ -71,7 +71,6 @@
         <http://www.semwebtech.org/mondial/countries/CN>,
         <http://www.semwebtech.org/mondial/countries/IND>,
         <http://www.semwebtech.org/mondial/countries/IR> ;
-    ns1:populationGrowth 1.49 ;
     ns1:unemployment 6.6 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "the Islamic Republic of Pakistan" ;

@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/LAO_geom> ;
     geo:hasMetricArea 236800 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/LAO/cities/Vientiane> ;
-    ns1:carCode "LAO" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/lao> ;
     ns1:gdpAgri 30.5 ;
     ns1:gdpInd 32 ;
     ns1:gdpServ 37.5 ;
@@ -30,7 +30,6 @@
         <http://www.semwebtech.org/mondial/countries/MYA>,
         <http://www.semwebtech.org/mondial/countries/THA>,
         <http://www.semwebtech.org/mondial/countries/VN> ;
-    ns1:populationGrowth 1.59 ;
     ns1:unemployment 1.9 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     skos:prefLabel "ສາທາລະນະລັດປະຊາທິປະໄຕປະຊາຊົນລາວ" ;

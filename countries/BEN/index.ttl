@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BEN_geom> ;
     geo:hasMetricArea 112620 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/BEN/cities/Porto-Novo> ;
-    ns1:carCode "BEN" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ben> ;
     ns1:gdpAgri 31.6 ;
     ns1:gdpInd 12.9 ;
     ns1:gdpServ 55.6 ;
@@ -32,7 +32,6 @@
         <http://www.semwebtech.org/mondial/countries/NGR>,
         <http://www.semwebtech.org/mondial/countries/RN>,
         <http://www.semwebtech.org/mondial/countries/RT> ;
-    ns1:populationGrowth 2.81 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     skos:prefLabel "la République du Bénin " ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BEN_obeth1>,

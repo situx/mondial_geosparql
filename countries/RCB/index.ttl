@@ -15,7 +15,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 342000 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/RCB/provinces/Brazzaville/cities/Brazzaville> ;
-    ns1:carCode "RCB" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/rcb> ;
     ns1:gdpAgri 3.3 ;
     ns1:gdpInd 73.9 ;
     ns1:gdpServ 22.9 ;
@@ -51,7 +51,6 @@
         <http://www.semwebtech.org/mondial/countries/CGO>,
         <http://www.semwebtech.org/mondial/countries/G>,
         <http://www.semwebtech.org/mondial/countries/RCA> ;
-    ns1:populationGrowth 1.94 ;
     ns1:unemployment 53 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     skos:prefLabel "la République du Congo" ;

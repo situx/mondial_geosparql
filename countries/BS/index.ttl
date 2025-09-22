@@ -15,7 +15,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 13940 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/BS/cities/Nassau> ;
-    ns1:carCode "BS" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/bs> ;
     ns1:gdpAgri 2.1 ;
     ns1:gdpInd 7.1 ;
     ns1:gdpServ 90.8 ;
@@ -24,7 +24,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BS/cities/Nassau> ;
     ns1:independenceDate "1973-07-10"^^xsd:date ;
     ns1:infantMortality 12.5 ;
-    ns1:populationGrowth 0.87 ;
     ns1:unemployment 16.2 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "the Commonwealth of the Bahamas" ;

@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BRN_geom> ;
     geo:hasMetricArea 620 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/BRN/cities/Al+Manāmah> ;
-    ns1:carCode "BRN" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/brn> ;
     ns1:gdpAgri 0.3 ;
     ns1:gdpInd 46.7 ;
     ns1:gdpServ 53 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BRN/cities/Al+Manāmah> ;
     ns1:independenceDate "1971-08-15"^^xsd:date ;
     ns1:infantMortality 9.68 ;
-    ns1:populationGrowth 2.49 ;
     ns1:unemployment 15 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "البحرين" ;

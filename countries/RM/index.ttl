@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RM_geom> ;
     geo:hasMetricArea 587041 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/RM/cities/Antananarivo> ;
-    ns1:carCode "RM" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/rm> ;
     ns1:gdpAgri 27.3 ;
     ns1:gdpInd 16.4 ;
     ns1:gdpServ 56.3 ;
@@ -31,7 +31,6 @@
         <http://www.semwebtech.org/mondial/countries/RM/cities/Toliara> ;
     ns1:independenceDate "1960-06-26"^^xsd:date ;
     ns1:infantMortality 44.88 ;
-    ns1:populationGrowth 2.62 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     skos:prefLabel "la République de Madagascar" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RM_obeth1>,

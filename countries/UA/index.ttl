@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/UA_geom> ;
     geo:hasMetricArea 603700 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïv/cities/Kyïv> ;
-    ns1:carCode "UA" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ua> ;
     ns1:gdpAgri 9.9 ;
     ns1:gdpInd 29.6 ;
     ns1:gdpServ 60.5 ;
@@ -104,7 +104,6 @@
         <http://www.semwebtech.org/mondial/countries/R>,
         <http://www.semwebtech.org/mondial/countries/RO>,
         <http://www.semwebtech.org/mondial/countries/SK> ;
-    ns1:populationGrowth -0.64 ;
     ns1:unemployment 8 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Soviet+Union> ;
     skos:prefLabel "Украïна" ;

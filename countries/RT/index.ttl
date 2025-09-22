@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RT_geom> ;
     geo:hasMetricArea 56790 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/RT/cities/Lomé> ;
-    ns1:carCode "RT" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/rt> ;
     ns1:gdpAgri 27.6 ;
     ns1:gdpInd 33.7 ;
     ns1:gdpServ 38.7 ;
@@ -29,7 +29,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/BEN>,
         <http://www.semwebtech.org/mondial/countries/BF>,
         <http://www.semwebtech.org/mondial/countries/GH> ;
-    ns1:populationGrowth 2.71 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RT_obeth1>,
         <http://www.semwebtech.org/mondial/countries/RT_obeth2>,

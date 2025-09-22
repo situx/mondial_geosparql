@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GR_geom> ;
     geo:hasMetricArea 131940 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Athina> ;
-    ns1:carCode "GR" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/gr> ;
     ns1:gdpAgri 3.5 ;
     ns1:gdpInd 16 ;
     ns1:gdpServ 80.5 ;
@@ -64,7 +64,6 @@
         <http://www.semwebtech.org/mondial/countries/BG>,
         <http://www.semwebtech.org/mondial/countries/MK>,
         <http://www.semwebtech.org/mondial/countries/TR> ;
-    ns1:populationGrowth 0.01 ;
     ns1:unemployment 27.9 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Ottoman+Empire> ;
     skos:prefLabel "Ελληνική Δημοκρατία" ;

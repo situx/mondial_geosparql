@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/LV_geom> ;
     geo:hasMetricArea 64100 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/LV/cities/Rīga> ;
-    ns1:carCode "LV" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/lv> ;
     ns1:gdpAgri 4.9 ;
     ns1:gdpInd 25.7 ;
     ns1:gdpServ 69.4 ;
@@ -29,7 +29,6 @@
         <http://www.semwebtech.org/mondial/countries/EST>,
         <http://www.semwebtech.org/mondial/countries/LT>,
         <http://www.semwebtech.org/mondial/countries/R> ;
-    ns1:populationGrowth -0.62 ;
     ns1:unemployment 9.8 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Soviet+Union> ;
     skos:prefLabel "Latvijas Republika" ;

@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/WAG_geom> ;
     geo:hasMetricArea 11300 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/WAG/cities/Banjul> ;
-    ns1:carCode "WAG" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/wag> ;
     ns1:gdpAgri 19.7 ;
     ns1:gdpInd 12.6 ;
     ns1:gdpServ 67.7 ;
@@ -27,7 +27,6 @@
     ns1:independenceDate "1965-02-18"^^xsd:date ;
     ns1:infantMortality 65.74 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/SN> ;
-    ns1:populationGrowth 2.23 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "The Republic of the Gambia " ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/WAG_obeth1>,

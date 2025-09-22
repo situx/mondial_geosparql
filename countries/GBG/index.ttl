@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GBG_geom> ;
     geo:hasMetricArea 194 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/GBG/cities/Saint+Peter+Port> ;
-    ns1:carCode "GBG" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/gbg> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     ns1:gdpAgri 3 ;
     ns1:gdpInd 10 ;
@@ -25,7 +25,6 @@
     ns1:government <http://www.wikidata.org/entity/Q3043547> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GBG/cities/Saint+Peter+Port> ;
     ns1:infantMortality 3.47 ;
-    ns1:populationGrowth 0.36 ;
     ns1:unemployment 0.9 ;
     skos:prefLabel "the Bailiwick of Guernsey" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GBG_obeth1>,

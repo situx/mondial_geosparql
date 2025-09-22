@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/A_geom> ;
     geo:hasMetricArea 83850 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/A/provinces/Wien/cities/Wien> ;
-    ns1:carCode "A" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/a> ;
     ns1:gdpAgri 1.6 ;
     ns1:gdpInd 28.6 ;
     ns1:gdpServ 69.8 ;
@@ -54,7 +54,6 @@
         <http://www.semwebtech.org/mondial/countries/I>,
         <http://www.semwebtech.org/mondial/countries/SK>,
         <http://www.semwebtech.org/mondial/countries/SLO> ;
-    ns1:populationGrowth 0.01 ;
     ns1:unemployment 4.9 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Austria-Hungary> ;
     skos:prefLabel "Republik Österreich (die)" ;

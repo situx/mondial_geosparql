@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CO_geom> ;
     geo:hasMetricArea 1138910 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/CO/provinces/Bogotá+Distrito+Especial/cities/Bogotá> ;
-    ns1:carCode "CO" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/co> ;
     ns1:gdpAgri 6.6 ;
     ns1:gdpInd 37.8 ;
     ns1:gdpServ 55.6 ;
@@ -111,7 +111,6 @@
         <http://www.semwebtech.org/mondial/countries/PA>,
         <http://www.semwebtech.org/mondial/countries/PE>,
         <http://www.semwebtech.org/mondial/countries/YV> ;
-    ns1:populationGrowth 1.07 ;
     ns1:unemployment 9.7 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
     skos:prefLabel "la República de Colombia" ;

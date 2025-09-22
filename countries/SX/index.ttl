@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SX_geom> ;
     geo:hasMetricArea 34 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SX/cities/Philipsburg> ;
-    ns1:carCode "SX" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/sx> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/NL> ;
     ns1:gdpAgri 0.4 ;
     ns1:gdpInd 18.3 ;
@@ -26,7 +26,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SX/cities/Philipsburg> ;
     ns1:infantMortality 9.05 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/SMAR> ;
-    ns1:populationGrowth 1.51 ;
     ns1:unemployment 12 ;
     skos:prefLabel "Sint Maarten" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SX_obpop>,

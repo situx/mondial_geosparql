@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GQ_geom> ;
     geo:hasMetricArea 28050 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/GQ/provinces/Insular/cities/Malabo> ;
-    ns1:carCode "GQ" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/gq> ;
     ns1:gdpAgri 4.6 ;
     ns1:gdpInd 87.3 ;
     ns1:gdpServ 8.1 ;
@@ -30,7 +30,6 @@
     ns1:infantMortality 71.12 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/CAM>,
         <http://www.semwebtech.org/mondial/countries/G> ;
-    ns1:populationGrowth 2.54 ;
     ns1:unemployment 22.3 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
     skos:prefLabel "la République de Guinée équatoriale" ;

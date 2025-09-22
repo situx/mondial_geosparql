@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SK_geom> ;
     geo:hasMetricArea 48845 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SK/provinces/Bratislavský/cities/Bratislava> ;
-    ns1:carCode "SK" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/sk> ;
     ns1:gdpAgri 3.1 ;
     ns1:gdpInd 30.8 ;
     ns1:gdpServ 67 ;
@@ -45,7 +45,6 @@
         <http://www.semwebtech.org/mondial/countries/H>,
         <http://www.semwebtech.org/mondial/countries/PL>,
         <http://www.semwebtech.org/mondial/countries/UA> ;
-    ns1:populationGrowth 0.03 ;
     ns1:unemployment 14.4 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Czechoslovakia> ;
     skos:prefLabel "Slovensko" ;

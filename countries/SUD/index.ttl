@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SUD_geom> ;
     geo:hasMetricArea 1840687 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Kharṭūm/cities/Khartoum> ;
-    ns1:carCode "SUD" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/sud> ;
     ns1:gdpAgri 27.4 ;
     ns1:gdpInd 33.6 ;
     ns1:gdpServ 39 ;
@@ -71,7 +71,6 @@
         <http://www.semwebtech.org/mondial/countries/RCA>,
         <http://www.semwebtech.org/mondial/countries/SSD>,
         <http://www.semwebtech.org/mondial/countries/TCH> ;
-    ns1:populationGrowth 1.78 ;
     ns1:unemployment 20 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/ET> ;
     skos:prefLabel "جمهورية السودان" ;

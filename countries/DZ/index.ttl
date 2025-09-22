@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/DZ_geom> ;
     geo:hasMetricArea 2381740 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/DZ/cities/Algiers> ;
-    ns1:carCode "DZ" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/dz> ;
     ns1:gdpAgri 9.4 ;
     ns1:gdpInd 62.6 ;
     ns1:gdpServ 28 ;
@@ -52,7 +52,6 @@
         <http://www.semwebtech.org/mondial/countries/RN>,
         <http://www.semwebtech.org/mondial/countries/TN>,
         <http://www.semwebtech.org/mondial/countries/WSA> ;
-    ns1:populationGrowth 1.88 ;
     ns1:unemployment 10.3 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     skos:prefLabel "الجزائر" ;

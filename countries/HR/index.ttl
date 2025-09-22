@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/HR_geom> ;
     geo:hasMetricArea 56538 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/HR/cities/Zagreb> ;
-    ns1:carCode "HR" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/hr> ;
     ns1:gdpAgri 5 ;
     ns1:gdpInd 25.8 ;
     ns1:gdpServ 69.2 ;
@@ -34,7 +34,6 @@
         <http://www.semwebtech.org/mondial/countries/MNE>,
         <http://www.semwebtech.org/mondial/countries/SLO>,
         <http://www.semwebtech.org/mondial/countries/SRB> ;
-    ns1:populationGrowth -0.12 ;
     ns1:unemployment 21.6 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Yugoslavia> ;
     skos:prefLabel "Republika Hrvatska" ;

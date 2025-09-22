@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GE_geom> ;
     geo:hasMetricArea 69700 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/GE/cities/Tbilisi> ;
-    ns1:carCode "GE" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ge> ;
     ns1:gdpAgri 8.5 ;
     ns1:gdpInd 21.6 ;
     ns1:gdpServ 69.9 ;
@@ -31,7 +31,6 @@
         <http://www.semwebtech.org/mondial/countries/AZ>,
         <http://www.semwebtech.org/mondial/countries/R>,
         <http://www.semwebtech.org/mondial/countries/TR> ;
-    ns1:populationGrowth -0.11 ;
     ns1:unemployment 15 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Soviet+Union> ;
     skos:prefLabel "საქართველო " ;

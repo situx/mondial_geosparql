@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MA_geom> ;
     geo:hasMetricArea 446550 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/MA/provinces/Rabat+Sale+Zemmour+Zaer/cities/Rabat> ;
-    ns1:carCode "MA" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/ma> ;
     ns1:gdpAgri 15.1 ;
     ns1:gdpInd 31.7 ;
     ns1:gdpServ 53.2 ;
@@ -61,7 +61,6 @@
         <http://www.semwebtech.org/mondial/countries/DZ>,
         <http://www.semwebtech.org/mondial/countries/MEL>,
         <http://www.semwebtech.org/mondial/countries/WSA> ;
-    ns1:populationGrowth 1.02 ;
     ns1:unemployment 9.5 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     skos:prefLabel "المملكة المغربية" ;

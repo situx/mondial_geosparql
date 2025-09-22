@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/KZ_geom> ;
     geo:hasMetricArea 2717300 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/KZ/provinces/Astana/cities/Astana> ;
-    ns1:carCode "KZ" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/kz> ;
     ns1:gdpAgri 5.2 ;
     ns1:gdpInd 37.9 ;
     ns1:gdpServ 56.9 ;
@@ -69,7 +69,6 @@
         <http://www.semwebtech.org/mondial/countries/R>,
         <http://www.semwebtech.org/mondial/countries/TM>,
         <http://www.semwebtech.org/mondial/countries/UZ> ;
-    ns1:populationGrowth 1.17 ;
     ns1:unemployment 5.3 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/politicalbodies/Soviet+Union> ;
     skos:prefLabel "Қазақстан Республикасы" ;

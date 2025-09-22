@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ROK_geom> ;
     geo:hasMetricArea 98480 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/ROK/cities/Seoul> ;
-    ns1:carCode "ROK" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/rok> ;
     ns1:gdpAgri 2.6 ;
     ns1:gdpInd 39.2 ;
     ns1:gdpServ 58.2 ;
@@ -49,7 +49,6 @@
     ns1:independenceDate "1945-08-15"^^xsd:date ;
     ns1:infantMortality 3.93 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/KP> ;
-    ns1:populationGrowth 0.16 ;
     ns1:unemployment 3.2 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/J> ;
     skos:prefLabel "대한 민국" ;

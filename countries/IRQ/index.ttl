@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/IRQ_geom> ;
     geo:hasMetricArea 437072 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Baghdad/cities/Baghdad> ;
-    ns1:carCode "IRQ" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/irq> ;
     ns1:gdpAgri 3.3 ;
     ns1:gdpInd 64.6 ;
     ns1:gdpServ 32.1 ;
@@ -66,7 +66,6 @@
         <http://www.semwebtech.org/mondial/countries/SA>,
         <http://www.semwebtech.org/mondial/countries/SYR>,
         <http://www.semwebtech.org/mondial/countries/TR> ;
-    ns1:populationGrowth 2.23 ;
     ns1:unemployment 16 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/organizations/UN> ;
     skos:prefLabel "جمهورية العراق" ;

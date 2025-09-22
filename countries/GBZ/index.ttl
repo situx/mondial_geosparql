@@ -15,7 +15,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GBZ_geom> ;
     geo:hasMetricArea 6.5 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/GBZ/cities/Gibraltar> ;
-    ns1:carCode "GBZ" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/gbz> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     ns1:gdpAgri 0 ;
     ns1:gdpInd 0 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GBZ/cities/Gibraltar> ;
     ns1:infantMortality 6.29 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/E> ;
-    ns1:populationGrowth 0.25 ;
     ns1:unemployment 3 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GBZ_obeth1>,
         <http://www.semwebtech.org/mondial/countries/GBZ_obeth2>,

@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/JOR_geom> ;
     geo:hasMetricArea 89213 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/JOR/cities/Amman> ;
-    ns1:carCode "JOR" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/jor> ;
     ns1:gdpAgri 3.2 ;
     ns1:gdpInd 29.9 ;
     ns1:gdpServ 67 ;
@@ -32,7 +32,6 @@
         <http://www.semwebtech.org/mondial/countries/SA>,
         <http://www.semwebtech.org/mondial/countries/SYR>,
         <http://www.semwebtech.org/mondial/countries/WB> ;
-    ns1:populationGrowth 3.86 ;
     ns1:unemployment 14 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/organizations/UN> ;
     skos:prefLabel "المملكة الأردنية الهاشمية" ;

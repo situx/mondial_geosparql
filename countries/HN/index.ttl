@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/HN_geom> ;
     geo:hasMetricArea 112090 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/HN/provinces/Francisco+Morazán/cities/Tegucigalpa> ;
-    ns1:carCode "HN" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/hn> ;
     ns1:gdpAgri 14 ;
     ns1:gdpInd 28.2 ;
     ns1:gdpServ 57.8 ;
@@ -67,7 +67,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/ES>,
         <http://www.semwebtech.org/mondial/countries/GCA>,
         <http://www.semwebtech.org/mondial/countries/NIC> ;
-    ns1:populationGrowth 1.74 ;
     ns1:unemployment 4.5 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
     skos:prefLabel "la República de Honduras " ;

@@ -15,13 +15,12 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/HELX_geom> ;
     geo:hasMetricArea 391 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/HELX/cities/Jamestown> ;
-    ns1:carCode "HELX" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/helx> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     ns1:gdpTotal 18 ;
     ns1:government <http://www.wikidata.org/entity/Q46395> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/HELX/cities/Jamestown> ;
     ns1:infantMortality 17.63 ;
-    ns1:populationGrowth 0.45 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/HELX_obeth1>,
         <http://www.semwebtech.org/mondial/countries/HELX_obeth2>,
         <http://www.semwebtech.org/mondial/countries/HELX_obeth3>,

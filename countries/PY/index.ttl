@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PY_geom> ;
     geo:hasMetricArea 406750 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/PY/cities/Asunción> ;
-    ns1:carCode "PY" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/py> ;
     ns1:gdpAgri 20.4 ;
     ns1:gdpInd 17.7 ;
     ns1:gdpServ 61.9 ;
@@ -29,7 +29,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/BOL>,
         <http://www.semwebtech.org/mondial/countries/BR>,
         <http://www.semwebtech.org/mondial/countries/RA> ;
-    ns1:populationGrowth 1.19 ;
     ns1:unemployment 6.6 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
     skos:prefLabel "Paraguay Retãn" ;

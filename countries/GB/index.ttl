@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GB_geom> ;
     geo:hasMetricArea 244820 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/GB/provinces/London/cities/London> ;
-    ns1:carCode "GB" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/gb> ;
     ns1:gdpAgri 0.7 ;
     ns1:gdpInd 20.5 ;
     ns1:gdpServ 78.9 ;
@@ -124,7 +124,6 @@
     ns1:independenceDate "1801-01-01"^^xsd:date ;
     ns1:infantMortality 4.44 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/IRL> ;
-    ns1:populationGrowth 0.54 ;
     ns1:unemployment 7.2 ;
     skos:prefLabel "the United Kingdom of Great Britain and Northern Ireland" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GB_obeth1>,

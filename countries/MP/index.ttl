@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MP_geom> ;
     geo:hasMetricArea 477 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/MP/cities/Saipan> ;
-    ns1:carCode "MP" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/mp> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/USA> ;
     ns1:gdpAgri 1.7 ;
     ns1:gdpInd 3.3 ;
@@ -25,7 +25,6 @@
     ns1:government "commonwealth; self-governing with locally elected governor, lieutenant governor, and legislature" ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MP/cities/Saipan> ;
     ns1:infantMortality 5.5 ;
-    ns1:populationGrowth 1.13 ;
     ns1:unemployment 11.2 ;
     skos:prefLabel "Sankattan Siha Na Islas Mariånas" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MP_obeth1>,

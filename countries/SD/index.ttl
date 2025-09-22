@@ -15,7 +15,7 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 17360 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SD/cities/Mbabane> ;
-    ns1:carCode "SD" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/sd> ;
     ns1:gdpAgri 7.6 ;
     ns1:gdpInd 47.8 ;
     ns1:gdpServ 44.6 ;
@@ -26,7 +26,6 @@
     ns1:infantMortality 54.82 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/MOC>,
         <http://www.semwebtech.org/mondial/countries/RSA> ;
-    ns1:populationGrowth 1.14 ;
     ns1:unemployment 40 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:altLabel "Swaziland" ;

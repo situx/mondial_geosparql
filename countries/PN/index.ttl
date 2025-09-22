@@ -14,11 +14,10 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 47 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/PN/cities/Adamstown> ;
-    ns1:carCode "PN" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/pn> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     ns1:government <http://www.wikidata.org/entity/Q46395> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PN/cities/Adamstown> ;
-    ns1:populationGrowth 0 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PN_obeth1>,
         <http://www.semwebtech.org/mondial/countries/PN_obpop>,
         <http://www.semwebtech.org/mondial/countries/PN_obpophist0>,

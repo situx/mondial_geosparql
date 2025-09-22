@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GUB_geom> ;
     geo:hasMetricArea 36120 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/GUB/cities/Bissau> ;
-    ns1:carCode "GUB" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/gub> ;
     ns1:gdpAgri 58 ;
     ns1:gdpInd 13.5 ;
     ns1:gdpServ 28.5 ;
@@ -27,7 +27,6 @@
     ns1:infantMortality 90.92 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/RG>,
         <http://www.semwebtech.org/mondial/countries/SN> ;
-    ns1:populationGrowth 1.93 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/P> ;
     skos:prefLabel "República da Guiné-Bissau (a)" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GUB_obeth1>,

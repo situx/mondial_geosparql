@@ -10,5 +10,5 @@
     rdfs:label "Property Partition: hasResult"@en ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     void:property sosa:hasResult ;
-    void:triples 8540 .
+    void:triples 8550 .
 

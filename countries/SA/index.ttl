@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SA_geom> ;
     geo:hasMetricArea 1960582 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/SA/provinces/Ar-Riyadh/cities/Riyadh> ;
-    ns1:carCode "SA" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/sa> ;
     ns1:gdpAgri 2 ;
     ns1:gdpInd 62.5 ;
     ns1:gdpServ 35.5 ;
@@ -64,7 +64,6 @@
         <http://www.semwebtech.org/mondial/countries/Q>,
         <http://www.semwebtech.org/mondial/countries/UAE>,
         <http://www.semwebtech.org/mondial/countries/YE> ;
-    ns1:populationGrowth 1.49 ;
     ns1:unemployment 10.5 ;
     skos:prefLabel "المملكةة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SA_obeth1>,

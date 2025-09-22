@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RIM_geom> ;
     geo:hasMetricArea 1030700 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/RIM/provinces/Nouakchott/cities/Nouakchott> ;
-    ns1:carCode "RIM" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/rim> ;
     ns1:gdpAgri 16.9 ;
     ns1:gdpInd 54.6 ;
     ns1:gdpServ 28.5 ;
@@ -54,7 +54,6 @@
         <http://www.semwebtech.org/mondial/countries/RMM>,
         <http://www.semwebtech.org/mondial/countries/SN>,
         <http://www.semwebtech.org/mondial/countries/WSA> ;
-    ns1:populationGrowth 2.26 ;
     ns1:unemployment 30 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     skos:prefLabel "الجمهورية الإسلامية الموريتانية" ;

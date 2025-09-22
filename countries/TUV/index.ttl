@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/TUV_geom> ;
     geo:hasMetricArea 26 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/TUV/cities/Funafuti> ;
-    ns1:carCode "TUV" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/tuv> ;
     ns1:gdpAgri 16.6 ;
     ns1:gdpInd 27.2 ;
     ns1:gdpServ 56.2 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TUV/cities/Funafuti> ;
     ns1:independenceDate "1978-10-01"^^xsd:date ;
     ns1:infantMortality 31.69 ;
-    ns1:populationGrowth 0.8 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     skos:prefLabel "Tuvalu" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TUV_obeth1>,

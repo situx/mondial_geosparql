@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/COM_geom> ;
     geo:hasMetricArea 2170 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/COM/cities/Moroni> ;
-    ns1:carCode "COM" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/com> ;
     ns1:gdpAgri 51 ;
     ns1:gdpInd 10 ;
     ns1:gdpServ 39 ;
@@ -25,7 +25,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/COM/cities/Moroni> ;
     ns1:independenceDate "1975-07-06"^^xsd:date ;
     ns1:infantMortality 65.31 ;
-    ns1:populationGrowth 1.87 ;
     ns1:unemployment 20 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     skos:prefLabel "اتحاد جزر القمر" ;

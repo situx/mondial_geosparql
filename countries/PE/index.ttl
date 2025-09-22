@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PE_geom> ;
     geo:hasMetricArea 1285220 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/PE/provinces/Lima+City/cities/Lima> ;
-    ns1:carCode "PE" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/pe> ;
     ns1:gdpAgri 6.2 ;
     ns1:gdpInd 37.5 ;
     ns1:gdpServ 56.3 ;
@@ -86,7 +86,6 @@
         <http://www.semwebtech.org/mondial/countries/CO>,
         <http://www.semwebtech.org/mondial/countries/EC>,
         <http://www.semwebtech.org/mondial/countries/RCH> ;
-    ns1:populationGrowth 0.99 ;
     ns1:unemployment 3.6 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/E> ;
     skos:prefLabel "Piruw Suyu" ;

@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/K_geom> ;
     geo:hasMetricArea 181040 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/K/cities/Phnom+Penh> ;
-    ns1:carCode "K" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/k> ;
     ns1:gdpAgri 34.8 ;
     ns1:gdpInd 24.5 ;
     ns1:gdpServ 40.7 ;
@@ -30,7 +30,6 @@
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/LAO>,
         <http://www.semwebtech.org/mondial/countries/THA>,
         <http://www.semwebtech.org/mondial/countries/VN> ;
-    ns1:populationGrowth 1.63 ;
     ns1:unemployment 0 ;
     ns1:wasDependentOf <http://www.semwebtech.org/mondial/countries/F> ;
     skos:prefLabel "ព្រះរាជាណាចក្រ កម្ពុជា" ;

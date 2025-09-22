@@ -15,13 +15,12 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasMetricArea 365 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/GAZA/cities/Gaza> ;
-    ns1:carCode "GAZA" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/gaza> ;
     ns1:gdpTotal 1700 ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GAZA/cities/Gaza> ;
     ns1:infantMortality 30.6 ;
     ns1:neighbor <http://www.semwebtech.org/mondial/countries/ET>,
         <http://www.semwebtech.org/mondial/countries/IL> ;
-    ns1:populationGrowth 4.55 ;
     skos:prefLabel "قطاع غزّة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GAZA_obeth1>,
         <http://www.semwebtech.org/mondial/countries/GAZA_obeth2>,

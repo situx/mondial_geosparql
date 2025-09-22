@@ -16,7 +16,7 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GBJ_geom> ;
     geo:hasMetricArea 117 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/GBJ/cities/Saint+Helier> ;
-    ns1:carCode "GBJ" ;
+    ns1:carCode <http://www.lexvo.org/page/iso639-1/gbj> ;
     ns1:dependentOf <http://www.semwebtech.org/mondial/countries/GB> ;
     ns1:gdpAgri 2 ;
     ns1:gdpInd 2 ;
@@ -25,7 +25,6 @@
     ns1:government <http://www.wikidata.org/entity/Q3043547> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GBJ/cities/Saint+Helier> ;
     ns1:infantMortality 3.86 ;
-    ns1:populationGrowth 0.81 ;
     ns1:unemployment 1.7 ;
     skos:prefLabel "the Bailiwick of Jersey" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GBJ_obeth1>,
