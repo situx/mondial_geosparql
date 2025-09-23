@@ -9,5 +9,5 @@
     rdfs:label "Occurrences of vocabulary http://www.w3.org/2004/02/skos/core# in md_dataset" ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     ns1:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
-    ns1:occurrences 30 .
+    ns1:occurrences 32 .
 
