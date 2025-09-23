@@ -17,8 +17,5 @@
     skos:prefLabel "آسفي" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Doukala+Abda/cities/Safi_obele>,
         <http://www.semwebtech.org/mondial/countries/MA/provinces/Doukala+Abda/cities/Safi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Doukala+Abda/cities/Safi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Doukala+Abda/cities/Safi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Doukala+Abda/cities/Safi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Doukala+Abda/cities/Safi_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Doukala+Abda/cities/Safi_obpophistcoll> .
 

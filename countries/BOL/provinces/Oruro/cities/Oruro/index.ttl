@@ -13,6 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BOL/provinces/Oruro/cities/Oruro_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BOL/provinces/Oruro/cities/Oruro_obele>,
         <http://www.semwebtech.org/mondial/countries/BOL/provinces/Oruro/cities/Oruro_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Oruro/cities/Oruro_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Oruro/cities/Oruro_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Oruro/cities/Oruro_obpophistcoll> .
 

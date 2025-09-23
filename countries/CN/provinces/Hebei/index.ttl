@@ -26,9 +26,5 @@
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Zhangjiakou> ;
     skos:prefLabel "河北" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei_obpophistcoll> .
 

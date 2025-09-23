@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Rivers/cities/Port+Harcourt_obele>,
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Rivers/cities/Port+Harcourt_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Rivers/cities/Port+Harcourt_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Rivers/cities/Port+Harcourt_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Rivers/cities/Port+Harcourt_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Rivers/cities/Port+Harcourt_obpophistcoll> .
 

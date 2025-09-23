@@ -15,6 +15,5 @@
     skos:altLabel "Djelfa" ;
     skos:prefLabel "الجلفة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DZ/cities/El+Djelfa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/El+Djelfa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/El+Djelfa_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/DZ/cities/El+Djelfa_obpophistcoll> .
 

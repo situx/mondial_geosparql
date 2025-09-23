@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Kyoto/cities/Kyoto> ;
     skos:prefLabel "京都府" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Kyoto_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kyoto_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kyoto_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kyoto_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kyoto_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kyoto_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Kyoto_obpophistcoll> .
 

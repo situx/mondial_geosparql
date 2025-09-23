@@ -16,6 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Rhein> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Koblenz_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Koblenz_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Koblenz_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Koblenz_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Koblenz_obpophistcoll> .
 

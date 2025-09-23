@@ -45,9 +45,5 @@
         <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Witten>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Wuppertal> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen_obpophistcoll> .
 

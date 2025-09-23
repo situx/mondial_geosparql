@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/UZ/provinces/Xorazm/cities/Urganch> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/UZ/provinces/Xorazm/cities/Urganch> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UZ/provinces/Xorazm_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Xorazm_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Xorazm_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Xorazm_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Xorazm_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Xorazm_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Xorazm_obpophistcoll> .
 

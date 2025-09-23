@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Sulu+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Panay> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas/cities/Roxas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas/cities/Roxas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas/cities/Roxas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas/cities/Roxas_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas/cities/Roxas_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas/cities/Roxas_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas/cities/Roxas_obpophistcoll> .
 

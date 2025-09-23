@@ -17,9 +17,5 @@
     skos:prefLabel "Донецьк" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Donetsk_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Donetsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Donetsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Donetsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Donetsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Donetsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Donetsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Donetsk_obpophistcoll> .
 

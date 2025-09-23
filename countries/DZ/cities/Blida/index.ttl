@@ -15,7 +15,5 @@
     skos:prefLabel "البليدة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DZ/cities/Blida_obele>,
         <http://www.semwebtech.org/mondial/countries/DZ/cities/Blida_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Blida_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Blida_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Blida_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/DZ/cities/Blida_obpophistcoll> .
 

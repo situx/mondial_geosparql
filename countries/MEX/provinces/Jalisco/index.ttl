@@ -19,10 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Jalisco/cities/Tonala>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Jalisco/cities/Zapopan> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Jalisco_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Jalisco_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Jalisco_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Jalisco_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Jalisco_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Jalisco_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Jalisco_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Jalisco_obpophistcoll> .
 

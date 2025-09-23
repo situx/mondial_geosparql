@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Rio+Grande+del+Norte> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/El+Paso_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/El+Paso_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/El+Paso_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/El+Paso_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/El+Paso_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/El+Paso_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/El+Paso_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/El+Paso_obpophistcoll> .
 

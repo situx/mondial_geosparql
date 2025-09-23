@@ -18,6 +18,5 @@
     skos:prefLabel "اللاذقية" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SYR/provinces/Al+Ladhiqiyah/cities/Al+Ladhiqiyah_obele>,
         <http://www.semwebtech.org/mondial/countries/SYR/provinces/Al+Ladhiqiyah/cities/Al+Ladhiqiyah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Al+Ladhiqiyah/cities/Al+Ladhiqiyah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Al+Ladhiqiyah/cities/Al+Ladhiqiyah_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Al+Ladhiqiyah/cities/Al+Ladhiqiyah_obpophistcoll> .
 

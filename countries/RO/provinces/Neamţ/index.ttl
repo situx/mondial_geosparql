@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Neamţ/cities/Piatra-Neamţ> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Neamţ/cities/Piatra-Neamţ> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Neamţ_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Neamţ_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Neamţ_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Neamţ_obpophistcoll> .
 

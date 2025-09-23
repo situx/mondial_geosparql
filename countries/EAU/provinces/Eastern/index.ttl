@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAU/provinces/Eastern/cities/Jinja> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAU/provinces/Eastern/cities/Jinja> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAU/provinces/Eastern_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Eastern_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Eastern_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Eastern_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Eastern_obpophistcoll> .
 

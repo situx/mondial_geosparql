@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/BOL/provinces/Pando/cities/Cobija> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BOL/provinces/Pando/cities/Cobija> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BOL/provinces/Pando_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Pando_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Pando_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Pando_obpophistcoll> .
 

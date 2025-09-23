@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/HN/provinces/Copán/cities/Santa+Rosa+de+Copan> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/HN/provinces/Copán/cities/Santa+Rosa+de+Copan> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/HN/provinces/Copán_obpop>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Copán_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Copán_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Copán_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Copán_obpophistcoll> .
 

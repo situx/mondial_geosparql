@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RN/provinces/Agadez/cities/Agadez> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RN/provinces/Agadez/cities/Agadez> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RN/provinces/Agadez_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Agadez_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Agadez_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Agadez_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RN/provinces/Agadez_obpophistcoll> .
 

@@ -15,8 +15,5 @@
     skos:altLabel "Sheikhūpura" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Sheikhupura_obele>,
         <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Sheikhupura_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Sheikhupura_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Sheikhupura_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Sheikhupura_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Sheikhupura_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Sheikhupura_obpophistcoll> .
 

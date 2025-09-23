@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Orinoco> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Bolívar/cities/Ciudad+Guayana_obele>,
         <http://www.semwebtech.org/mondial/countries/YV/provinces/Bolívar/cities/Ciudad+Guayana_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Bolívar/cities/Ciudad+Guayana_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Bolívar/cities/Ciudad+Guayana_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Bolívar/cities/Ciudad+Guayana_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Bolívar/cities/Ciudad+Guayana_obpophistcoll> .
 

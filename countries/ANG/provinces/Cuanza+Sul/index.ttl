@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cuanza+Sul/cities/Sumbe> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cuanza+Sul/cities/Sumbe> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cuanza+Sul_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cuanza+Sul_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cuanza+Sul_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cuanza+Sul_obpophistcoll> .
 

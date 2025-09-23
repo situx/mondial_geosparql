@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Okinawa/cities/Naha> ;
     skos:prefLabel "沖縄県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Okinawa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Okinawa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Okinawa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Okinawa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Okinawa_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Okinawa_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Okinawa_obpophistcoll> .
 

@@ -12,9 +12,5 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Savo/cities/Kuopio_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Savo/cities/Kuopio_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Savo/cities/Kuopio_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Savo/cities/Kuopio_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Savo/cities/Kuopio_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Savo/cities/Kuopio_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Savo/cities/Kuopio_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Savo/cities/Kuopio_obpophistcoll> .
 

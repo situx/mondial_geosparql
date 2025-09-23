@@ -15,9 +15,5 @@
     skos:altLabel "Pushkino" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Puškino_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Puškino_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Puškino_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Puškino_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Puškino_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Puškino_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Puškino_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Puškino_obpophistcoll> .
 

@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Norte/cities/Mossoró_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Norte/cities/Mossoró_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Norte/cities/Mossoró_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Norte/cities/Mossoró_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Norte/cities/Mossoró_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Norte/cities/Mossoró_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Norte/cities/Mossoró_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Norte/cities/Mossoró_obpophistcoll> .
 

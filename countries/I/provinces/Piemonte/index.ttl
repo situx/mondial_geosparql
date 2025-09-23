@@ -17,6 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/I/provinces/Piemonte/cities/Novara>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Piemonte/cities/Torino> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Piemonte_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Piemonte_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Piemonte_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Piemonte_obpophistcoll> .
 

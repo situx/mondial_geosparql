@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Rio+Cuiabá> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso/cities/Cuiabá_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso/cities/Cuiabá_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso/cities/Cuiabá_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso/cities/Cuiabá_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso/cities/Cuiabá_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso/cities/Cuiabá_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso/cities/Cuiabá_obpophistcoll> .
 

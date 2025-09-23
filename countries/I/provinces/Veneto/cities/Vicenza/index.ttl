@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/I/provinces/Veneto/cities/Vicenza_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Veneto/cities/Vicenza_obele>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Veneto/cities/Vicenza_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Veneto/cities/Vicenza_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Veneto/cities/Vicenza_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Veneto/cities/Vicenza_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Veneto/cities/Vicenza_obpophistcoll> .
 

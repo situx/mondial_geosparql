@@ -17,7 +17,5 @@
     skos:prefLabel "ბათუმი" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GE/cities/Batumi_obele>,
         <http://www.semwebtech.org/mondial/countries/GE/cities/Batumi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GE/cities/Batumi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GE/cities/Batumi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GE/cities/Batumi_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/GE/cities/Batumi_obpophistcoll> .
 

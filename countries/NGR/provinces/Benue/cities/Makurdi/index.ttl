@@ -14,6 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NGR/provinces/Benue/cities/Makurdi_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Benue> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Benue/cities/Makurdi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Benue/cities/Makurdi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Benue/cities/Makurdi_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Benue/cities/Makurdi_obpophistcoll> .
 

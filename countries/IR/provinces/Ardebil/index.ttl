@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IR/provinces/Ardebil/cities/Ardebil> ;
     skos:prefLabel "اردبيل" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Ardebil_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Ardebil_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Ardebil_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Ardebil_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Ardebil_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Ardebil_obpophistcoll> .
 

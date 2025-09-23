@@ -15,9 +15,5 @@
     skos:altLabel "Odintsovo" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Odincovo_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Odincovo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Odincovo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Odincovo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Odincovo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Odincovo_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Odincovo_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Odincovo_obpophistcoll> .
 

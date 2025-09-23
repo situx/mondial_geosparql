@@ -17,8 +17,5 @@
     skos:prefLabel "محمدية" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Grand+Casablanca/cities/Mohammedia_obele>,
         <http://www.semwebtech.org/mondial/countries/MA/provinces/Grand+Casablanca/cities/Mohammedia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Grand+Casablanca/cities/Mohammedia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Grand+Casablanca/cities/Mohammedia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Grand+Casablanca/cities/Mohammedia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Grand+Casablanca/cities/Mohammedia_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Grand+Casablanca/cities/Mohammedia_obpophistcoll> .
 

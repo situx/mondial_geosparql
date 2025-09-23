@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/LS/cities/Maseru_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/LS/cities/Maseru_obele>,
         <http://www.semwebtech.org/mondial/countries/LS/cities/Maseru_obpop>,
-        <http://www.semwebtech.org/mondial/countries/LS/cities/Maseru_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/LS/cities/Maseru_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/LS/cities/Maseru_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/LS/cities/Maseru_obpophistcoll> .
 

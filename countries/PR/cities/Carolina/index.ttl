@@ -16,8 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Puerto+Rico> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PR/cities/Carolina_obele>,
         <http://www.semwebtech.org/mondial/countries/PR/cities/Carolina_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PR/cities/Carolina_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PR/cities/Carolina_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PR/cities/Carolina_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PR/cities/Carolina_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PR/cities/Carolina_obpophistcoll> .
 

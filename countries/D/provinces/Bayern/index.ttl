@@ -25,9 +25,5 @@
         <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Würzburg> ;
     skos:altLabel "Bavaria" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern_obpophistcoll> .
 

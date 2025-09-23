@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Mudanjiang_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Mudanjiang_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Mudanjiang_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Mudanjiang_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Mudanjiang_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Mudanjiang_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Mudanjiang_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Mudanjiang_obpophistcoll> .
 

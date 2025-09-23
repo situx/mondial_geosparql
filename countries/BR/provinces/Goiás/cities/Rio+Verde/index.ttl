@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Rio+Verde_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Rio+Verde_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Rio+Verde_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Rio+Verde_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Rio+Verde_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Rio+Verde_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Rio+Verde_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Rio+Verde_obpophistcoll> .
 

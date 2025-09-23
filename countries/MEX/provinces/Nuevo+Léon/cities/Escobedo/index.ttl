@@ -13,10 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/Escobedo_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/Escobedo_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/Escobedo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/Escobedo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/Escobedo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/Escobedo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/Escobedo_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/Escobedo_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/Escobedo_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/Escobedo_obpophistcoll> .
 

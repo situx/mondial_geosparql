@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/HN/provinces/Francisco+Morazán/cities/Tegucigalpa> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/HN/provinces/Francisco+Morazán/cities/Tegucigalpa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/HN/provinces/Francisco+Morazán_obpop>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Francisco+Morazán_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Francisco+Morazán_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Francisco+Morazán_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Francisco+Morazán_obpophistcoll> .
 

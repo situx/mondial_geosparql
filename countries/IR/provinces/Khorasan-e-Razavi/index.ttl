@@ -20,8 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/IR/provinces/Khorasan-e-Razavi/cities/Sabzevar> ;
     skos:prefLabel "خراسان رضوي" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Khorasan-e-Razavi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khorasan-e-Razavi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khorasan-e-Razavi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khorasan-e-Razavi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khorasan-e-Razavi_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khorasan-e-Razavi_obpophistcoll> .
 

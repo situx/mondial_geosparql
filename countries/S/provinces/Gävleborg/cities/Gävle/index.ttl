@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Baltic+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Gävleborg/cities/Gävle_obele>,
         <http://www.semwebtech.org/mondial/countries/S/provinces/Gävleborg/cities/Gävle_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Gävleborg/cities/Gävle_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Gävleborg/cities/Gävle_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Gävleborg/cities/Gävle_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Gävleborg/cities/Gävle_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Gävleborg/cities/Gävle_obpophistcoll> .
 

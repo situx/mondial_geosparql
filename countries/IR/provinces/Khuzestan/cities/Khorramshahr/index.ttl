@@ -18,10 +18,5 @@
     skos:prefLabel "خرمشهر" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Khuzestan/cities/Khorramshahr_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/Khuzestan/cities/Khorramshahr_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khuzestan/cities/Khorramshahr_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khuzestan/cities/Khorramshahr_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khuzestan/cities/Khorramshahr_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khuzestan/cities/Khorramshahr_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khuzestan/cities/Khorramshahr_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khuzestan/cities/Khorramshahr_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khuzestan/cities/Khorramshahr_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CZ/provinces/Ústecký/cities/Ústí+nad+Labem> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CZ/provinces/Ústecký/cities/Ústí+nad+Labem> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CZ/provinces/Ústecký_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Ústecký_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Ústecký_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Ústecký_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Ústecký_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Ústecký_obpophistcoll> .
 

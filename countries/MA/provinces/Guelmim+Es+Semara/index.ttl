@@ -16,5 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/MA/provinces/Guelmim+Es+Semara/cities/Guelmim> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MA/provinces/Guelmim+Es+Semara/cities/Guelmim> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Guelmim+Es+Semara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Guelmim+Es+Semara_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Guelmim+Es+Semara_obpophistcoll> .
 

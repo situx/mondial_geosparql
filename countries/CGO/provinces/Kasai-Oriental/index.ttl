@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai-Oriental/cities/Mbuji-Mayi> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai-Oriental/cities/Mbuji-Mayi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai-Oriental_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai-Oriental_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai-Oriental_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai-Oriental_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai-Oriental_obpophistcoll> .
 

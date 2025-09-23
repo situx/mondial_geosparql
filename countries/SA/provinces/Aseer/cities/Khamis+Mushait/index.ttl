@@ -14,7 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SA/provinces/Aseer/cities/Khamis+Mushait_geom> ;
     skos:prefLabel "خميس مشيط" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SA/provinces/Aseer/cities/Khamis+Mushait_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Aseer/cities/Khamis+Mushait_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Aseer/cities/Khamis+Mushait_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Aseer/cities/Khamis+Mushait_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SA/provinces/Aseer/cities/Khamis+Mushait_obpophistcoll> .
 

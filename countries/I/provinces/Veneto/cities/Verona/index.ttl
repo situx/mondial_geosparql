@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Etsch> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Veneto/cities/Verona_obele>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Veneto/cities/Verona_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Veneto/cities/Verona_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Veneto/cities/Verona_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Veneto/cities/Verona_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Veneto/cities/Verona_obpophistcoll> .
 

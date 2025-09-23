@@ -18,6 +18,5 @@
     skos:altLabel "Limassol" ;
     skos:prefLabel "Λεμεσός" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CY/cities/Lemesos_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CY/cities/Lemesos_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CY/cities/Lemesos_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/CY/cities/Lemesos_obpophistcoll> .
 

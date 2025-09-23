@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kwango/cities/Kenge>,
         <http://www.semwebtech.org/mondial/countries/CGO/provinces/Mai-Ndombe/cities/Inongo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kwango_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kwango_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kwango_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kwango_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kwango_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/IND/provinces/Dadra+and+Nagar+Haveli/cities/Silvassa> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IND/provinces/Dadra+and+Nagar+Haveli/cities/Silvassa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Dadra+and+Nagar+Haveli_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Dadra+and+Nagar+Haveli_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Dadra+and+Nagar+Haveli_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Dadra+and+Nagar+Haveli_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Dadra+and+Nagar+Haveli_obpophistcoll> .
 

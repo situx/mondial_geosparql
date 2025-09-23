@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/B/provinces/West-Vlaanderen/cities/Brugge>,
         <http://www.semwebtech.org/mondial/countries/B/provinces/West-Vlaanderen/cities/Ostende> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/B/provinces/West-Vlaanderen_obpop>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/West-Vlaanderen_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/West-Vlaanderen_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/West-Vlaanderen_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/West-Vlaanderen_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/B/provinces/West-Vlaanderen_obpophistcoll> .
 

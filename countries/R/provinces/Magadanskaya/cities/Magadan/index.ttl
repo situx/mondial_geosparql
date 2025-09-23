@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Sea+of+Okhotsk> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Magadanskaya/cities/Magadan_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Magadanskaya/cities/Magadan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Magadanskaya/cities/Magadan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Magadanskaya/cities/Magadan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Magadanskaya/cities/Magadan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Magadanskaya/cities/Magadan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Magadanskaya/cities/Magadan_obpophistcoll> .
 

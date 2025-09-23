@@ -16,6 +16,5 @@
     skos:prefLabel "ရန်ကုန်" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYA/provinces/Yangon/cities/Yangon_obele>,
         <http://www.semwebtech.org/mondial/countries/MYA/provinces/Yangon/cities/Yangon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Yangon/cities/Yangon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Yangon/cities/Yangon_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Yangon/cities/Yangon_obpophistcoll> .
 

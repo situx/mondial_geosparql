@@ -18,7 +18,5 @@
     skos:prefLabel "Sumqayıt" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AZ/cities/Sumgayit_obele>,
         <http://www.semwebtech.org/mondial/countries/AZ/cities/Sumgayit_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AZ/cities/Sumgayit_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AZ/cities/Sumgayit_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AZ/cities/Sumgayit_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/AZ/cities/Sumgayit_obpophistcoll> .
 

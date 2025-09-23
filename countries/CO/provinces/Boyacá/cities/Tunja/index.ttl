@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CO/provinces/Boyacá/cities/Tunja_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Boyacá/cities/Tunja_obele>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Boyacá/cities/Tunja_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Boyacá/cities/Tunja_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Boyacá/cities/Tunja_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Boyacá/cities/Tunja_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Boyacá/cities/Tunja_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Boyacá/cities/Tunja_obpophistcoll> .
 

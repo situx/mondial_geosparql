@@ -15,9 +15,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Honshu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Fukushima/cities/Fukushima_obele>,
         <http://www.semwebtech.org/mondial/countries/J/provinces/Fukushima/cities/Fukushima_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukushima/cities/Fukushima_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukushima/cities/Fukushima_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukushima/cities/Fukushima_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukushima/cities/Fukushima_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukushima/cities/Fukushima_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukushima/cities/Fukushima_obpophistcoll> .
 

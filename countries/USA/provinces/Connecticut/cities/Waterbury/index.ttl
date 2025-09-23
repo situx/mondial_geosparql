@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Waterbury_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Waterbury_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Waterbury_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Waterbury_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Waterbury_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Waterbury_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Waterbury_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Waterbury_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Waterbury_obpophistcoll> .
 

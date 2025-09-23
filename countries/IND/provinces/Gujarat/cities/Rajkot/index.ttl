@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/IND/provinces/Gujarat/cities/Rajkot_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Gujarat/cities/Rajkot_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Gujarat/cities/Rajkot_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Gujarat/cities/Rajkot_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Gujarat/cities/Rajkot_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Gujarat/cities/Rajkot_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Gujarat/cities/Rajkot_obpophistcoll> .
 

@@ -15,9 +15,5 @@
     skos:altLabel "Nashville" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Tennessee/cities/Nashville-Davidson_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Tennessee/cities/Nashville-Davidson_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Tennessee/cities/Nashville-Davidson_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Tennessee/cities/Nashville-Davidson_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Tennessee/cities/Nashville-Davidson_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Tennessee/cities/Nashville-Davidson_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Tennessee/cities/Nashville-Davidson_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Tennessee/cities/Nashville-Davidson_obpophistcoll> .
 

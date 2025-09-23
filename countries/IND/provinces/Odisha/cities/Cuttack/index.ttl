@@ -15,5 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Mahanadi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Odisha/cities/Cuttack_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Odisha/cities/Cuttack_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Odisha/cities/Cuttack_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Odisha/cities/Cuttack_obpophistcoll> .
 

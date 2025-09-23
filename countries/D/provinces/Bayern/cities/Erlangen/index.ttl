@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Regnitz> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Erlangen_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Erlangen_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Erlangen_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Erlangen_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Erlangen_obpophistcoll> .
 

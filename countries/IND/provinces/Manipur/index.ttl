@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/IND/provinces/Manipur/cities/Imphal> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IND/provinces/Manipur/cities/Imphal> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Manipur_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Manipur_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Manipur_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Manipur_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Manipur_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Manipur_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Manipur_obpophistcoll> .
 

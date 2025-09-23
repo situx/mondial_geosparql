@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CN/provinces/Beijing/cities/Beijing> ;
     skos:prefLabel "北京" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Beijing_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Beijing_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Beijing_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Beijing_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Beijing_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Beijing_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Beijing_obpophistcoll> .
 

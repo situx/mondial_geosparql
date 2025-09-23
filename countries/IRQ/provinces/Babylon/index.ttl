@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Babylon/cities/Al+Hillah> ;
     skos:prefLabel "بابل" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Babylon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Babylon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Babylon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Babylon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Babylon_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Babylon_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Babylon_obpophistcoll> .
 

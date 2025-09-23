@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/UZ/provinces/Navoiy/cities/Navoiy_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UZ/provinces/Navoiy/cities/Navoiy_obele>,
         <http://www.semwebtech.org/mondial/countries/UZ/provinces/Navoiy/cities/Navoiy_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Navoiy/cities/Navoiy_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Navoiy/cities/Navoiy_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Navoiy/cities/Navoiy_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Navoiy/cities/Navoiy_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Navoiy/cities/Navoiy_obpophistcoll> .
 

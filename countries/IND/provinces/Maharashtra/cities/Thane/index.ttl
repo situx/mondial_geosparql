@@ -14,7 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Thane_geom> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Salsette> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Thane_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Thane_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Thane_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Thane_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Thane_obpophistcoll> .
 

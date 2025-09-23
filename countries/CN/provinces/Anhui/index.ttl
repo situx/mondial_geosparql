@@ -27,9 +27,5 @@
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Anhui/cities/Wuhu> ;
     skos:prefLabel "安徽" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Anhui_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Anhui_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Anhui_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Anhui_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Anhui_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Anhui_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Anhui_obpophistcoll> .
 

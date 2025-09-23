@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Irish+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Isle+of+Man> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GBM/cities/Douglas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GBM/cities/Douglas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GBM/cities/Douglas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GBM/cities/Douglas_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GBM/cities/Douglas_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GBM/cities/Douglas_obpophistcoll> .
 

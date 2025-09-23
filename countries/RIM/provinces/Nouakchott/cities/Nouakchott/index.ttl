@@ -17,7 +17,5 @@
     skos:prefLabel "نواكشوط" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RIM/provinces/Nouakchott/cities/Nouakchott_obele>,
         <http://www.semwebtech.org/mondial/countries/RIM/provinces/Nouakchott/cities/Nouakchott_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Nouakchott/cities/Nouakchott_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Nouakchott/cities/Nouakchott_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Nouakchott/cities/Nouakchott_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Nouakchott/cities/Nouakchott_obpophistcoll> .
 

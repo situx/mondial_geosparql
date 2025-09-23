@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/GH/provinces/Western+North/cities/Wiawso> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GH/provinces/Western+North/cities/Wiawso> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GH/provinces/Western+North_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Western+North_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Western+North_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Western+North_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Western+North_obpophistcoll> .
 

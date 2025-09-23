@@ -19,7 +19,5 @@
     skos:altLabel "Arakan" ;
     skos:prefLabel "ရခိုင်ပြည်နယ်" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYA/provinces/Rakhine_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Rakhine_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Rakhine_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Rakhine_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Rakhine_obpophistcoll> .
 

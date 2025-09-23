@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IR/provinces/Hormozgan/cities/Bandar+Abbas> ;
     skos:prefLabel "هرمزگان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Hormozgan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Hormozgan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Hormozgan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Hormozgan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Hormozgan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Hormozgan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Hormozgan_obpophistcoll> .
 

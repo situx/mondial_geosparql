@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Sinop/cities/Sinop> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Sinop/cities/Sinop> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Sinop_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Sinop_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Sinop_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Sinop_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Sinop_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Sinop_obpophistcoll> .
 

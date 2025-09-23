@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CI/provinces/Lagunes/cities/Dabou> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CI/provinces/Lagunes/cities/Dabou> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CI/provinces/Lagunes_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Lagunes_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Lagunes_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Lagunes_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Lagunes_obpophistcoll> .
 

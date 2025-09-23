@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Isparta/cities/Isparta> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Isparta/cities/Isparta> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Isparta_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Isparta_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Isparta_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Isparta_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Isparta_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Isparta_obpophistcoll> .
 

@@ -12,9 +12,5 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Amadora_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Amadora_obpop>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Amadora_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Amadora_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Amadora_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Amadora_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Amadora_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Amadora_obpophistcoll> .
 

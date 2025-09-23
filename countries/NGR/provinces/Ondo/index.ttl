@@ -19,8 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ondo/cities/Ondo>,
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ondo/cities/Owo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ondo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ondo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ondo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ondo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ondo_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ondo_obpophistcoll> .
 

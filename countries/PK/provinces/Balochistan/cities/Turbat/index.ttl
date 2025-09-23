@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PK/provinces/Balochistan/cities/Turbat_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK/provinces/Balochistan/cities/Turbat_obele>,
         <http://www.semwebtech.org/mondial/countries/PK/provinces/Balochistan/cities/Turbat_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Balochistan/cities/Turbat_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Balochistan/cities/Turbat_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Balochistan/cities/Turbat_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Balochistan/cities/Turbat_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Balochistan/cities/Turbat_obpophistcoll> .
 

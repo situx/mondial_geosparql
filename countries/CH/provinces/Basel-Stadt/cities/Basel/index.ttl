@@ -16,9 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Rhein> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Stadt/cities/Basel_obele>,
         <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Stadt/cities/Basel_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Stadt/cities/Basel_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Stadt/cities/Basel_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Stadt/cities/Basel_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Stadt/cities/Basel_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Stadt/cities/Basel_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Stadt/cities/Basel_obpophistcoll> .
 

@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/S/provinces/Östergötland/cities/Linköping>,
         <http://www.semwebtech.org/mondial/countries/S/provinces/Östergötland/cities/Norrköping> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Östergötland_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Östergötland_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Östergötland_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Östergötland_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Östergötland_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Östergötland_obpophistcoll> .
 

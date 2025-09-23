@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CO/provinces/Putumayo/cities/Mocoa_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Putumayo/cities/Mocoa_obele>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Putumayo/cities/Mocoa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Putumayo/cities/Mocoa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Putumayo/cities/Mocoa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Putumayo/cities/Mocoa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Putumayo/cities/Mocoa_obpophistcoll> .
 

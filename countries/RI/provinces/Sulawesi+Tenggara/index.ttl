@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tenggara/cities/Kendari> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tenggara/cities/Kendari> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tenggara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tenggara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tenggara_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tenggara_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tenggara_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tenggara_obpophistcoll> .
 

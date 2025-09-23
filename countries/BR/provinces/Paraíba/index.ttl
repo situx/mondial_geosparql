@@ -18,10 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraíba/cities/João+Pessoa>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraíba/cities/Santa+Rita> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraíba_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraíba_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraíba_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraíba_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraíba_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraíba_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraíba_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraíba_obpophistcoll> .
 

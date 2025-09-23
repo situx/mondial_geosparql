@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Drau> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol/cities/Lienz_obele>,
         <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol/cities/Lienz_obpop>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol/cities/Lienz_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol/cities/Lienz_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol/cities/Lienz_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol/cities/Lienz_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol/cities/Lienz_obpophistcoll> .
 

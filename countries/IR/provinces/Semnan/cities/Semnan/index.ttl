@@ -15,9 +15,5 @@
     skos:prefLabel "سمنان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Semnan/cities/Semnan_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/Semnan/cities/Semnan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Semnan/cities/Semnan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Semnan/cities/Semnan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Semnan/cities/Semnan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Semnan/cities/Semnan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Semnan/cities/Semnan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Semnan/cities/Semnan_obpophistcoll> .
 

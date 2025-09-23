@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Saar> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Saarland/cities/Saarbrücken_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Saarland/cities/Saarbrücken_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Saarland/cities/Saarbrücken_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Saarland/cities/Saarbrücken_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Saarland/cities/Saarbrücken_obpophistcoll> .
 

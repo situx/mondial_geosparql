@@ -19,6 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Milano>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Monza> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia_obpophistcoll> .
 

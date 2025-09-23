@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Mediterranean+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AL/cities/Vlorë_obele>,
         <http://www.semwebtech.org/mondial/countries/AL/cities/Vlorë_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AL/cities/Vlorë_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AL/cities/Vlorë_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/AL/cities/Vlorë_obpophistcoll> .
 

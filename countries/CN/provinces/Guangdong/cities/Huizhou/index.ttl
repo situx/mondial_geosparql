@@ -17,8 +17,5 @@
     skos:prefLabel "惠州市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Huizhou_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Huizhou_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Huizhou_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Huizhou_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Huizhou_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Huizhou_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Huizhou_obpophistcoll> .
 

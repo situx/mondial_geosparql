@@ -16,9 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Honshu> ;
     skos:prefLabel "相模原市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Kanagawa/cities/Sagamihara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kanagawa/cities/Sagamihara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kanagawa/cities/Sagamihara_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kanagawa/cities/Sagamihara_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kanagawa/cities/Sagamihara_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kanagawa/cities/Sagamihara_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Kanagawa/cities/Sagamihara_obpophistcoll> .
 

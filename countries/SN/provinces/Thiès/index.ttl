@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SN/provinces/Thiès/cities/M'Bour>,
         <http://www.semwebtech.org/mondial/countries/SN/provinces/Thiès/cities/Thiès> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SN/provinces/Thiès_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Thiès_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Thiès_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Thiès_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Thiès_obpophistcoll> .
 

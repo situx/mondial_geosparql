@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Sajó> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/H/provinces/Borsod-Abaúj-Zemplén/cities/Miskolc_obele>,
         <http://www.semwebtech.org/mondial/countries/H/provinces/Borsod-Abaúj-Zemplén/cities/Miskolc_obpop>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Borsod-Abaúj-Zemplén/cities/Miskolc_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Borsod-Abaúj-Zemplén/cities/Miskolc_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Borsod-Abaúj-Zemplén/cities/Miskolc_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Borsod-Abaúj-Zemplén/cities/Miskolc_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/H/provinces/Borsod-Abaúj-Zemplén/cities/Miskolc_obpophistcoll> .
 

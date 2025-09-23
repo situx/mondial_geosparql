@@ -20,10 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France/cities/Paris>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France/cities/Saint-Denis> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France_obpophistcoll> .
 

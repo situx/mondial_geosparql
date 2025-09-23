@@ -17,9 +17,5 @@
     skos:prefLabel "Самара" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Samara_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Samara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Samara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Samara_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Samara_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Samara_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Samara_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Samara_obpophistcoll> .
 

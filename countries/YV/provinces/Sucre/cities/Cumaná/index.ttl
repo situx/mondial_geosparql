@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Caribbean+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Sucre/cities/Cumaná_obele>,
         <http://www.semwebtech.org/mondial/countries/YV/provinces/Sucre/cities/Cumaná_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Sucre/cities/Cumaná_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Sucre/cities/Cumaná_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Sucre/cities/Cumaná_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Sucre/cities/Cumaná_obpophistcoll> .
 

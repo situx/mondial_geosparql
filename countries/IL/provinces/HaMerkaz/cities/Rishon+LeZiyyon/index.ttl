@@ -16,8 +16,5 @@
     skos:prefLabel "ראשון לציון" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Rishon+LeZiyyon_obele>,
         <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Rishon+LeZiyyon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Rishon+LeZiyyon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Rishon+LeZiyyon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Rishon+LeZiyyon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Rishon+LeZiyyon_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Rishon+LeZiyyon_obpophistcoll> .
 

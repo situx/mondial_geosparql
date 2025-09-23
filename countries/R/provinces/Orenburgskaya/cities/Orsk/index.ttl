@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Ural> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Orenburgskaya/cities/Orsk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Orenburgskaya/cities/Orsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orenburgskaya/cities/Orsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orenburgskaya/cities/Orsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orenburgskaya/cities/Orsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orenburgskaya/cities/Orsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orenburgskaya/cities/Orsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Orenburgskaya/cities/Orsk_obpophistcoll> .
 

@@ -20,14 +20,7 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PN/cities/Adamstown> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PN_obeth1>,
         <http://www.semwebtech.org/mondial/countries/PN_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PN_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PN_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PN_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PN_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/PN_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/PN_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/PN_obpophist6>,
-        <http://www.semwebtech.org/mondial/countries/PN_obpophist7>,
-        <http://www.semwebtech.org/mondial/countries/PN_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/PN_obpopg>,
+        <http://www.semwebtech.org/mondial/countries/PN_obpophistcoll>,
         <http://www.semwebtech.org/mondial/countries/PN_obrel1> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PE/provinces/Lima+City/cities/Lima> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PE/provinces/Lima+City/cities/Lima> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PE/provinces/Lima+City_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Lima+City_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Lima+City_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Lima+City_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Lima+City_obpophistcoll> .
 

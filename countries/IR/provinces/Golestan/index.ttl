@@ -19,8 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/IR/provinces/Golestan/cities/Gorgan> ;
     skos:prefLabel "گلستان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Golestan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Golestan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Golestan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Golestan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Golestan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Golestan_obpophistcoll> .
 

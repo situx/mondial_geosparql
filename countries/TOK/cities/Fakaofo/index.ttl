@@ -15,5 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Fakaofo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TOK/cities/Fakaofo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TOK/cities/Fakaofo_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/TOK/cities/Fakaofo_obpophistcoll> .
 

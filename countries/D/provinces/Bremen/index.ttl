@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/D/provinces/Bremen/cities/Bremen>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Bremen/cities/Bremerhaven> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Bremen_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bremen_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bremen_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bremen_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bremen_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Bremen_obpophistcoll> .
 

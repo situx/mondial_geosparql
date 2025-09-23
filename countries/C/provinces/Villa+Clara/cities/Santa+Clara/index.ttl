@@ -15,8 +15,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Cuba> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/C/provinces/Villa+Clara/cities/Santa+Clara_obele>,
         <http://www.semwebtech.org/mondial/countries/C/provinces/Villa+Clara/cities/Santa+Clara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Villa+Clara/cities/Santa+Clara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Villa+Clara/cities/Santa+Clara_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Villa+Clara/cities/Santa+Clara_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Villa+Clara/cities/Santa+Clara_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Villa+Clara/cities/Santa+Clara_obpophistcoll> .
 

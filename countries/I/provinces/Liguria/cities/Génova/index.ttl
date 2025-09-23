@@ -17,7 +17,5 @@
     skos:altLabel "Genoa" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Liguria/cities/Génova_obele>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Liguria/cities/Génova_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Liguria/cities/Génova_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Liguria/cities/Génova_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Liguria/cities/Génova_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Liguria/cities/Génova_obpophistcoll> .
 

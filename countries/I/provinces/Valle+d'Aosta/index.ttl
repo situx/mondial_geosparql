@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/I/provinces/Valle+d'Aosta/cities/Aosta> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/I/provinces/Valle+d'Aosta/cities/Aosta> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Valle+d'Aosta_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Valle+d'Aosta_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Valle+d'Aosta_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Valle+d'Aosta_obpophistcoll> .
 

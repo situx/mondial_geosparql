@@ -19,8 +19,5 @@
         "København" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DK/provinces/Hovedstaden/cities/Copenhagen_obele>,
         <http://www.semwebtech.org/mondial/countries/DK/provinces/Hovedstaden/cities/Copenhagen_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Hovedstaden/cities/Copenhagen_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Hovedstaden/cities/Copenhagen_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Hovedstaden/cities/Copenhagen_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Hovedstaden/cities/Copenhagen_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/DK/provinces/Hovedstaden/cities/Copenhagen_obpophistcoll> .
 

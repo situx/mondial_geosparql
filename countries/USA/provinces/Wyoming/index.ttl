@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/USA/provinces/Wyoming/cities/Cheyenne> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/USA/provinces/Wyoming/cities/Cheyenne> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Wyoming_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Wyoming_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Wyoming_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Wyoming_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Wyoming_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Wyoming_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Wyoming_obpophistcoll> .
 

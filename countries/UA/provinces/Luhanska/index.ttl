@@ -21,9 +21,5 @@
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Sievierodonetsk> ;
     skos:prefLabel "Луганська" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska_obpophistcoll> .
 

@@ -15,7 +15,5 @@
     geo:hasMetricArea 27220 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/PK/provinces/Khyber+Pakhtunkhwa/cities/Peshawar> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK/provinces/FATA_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/FATA_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/FATA_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/FATA_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/FATA_obpophistcoll> .
 

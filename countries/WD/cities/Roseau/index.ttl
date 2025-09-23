@@ -16,8 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Dominica> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/WD/cities/Roseau_obele>,
         <http://www.semwebtech.org/mondial/countries/WD/cities/Roseau_obpop>,
-        <http://www.semwebtech.org/mondial/countries/WD/cities/Roseau_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/WD/cities/Roseau_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/WD/cities/Roseau_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/WD/cities/Roseau_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/WD/cities/Roseau_obpophistcoll> .
 

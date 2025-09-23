@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/R/provinces/Tomskaya/cities/Tomsk> ;
     skos:prefLabel "Томская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Tomskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tomskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tomskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tomskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tomskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tomskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Tomskaya_obpophistcoll> .
 

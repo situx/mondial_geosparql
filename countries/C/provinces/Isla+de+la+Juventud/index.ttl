@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/C/provinces/Isla+de+la+Juventud/cities/Nueva+Gerona> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/C/provinces/Isla+de+la+Juventud/cities/Nueva+Gerona> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/C/provinces/Isla+de+la+Juventud_obpop>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Isla+de+la+Juventud_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Isla+de+la+Juventud_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Isla+de+la+Juventud_obpophistcoll> .
 

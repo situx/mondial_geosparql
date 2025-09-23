@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Sorocaba_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Sorocaba_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Sorocaba_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Sorocaba_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Sorocaba_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Sorocaba_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Sorocaba_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Sorocaba_obpophistcoll> .
 

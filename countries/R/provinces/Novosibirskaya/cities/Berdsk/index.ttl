@@ -17,9 +17,5 @@
     skos:prefLabel "Бердск" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Novosibirskaya/cities/Berdsk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Novosibirskaya/cities/Berdsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Novosibirskaya/cities/Berdsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Novosibirskaya/cities/Berdsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Novosibirskaya/cities/Berdsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Novosibirskaya/cities/Berdsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Novosibirskaya/cities/Berdsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Novosibirskaya/cities/Berdsk_obpophistcoll> .
 

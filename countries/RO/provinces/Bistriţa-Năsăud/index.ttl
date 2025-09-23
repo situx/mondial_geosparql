@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Bistriţa-Năsăud/cities/Bistrita> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Bistriţa-Năsăud/cities/Bistrita> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Bistriţa-Năsăud_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Bistriţa-Năsăud_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Bistriţa-Năsăud_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Bistriţa-Năsăud_obpophistcoll> .
 

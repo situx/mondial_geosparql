@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Caribbean+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Montserrat> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MNTS/cities/Plymouth_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MNTS/cities/Plymouth_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MNTS/cities/Plymouth_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MNTS/cities/Plymouth_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MNTS/cities/Plymouth_obpophistcoll> .
 

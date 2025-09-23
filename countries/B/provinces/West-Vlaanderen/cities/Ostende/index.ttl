@@ -17,9 +17,5 @@
     skos:altLabel "Oostende" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/B/provinces/West-Vlaanderen/cities/Ostende_obele>,
         <http://www.semwebtech.org/mondial/countries/B/provinces/West-Vlaanderen/cities/Ostende_obpop>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/West-Vlaanderen/cities/Ostende_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/West-Vlaanderen/cities/Ostende_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/West-Vlaanderen/cities/Ostende_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/West-Vlaanderen/cities/Ostende_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/West-Vlaanderen/cities/Ostende_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/B/provinces/West-Vlaanderen/cities/Ostende_obpophistcoll> .
 

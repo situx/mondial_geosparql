@@ -15,8 +15,5 @@
     skos:altLabel "San Juan de Girón" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Girón_obele>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Girón_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Girón_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Girón_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Girón_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Girón_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Girón_obpophistcoll> .
 

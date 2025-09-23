@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Lake+Erie> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Pennsylvania/cities/Erie_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Pennsylvania/cities/Erie_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Pennsylvania/cities/Erie_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Pennsylvania/cities/Erie_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Pennsylvania/cities/Erie_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Pennsylvania/cities/Erie_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Pennsylvania/cities/Erie_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Pennsylvania/cities/Erie_obpophistcoll> .
 

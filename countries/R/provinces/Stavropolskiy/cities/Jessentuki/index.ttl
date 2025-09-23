@@ -15,9 +15,5 @@
     skos:altLabel "Yessentuki" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Stavropolskiy/cities/Jessentuki_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Stavropolskiy/cities/Jessentuki_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Stavropolskiy/cities/Jessentuki_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Stavropolskiy/cities/Jessentuki_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Stavropolskiy/cities/Jessentuki_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Stavropolskiy/cities/Jessentuki_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Stavropolskiy/cities/Jessentuki_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Stavropolskiy/cities/Jessentuki_obpophistcoll> .
 

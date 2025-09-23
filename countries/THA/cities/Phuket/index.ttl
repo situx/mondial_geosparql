@@ -18,6 +18,5 @@
     skos:prefLabel "ภูเก็ต" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/THA/cities/Phuket_obele>,
         <http://www.semwebtech.org/mondial/countries/THA/cities/Phuket_obpop>,
-        <http://www.semwebtech.org/mondial/countries/THA/cities/Phuket_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/THA/cities/Phuket_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/THA/cities/Phuket_obpophistcoll> .
 

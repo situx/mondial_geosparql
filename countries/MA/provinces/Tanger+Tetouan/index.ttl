@@ -17,5 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MA/provinces/Tanger+Tetouan/cities/Tanger>,
         <http://www.semwebtech.org/mondial/countries/MA/provinces/Tanger+Tetouan/cities/Tétouan> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Tanger+Tetouan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Tanger+Tetouan_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Tanger+Tetouan_obpophistcoll> .
 

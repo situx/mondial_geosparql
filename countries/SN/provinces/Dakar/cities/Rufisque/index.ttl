@@ -14,6 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SN/provinces/Dakar/cities/Rufisque_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SN/provinces/Dakar/cities/Rufisque_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Dakar/cities/Rufisque_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Dakar/cities/Rufisque_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Dakar/cities/Rufisque_obpophistcoll> .
 

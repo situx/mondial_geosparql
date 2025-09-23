@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RCH/provinces/Antofagasta/cities/Calama_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCH/provinces/Antofagasta/cities/Calama_obele>,
         <http://www.semwebtech.org/mondial/countries/RCH/provinces/Antofagasta/cities/Calama_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Antofagasta/cities/Calama_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Antofagasta/cities/Calama_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Antofagasta/cities/Calama_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Antofagasta/cities/Calama_obpophistcoll> .
 

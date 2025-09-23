@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Niger> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RN/provinces/Niamey/cities/Niamey_obele>,
         <http://www.semwebtech.org/mondial/countries/RN/provinces/Niamey/cities/Niamey_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Niamey/cities/Niamey_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Niamey/cities/Niamey_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Niamey/cities/Niamey_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Niamey/cities/Niamey_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RN/provinces/Niamey/cities/Niamey_obpophistcoll> .
 

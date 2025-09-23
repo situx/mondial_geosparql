@@ -16,7 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Reunion> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RE/cities/Saint-Paul_obele>,
         <http://www.semwebtech.org/mondial/countries/RE/cities/Saint-Paul_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RE/cities/Saint-Paul_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RE/cities/Saint-Paul_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RE/cities/Saint-Paul_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RE/cities/Saint-Paul_obpophistcoll> .
 

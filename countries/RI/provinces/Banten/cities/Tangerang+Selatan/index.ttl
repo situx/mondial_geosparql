@@ -16,5 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Java> ;
     skos:altLabel "South Tangerang" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten/cities/Tangerang+Selatan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten/cities/Tangerang+Selatan_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten/cities/Tangerang+Selatan_obpophistcoll> .
 

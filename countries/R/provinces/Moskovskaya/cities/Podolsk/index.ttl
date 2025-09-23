@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Podolsk_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Podolsk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Podolsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Podolsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Podolsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Podolsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Podolsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Podolsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Podolsk_obpophistcoll> .
 

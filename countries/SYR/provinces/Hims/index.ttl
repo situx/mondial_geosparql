@@ -19,6 +19,5 @@
     skos:altLabel "Homs" ;
     skos:prefLabel "حمص" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SYR/provinces/Hims_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Hims_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Hims_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Hims_obpophistcoll> .
 

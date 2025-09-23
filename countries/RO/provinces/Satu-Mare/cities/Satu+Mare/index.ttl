@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Somes> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Satu-Mare/cities/Satu+Mare_obele>,
         <http://www.semwebtech.org/mondial/countries/RO/provinces/Satu-Mare/cities/Satu+Mare_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Satu-Mare/cities/Satu+Mare_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Satu-Mare/cities/Satu+Mare_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Satu-Mare/cities/Satu+Mare_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Satu-Mare/cities/Satu+Mare_obpophistcoll> .
 

@@ -17,10 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur/cities/Cabo+San+Lucas>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur/cities/La+Paz> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur_obpophistcoll> .
 

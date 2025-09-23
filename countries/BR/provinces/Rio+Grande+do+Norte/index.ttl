@@ -18,10 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Norte/cities/Natal>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Norte/cities/Parnamirim> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Norte_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Norte_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Norte_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Norte_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Norte_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Norte_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Norte_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Norte_obpophistcoll> .
 

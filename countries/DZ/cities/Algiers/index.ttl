@@ -17,7 +17,5 @@
     skos:prefLabel "الجزائر" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DZ/cities/Algiers_obele>,
         <http://www.semwebtech.org/mondial/countries/DZ/cities/Algiers_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Algiers_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Algiers_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Algiers_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/DZ/cities/Algiers_obpophistcoll> .
 

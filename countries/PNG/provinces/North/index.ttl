@@ -16,5 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PNG/provinces/North/cities/Lae> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PNG/provinces/North/cities/Lae> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PNG/provinces/North_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PNG/provinces/North_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/PNG/provinces/North_obpophistcoll> .
 

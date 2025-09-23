@@ -16,9 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Malta> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/M/cities/Valletta_obele>,
         <http://www.semwebtech.org/mondial/countries/M/cities/Valletta_obpop>,
-        <http://www.semwebtech.org/mondial/countries/M/cities/Valletta_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/M/cities/Valletta_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/M/cities/Valletta_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/M/cities/Valletta_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/M/cities/Valletta_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/M/cities/Valletta_obpophistcoll> .
 

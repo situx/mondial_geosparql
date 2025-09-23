@@ -15,8 +15,5 @@
     skos:altLabel "Ad Duain" ;
     skos:prefLabel "الضعين" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/Sharq+Dārfūr/cities/Aḍ-Ḍuayn_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Sharq+Dārfūr/cities/Aḍ-Ḍuayn_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Sharq+Dārfūr/cities/Aḍ-Ḍuayn_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Sharq+Dārfūr/cities/Aḍ-Ḍuayn_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Sharq+Dārfūr/cities/Aḍ-Ḍuayn_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Sharq+Dārfūr/cities/Aḍ-Ḍuayn_obpophistcoll> .
 

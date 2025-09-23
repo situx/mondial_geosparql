@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Carolina/cities/Fayetteville_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Carolina/cities/Fayetteville_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Carolina/cities/Fayetteville_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Carolina/cities/Fayetteville_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Carolina/cities/Fayetteville_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Carolina/cities/Fayetteville_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Carolina/cities/Fayetteville_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Carolina/cities/Fayetteville_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CGO/provinces/Bas-Uele/cities/Buta> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CGO/provinces/Bas-Uele/cities/Buta> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Bas-Uele_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Bas-Uele_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Bas-Uele_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Bas-Uele_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Bas-Uele_obpophistcoll> .
 

@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Marília_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Marília_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Marília_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Marília_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Marília_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Marília_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Marília_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Marília_obpophistcoll> .
 

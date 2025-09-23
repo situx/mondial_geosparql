@@ -22,9 +22,5 @@
     skos:altLabel "Samara" ;
     skos:prefLabel "Самарская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya_obpophistcoll> .
 

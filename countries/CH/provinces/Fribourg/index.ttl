@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CH/provinces/Fribourg/cities/Fribourg> ;
     skos:altLabel "Freiburg" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CH/provinces/Fribourg_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Fribourg_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Fribourg_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Fribourg_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Fribourg_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Fribourg_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CH/provinces/Fribourg_obpophistcoll> .
 

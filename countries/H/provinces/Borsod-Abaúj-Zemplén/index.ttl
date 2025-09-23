@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/H/provinces/Borsod-Abaúj-Zemplén/cities/Miskolc> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/H/provinces/Borsod-Abaúj-Zemplén/cities/Miskolc> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/H/provinces/Borsod-Abaúj-Zemplén_obpop>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Borsod-Abaúj-Zemplén_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Borsod-Abaúj-Zemplén_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Borsod-Abaúj-Zemplén_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/H/provinces/Borsod-Abaúj-Zemplén_obpophistcoll> .
 

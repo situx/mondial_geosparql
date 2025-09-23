@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/UZ/provinces/Samarqand/cities/Samarqand> ;
     skos:altLabel "Samarkand" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UZ/provinces/Samarqand_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Samarqand_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Samarqand_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Samarqand_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Samarqand_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Samarqand_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Samarqand_obpophistcoll> .
 

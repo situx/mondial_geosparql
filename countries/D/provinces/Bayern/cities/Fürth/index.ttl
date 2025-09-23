@@ -17,6 +17,5 @@
         <http://www.semwebtech.org/mondial/rivers/Regnitz> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Fürth_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Fürth_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Fürth_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Fürth_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Fürth_obpophistcoll> .
 

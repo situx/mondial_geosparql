@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/TR/provinces/Gaziantep/cities/Gaziantep_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Gaziantep/cities/Gaziantep_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Gaziantep/cities/Gaziantep_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Gaziantep/cities/Gaziantep_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Gaziantep/cities/Gaziantep_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Gaziantep/cities/Gaziantep_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Gaziantep/cities/Gaziantep_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Gaziantep/cities/Gaziantep_obpophistcoll> .
 

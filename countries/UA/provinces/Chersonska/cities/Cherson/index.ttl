@@ -19,9 +19,5 @@
     skos:prefLabel "Херсон" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Chersonska/cities/Cherson_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Chersonska/cities/Cherson_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Chersonska/cities/Cherson_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Chersonska/cities/Cherson_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Chersonska/cities/Cherson_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Chersonska/cities/Cherson_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Chersonska/cities/Cherson_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Chersonska/cities/Cherson_obpophistcoll> .
 

@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Asahan> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Sumatra> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Utara/cities/Pematang+Siantar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Utara/cities/Pematang+Siantar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Utara/cities/Pematang+Siantar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Utara/cities/Pematang+Siantar_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Utara/cities/Pematang+Siantar_obpophistcoll> .
 

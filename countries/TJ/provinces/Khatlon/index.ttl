@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/TJ/provinces/Khatlon/cities/Kulyab> ;
     skos:prefLabel "Хатлон" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TJ/provinces/Khatlon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Khatlon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Khatlon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Khatlon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Khatlon_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Khatlon_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Khatlon_obpophistcoll> .
 

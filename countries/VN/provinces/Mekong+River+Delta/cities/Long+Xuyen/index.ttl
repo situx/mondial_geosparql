@@ -17,7 +17,5 @@
     skos:prefLabel "Long Xuyên" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta/cities/Long+Xuyen_obele>,
         <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta/cities/Long+Xuyen_obpop>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta/cities/Long+Xuyen_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta/cities/Long+Xuyen_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta/cities/Long+Xuyen_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta/cities/Long+Xuyen_obpophistcoll> .
 

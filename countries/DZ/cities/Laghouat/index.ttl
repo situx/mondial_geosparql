@@ -15,6 +15,5 @@
     skos:prefLabel "الأغواط" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DZ/cities/Laghouat_obele>,
         <http://www.semwebtech.org/mondial/countries/DZ/cities/Laghouat_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Laghouat_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Laghouat_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/DZ/cities/Laghouat_obpophistcoll> .
 

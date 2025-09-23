@@ -17,6 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz/cities/El+Alto>,
         <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz/cities/La+Paz> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz_obpophistcoll> .
 

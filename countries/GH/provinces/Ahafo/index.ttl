@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/GH/provinces/Ahafo/cities/Goaso> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GH/provinces/Ahafo/cities/Goaso> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GH/provinces/Ahafo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Ahafo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Ahafo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Ahafo_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Ahafo_obpophistcoll> .
 

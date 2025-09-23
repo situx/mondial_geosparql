@@ -15,7 +15,5 @@
     skos:altLabel "Santiago de Veraguas" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PA/provinces/Veraguas/cities/Santiago_obele>,
         <http://www.semwebtech.org/mondial/countries/PA/provinces/Veraguas/cities/Santiago_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Veraguas/cities/Santiago_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Veraguas/cities/Santiago_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Veraguas/cities/Santiago_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PA/provinces/Veraguas/cities/Santiago_obpophistcoll> .
 

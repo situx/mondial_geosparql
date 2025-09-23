@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CZ/provinces/Královéhradecký/cities/Hradec+Králové> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CZ/provinces/Královéhradecký/cities/Hradec+Králové> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CZ/provinces/Královéhradecký_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Královéhradecký_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Královéhradecký_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Královéhradecký_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Královéhradecký_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Královéhradecký_obpophistcoll> .
 

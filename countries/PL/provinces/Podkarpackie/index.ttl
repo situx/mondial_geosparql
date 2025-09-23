@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PL/provinces/Podkarpackie/cities/Rzeszów> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PL/provinces/Podkarpackie/cities/Rzeszów> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL/provinces/Podkarpackie_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Podkarpackie_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Podkarpackie_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Podkarpackie_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Podkarpackie_obpophistcoll> .
 

@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GR/provinces/Dytikis+Elladas/cities/Patra> ;
     skos:prefLabel "Δυτικής Ελλάδας" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Dytikis+Elladas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Dytikis+Elladas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Dytikis+Elladas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Dytikis+Elladas_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Dytikis+Elladas_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Dytikis+Elladas_obpophistcoll> .
 

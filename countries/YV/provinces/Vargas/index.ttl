@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/YV/provinces/Vargas/cities/Catia+La+Mar>,
         <http://www.semwebtech.org/mondial/countries/YV/provinces/Vargas/cities/La+Guaira> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Vargas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Vargas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Vargas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Vargas_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Vargas_obpophistcoll> .
 

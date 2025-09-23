@@ -17,9 +17,5 @@
     skos:altLabel "Aarhus" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DK/provinces/Midtjylland/cities/Århus_obele>,
         <http://www.semwebtech.org/mondial/countries/DK/provinces/Midtjylland/cities/Århus_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Midtjylland/cities/Århus_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Midtjylland/cities/Århus_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Midtjylland/cities/Århus_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Midtjylland/cities/Århus_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Midtjylland/cities/Århus_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/DK/provinces/Midtjylland/cities/Århus_obpophistcoll> .
 

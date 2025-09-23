@@ -16,5 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Upolu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/WS/cities/Apia_obele>,
         <http://www.semwebtech.org/mondial/countries/WS/cities/Apia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/WS/cities/Apia_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/WS/cities/Apia_obpophistcoll> .
 

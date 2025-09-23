@@ -15,5 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Sokoto> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Zamfara/cities/Gusau_obele>,
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Zamfara/cities/Gusau_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Zamfara/cities/Gusau_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Zamfara/cities/Gusau_obpophistcoll> .
 

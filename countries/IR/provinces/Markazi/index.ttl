@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IR/provinces/Markazi/cities/Arak> ;
     skos:prefLabel "مركزي" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Markazi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Markazi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Markazi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Markazi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Markazi_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Markazi_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Markazi_obpophistcoll> .
 

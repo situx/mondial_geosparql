@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RCB/provinces/Pool/cities/Kinkala> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RCB/provinces/Pool/cities/Kinkala> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCB/provinces/Pool_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Pool_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Pool_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Pool_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Pool_obpophistcoll> .
 

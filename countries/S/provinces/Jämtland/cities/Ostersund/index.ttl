@@ -13,5 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/S/provinces/Jämtland/cities/Ostersund_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Jämtland/cities/Ostersund_obele>,
         <http://www.semwebtech.org/mondial/countries/S/provinces/Jämtland/cities/Ostersund_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Jämtland/cities/Ostersund_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Jämtland/cities/Ostersund_obpophistcoll> .
 

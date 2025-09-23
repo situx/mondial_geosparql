@@ -15,8 +15,5 @@
     skos:altLabel "Kokand" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona/cities/Qu‘qon_obele>,
         <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona/cities/Qu‘qon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona/cities/Qu‘qon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona/cities/Qu‘qon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona/cities/Qu‘qon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona/cities/Qu‘qon_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona/cities/Qu‘qon_obpophistcoll> .
 

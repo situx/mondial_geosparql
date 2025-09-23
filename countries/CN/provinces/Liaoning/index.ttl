@@ -27,9 +27,5 @@
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Shenyang> ;
     skos:prefLabel "辽宁" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning_obpophistcoll> .
 

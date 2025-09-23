@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Java+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Java> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Jawa+Tengah/cities/Pekalongan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Jawa+Tengah/cities/Pekalongan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Jawa+Tengah/cities/Pekalongan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Jawa+Tengah/cities/Pekalongan_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Jawa+Tengah/cities/Pekalongan_obpophistcoll> .
 

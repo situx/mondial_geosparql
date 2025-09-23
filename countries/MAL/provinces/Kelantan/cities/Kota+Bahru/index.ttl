@@ -17,6 +17,5 @@
         <http://www.semwebtech.org/mondial/seas/South+China+Sea> ;
     skos:altLabel "Kota Bharu" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kelantan/cities/Kota+Bahru_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kelantan/cities/Kota+Bahru_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kelantan/cities/Kota+Bahru_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kelantan/cities/Kota+Bahru_obpophistcoll> .
 

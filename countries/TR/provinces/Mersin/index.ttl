@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Mersin/cities/Mersin>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Mersin/cities/Tarsus> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Mersin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Mersin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Mersin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Mersin_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Mersin_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Mersin_obpophistcoll> .
 

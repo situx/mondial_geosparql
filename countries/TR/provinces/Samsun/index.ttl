@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Samsun/cities/Samsun> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Samsun/cities/Samsun> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Samsun_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Samsun_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Samsun_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Samsun_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Samsun_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Samsun_obpophistcoll> .
 

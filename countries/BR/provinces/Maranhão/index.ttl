@@ -20,10 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/São+Luís>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/Timon> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão_obpophistcoll> .
 

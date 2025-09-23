@@ -20,9 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona/cities/Qu‘qon> ;
     skos:altLabel "Fergana" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona_obpophistcoll> .
 

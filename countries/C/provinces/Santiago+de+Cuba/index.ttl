@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/C/provinces/Santiago+de+Cuba/cities/Santiago+de+Cuba> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/C/provinces/Santiago+de+Cuba/cities/Santiago+de+Cuba> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/C/provinces/Santiago+de+Cuba_obpop>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Santiago+de+Cuba_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Santiago+de+Cuba_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Santiago+de+Cuba_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Santiago+de+Cuba_obpophistcoll> .
 

@@ -17,8 +17,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Taiwan> ;
     skos:prefLabel "臺南市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RC/cities/Tainan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RC/cities/Tainan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RC/cities/Tainan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RC/cities/Tainan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RC/cities/Tainan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RC/cities/Tainan_obpophistcoll> .
 

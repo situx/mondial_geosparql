@@ -14,5 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/N/provinces/Nordland/cities/Narvik_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Norwegian+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Nordland/cities/Narvik_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Nordland/cities/Narvik_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Nordland/cities/Narvik_obpophistcoll> .
 

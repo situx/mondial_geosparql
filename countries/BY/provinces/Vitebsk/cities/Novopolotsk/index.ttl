@@ -17,8 +17,5 @@
     skos:prefLabel "Наваполацк" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BY/provinces/Vitebsk/cities/Novopolotsk_obele>,
         <http://www.semwebtech.org/mondial/countries/BY/provinces/Vitebsk/cities/Novopolotsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Vitebsk/cities/Novopolotsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Vitebsk/cities/Novopolotsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Vitebsk/cities/Novopolotsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Vitebsk/cities/Novopolotsk_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BY/provinces/Vitebsk/cities/Novopolotsk_obpophistcoll> .
 

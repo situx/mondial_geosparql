@@ -19,8 +19,5 @@
     skos:altLabel "Jizan" ;
     skos:prefLabel "جازان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SA/provinces/Jazan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Jazan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Jazan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Jazan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Jazan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/SA/provinces/Jazan_obpophistcoll> .
 

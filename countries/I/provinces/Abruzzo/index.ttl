@@ -17,6 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/I/provinces/Abruzzo/cities/L'Aquila>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Abruzzo/cities/Pescara> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Abruzzo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Abruzzo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Abruzzo_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Abruzzo_obpophistcoll> .
 

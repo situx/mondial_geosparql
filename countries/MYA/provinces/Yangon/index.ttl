@@ -19,7 +19,5 @@
     skos:altLabel "Rangoon" ;
     skos:prefLabel "ရန်ကုန်တိုင်းဒေသကြီး" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYA/provinces/Yangon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Yangon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Yangon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Yangon_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Yangon_obpophistcoll> .
 

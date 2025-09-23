@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RSA/provinces/Limpopo/cities/Polokwane> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RSA/provinces/Limpopo/cities/Polokwane> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RSA/provinces/Limpopo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Limpopo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Limpopo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Limpopo_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Limpopo_obpophistcoll> .
 

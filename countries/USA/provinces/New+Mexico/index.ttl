@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Mexico/cities/Albuquerque>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Mexico/cities/Santa+Fe> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Mexico_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Mexico_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Mexico_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Mexico_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Mexico_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Mexico_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Mexico_obpophistcoll> .
 

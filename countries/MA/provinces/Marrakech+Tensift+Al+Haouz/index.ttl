@@ -16,5 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/MA/provinces/Marrakech+Tensift+Al+Haouz/cities/Marrakech> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MA/provinces/Marrakech+Tensift+Al+Haouz/cities/Marrakech> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Marrakech+Tensift+Al+Haouz_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Marrakech+Tensift+Al+Haouz_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Marrakech+Tensift+Al+Haouz_obpophistcoll> .
 

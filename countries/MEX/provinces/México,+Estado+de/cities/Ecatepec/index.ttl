@@ -15,10 +15,5 @@
     skos:altLabel "Ecatepec de Morelos" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Ecatepec_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Ecatepec_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Ecatepec_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Ecatepec_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Ecatepec_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Ecatepec_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Ecatepec_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Ecatepec_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Ecatepec_obpophistcoll> .
 

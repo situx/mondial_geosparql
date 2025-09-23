@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/KZ/provinces/Atyrau/cities/Atyrau> ;
     skos:prefLabel "Атырау" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KZ/provinces/Atyrau_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Atyrau_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Atyrau_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Atyrau_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Atyrau_obpophistcoll> .
 

@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/YV/provinces/Barinas/cities/Barinas_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Barinas/cities/Barinas_obele>,
         <http://www.semwebtech.org/mondial/countries/YV/provinces/Barinas/cities/Barinas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Barinas/cities/Barinas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Barinas/cities/Barinas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Barinas/cities/Barinas_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Barinas/cities/Barinas_obpophistcoll> .
 

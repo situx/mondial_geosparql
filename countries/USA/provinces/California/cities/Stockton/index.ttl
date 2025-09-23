@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/San+Joaquin+River> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Stockton_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Stockton_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Stockton_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Stockton_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Stockton_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Stockton_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Stockton_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Stockton_obpophistcoll> .
 

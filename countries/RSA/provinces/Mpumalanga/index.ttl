@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RSA/provinces/Mpumalanga/cities/Mbombela> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RSA/provinces/Mpumalanga/cities/Mbombela> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RSA/provinces/Mpumalanga_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Mpumalanga_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Mpumalanga_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Mpumalanga_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Mpumalanga_obpophistcoll> .
 

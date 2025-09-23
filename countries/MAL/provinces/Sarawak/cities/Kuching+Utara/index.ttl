@@ -18,7 +18,5 @@
     skos:altLabel "Kuching" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak/cities/Kuching+Utara_obele>,
         <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak/cities/Kuching+Utara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak/cities/Kuching+Utara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak/cities/Kuching+Utara_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak/cities/Kuching+Utara_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak/cities/Kuching+Utara_obpophistcoll> .
 

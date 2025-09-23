@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/BOL/provinces/Chuquisaca/cities/Sucre> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BOL/provinces/Chuquisaca/cities/Sucre> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BOL/provinces/Chuquisaca_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Chuquisaca_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Chuquisaca_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Chuquisaca_obpophistcoll> .
 

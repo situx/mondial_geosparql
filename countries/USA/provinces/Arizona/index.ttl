@@ -24,9 +24,5 @@
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Arizona/cities/Tempe>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Arizona/cities/Tucson> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Arizona_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Arizona_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Arizona_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Arizona_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Arizona_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Arizona_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Arizona_obpophistcoll> .
 

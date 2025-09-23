@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RI/provinces/Kepulauan+Riau/cities/Batam>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Kepulauan+Riau/cities/Tanjung+Pinang> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Kepulauan+Riau_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kepulauan+Riau_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kepulauan+Riau_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kepulauan+Riau_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kepulauan+Riau_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kepulauan+Riau_obpophistcoll> .
 

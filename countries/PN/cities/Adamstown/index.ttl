@@ -16,5 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Pitcairn> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PN/cities/Adamstown_obele>,
         <http://www.semwebtech.org/mondial/countries/PN/cities/Adamstown_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PN/cities/Adamstown_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/PN/cities/Adamstown_obpophistcoll> .
 

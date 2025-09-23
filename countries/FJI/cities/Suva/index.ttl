@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Viti+Levu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/FJI/cities/Suva_obpop>,
-        <http://www.semwebtech.org/mondial/countries/FJI/cities/Suva_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/FJI/cities/Suva_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/FJI/cities/Suva_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/FJI/cities/Suva_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/FJI/cities/Suva_obpophistcoll> .
 

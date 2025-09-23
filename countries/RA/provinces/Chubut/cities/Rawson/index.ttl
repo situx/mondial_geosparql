@@ -16,7 +16,5 @@
         <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut/cities/Rawson_obele>,
         <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut/cities/Rawson_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut/cities/Rawson_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut/cities/Rawson_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut/cities/Rawson_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut/cities/Rawson_obpophistcoll> .
 

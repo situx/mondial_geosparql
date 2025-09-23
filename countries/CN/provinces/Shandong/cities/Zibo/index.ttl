@@ -15,8 +15,5 @@
     skos:prefLabel "淄博市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong/cities/Zibo_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong/cities/Zibo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong/cities/Zibo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong/cities/Zibo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong/cities/Zibo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong/cities/Zibo_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong/cities/Zibo_obpophistcoll> .
 

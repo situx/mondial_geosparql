@@ -15,7 +15,5 @@
     skos:altLabel "East Rand",
         "Ekurhuleni" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Ekurhuleni+-+Germiston_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Ekurhuleni+-+Germiston_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Ekurhuleni+-+Germiston_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Ekurhuleni+-+Germiston_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Ekurhuleni+-+Germiston_obpophistcoll> .
 

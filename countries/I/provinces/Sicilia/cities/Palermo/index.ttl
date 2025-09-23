@@ -16,7 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Sicilia> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Sicilia/cities/Palermo_obele>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Sicilia/cities/Palermo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Sicilia/cities/Palermo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Sicilia/cities/Palermo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Sicilia/cities/Palermo_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Sicilia/cities/Palermo_obpophistcoll> .
 

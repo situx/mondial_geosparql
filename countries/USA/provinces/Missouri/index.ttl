@@ -20,9 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri/cities/Springfield>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri/cities/St.+Louis> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri_obpophistcoll> .
 

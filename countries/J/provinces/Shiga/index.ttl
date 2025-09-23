@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Shiga/cities/Otsu> ;
     skos:prefLabel "滋賀県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Shiga_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shiga_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shiga_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shiga_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shiga_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shiga_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Shiga_obpophistcoll> .
 

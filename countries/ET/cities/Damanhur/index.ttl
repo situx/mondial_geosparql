@@ -15,8 +15,5 @@
     skos:prefLabel "دمنهور" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ET/cities/Damanhur_obele>,
         <http://www.semwebtech.org/mondial/countries/ET/cities/Damanhur_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Damanhur_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Damanhur_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Damanhur_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Damanhur_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/ET/cities/Damanhur_obpophistcoll> .
 

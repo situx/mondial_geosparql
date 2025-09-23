@@ -18,6 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/I/provinces/Calabria/cities/Cosenza>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Calabria/cities/Réggio+di+Calabria> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Calabria_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Calabria_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Calabria_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Calabria_obpophistcoll> .
 

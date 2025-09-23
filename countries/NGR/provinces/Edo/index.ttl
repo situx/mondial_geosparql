@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/NGR/provinces/Edo/cities/Benin> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NGR/provinces/Edo/cities/Benin> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Edo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Edo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Edo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Edo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Edo_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Edo_obpophistcoll> .
 

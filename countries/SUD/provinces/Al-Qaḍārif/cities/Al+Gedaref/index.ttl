@@ -16,8 +16,5 @@
     skos:prefLabel "القضارف" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Qaḍārif/cities/Al+Gedaref_obele>,
         <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Qaḍārif/cities/Al+Gedaref_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Qaḍārif/cities/Al+Gedaref_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Qaḍārif/cities/Al+Gedaref_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Qaḍārif/cities/Al+Gedaref_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Qaḍārif/cities/Al+Gedaref_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Qaḍārif/cities/Al+Gedaref_obpophistcoll> .
 

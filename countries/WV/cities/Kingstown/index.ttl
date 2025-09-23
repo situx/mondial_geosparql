@@ -15,5 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Caribbean+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Saint+Vincent> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/WV/cities/Kingstown_obpop>,
-        <http://www.semwebtech.org/mondial/countries/WV/cities/Kingstown_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/WV/cities/Kingstown_obpophistcoll> .
 

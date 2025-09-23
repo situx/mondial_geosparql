@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perak/cities/Ipoh>,
         <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perak/cities/Taiping> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perak_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perak_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perak_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perak_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perak_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perak_obpophistcoll> .
 

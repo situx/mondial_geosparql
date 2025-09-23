@@ -16,8 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Mediterranean+Sea> ;
     skos:prefLabel "נְתַנְיָה" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Netanya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Netanya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Netanya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Netanya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Netanya_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Netanya_obpophistcoll> .
 

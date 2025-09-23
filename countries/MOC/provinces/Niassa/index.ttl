@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/MOC/provinces/Niassa/cities/Lichinga> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MOC/provinces/Niassa/cities/Lichinga> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MOC/provinces/Niassa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Niassa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Niassa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Niassa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Niassa_obpophistcoll> .
 

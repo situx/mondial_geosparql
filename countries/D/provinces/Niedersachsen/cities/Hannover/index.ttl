@@ -17,8 +17,5 @@
     skos:altLabel "Hanover" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen/cities/Hannover_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen/cities/Hannover_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen/cities/Hannover_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen/cities/Hannover_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen/cities/Hannover_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen/cities/Hannover_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen/cities/Hannover_obpophistcoll> .
 

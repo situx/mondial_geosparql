@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IR/provinces/Semnan/cities/Semnan> ;
     skos:prefLabel "سمنان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Semnan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Semnan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Semnan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Semnan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Semnan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Semnan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Semnan_obpophistcoll> .
 

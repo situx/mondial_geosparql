@@ -18,7 +18,5 @@
     skos:prefLabel "Χανίων" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis/cities/Chania_obele>,
         <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis/cities/Chania_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis/cities/Chania_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis/cities/Chania_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis/cities/Chania_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis/cities/Chania_obpophistcoll> .
 

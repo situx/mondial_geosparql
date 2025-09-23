@@ -17,6 +17,5 @@
         <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains/cities/Ha+Long>,
         <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains/cities/Thai+Nguyen> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains_obpop>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains_obpophistcoll> .
 

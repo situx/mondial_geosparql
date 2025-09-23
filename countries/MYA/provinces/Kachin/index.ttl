@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MYA/provinces/Kachin/cities/Myitkyina> ;
     skos:prefLabel "ကချင်ပြည်နယ်" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYA/provinces/Kachin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Kachin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Kachin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Kachin_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Kachin_obpophistcoll> .
 

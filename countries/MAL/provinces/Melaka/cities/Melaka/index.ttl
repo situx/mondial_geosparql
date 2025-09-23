@@ -16,7 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Malakka+Strait> ;
     skos:altLabel "Malacca" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAL/provinces/Melaka/cities/Melaka_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Melaka/cities/Melaka_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Melaka/cities/Melaka_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Melaka/cities/Melaka_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Melaka/cities/Melaka_obpophistcoll> .
 

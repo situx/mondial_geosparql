@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Covasna/cities/Sfintu+Gheorghe> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Covasna/cities/Sfintu+Gheorghe> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Covasna_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Covasna_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Covasna_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Covasna_obpophistcoll> .
 

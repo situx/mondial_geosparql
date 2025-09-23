@@ -14,10 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Mazatlán_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Mazatlán_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Mazatlán_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Mazatlán_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Mazatlán_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Mazatlán_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Mazatlán_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Mazatlán_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Mazatlán_obpophistcoll> .
 

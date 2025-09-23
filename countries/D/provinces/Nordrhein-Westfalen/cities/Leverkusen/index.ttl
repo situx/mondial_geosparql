@@ -16,6 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Wupper> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Leverkusen_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Leverkusen_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Leverkusen_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Leverkusen_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Leverkusen_obpophistcoll> .
 

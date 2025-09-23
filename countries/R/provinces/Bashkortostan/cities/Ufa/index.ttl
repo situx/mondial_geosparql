@@ -17,9 +17,5 @@
     skos:prefLabel "Уфа" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Ufa_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Ufa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Ufa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Ufa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Ufa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Ufa_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Ufa_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Ufa_obpophistcoll> .
 

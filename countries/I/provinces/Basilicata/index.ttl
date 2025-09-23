@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/I/provinces/Basilicata/cities/Potenza> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/I/provinces/Basilicata/cities/Potenza> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Basilicata_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Basilicata_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Basilicata_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Basilicata_obpophistcoll> .
 

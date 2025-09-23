@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Narmada> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Madhya+Pradesh/cities/Jabalpur_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Madhya+Pradesh/cities/Jabalpur_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Madhya+Pradesh/cities/Jabalpur_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Madhya+Pradesh/cities/Jabalpur_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Madhya+Pradesh/cities/Jabalpur_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Madhya+Pradesh/cities/Jabalpur_obpophistcoll> .
 

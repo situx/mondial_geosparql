@@ -16,8 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Persian+Gulf> ;
     skos:prefLabel "دبي" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UAE/cities/Dubai_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UAE/cities/Dubai_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UAE/cities/Dubai_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UAE/cities/Dubai_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UAE/cities/Dubai_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/UAE/cities/Dubai_obpophistcoll> .
 

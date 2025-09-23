@@ -17,6 +17,5 @@
     skos:prefLabel "通辽市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Tongliao_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Tongliao_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Tongliao_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Tongliao_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Tongliao_obpophistcoll> .
 

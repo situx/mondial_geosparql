@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Aydın/cities/Aydin>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Aydın/cities/Nazilli> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Aydın_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Aydın_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Aydın_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Aydın_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Aydın_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Aydın_obpophistcoll> .
 

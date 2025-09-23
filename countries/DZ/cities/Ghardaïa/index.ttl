@@ -15,6 +15,5 @@
     skos:prefLabel "غرداية" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DZ/cities/Ghardaïa_obele>,
         <http://www.semwebtech.org/mondial/countries/DZ/cities/Ghardaïa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Ghardaïa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Ghardaïa_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/DZ/cities/Ghardaïa_obpophistcoll> .
 

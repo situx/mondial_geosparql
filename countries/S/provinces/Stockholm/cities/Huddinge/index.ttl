@@ -14,7 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm/cities/Huddinge_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Mälaren> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm/cities/Huddinge_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm/cities/Huddinge_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm/cities/Huddinge_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm/cities/Huddinge_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm/cities/Huddinge_obpophistcoll> .
 

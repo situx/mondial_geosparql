@@ -17,9 +17,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Kyushu> ;
     skos:prefLabel "宮崎市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Miyazaki/cities/Miyazaki_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Miyazaki/cities/Miyazaki_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Miyazaki/cities/Miyazaki_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Miyazaki/cities/Miyazaki_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Miyazaki/cities/Miyazaki_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Miyazaki/cities/Miyazaki_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Miyazaki/cities/Miyazaki_obpophistcoll> .
 

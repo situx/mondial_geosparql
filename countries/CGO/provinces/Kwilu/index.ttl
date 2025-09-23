@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kwilu/cities/Bandundu>,
         <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kwilu/cities/Kikwit> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kwilu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kwilu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kwilu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kwilu_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kwilu_obpophistcoll> .
 

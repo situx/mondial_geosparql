@@ -17,5 +17,5 @@
     skos:altLabel "Calicut" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Kerala/cities/Kozhikode_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Kerala/cities/Kozhikode_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Kerala/cities/Kozhikode_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Kerala/cities/Kozhikode_obpophistcoll> .
 

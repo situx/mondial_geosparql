@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/IND/provinces/Daman+and+Diu/cities/Daman> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IND/provinces/Daman+and+Diu/cities/Daman> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Daman+and+Diu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Daman+and+Diu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Daman+and+Diu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Daman+and+Diu_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Daman+and+Diu_obpophistcoll> .
 

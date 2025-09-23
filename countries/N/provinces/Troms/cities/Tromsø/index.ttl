@@ -16,5 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Norwegian+Sea> ;
     skos:altLabel "Tromsoe" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Troms/cities/Tromsø_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Troms/cities/Tromsø_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Troms/cities/Tromsø_obpophistcoll> .
 

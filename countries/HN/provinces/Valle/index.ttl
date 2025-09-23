@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/HN/provinces/Valle/cities/Nacaome> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/HN/provinces/Valle/cities/Nacaome> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/HN/provinces/Valle_obpop>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Valle_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Valle_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Valle_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Valle_obpophistcoll> .
 

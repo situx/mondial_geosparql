@@ -17,7 +17,5 @@
     skos:prefLabel "انواذيبو" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RIM/provinces/Dakhlet+Nouadhibou/cities/Nouadhibou_obele>,
         <http://www.semwebtech.org/mondial/countries/RIM/provinces/Dakhlet+Nouadhibou/cities/Nouadhibou_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Dakhlet+Nouadhibou/cities/Nouadhibou_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Dakhlet+Nouadhibou/cities/Nouadhibou_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Dakhlet+Nouadhibou/cities/Nouadhibou_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Dakhlet+Nouadhibou/cities/Nouadhibou_obpophistcoll> .
 

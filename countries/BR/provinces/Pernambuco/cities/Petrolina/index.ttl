@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Rio+Sao+Francisco> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Petrolina_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Petrolina_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Petrolina_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Petrolina_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Petrolina_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Petrolina_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Petrolina_obpophistcoll> .
 

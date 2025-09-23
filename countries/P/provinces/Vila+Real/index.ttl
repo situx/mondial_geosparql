@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/P/provinces/Vila+Real/cities/Vila+Real> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/P/provinces/Vila+Real/cities/Vila+Real> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/P/provinces/Vila+Real_obpop>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Vila+Real_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Vila+Real_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Vila+Real_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Vila+Real_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Vila+Real_obpophistcoll> .
 

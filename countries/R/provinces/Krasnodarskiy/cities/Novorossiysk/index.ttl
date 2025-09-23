@@ -18,9 +18,5 @@
     skos:prefLabel "Новороссийск" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnodarskiy/cities/Novorossiysk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnodarskiy/cities/Novorossiysk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnodarskiy/cities/Novorossiysk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnodarskiy/cities/Novorossiysk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnodarskiy/cities/Novorossiysk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnodarskiy/cities/Novorossiysk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnodarskiy/cities/Novorossiysk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnodarskiy/cities/Novorossiysk_obpophistcoll> .
 

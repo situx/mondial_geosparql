@@ -16,7 +16,5 @@
         <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/G/cities/Libreville_obele>,
         <http://www.semwebtech.org/mondial/countries/G/cities/Libreville_obpop>,
-        <http://www.semwebtech.org/mondial/countries/G/cities/Libreville_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/G/cities/Libreville_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/G/cities/Libreville_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/G/cities/Libreville_obpophistcoll> .
 

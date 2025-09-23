@@ -18,5 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MYA/provinces/Nay+Pyi+Taw/cities/Nay+Pyi+Taw> ;
     skos:prefLabel "နေပြည်တော် ပြည်တောင်စုနယ်မြေ" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYA/provinces/Nay+Pyi+Taw_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Nay+Pyi+Taw_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Nay+Pyi+Taw_obpophistcoll> .
 

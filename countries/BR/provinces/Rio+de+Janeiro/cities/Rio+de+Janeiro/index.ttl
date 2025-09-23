@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Rio+de+Janeiro_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Rio+de+Janeiro_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Rio+de+Janeiro_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Rio+de+Janeiro_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Rio+de+Janeiro_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Rio+de+Janeiro_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Rio+de+Janeiro_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Malatya/cities/Malatya> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Malatya/cities/Malatya> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Malatya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Malatya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Malatya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Malatya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Malatya_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Malatya_obpophistcoll> .
 

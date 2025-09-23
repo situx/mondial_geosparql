@@ -16,9 +16,5 @@
     skos:prefLabel "Кӯлоб" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TJ/provinces/Khatlon/cities/Kulyab_obele>,
         <http://www.semwebtech.org/mondial/countries/TJ/provinces/Khatlon/cities/Kulyab_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Khatlon/cities/Kulyab_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Khatlon/cities/Kulyab_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Khatlon/cities/Kulyab_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Khatlon/cities/Kulyab_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Khatlon/cities/Kulyab_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Khatlon/cities/Kulyab_obpophistcoll> .
 

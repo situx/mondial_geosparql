@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/HN/provinces/Santa+Bárbara/cities/Santa+Barbara> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/HN/provinces/Santa+Bárbara/cities/Santa+Barbara> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/HN/provinces/Santa+Bárbara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Santa+Bárbara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Santa+Bárbara_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Santa+Bárbara_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Santa+Bárbara_obpophistcoll> .
 

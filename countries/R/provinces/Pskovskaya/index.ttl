@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Pskovskaya/cities/Pskov> ;
     skos:prefLabel "Псковская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Pskovskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Pskovskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Pskovskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Pskovskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Pskovskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Pskovskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Pskovskaya_obpophistcoll> .
 

@@ -17,9 +17,5 @@
     skos:prefLabel "Қызылорда" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kyzylorda/cities/Kyzylorda_obele>,
         <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kyzylorda/cities/Kyzylorda_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kyzylorda/cities/Kyzylorda_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kyzylorda/cities/Kyzylorda_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kyzylorda/cities/Kyzylorda_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kyzylorda/cities/Kyzylorda_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kyzylorda/cities/Kyzylorda_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kyzylorda/cities/Kyzylorda_obpophistcoll> .
 

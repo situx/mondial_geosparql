@@ -16,5 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Saint+Pierre> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SPM/cities/Saint-Pierre_obele>,
         <http://www.semwebtech.org/mondial/countries/SPM/cities/Saint-Pierre_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SPM/cities/Saint-Pierre_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/SPM/cities/Saint-Pierre_obpophistcoll> .
 

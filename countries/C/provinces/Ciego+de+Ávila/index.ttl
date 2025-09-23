@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/C/provinces/Ciego+de+Ávila/cities/Ciego+de+Ávila> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/C/provinces/Ciego+de+Ávila/cities/Ciego+de+Ávila> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/C/provinces/Ciego+de+Ávila_obpop>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Ciego+de+Ávila_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Ciego+de+Ávila_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Ciego+de+Ávila_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Ciego+de+Ávila_obpophistcoll> .
 

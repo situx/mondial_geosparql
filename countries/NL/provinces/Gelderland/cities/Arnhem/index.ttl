@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Rhein> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NL/provinces/Gelderland/cities/Arnhem_obele>,
         <http://www.semwebtech.org/mondial/countries/NL/provinces/Gelderland/cities/Arnhem_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Gelderland/cities/Arnhem_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Gelderland/cities/Arnhem_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Gelderland/cities/Arnhem_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NL/provinces/Gelderland/cities/Arnhem_obpophistcoll> .
 

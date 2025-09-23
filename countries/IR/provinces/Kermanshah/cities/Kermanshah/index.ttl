@@ -15,9 +15,5 @@
     skos:prefLabel "کرمانشاه" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Kermanshah/cities/Kermanshah_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/Kermanshah/cities/Kermanshah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kermanshah/cities/Kermanshah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kermanshah/cities/Kermanshah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kermanshah/cities/Kermanshah_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kermanshah/cities/Kermanshah_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kermanshah/cities/Kermanshah_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kermanshah/cities/Kermanshah_obpophistcoll> .
 

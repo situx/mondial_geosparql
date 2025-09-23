@@ -16,5 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/MA/provinces/Gharb+Chrarda+Beni+Hssen/cities/Kénitra> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MA/provinces/Gharb+Chrarda+Beni+Hssen/cities/Kénitra> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Gharb+Chrarda+Beni+Hssen_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Gharb+Chrarda+Beni+Hssen_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Gharb+Chrarda+Beni+Hssen_obpophistcoll> .
 

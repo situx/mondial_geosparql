@@ -26,9 +26,5 @@
         <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Tyumen> ;
     skos:prefLabel "Тюменская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya_obpophistcoll> .
 

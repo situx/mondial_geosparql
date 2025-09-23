@@ -17,9 +17,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Coloane>,
         <http://www.semwebtech.org/mondial/islands/Taipa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAC/cities/Taipa-Coloane_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MAC/cities/Taipa-Coloane_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MAC/cities/Taipa-Coloane_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MAC/cities/Taipa-Coloane_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MAC/cities/Taipa-Coloane_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MAC/cities/Taipa-Coloane_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/MAC/cities/Taipa-Coloane_obpophistcoll> .
 

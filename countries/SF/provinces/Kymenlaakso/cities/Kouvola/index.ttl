@@ -14,5 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SF/provinces/Kymenlaakso/cities/Kouvola_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Kymijoki> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Kymenlaakso/cities/Kouvola_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Kymenlaakso/cities/Kouvola_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Kymenlaakso/cities/Kouvola_obpophistcoll> .
 

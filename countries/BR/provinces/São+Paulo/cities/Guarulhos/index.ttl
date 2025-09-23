@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Tiete> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Guarulhos_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Guarulhos_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Guarulhos_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Guarulhos_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Guarulhos_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Guarulhos_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Guarulhos_obpophistcoll> .
 

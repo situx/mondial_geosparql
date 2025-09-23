@@ -18,7 +18,5 @@
     skos:altLabel "Manama" ;
     skos:prefLabel "المنامة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BRN/cities/Al+Manāmah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BRN/cities/Al+Manāmah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BRN/cities/Al+Manāmah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BRN/cities/Al+Manāmah_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/BRN/cities/Al+Manāmah_obpophistcoll> .
 

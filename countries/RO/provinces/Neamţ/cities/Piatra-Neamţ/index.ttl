@@ -13,6 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RO/provinces/Neamţ/cities/Piatra-Neamţ_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Neamţ/cities/Piatra-Neamţ_obele>,
         <http://www.semwebtech.org/mondial/countries/RO/provinces/Neamţ/cities/Piatra-Neamţ_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Neamţ/cities/Piatra-Neamţ_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Neamţ/cities/Piatra-Neamţ_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Neamţ/cities/Piatra-Neamţ_obpophistcoll> .
 

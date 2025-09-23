@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PA/provinces/Guna+Yala/cities/El+Porvenir> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PA/provinces/Guna+Yala/cities/El+Porvenir> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PA/provinces/Guna+Yala_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Guna+Yala_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Guna+Yala_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Guna+Yala_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PA/provinces/Guna+Yala_obpophistcoll> .
 

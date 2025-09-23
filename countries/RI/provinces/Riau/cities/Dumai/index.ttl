@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Malakka+Strait> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Sumatra> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Riau/cities/Dumai_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Riau/cities/Dumai_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Riau/cities/Dumai_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Riau/cities/Dumai_obpophistcoll> .
 

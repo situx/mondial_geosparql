@@ -14,9 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ROK/cities/Mokpo_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Yellow+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ROK/cities/Mokpo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Mokpo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Mokpo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Mokpo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Mokpo_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Mokpo_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Mokpo_obpophistcoll> .
 

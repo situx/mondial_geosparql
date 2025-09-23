@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Warta> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubuskie/cities/Gorzów+Wielkopolski_obele>,
         <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubuskie/cities/Gorzów+Wielkopolski_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubuskie/cities/Gorzów+Wielkopolski_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubuskie/cities/Gorzów+Wielkopolski_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubuskie/cities/Gorzów+Wielkopolski_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubuskie/cities/Gorzów+Wielkopolski_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubuskie/cities/Gorzów+Wielkopolski_obpophistcoll> .
 

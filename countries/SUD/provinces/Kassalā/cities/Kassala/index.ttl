@@ -16,8 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Mareb> ;
     skos:prefLabel "كسلا" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/Kassalā/cities/Kassala_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Kassalā/cities/Kassala_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Kassalā/cities/Kassala_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Kassalā/cities/Kassala_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Kassalā/cities/Kassala_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Kassalā/cities/Kassala_obpophistcoll> .
 

@@ -17,9 +17,5 @@
     skos:prefLabel "Волгоград" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Volgograd_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Volgograd_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Volgograd_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Volgograd_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Volgograd_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Volgograd_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Volgograd_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Volgograd_obpophistcoll> .
 

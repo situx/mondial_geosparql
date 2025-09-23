@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Miyazaki/cities/Miyazaki> ;
     skos:prefLabel "宮崎県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Miyazaki_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Miyazaki_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Miyazaki_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Miyazaki_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Miyazaki_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Miyazaki_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Miyazaki_obpophistcoll> .
 

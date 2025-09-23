@@ -16,7 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/South+China+Sea> ;
     skos:prefLabel "Hải Phòng" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/VN/provinces/Red+River+Delta/cities/Haiphong_obpop>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Red+River+Delta/cities/Haiphong_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Red+River+Delta/cities/Haiphong_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Red+River+Delta/cities/Haiphong_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Red+River+Delta/cities/Haiphong_obpophistcoll> .
 

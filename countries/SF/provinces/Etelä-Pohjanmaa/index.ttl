@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SF/provinces/Etelä-Pohjanmaa/cities/Seinäjoki> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SF/provinces/Etelä-Pohjanmaa/cities/Seinäjoki> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Etelä-Pohjanmaa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Etelä-Pohjanmaa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Etelä-Pohjanmaa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Etelä-Pohjanmaa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Etelä-Pohjanmaa_obpophistcoll> .
 

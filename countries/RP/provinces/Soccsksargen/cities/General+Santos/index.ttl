@@ -18,14 +18,5 @@
     skos:altLabel "Dadiangas" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen/cities/General+Santos_obele>,
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen/cities/General+Santos_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen/cities/General+Santos_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen/cities/General+Santos_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen/cities/General+Santos_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen/cities/General+Santos_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen/cities/General+Santos_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen/cities/General+Santos_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen/cities/General+Santos_obpophist6>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen/cities/General+Santos_obpophist7>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen/cities/General+Santos_obpophist8>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen/cities/General+Santos_obpophist9> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen/cities/General+Santos_obpophistcoll> .
 

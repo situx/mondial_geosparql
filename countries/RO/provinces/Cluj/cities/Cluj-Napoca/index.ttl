@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Somes> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Cluj/cities/Cluj-Napoca_obele>,
         <http://www.semwebtech.org/mondial/countries/RO/provinces/Cluj/cities/Cluj-Napoca_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Cluj/cities/Cluj-Napoca_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Cluj/cities/Cluj-Napoca_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Cluj/cities/Cluj-Napoca_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Cluj/cities/Cluj-Napoca_obpophistcoll> .
 

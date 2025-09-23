@@ -15,9 +15,5 @@
     skos:prefLabel "سنندج" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Kurdestan/cities/Sanandaj_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/Kurdestan/cities/Sanandaj_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kurdestan/cities/Sanandaj_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kurdestan/cities/Sanandaj_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kurdestan/cities/Sanandaj_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kurdestan/cities/Sanandaj_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kurdestan/cities/Sanandaj_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kurdestan/cities/Sanandaj_obpophistcoll> .
 

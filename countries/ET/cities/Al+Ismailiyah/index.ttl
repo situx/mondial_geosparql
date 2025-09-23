@@ -16,8 +16,5 @@
     skos:prefLabel "الاسماعيلي" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Ismailiyah_obele>,
         <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Ismailiyah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Ismailiyah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Ismailiyah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Ismailiyah_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Ismailiyah_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Ismailiyah_obpophistcoll> .
 

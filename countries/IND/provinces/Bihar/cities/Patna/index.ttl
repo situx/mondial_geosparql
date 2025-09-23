@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Ganges> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Bihar/cities/Patna_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Bihar/cities/Patna_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Bihar/cities/Patna_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Bihar/cities/Patna_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Bihar/cities/Patna_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Bihar/cities/Patna_obpophistcoll> .
 

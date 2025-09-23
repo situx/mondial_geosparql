@@ -16,7 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Yellow+Sea> ;
     skos:altLabel "Nampo" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KP/cities/Nampho_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KP/cities/Nampho_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KP/cities/Nampho_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KP/cities/Nampho_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Nampho_obpophistcoll> .
 

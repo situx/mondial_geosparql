@@ -17,6 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/ANG/provinces/Benguela/cities/Benguela>,
         <http://www.semwebtech.org/mondial/countries/ANG/provinces/Benguela/cities/Lobito> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Benguela_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Benguela_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Benguela_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Benguela_obpophistcoll> .
 

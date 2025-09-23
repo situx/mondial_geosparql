@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/S/provinces/Kalmar/cities/Kalmar> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/S/provinces/Kalmar/cities/Kalmar> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Kalmar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Kalmar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Kalmar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Kalmar_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Kalmar_obpophistcoll> .
 

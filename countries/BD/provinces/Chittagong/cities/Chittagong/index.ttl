@@ -14,8 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BD/provinces/Chittagong/cities/Chittagong_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Gulf+of+Bengal> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BD/provinces/Chittagong/cities/Chittagong_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Chittagong/cities/Chittagong_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Chittagong/cities/Chittagong_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Chittagong/cities/Chittagong_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Chittagong/cities/Chittagong_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BD/provinces/Chittagong/cities/Chittagong_obpophistcoll> .
 

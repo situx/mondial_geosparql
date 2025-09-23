@@ -14,8 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PK/provinces/Khyber+Pakhtunkhwa/cities/Mardan_geom> ;
     skos:altLabel "Mardān" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK/provinces/Khyber+Pakhtunkhwa/cities/Mardan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Khyber+Pakhtunkhwa/cities/Mardan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Khyber+Pakhtunkhwa/cities/Mardan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Khyber+Pakhtunkhwa/cities/Mardan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Khyber+Pakhtunkhwa/cities/Mardan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Khyber+Pakhtunkhwa/cities/Mardan_obpophistcoll> .
 

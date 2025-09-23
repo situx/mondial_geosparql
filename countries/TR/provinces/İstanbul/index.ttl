@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/İstanbul/cities/İstanbul> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/İstanbul/cities/İstanbul> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/İstanbul_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/İstanbul_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/İstanbul_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/İstanbul_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/İstanbul_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/İstanbul_obpophistcoll> .
 

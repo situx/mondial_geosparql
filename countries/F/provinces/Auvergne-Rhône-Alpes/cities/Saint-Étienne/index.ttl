@@ -13,10 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Saint-Étienne_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Saint-Étienne_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Saint-Étienne_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Saint-Étienne_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Saint-Étienne_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Saint-Étienne_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Saint-Étienne_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Saint-Étienne_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Saint-Étienne_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Saint-Étienne_obpophistcoll> .
 

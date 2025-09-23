@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Timiş> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Timiş/cities/Timişoara_obele>,
         <http://www.semwebtech.org/mondial/countries/RO/provinces/Timiş/cities/Timişoara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Timiş/cities/Timişoara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Timiş/cities/Timişoara_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Timiş/cities/Timişoara_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Timiş/cities/Timişoara_obpophistcoll> .
 

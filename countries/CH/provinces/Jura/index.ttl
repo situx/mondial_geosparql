@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CH/provinces/Jura/cities/Delemont> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CH/provinces/Jura/cities/Delemont> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CH/provinces/Jura_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Jura_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Jura_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Jura_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Jura_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Jura_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CH/provinces/Jura_obpophistcoll> .
 

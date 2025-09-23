@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi/cities/Bogra_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi/cities/Bogra_obele>,
         <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi/cities/Bogra_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi/cities/Bogra_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi/cities/Bogra_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi/cities/Bogra_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi/cities/Bogra_obpophistcoll> .
 

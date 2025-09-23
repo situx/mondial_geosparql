@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MYA/provinces/Tanintharyi/cities/Tavoy> ;
     skos:prefLabel "တနင်္သာရီတိုင်းဒေသကြီး" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYA/provinces/Tanintharyi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Tanintharyi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Tanintharyi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Tanintharyi_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Tanintharyi_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CI/provinces/Woroba/cities/Séguéla> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CI/provinces/Woroba/cities/Séguéla> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CI/provinces/Woroba_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Woroba_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Woroba_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Woroba_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Woroba_obpophistcoll> .
 

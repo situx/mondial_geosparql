@@ -17,7 +17,5 @@
     skos:prefLabel "قسنطينة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DZ/cities/Constantine_obele>,
         <http://www.semwebtech.org/mondial/countries/DZ/cities/Constantine_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Constantine_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Constantine_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Constantine_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/DZ/cities/Constantine_obpophistcoll> .
 

@@ -15,7 +15,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Mindanao> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen/cities/Koronadal_obele>,
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen/cities/Koronadal_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen/cities/Koronadal_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen/cities/Koronadal_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen/cities/Koronadal_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Soccsksargen/cities/Koronadal_obpophistcoll> .
 

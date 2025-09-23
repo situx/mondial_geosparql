@@ -10,5 +10,5 @@
     rdfs:label "Property Partition: observedProperty"@en ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     void:property sosa:observedProperty ;
-    void:triples 34685 .
+    void:triples 34909 .
 

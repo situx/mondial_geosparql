@@ -18,10 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Los+Mochis>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Mazatlán> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa_obpophistcoll> .
 

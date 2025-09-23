@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Roraima/cities/Boa+Vista_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Roraima/cities/Boa+Vista_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Roraima/cities/Boa+Vista_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Roraima/cities/Boa+Vista_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Roraima/cities/Boa+Vista_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Roraima/cities/Boa+Vista_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Roraima/cities/Boa+Vista_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Roraima/cities/Boa+Vista_obpophistcoll> .
 

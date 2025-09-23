@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CO/provinces/Guainía/cities/Inirida> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CO/provinces/Guainía/cities/Inirida> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Guainía_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Guainía_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Guainía_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Guainía_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Guainía_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Guainía_obpophistcoll> .
 

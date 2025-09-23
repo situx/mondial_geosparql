@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/Michigan/cities/Lansing_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Michigan/cities/Lansing_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Michigan/cities/Lansing_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Michigan/cities/Lansing_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Michigan/cities/Lansing_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Michigan/cities/Lansing_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Michigan/cities/Lansing_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Michigan/cities/Lansing_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Michigan/cities/Lansing_obpophistcoll> .
 

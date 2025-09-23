@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/H/provinces/Csongrád/cities/Hódmezővásárhely>,
         <http://www.semwebtech.org/mondial/countries/H/provinces/Csongrád/cities/Szeged> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/H/provinces/Csongrád_obpop>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Csongrád_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Csongrád_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Csongrád_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/H/provinces/Csongrád_obpophistcoll> .
 

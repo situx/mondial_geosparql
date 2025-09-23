@@ -19,8 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Madinah+Al-Monawarah/cities/Yanbu+al-Bahr> ;
     skos:prefLabel "المدينة المنورة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Madinah+Al-Monawarah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Madinah+Al-Monawarah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Madinah+Al-Monawarah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Madinah+Al-Monawarah_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Madinah+Al-Monawarah_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Madinah+Al-Monawarah_obpophistcoll> .
 

@@ -19,9 +19,5 @@
     skos:altLabel "Penza" ;
     skos:prefLabel "Пензенская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Penzenskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Penzenskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Penzenskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Penzenskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Penzenskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Penzenskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Penzenskaya_obpophistcoll> .
 

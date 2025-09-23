@@ -72,10 +72,5 @@
         <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Taboão+da+Serra>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Taubaté> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo_obpophistcoll> .
 

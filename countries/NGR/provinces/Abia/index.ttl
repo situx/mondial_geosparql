@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NGR/provinces/Abia/cities/Aba>,
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Abia/cities/Umuahia> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Abia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Abia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Abia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Abia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Abia_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Abia_obpophistcoll> .
 

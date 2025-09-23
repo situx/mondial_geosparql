@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Amazonas> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PE/provinces/Loreto/cities/Iquitos_obele>,
         <http://www.semwebtech.org/mondial/countries/PE/provinces/Loreto/cities/Iquitos_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Loreto/cities/Iquitos_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Loreto/cities/Iquitos_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Loreto/cities/Iquitos_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Loreto/cities/Iquitos_obpophistcoll> .
 

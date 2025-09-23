@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Orlovskaya/cities/Orel> ;
     skos:prefLabel "Орловская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Orlovskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orlovskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orlovskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orlovskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orlovskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orlovskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Orlovskaya_obpophistcoll> .
 

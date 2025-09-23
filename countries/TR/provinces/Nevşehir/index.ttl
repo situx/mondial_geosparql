@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Nevşehir/cities/Nevsehir> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Nevşehir/cities/Nevsehir> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Nevşehir_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Nevşehir_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Nevşehir_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Nevşehir_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Nevşehir_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Nevşehir_obpophistcoll> .
 

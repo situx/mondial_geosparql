@@ -17,8 +17,5 @@
     skos:altLabel "Lārkāna" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Larkana_obele>,
         <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Larkana_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Larkana_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Larkana_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Larkana_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Larkana_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Larkana_obpophistcoll> .
 

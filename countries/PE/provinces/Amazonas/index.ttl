@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PE/provinces/Amazonas/cities/Chachapoyas> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PE/provinces/Amazonas/cities/Chachapoyas> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PE/provinces/Amazonas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Amazonas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Amazonas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Amazonas_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Amazonas_obpophistcoll> .
 

@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CI/provinces/Vallée+du+Bandama/cities/Bouaké_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CI/provinces/Vallée+du+Bandama/cities/Bouaké_obele>,
         <http://www.semwebtech.org/mondial/countries/CI/provinces/Vallée+du+Bandama/cities/Bouaké_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Vallée+du+Bandama/cities/Bouaké_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Vallée+du+Bandama/cities/Bouaké_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Vallée+du+Bandama/cities/Bouaké_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Vallée+du+Bandama/cities/Bouaké_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Vallée+du+Bandama/cities/Bouaké_obpophistcoll> .
 

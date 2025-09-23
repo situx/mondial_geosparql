@@ -15,5 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Caribbean+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Martinique> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MQ/cities/Fort-de-France_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MQ/cities/Fort-de-France_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/MQ/cities/Fort-de-France_obpophistcoll> .
 

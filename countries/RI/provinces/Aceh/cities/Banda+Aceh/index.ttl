@@ -17,7 +17,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Sumatra> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Aceh/cities/Banda+Aceh_obele>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Aceh/cities/Banda+Aceh_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Aceh/cities/Banda+Aceh_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Aceh/cities/Banda+Aceh_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Aceh/cities/Banda+Aceh_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Aceh/cities/Banda+Aceh_obpophistcoll> .
 

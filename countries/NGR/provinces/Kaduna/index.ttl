@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kaduna/cities/Kaduna>,
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kaduna/cities/Zaria> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kaduna_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kaduna_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kaduna_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kaduna_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kaduna_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kaduna_obpophistcoll> .
 

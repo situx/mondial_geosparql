@@ -14,8 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong/cities/Weihai_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Yellow+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong/cities/Weihai_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong/cities/Weihai_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong/cities/Weihai_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong/cities/Weihai_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong/cities/Weihai_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong/cities/Weihai_obpophistcoll> .
 

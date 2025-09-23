@@ -17,6 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/A/provinces/Vorarlberg/cities/Bregenz>,
         <http://www.semwebtech.org/mondial/countries/A/provinces/Vorarlberg/cities/Dornbirn> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/A/provinces/Vorarlberg_obpop>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Vorarlberg_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Vorarlberg_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/A/provinces/Vorarlberg_obpophistcoll> .
 

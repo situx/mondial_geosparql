@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Ganges> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Uttar+Pradesh/cities/Kanpur_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Uttar+Pradesh/cities/Kanpur_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Uttar+Pradesh/cities/Kanpur_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Uttar+Pradesh/cities/Kanpur_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Uttar+Pradesh/cities/Kanpur_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Uttar+Pradesh/cities/Kanpur_obpophistcoll> .
 

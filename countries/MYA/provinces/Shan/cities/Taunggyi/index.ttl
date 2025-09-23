@@ -15,6 +15,5 @@
     skos:prefLabel "တောင်ကြီးမြို့" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYA/provinces/Shan/cities/Taunggyi_obele>,
         <http://www.semwebtech.org/mondial/countries/MYA/provinces/Shan/cities/Taunggyi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Shan/cities/Taunggyi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Shan/cities/Taunggyi_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Shan/cities/Taunggyi_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/H/provinces/Veszprém/cities/Veszprém> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/H/provinces/Veszprém/cities/Veszprém> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/H/provinces/Veszprém_obpop>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Veszprém_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Veszprém_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Veszprém_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/H/provinces/Veszprém_obpophistcoll> .
 

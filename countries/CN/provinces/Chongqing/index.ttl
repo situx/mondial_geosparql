@@ -19,8 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Chongqing/cities/Yongchuan> ;
     skos:prefLabel "重庆" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Chongqing_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Chongqing_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Chongqing_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Chongqing_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Chongqing_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Chongqing_obpophistcoll> .
 

@@ -15,9 +15,5 @@
     skos:prefLabel "Душанбе" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TJ/provinces/Dushanbe/cities/Dushanbe_obele>,
         <http://www.semwebtech.org/mondial/countries/TJ/provinces/Dushanbe/cities/Dushanbe_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Dushanbe/cities/Dushanbe_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Dushanbe/cities/Dushanbe_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Dushanbe/cities/Dushanbe_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Dushanbe/cities/Dushanbe_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Dushanbe/cities/Dushanbe_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Dushanbe/cities/Dushanbe_obpophistcoll> .
 

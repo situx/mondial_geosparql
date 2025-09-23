@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Vychegda> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Komi/cities/Syktyvkar_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Komi/cities/Syktyvkar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Komi/cities/Syktyvkar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Komi/cities/Syktyvkar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Komi/cities/Syktyvkar_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Komi/cities/Syktyvkar_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Komi/cities/Syktyvkar_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Komi/cities/Syktyvkar_obpophistcoll> .
 

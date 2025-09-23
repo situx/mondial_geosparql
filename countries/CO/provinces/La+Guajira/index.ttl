@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CO/provinces/La+Guajira/cities/Riohacha> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CO/provinces/La+Guajira/cities/Riohacha> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/La+Guajira_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/La+Guajira_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/La+Guajira_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/La+Guajira_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/La+Guajira_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/La+Guajira_obpophistcoll> .
 

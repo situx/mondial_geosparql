@@ -20,9 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Prypjat> ;
     skos:prefLabel "Київська" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska_obpophistcoll> .
 

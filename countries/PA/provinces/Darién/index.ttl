@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PA/provinces/Darién/cities/La+Palma> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PA/provinces/Darién/cities/La+Palma> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PA/provinces/Darién_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Darién_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Darién_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Darién_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PA/provinces/Darién_obpophistcoll> .
 

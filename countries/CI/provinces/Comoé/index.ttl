@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CI/provinces/Comoé/cities/Abengourou> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CI/provinces/Comoé/cities/Abengourou> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CI/provinces/Comoé_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Comoé_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Comoé_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Comoé_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Comoé_obpophistcoll> .
 

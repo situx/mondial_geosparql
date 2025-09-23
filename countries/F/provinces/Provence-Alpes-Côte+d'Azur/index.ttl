@@ -19,10 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur/cities/Nice>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur/cities/Toulon> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur_obpophistcoll> .
 

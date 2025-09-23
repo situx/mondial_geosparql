@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mandalay/cities/Mandalay> ;
     skos:prefLabel "မန္တလေးတိုင်းဒေသကြီး" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mandalay_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mandalay_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mandalay_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mandalay_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mandalay_obpophistcoll> .
 

@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Najaf/cities/An+Najaf> ;
     skos:prefLabel "النجف" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Najaf_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Najaf_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Najaf_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Najaf_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Najaf_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Najaf_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Najaf_obpophistcoll> .
 

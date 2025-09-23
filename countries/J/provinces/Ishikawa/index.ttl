@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Ishikawa/cities/Kanazawa> ;
     skos:prefLabel "石川県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Ishikawa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Ishikawa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Ishikawa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Ishikawa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Ishikawa_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Ishikawa_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Ishikawa_obpophistcoll> .
 

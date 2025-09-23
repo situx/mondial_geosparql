@@ -18,7 +18,5 @@
     skos:altLabel "Ujung Pandang" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Selatan/cities/Makassar_obele>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Selatan/cities/Makassar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Selatan/cities/Makassar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Selatan/cities/Makassar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Selatan/cities/Makassar_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Selatan/cities/Makassar_obpophistcoll> .
 

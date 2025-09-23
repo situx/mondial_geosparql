@@ -14,8 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GB/provinces/North+East+England/cities/Middlesbrough_geom> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Great+Britain> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GB/provinces/North+East+England/cities/Middlesbrough_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/North+East+England/cities/Middlesbrough_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/North+East+England/cities/Middlesbrough_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/North+East+England/cities/Middlesbrough_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/North+East+England/cities/Middlesbrough_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/North+East+England/cities/Middlesbrough_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Bolu/cities/Bolu> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Bolu/cities/Bolu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Bolu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Bolu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Bolu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Bolu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Bolu_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Bolu_obpophistcoll> .
 

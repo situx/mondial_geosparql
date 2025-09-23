@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RP/provinces/Cordillera/cities/Baguio> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RP/provinces/Cordillera/cities/Baguio> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Cordillera_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Cordillera_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Cordillera_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Cordillera_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Cordillera_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Cordillera_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Cordillera_obpophistcoll> .
 

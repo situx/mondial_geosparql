@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PE/provinces/Callao/cities/Callao> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PE/provinces/Callao/cities/Callao> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PE/provinces/Callao_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Callao_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Callao_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Callao_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Callao_obpophistcoll> .
 

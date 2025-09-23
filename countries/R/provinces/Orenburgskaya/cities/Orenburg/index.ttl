@@ -17,9 +17,5 @@
     skos:prefLabel "Оренбург" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Orenburgskaya/cities/Orenburg_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Orenburgskaya/cities/Orenburg_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orenburgskaya/cities/Orenburg_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orenburgskaya/cities/Orenburg_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orenburgskaya/cities/Orenburg_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orenburgskaya/cities/Orenburg_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orenburgskaya/cities/Orenburg_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Orenburgskaya/cities/Orenburg_obpophistcoll> .
 

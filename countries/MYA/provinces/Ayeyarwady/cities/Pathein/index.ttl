@@ -16,6 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Irawaddy> ;
     skos:prefLabel "ပုသိမ်မြို့" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYA/provinces/Ayeyarwady/cities/Pathein_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Ayeyarwady/cities/Pathein_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Ayeyarwady/cities/Pathein_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Ayeyarwady/cities/Pathein_obpophistcoll> .
 

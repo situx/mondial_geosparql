@@ -14,10 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ROK/cities/Suwon_geom> ;
     skos:prefLabel "수원시" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ROK/cities/Suwon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Suwon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Suwon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Suwon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Suwon_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Suwon_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Suwon_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Suwon_obpophistcoll> .
 

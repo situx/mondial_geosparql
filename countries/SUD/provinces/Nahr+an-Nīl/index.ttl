@@ -20,7 +20,5 @@
     skos:altLabel "River Nile" ;
     skos:prefLabel "نهر النيل" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/Nahr+an-Nīl_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Nahr+an-Nīl_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Nahr+an-Nīl_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Nahr+an-Nīl_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Nahr+an-Nīl_obpophistcoll> .
 

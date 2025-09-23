@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RI/provinces/Riau/cities/Dumai>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Riau/cities/Pekanbaru> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Riau_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Riau_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Riau_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Riau_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Riau_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Riau_obpophistcoll> .
 

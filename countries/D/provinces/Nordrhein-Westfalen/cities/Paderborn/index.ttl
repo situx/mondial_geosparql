@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Lippe> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Paderborn_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Paderborn_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Paderborn_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Paderborn_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Paderborn_obpophistcoll> .
 

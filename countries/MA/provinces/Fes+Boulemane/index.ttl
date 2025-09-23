@@ -16,5 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/MA/provinces/Fes+Boulemane/cities/Fès> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MA/provinces/Fes+Boulemane/cities/Fès> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Fes+Boulemane_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Fes+Boulemane_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Fes+Boulemane_obpophistcoll> .
 

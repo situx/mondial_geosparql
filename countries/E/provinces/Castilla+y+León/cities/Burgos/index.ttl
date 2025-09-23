@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León/cities/Burgos_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León/cities/Burgos_obele>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León/cities/Burgos_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León/cities/Burgos_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León/cities/Burgos_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León/cities/Burgos_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León/cities/Burgos_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León/cities/Burgos_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León/cities/Burgos_obpophistcoll> .
 

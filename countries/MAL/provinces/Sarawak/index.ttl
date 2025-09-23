@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak/cities/Kuching+Utara>,
         <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak/cities/Sibu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak_obpophistcoll> .
 

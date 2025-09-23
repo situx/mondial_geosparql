@@ -16,8 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Male> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MV/cities/Male_obele>,
         <http://www.semwebtech.org/mondial/countries/MV/cities/Male_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MV/cities/Male_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MV/cities/Male_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MV/cities/Male_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MV/cities/Male_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MV/cities/Male_obpophistcoll> .
 

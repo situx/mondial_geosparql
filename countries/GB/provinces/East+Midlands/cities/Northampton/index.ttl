@@ -14,8 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GB/provinces/East+Midlands/cities/Northampton_geom> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Great+Britain> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GB/provinces/East+Midlands/cities/Northampton_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/East+Midlands/cities/Northampton_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/East+Midlands/cities/Northampton_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/East+Midlands/cities/Northampton_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/East+Midlands/cities/Northampton_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/East+Midlands/cities/Northampton_obpophistcoll> .
 

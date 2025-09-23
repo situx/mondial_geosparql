@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Meurthe> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Nancy_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Nancy_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Nancy_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Nancy_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Nancy_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Nancy_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Nancy_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Nancy_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Nancy_obpophistcoll> .
 

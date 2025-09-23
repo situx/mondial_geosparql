@@ -19,11 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria/cities/Geelong>,
         <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria/cities/Melbourne> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria_obpophist6> .
+        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria_obpophistcoll> .
 

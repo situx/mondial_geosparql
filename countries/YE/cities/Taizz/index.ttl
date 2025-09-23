@@ -16,6 +16,5 @@
     skos:prefLabel "تعز" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YE/cities/Taizz_obele>,
         <http://www.semwebtech.org/mondial/countries/YE/cities/Taizz_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YE/cities/Taizz_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YE/cities/Taizz_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/YE/cities/Taizz_obpophistcoll> .
 

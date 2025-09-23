@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/ETH/provinces/Benishangul-Gumuz/cities/Asosa> ;
     skos:prefLabel "ቤንሻንጉል-ጉምዝ" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ETH/provinces/Benishangul-Gumuz_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Benishangul-Gumuz_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Benishangul-Gumuz_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Benishangul-Gumuz_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Benishangul-Gumuz_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Benishangul-Gumuz_obpophistcoll> .
 

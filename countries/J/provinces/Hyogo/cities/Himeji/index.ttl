@@ -17,9 +17,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Honshu> ;
     skos:prefLabel "姫路市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Hyogo/cities/Himeji_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hyogo/cities/Himeji_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hyogo/cities/Himeji_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hyogo/cities/Himeji_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hyogo/cities/Himeji_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hyogo/cities/Himeji_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Hyogo/cities/Himeji_obpophistcoll> .
 

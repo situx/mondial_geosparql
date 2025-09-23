@@ -14,8 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CN/provinces/Anhui/cities/Bengbu_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Huai> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Anhui/cities/Bengbu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Anhui/cities/Bengbu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Anhui/cities/Bengbu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Anhui/cities/Bengbu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Anhui/cities/Bengbu_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Anhui/cities/Bengbu_obpophistcoll> .
 

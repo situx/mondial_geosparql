@@ -16,10 +16,5 @@
     skos:prefLabel "نيشابور" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Khorasan-e-Razavi/cities/Neyshabur_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/Khorasan-e-Razavi/cities/Neyshabur_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khorasan-e-Razavi/cities/Neyshabur_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khorasan-e-Razavi/cities/Neyshabur_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khorasan-e-Razavi/cities/Neyshabur_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khorasan-e-Razavi/cities/Neyshabur_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khorasan-e-Razavi/cities/Neyshabur_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khorasan-e-Razavi/cities/Neyshabur_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khorasan-e-Razavi/cities/Neyshabur_obpophistcoll> .
 

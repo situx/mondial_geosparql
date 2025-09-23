@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Kabardino-Balkarskaya/cities/Nalčik> ;
     skos:prefLabel "Кабардино-Балкарская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Kabardino-Balkarskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kabardino-Balkarskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kabardino-Balkarskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kabardino-Balkarskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kabardino-Balkarskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kabardino-Balkarskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Kabardino-Balkarskaya_obpophistcoll> .
 

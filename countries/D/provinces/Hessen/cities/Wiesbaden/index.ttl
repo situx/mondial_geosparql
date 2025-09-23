@@ -16,8 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Rhein> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Wiesbaden_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Wiesbaden_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Wiesbaden_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Wiesbaden_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Wiesbaden_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Wiesbaden_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Wiesbaden_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Yozgat/cities/Yozgat> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Yozgat/cities/Yozgat> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Yozgat_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Yozgat_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Yozgat_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Yozgat_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Yozgat_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Yozgat_obpophistcoll> .
 

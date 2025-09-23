@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Seto+Inland+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Shikoku> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Tokushima/cities/Tokushima_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokushima/cities/Tokushima_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokushima/cities/Tokushima_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokushima/cities/Tokushima_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokushima/cities/Tokushima_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokushima/cities/Tokushima_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokushima/cities/Tokushima_obpophistcoll> .
 

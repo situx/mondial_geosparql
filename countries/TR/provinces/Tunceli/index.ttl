@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Tunceli/cities/Tunceli> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Tunceli/cities/Tunceli> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Tunceli_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tunceli_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tunceli_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tunceli_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tunceli_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tunceli_obpophistcoll> .
 

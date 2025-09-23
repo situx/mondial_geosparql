@@ -17,9 +17,5 @@
     skos:prefLabel "Лисичанськ" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Lysychansk_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Lysychansk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Lysychansk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Lysychansk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Lysychansk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Lysychansk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Lysychansk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Lysychansk_obpophistcoll> .
 

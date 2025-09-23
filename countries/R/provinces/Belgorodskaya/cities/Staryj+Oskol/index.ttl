@@ -17,9 +17,5 @@
     skos:altLabel "Stary Oskol" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya/cities/Staryj+Oskol_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya/cities/Staryj+Oskol_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya/cities/Staryj+Oskol_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya/cities/Staryj+Oskol_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya/cities/Staryj+Oskol_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya/cities/Staryj+Oskol_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya/cities/Staryj+Oskol_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya/cities/Staryj+Oskol_obpophistcoll> .
 

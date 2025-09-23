@@ -15,5 +15,5 @@
     skos:prefLabel "مركز درعا" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SYR/provinces/Daraa/cities/Daraa_obele>,
         <http://www.semwebtech.org/mondial/countries/SYR/provinces/Daraa/cities/Daraa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Daraa/cities/Daraa_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Daraa/cities/Daraa_obpophistcoll> .
 

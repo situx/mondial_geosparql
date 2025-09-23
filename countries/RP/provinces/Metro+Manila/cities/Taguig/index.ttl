@@ -16,9 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Luzon> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Taguig_obele>,
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Taguig_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Taguig_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Taguig_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Taguig_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Taguig_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Taguig_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Taguig_obpophistcoll> .
 

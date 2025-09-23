@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IND/provinces/Chhattisgarh/cities/Bhilai>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Chhattisgarh/cities/Raipur> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Chhattisgarh_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Chhattisgarh_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Chhattisgarh_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Chhattisgarh_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Chhattisgarh_obpophistcoll> .
 

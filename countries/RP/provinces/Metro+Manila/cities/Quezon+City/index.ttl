@@ -15,12 +15,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Luzon> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Quezon+City_obele>,
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Quezon+City_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Quezon+City_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Quezon+City_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Quezon+City_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Quezon+City_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Quezon+City_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Quezon+City_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Quezon+City_obpophist6>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Quezon+City_obpophist7> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Quezon+City_obpophistcoll> .
 

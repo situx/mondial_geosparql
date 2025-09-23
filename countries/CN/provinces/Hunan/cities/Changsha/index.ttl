@@ -17,8 +17,5 @@
     skos:prefLabel "长沙市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Changsha_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Changsha_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Changsha_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Changsha_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Changsha_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Changsha_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Changsha_obpophistcoll> .
 

@@ -19,6 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/I/provinces/Toscana/cities/Pisa>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Toscana/cities/Prato> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Toscana_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Toscana_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Toscana_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Toscana_obpophistcoll> .
 

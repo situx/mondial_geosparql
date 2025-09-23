@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IL/provinces/Tel+Aviv/cities/Tel+Aviv-Yafo> ;
     skos:prefLabel "מחוז תל אביב" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IL/provinces/Tel+Aviv_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/Tel+Aviv_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/Tel+Aviv_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/Tel+Aviv_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/Tel+Aviv_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/IL/provinces/Tel+Aviv_obpophistcoll> .
 

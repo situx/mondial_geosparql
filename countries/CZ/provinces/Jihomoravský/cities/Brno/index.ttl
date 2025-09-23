@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Svratka> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CZ/provinces/Jihomoravský/cities/Brno_obele>,
         <http://www.semwebtech.org/mondial/countries/CZ/provinces/Jihomoravský/cities/Brno_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Jihomoravský/cities/Brno_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Jihomoravský/cities/Brno_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Jihomoravský/cities/Brno_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Jihomoravský/cities/Brno_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Jihomoravský/cities/Brno_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Jihomoravský/cities/Brno_obpophistcoll> .
 

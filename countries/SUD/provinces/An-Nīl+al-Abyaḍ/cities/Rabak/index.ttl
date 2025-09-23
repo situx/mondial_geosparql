@@ -16,8 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/White+Nile> ;
     skos:prefLabel "ربك" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/An-Nīl+al-Abyaḍ/cities/Rabak_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/An-Nīl+al-Abyaḍ/cities/Rabak_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/An-Nīl+al-Abyaḍ/cities/Rabak_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/An-Nīl+al-Abyaḍ/cities/Rabak_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/An-Nīl+al-Abyaḍ/cities/Rabak_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/An-Nīl+al-Abyaḍ/cities/Rabak_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Iğdır/cities/Iğdır> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Iğdır/cities/Iğdır> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Iğdır_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Iğdır_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Iğdır_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Iğdır_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Iğdır_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Iğdır_obpophistcoll> .
 

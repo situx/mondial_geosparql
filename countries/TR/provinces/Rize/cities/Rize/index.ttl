@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Black+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Rize/cities/Rize_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Rize/cities/Rize_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Rize/cities/Rize_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Rize/cities/Rize_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Rize/cities/Rize_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Rize/cities/Rize_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Rize/cities/Rize_obpophistcoll> .
 

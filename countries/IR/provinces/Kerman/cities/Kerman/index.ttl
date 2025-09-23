@@ -15,9 +15,5 @@
     skos:prefLabel "کرمان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Kerman/cities/Kerman_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/Kerman/cities/Kerman_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kerman/cities/Kerman_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kerman/cities/Kerman_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kerman/cities/Kerman_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kerman/cities/Kerman_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kerman/cities/Kerman_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kerman/cities/Kerman_obpophistcoll> .
 

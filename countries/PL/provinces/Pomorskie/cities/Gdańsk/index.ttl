@@ -16,8 +16,5 @@
         <http://www.semwebtech.org/mondial/seas/Baltic+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie/cities/Gdańsk_obele>,
         <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie/cities/Gdańsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie/cities/Gdańsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie/cities/Gdańsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie/cities/Gdańsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie/cities/Gdańsk_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie/cities/Gdańsk_obpophistcoll> .
 

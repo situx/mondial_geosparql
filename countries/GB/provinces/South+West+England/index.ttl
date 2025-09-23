@@ -24,8 +24,5 @@
         <http://www.semwebtech.org/mondial/countries/GB/provinces/South+West+England/cities/Poole>,
         <http://www.semwebtech.org/mondial/countries/GB/provinces/South+West+England/cities/Swindon> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GB/provinces/South+West+England_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+West+England_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+West+England_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+West+England_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+West+England_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+West+England_obpophistcoll> .
 

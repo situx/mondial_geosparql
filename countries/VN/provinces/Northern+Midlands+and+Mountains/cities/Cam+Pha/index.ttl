@@ -17,7 +17,5 @@
     skos:prefLabel "Cam Pha" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains/cities/Cam+Pha_obele>,
         <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains/cities/Cam+Pha_obpop>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains/cities/Cam+Pha_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains/cities/Cam+Pha_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains/cities/Cam+Pha_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains/cities/Cam+Pha_obpophistcoll> .
 

@@ -15,8 +15,5 @@
     skos:altLabel "San Juan de Pasto" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Nariño/cities/Pasto_obele>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Nariño/cities/Pasto_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Nariño/cities/Pasto_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Nariño/cities/Pasto_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Nariño/cities/Pasto_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Nariño/cities/Pasto_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Nariño/cities/Pasto_obpophistcoll> .
 

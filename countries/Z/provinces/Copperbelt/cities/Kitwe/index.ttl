@@ -14,7 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/Z/provinces/Copperbelt/cities/Kitwe_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Kafue> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/Z/provinces/Copperbelt/cities/Kitwe_obpop>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Copperbelt/cities/Kitwe_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Copperbelt/cities/Kitwe_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Copperbelt/cities/Kitwe_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/Z/provinces/Copperbelt/cities/Kitwe_obpophistcoll> .
 

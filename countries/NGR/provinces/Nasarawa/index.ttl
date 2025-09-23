@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/NGR/provinces/Nasarawa/cities/Lafia> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NGR/provinces/Nasarawa/cities/Lafia> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Nasarawa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Nasarawa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Nasarawa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Nasarawa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Nasarawa_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Nasarawa_obpophistcoll> .
 

@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Mehedinţi/cities/Drobeta-Turnu+Severin> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Mehedinţi/cities/Drobeta-Turnu+Severin> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Mehedinţi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Mehedinţi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Mehedinţi_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Mehedinţi_obpophistcoll> .
 

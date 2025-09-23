@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GR/provinces/Kentrikis+Makedonias/cities/Thessaloniki> ;
     skos:prefLabel "Κεντρικής Μακεδονίας" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Kentrikis+Makedonias_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kentrikis+Makedonias_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kentrikis+Makedonias_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kentrikis+Makedonias_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kentrikis+Makedonias_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kentrikis+Makedonias_obpophistcoll> .
 

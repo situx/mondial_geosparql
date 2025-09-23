@@ -12,5 +12,5 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/IND/provinces/Madhya+Pradesh/cities/Ujjain_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Madhya+Pradesh/cities/Ujjain_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Madhya+Pradesh/cities/Ujjain_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Madhya+Pradesh/cities/Ujjain_obpophistcoll> .
 

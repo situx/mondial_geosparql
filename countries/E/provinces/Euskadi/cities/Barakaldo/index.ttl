@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Barakaldo_obele>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Barakaldo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Barakaldo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Barakaldo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Barakaldo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Barakaldo_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Barakaldo_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Barakaldo_obpophistcoll> .
 

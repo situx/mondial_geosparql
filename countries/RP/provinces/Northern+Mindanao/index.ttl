@@ -18,9 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Northern+Mindanao/cities/Iligan>,
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Northern+Mindanao/cities/Valencia> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Northern+Mindanao_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Northern+Mindanao_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Northern+Mindanao_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Northern+Mindanao_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Northern+Mindanao_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Northern+Mindanao_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Northern+Mindanao_obpophistcoll> .
 

@@ -20,8 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/ETH/provinces/Amhara/cities/Gondar> ;
     skos:prefLabel "አማራ" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ETH/provinces/Amhara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Amhara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Amhara_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Amhara_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Amhara_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Amhara_obpophistcoll> .
 

@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá/cities/Panamá+City>,
         <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá/cities/San+Miguelito> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá_obpophistcoll> .
 

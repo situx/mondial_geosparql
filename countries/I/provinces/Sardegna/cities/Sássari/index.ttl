@@ -15,7 +15,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Sardegna> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Sardegna/cities/Sássari_obele>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Sardegna/cities/Sássari_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Sardegna/cities/Sássari_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Sardegna/cities/Sássari_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Sardegna/cities/Sássari_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Sardegna/cities/Sássari_obpophistcoll> .
 

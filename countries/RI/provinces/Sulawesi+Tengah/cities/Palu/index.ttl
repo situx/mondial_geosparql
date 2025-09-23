@@ -16,6 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Sulawesi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tengah/cities/Palu_obele>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tengah/cities/Palu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tengah/cities/Palu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tengah/cities/Palu_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tengah/cities/Palu_obpophistcoll> .
 

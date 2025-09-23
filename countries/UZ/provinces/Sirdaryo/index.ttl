@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/UZ/provinces/Sirdaryo/cities/Guliston> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/UZ/provinces/Sirdaryo/cities/Guliston> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UZ/provinces/Sirdaryo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Sirdaryo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Sirdaryo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Sirdaryo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Sirdaryo_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Sirdaryo_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Sirdaryo_obpophistcoll> .
 

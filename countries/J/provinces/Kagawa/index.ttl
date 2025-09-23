@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Kagawa/cities/Takamatsu> ;
     skos:prefLabel "香川県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Kagawa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kagawa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kagawa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kagawa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kagawa_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kagawa_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Kagawa_obpophistcoll> .
 

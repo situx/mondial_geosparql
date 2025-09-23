@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Maramureş/cities/Baia+Mare> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Maramureş/cities/Baia+Mare> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Maramureş_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Maramureş_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Maramureş_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Maramureş_obpophistcoll> .
 

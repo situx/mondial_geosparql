@@ -14,5 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ekiti/cities/Effon-Alaiye_geom> ;
     skos:altLabel "Efon-Alaaye" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ekiti/cities/Effon-Alaiye_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ekiti/cities/Effon-Alaiye_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ekiti/cities/Effon-Alaiye_obpophistcoll> .
 

@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CDN/provinces/British+Columbia/cities/Surrey_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/British+Columbia/cities/Surrey_obele>,
         <http://www.semwebtech.org/mondial/countries/CDN/provinces/British+Columbia/cities/Surrey_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/British+Columbia/cities/Surrey_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/British+Columbia/cities/Surrey_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/British+Columbia/cities/Surrey_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/British+Columbia/cities/Surrey_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/British+Columbia/cities/Surrey_obpophistcoll> .
 

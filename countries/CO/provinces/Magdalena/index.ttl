@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CO/provinces/Magdalena/cities/Ciénaga>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Magdalena/cities/Santa+Marta> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Magdalena_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Magdalena_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Magdalena_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Magdalena_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Magdalena_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Magdalena_obpophistcoll> .
 

@@ -17,8 +17,5 @@
     skos:prefLabel "大连市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Dalian_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Dalian_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Dalian_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Dalian_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Dalian_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Dalian_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Dalian_obpophistcoll> .
 

@@ -17,8 +17,5 @@
     skos:prefLabel "פתח תקווה" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Petah+Tiqwa_obele>,
         <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Petah+Tiqwa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Petah+Tiqwa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Petah+Tiqwa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Petah+Tiqwa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Petah+Tiqwa_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Petah+Tiqwa_obpophistcoll> .
 

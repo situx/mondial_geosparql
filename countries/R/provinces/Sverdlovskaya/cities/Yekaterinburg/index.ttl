@@ -18,9 +18,5 @@
     skos:prefLabel "Екатеринбург" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Yekaterinburg_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Yekaterinburg_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Yekaterinburg_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Yekaterinburg_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Yekaterinburg_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Yekaterinburg_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Yekaterinburg_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Yekaterinburg_obpophistcoll> .
 

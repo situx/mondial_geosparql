@@ -17,6 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/I/provinces/Liguria/cities/Génova>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Liguria/cities/La+Spezia> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Liguria_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Liguria_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Liguria_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Liguria_obpophistcoll> .
 

@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IR/provinces/Zanjan/cities/Zanjan> ;
     skos:prefLabel "زنجان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Zanjan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Zanjan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Zanjan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Zanjan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Zanjan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Zanjan_obpophistcoll> .
 

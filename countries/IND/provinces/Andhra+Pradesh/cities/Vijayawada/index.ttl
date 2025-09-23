@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Krishna> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Andhra+Pradesh/cities/Vijayawada_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Andhra+Pradesh/cities/Vijayawada_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Andhra+Pradesh/cities/Vijayawada_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Andhra+Pradesh/cities/Vijayawada_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Andhra+Pradesh/cities/Vijayawada_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Andhra+Pradesh/cities/Vijayawada_obpophistcoll> .
 

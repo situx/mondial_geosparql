@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PA/provinces/Coclé/cities/Penonomé> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PA/provinces/Coclé/cities/Penonomé> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PA/provinces/Coclé_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Coclé_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Coclé_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Coclé_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PA/provinces/Coclé_obpophistcoll> .
 

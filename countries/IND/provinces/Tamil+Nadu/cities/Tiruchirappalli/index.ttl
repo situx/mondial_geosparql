@@ -13,5 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/IND/provinces/Tamil+Nadu/cities/Tiruchirappalli_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Tamil+Nadu/cities/Tiruchirappalli_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Tamil+Nadu/cities/Tiruchirappalli_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Tamil+Nadu/cities/Tiruchirappalli_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Tamil+Nadu/cities/Tiruchirappalli_obpophistcoll> .
 

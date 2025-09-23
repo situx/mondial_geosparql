@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kogi/cities/Lokoja>,
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kogi/cities/Okene> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kogi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kogi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kogi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kogi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kogi_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kogi_obpophistcoll> .
 

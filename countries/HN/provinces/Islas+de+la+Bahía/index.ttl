@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/HN/provinces/Islas+de+la+Bahía/cities/Roatan> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/HN/provinces/Islas+de+la+Bahía/cities/Roatan> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/HN/provinces/Islas+de+la+Bahía_obpop>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Islas+de+la+Bahía_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Islas+de+la+Bahía_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Islas+de+la+Bahía_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Islas+de+la+Bahía_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/C/provinces/Guantánamo/cities/Guantánamo> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/C/provinces/Guantánamo/cities/Guantánamo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/C/provinces/Guantánamo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Guantánamo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Guantánamo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Guantánamo_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Guantánamo_obpophistcoll> .
 

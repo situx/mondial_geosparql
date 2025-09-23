@@ -17,9 +17,5 @@
     skos:prefLabel "창원시" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ROK/cities/Changwon_obele>,
         <http://www.semwebtech.org/mondial/countries/ROK/cities/Changwon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Changwon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Changwon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Changwon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Changwon_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Changwon_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Changwon_obpophistcoll> .
 

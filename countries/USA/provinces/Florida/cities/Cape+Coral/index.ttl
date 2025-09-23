@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Gulf+of+Mexico> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Cape+Coral_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Cape+Coral_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Cape+Coral_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Cape+Coral_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Cape+Coral_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Cape+Coral_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Cape+Coral_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Cape+Coral_obpophistcoll> .
 

@@ -19,6 +19,5 @@
     skos:altLabel "Quneitra" ;
     skos:prefLabel "القنيطرة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SYR/provinces/Al+Qunaytirah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Al+Qunaytirah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Al+Qunaytirah_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Al+Qunaytirah_obpophistcoll> .
 

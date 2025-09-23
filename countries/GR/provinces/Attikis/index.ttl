@@ -21,8 +21,5 @@
         <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Peristeri> ;
     skos:prefLabel "Αττικής" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis_obpophistcoll> .
 

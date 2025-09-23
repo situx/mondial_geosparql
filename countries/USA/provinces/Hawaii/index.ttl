@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/USA/provinces/Hawaii/cities/Hilo>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Hawaii/cities/Honolulu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Hawaii_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Hawaii_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Hawaii_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Hawaii_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Hawaii_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Hawaii_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Hawaii_obpophistcoll> .
 

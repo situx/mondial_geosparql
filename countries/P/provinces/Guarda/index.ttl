@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/P/provinces/Guarda/cities/Guarda> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/P/provinces/Guarda/cities/Guarda> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/P/provinces/Guarda_obpop>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Guarda_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Guarda_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Guarda_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Guarda_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Guarda_obpophistcoll> .
 

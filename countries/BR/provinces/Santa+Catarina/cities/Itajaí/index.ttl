@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Santa+Catarina/cities/Itajaí_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Santa+Catarina/cities/Itajaí_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Santa+Catarina/cities/Itajaí_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Santa+Catarina/cities/Itajaí_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Santa+Catarina/cities/Itajaí_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Santa+Catarina/cities/Itajaí_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Santa+Catarina/cities/Itajaí_obpophistcoll> .
 

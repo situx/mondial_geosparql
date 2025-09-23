@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Kırklareli/cities/Kirklareli>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Kırklareli/cities/Lüleburgaz> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Kırklareli_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kırklareli_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kırklareli_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kırklareli_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kırklareli_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kırklareli_obpophistcoll> .
 

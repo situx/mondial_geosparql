@@ -16,7 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Tierra+del+Fuego> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Tierra+del+Fuego/cities/Ushuaia_obele>,
         <http://www.semwebtech.org/mondial/countries/RA/provinces/Tierra+del+Fuego/cities/Ushuaia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Tierra+del+Fuego/cities/Ushuaia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Tierra+del+Fuego/cities/Ushuaia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Tierra+del+Fuego/cities/Ushuaia_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Tierra+del+Fuego/cities/Ushuaia_obpophistcoll> .
 

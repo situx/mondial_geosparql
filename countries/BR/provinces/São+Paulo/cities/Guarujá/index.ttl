@@ -16,8 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Ilha+de+Sãnto+Amaro> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Guarujá_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Guarujá_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Guarujá_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Guarujá_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Guarujá_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Guarujá_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Guarujá_obpophistcoll> .
 

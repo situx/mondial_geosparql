@@ -15,10 +15,5 @@
     skos:altLabel "Khomeynishahr" ;
     skos:prefLabel "خميني شهر" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Esfahan/cities/Khomeinishahr_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Esfahan/cities/Khomeinishahr_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Esfahan/cities/Khomeinishahr_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Esfahan/cities/Khomeinishahr_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Esfahan/cities/Khomeinishahr_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Esfahan/cities/Khomeinishahr_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Esfahan/cities/Khomeinishahr_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Esfahan/cities/Khomeinishahr_obpophistcoll> .
 

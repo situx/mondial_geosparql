@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BD/provinces/Sylhet/cities/Sylhet> ;
     skos:prefLabel "সিলেট" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BD/provinces/Sylhet_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Sylhet_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Sylhet_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Sylhet_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Sylhet_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BD/provinces/Sylhet_obpophistcoll> .
 

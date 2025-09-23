@@ -18,9 +18,5 @@
     skos:altLabel "Las Palmas" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/Las+Palmas+de+Gran+Canaria_obele>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/Las+Palmas+de+Gran+Canaria_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/Las+Palmas+de+Gran+Canaria_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/Las+Palmas+de+Gran+Canaria_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/Las+Palmas+de+Gran+Canaria_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/Las+Palmas+de+Gran+Canaria_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/Las+Palmas+de+Gran+Canaria_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/Las+Palmas+de+Gran+Canaria_obpophistcoll> .
 

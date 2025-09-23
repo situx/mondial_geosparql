@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Benue> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CAM/provinces/Nord/cities/Garoua_obele>,
         <http://www.semwebtech.org/mondial/countries/CAM/provinces/Nord/cities/Garoua_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Nord/cities/Garoua_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Nord/cities/Garoua_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Nord/cities/Garoua_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Nord/cities/Garoua_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Nord/cities/Garoua_obpophistcoll> .
 

@@ -18,10 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Le+Mans>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Nantes> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire_obpophistcoll> .
 

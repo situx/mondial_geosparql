@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ES/cities/Apopa_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ES/cities/Apopa_obele>,
         <http://www.semwebtech.org/mondial/countries/ES/cities/Apopa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ES/cities/Apopa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ES/cities/Apopa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ES/cities/Apopa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/ES/cities/Apopa_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/NGR/provinces/Borno/cities/Maiduguri> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NGR/provinces/Borno/cities/Maiduguri> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Borno_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Borno_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Borno_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Borno_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Borno_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Borno_obpophistcoll> .
 

@@ -15,10 +15,5 @@
     skos:altLabel "Pachuca de Soto" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Hidalgo/cities/Pachuca_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Hidalgo/cities/Pachuca_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Hidalgo/cities/Pachuca_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Hidalgo/cities/Pachuca_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Hidalgo/cities/Pachuca_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Hidalgo/cities/Pachuca_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Hidalgo/cities/Pachuca_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Hidalgo/cities/Pachuca_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Hidalgo/cities/Pachuca_obpophistcoll> .
 

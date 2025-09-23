@@ -15,7 +15,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Madagaskar> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RM/cities/Antsirabe_obele>,
         <http://www.semwebtech.org/mondial/countries/RM/cities/Antsirabe_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RM/cities/Antsirabe_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RM/cities/Antsirabe_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RM/cities/Antsirabe_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RM/cities/Antsirabe_obpophistcoll> .
 

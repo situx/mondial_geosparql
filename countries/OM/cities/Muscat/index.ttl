@@ -18,7 +18,5 @@
     skos:prefLabel "مسقط" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/OM/cities/Muscat_obele>,
         <http://www.semwebtech.org/mondial/countries/OM/cities/Muscat_obpop>,
-        <http://www.semwebtech.org/mondial/countries/OM/cities/Muscat_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/OM/cities/Muscat_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/OM/cities/Muscat_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/OM/cities/Muscat_obpophistcoll> .
 

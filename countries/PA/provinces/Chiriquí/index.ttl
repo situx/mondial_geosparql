@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PA/provinces/Chiriquí/cities/David> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PA/provinces/Chiriquí/cities/David> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PA/provinces/Chiriquí_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Chiriquí_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Chiriquí_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Chiriquí_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PA/provinces/Chiriquí_obpophistcoll> .
 

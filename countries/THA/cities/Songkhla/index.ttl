@@ -18,6 +18,5 @@
     skos:prefLabel "สงขลา" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/THA/cities/Songkhla_obele>,
         <http://www.semwebtech.org/mondial/countries/THA/cities/Songkhla_obpop>,
-        <http://www.semwebtech.org/mondial/countries/THA/cities/Songkhla_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/THA/cities/Songkhla_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/THA/cities/Songkhla_obpophistcoll> .
 

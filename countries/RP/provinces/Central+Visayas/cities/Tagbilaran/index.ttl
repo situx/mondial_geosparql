@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Sulu+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Bohol> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Visayas/cities/Tagbilaran_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Visayas/cities/Tagbilaran_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Visayas/cities/Tagbilaran_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Visayas/cities/Tagbilaran_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Visayas/cities/Tagbilaran_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Visayas/cities/Tagbilaran_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Visayas/cities/Tagbilaran_obpophistcoll> .
 

@@ -22,9 +22,5 @@
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Luzon/cities/San+Jose+Del+Monte>,
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Luzon/cities/Tarlac> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Luzon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Luzon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Luzon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Luzon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Luzon_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Luzon_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Luzon_obpophistcoll> .
 

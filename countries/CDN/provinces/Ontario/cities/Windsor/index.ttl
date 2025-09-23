@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Detroit+River> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Windsor_obele>,
         <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Windsor_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Windsor_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Windsor_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Windsor_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Windsor_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Windsor_obpophistcoll> .
 

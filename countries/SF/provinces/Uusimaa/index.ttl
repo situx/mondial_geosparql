@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa/cities/Espoo>,
         <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa/cities/Helsinki> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa_obpophistcoll> .
 

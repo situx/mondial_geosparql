@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Zanzibar/cities/Zanzibar> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAT/provinces/Zanzibar/cities/Zanzibar> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Zanzibar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Zanzibar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Zanzibar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Zanzibar_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Zanzibar_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Zanzibar_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Zanzibar_obpophistcoll> .
 

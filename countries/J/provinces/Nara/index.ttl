@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Nara/cities/Nara> ;
     skos:prefLabel "奈良県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Nara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Nara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Nara_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Nara_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Nara_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Nara_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Nara_obpophistcoll> .
 

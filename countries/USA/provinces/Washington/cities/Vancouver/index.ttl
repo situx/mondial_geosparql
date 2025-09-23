@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Columbia+River> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Washington/cities/Vancouver_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Washington/cities/Vancouver_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Washington/cities/Vancouver_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Washington/cities/Vancouver_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Washington/cities/Vancouver_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Washington/cities/Vancouver_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Washington/cities/Vancouver_obpophistcoll> .
 

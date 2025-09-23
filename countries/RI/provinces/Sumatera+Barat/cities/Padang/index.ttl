@@ -16,7 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Sumatra> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Barat/cities/Padang_obele>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Barat/cities/Padang_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Barat/cities/Padang_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Barat/cities/Padang_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Barat/cities/Padang_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Barat/cities/Padang_obpophistcoll> .
 

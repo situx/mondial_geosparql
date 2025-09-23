@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ogun/cities/Abeokuta>,
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ogun/cities/Ijebu-Ode> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ogun_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ogun_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ogun_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ogun_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ogun_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ogun_obpophistcoll> .
 

@@ -14,6 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/WB/cities/Al+Khalil_geom> ;
     skos:altLabel "Hebron" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/WB/cities/Al+Khalil_obpop>,
-        <http://www.semwebtech.org/mondial/countries/WB/cities/Al+Khalil_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/WB/cities/Al+Khalil_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/WB/cities/Al+Khalil_obpophistcoll> .
 

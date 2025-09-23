@@ -16,8 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Parana> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/Foz+do+Iguaçu_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/Foz+do+Iguaçu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/Foz+do+Iguaçu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/Foz+do+Iguaçu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/Foz+do+Iguaçu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/Foz+do+Iguaçu_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/Foz+do+Iguaçu_obpophistcoll> .
 

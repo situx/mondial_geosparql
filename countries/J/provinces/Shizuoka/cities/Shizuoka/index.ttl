@@ -17,9 +17,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Honshu> ;
     skos:prefLabel "静岡市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Shizuoka/cities/Shizuoka_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shizuoka/cities/Shizuoka_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shizuoka/cities/Shizuoka_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shizuoka/cities/Shizuoka_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shizuoka/cities/Shizuoka_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shizuoka/cities/Shizuoka_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Shizuoka/cities/Shizuoka_obpophistcoll> .
 

@@ -17,6 +17,5 @@
     skos:altLabel "Akyab" ;
     skos:prefLabel "စစ်တွေမြို့" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYA/provinces/Rakhine/cities/Sittwe_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Rakhine/cities/Sittwe_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Rakhine/cities/Sittwe_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Rakhine/cities/Sittwe_obpophistcoll> .
 

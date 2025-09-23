@@ -19,6 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/I/provinces/Sicilia/cities/Palermo>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Sicilia/cities/Siracusa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Sicilia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Sicilia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Sicilia_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Sicilia_obpophistcoll> .
 

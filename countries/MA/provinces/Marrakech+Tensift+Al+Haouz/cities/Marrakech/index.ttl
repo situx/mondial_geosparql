@@ -15,8 +15,5 @@
     skos:prefLabel "مراكش" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Marrakech+Tensift+Al+Haouz/cities/Marrakech_obele>,
         <http://www.semwebtech.org/mondial/countries/MA/provinces/Marrakech+Tensift+Al+Haouz/cities/Marrakech_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Marrakech+Tensift+Al+Haouz/cities/Marrakech_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Marrakech+Tensift+Al+Haouz/cities/Marrakech_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Marrakech+Tensift+Al+Haouz/cities/Marrakech_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Marrakech+Tensift+Al+Haouz/cities/Marrakech_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Marrakech+Tensift+Al+Haouz/cities/Marrakech_obpophistcoll> .
 

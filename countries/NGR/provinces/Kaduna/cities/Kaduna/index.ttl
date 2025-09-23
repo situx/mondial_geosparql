@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Kaduna> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kaduna/cities/Kaduna_obele>,
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kaduna/cities/Kaduna_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kaduna/cities/Kaduna_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kaduna/cities/Kaduna_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kaduna/cities/Kaduna_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kaduna/cities/Kaduna_obpophistcoll> .
 

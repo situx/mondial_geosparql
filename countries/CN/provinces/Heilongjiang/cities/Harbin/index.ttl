@@ -17,8 +17,5 @@
     skos:prefLabel "哈尔滨市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Harbin_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Harbin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Harbin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Harbin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Harbin_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Harbin_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Harbin_obpophistcoll> .
 

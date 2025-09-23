@@ -17,9 +17,5 @@
     skos:prefLabel "Стерлитамак" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Sterlitamak_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Sterlitamak_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Sterlitamak_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Sterlitamak_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Sterlitamak_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Sterlitamak_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Sterlitamak_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Sterlitamak_obpophistcoll> .
 

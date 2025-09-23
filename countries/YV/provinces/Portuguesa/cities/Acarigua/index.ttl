@@ -13,6 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/YV/provinces/Portuguesa/cities/Acarigua_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Portuguesa/cities/Acarigua_obele>,
         <http://www.semwebtech.org/mondial/countries/YV/provinces/Portuguesa/cities/Acarigua_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Portuguesa/cities/Acarigua_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Portuguesa/cities/Acarigua_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Portuguesa/cities/Acarigua_obpophistcoll> .
 

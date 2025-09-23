@@ -15,7 +15,5 @@
     skos:altLabel "Guatemala City" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GCA/cities/Ciudad+de+Guatemala_obele>,
         <http://www.semwebtech.org/mondial/countries/GCA/cities/Ciudad+de+Guatemala_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GCA/cities/Ciudad+de+Guatemala_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GCA/cities/Ciudad+de+Guatemala_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GCA/cities/Ciudad+de+Guatemala_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/GCA/cities/Ciudad+de+Guatemala_obpophistcoll> .
 

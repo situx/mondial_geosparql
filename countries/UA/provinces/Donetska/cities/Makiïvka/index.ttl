@@ -15,9 +15,5 @@
     skos:prefLabel "Макіївка" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Makiïvka_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Makiïvka_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Makiïvka_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Makiïvka_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Makiïvka_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Makiïvka_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Makiïvka_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Makiïvka_obpophistcoll> .
 

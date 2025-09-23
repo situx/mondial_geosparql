@@ -12,6 +12,5 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RN/provinces/Maradi/cities/Tessaoua_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RN/provinces/Maradi/cities/Tessaoua_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Maradi/cities/Tessaoua_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Maradi/cities/Tessaoua_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RN/provinces/Maradi/cities/Tessaoua_obpophistcoll> .
 

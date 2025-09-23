@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PA/provinces/Emberá/cities/Unión+Chocó> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PA/provinces/Emberá/cities/Unión+Chocó> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PA/provinces/Emberá_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Emberá_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Emberá_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Emberá_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PA/provinces/Emberá_obpophistcoll> .
 

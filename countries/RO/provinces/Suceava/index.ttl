@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Suceava/cities/Suceava> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Suceava/cities/Suceava> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Suceava_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Suceava_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Suceava_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Suceava_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Suceava_obpophistcoll> .
 

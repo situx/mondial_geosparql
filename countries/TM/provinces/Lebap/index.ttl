@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TM/provinces/Lebap/cities/Turkmenabat> ;
     skos:prefLabel "Lebap" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TM/provinces/Lebap_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TM/provinces/Lebap_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TM/provinces/Lebap_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TM/provinces/Lebap_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/TM/provinces/Lebap_obpophistcoll> .
 

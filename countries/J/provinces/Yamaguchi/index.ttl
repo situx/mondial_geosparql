@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Yamaguchi/cities/Yamaguchi> ;
     skos:prefLabel "山口県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Yamaguchi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamaguchi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamaguchi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamaguchi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamaguchi_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamaguchi_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamaguchi_obpophistcoll> .
 

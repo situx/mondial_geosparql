@@ -17,9 +17,5 @@
     skos:prefLabel "Таганрог" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Taganrog_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Taganrog_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Taganrog_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Taganrog_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Taganrog_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Taganrog_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Taganrog_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Taganrog_obpophistcoll> .
 

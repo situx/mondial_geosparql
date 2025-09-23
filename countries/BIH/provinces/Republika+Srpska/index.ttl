@@ -17,5 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BIH/provinces/Republika+Srpska/cities/Banja+Luka>,
         <http://www.semwebtech.org/mondial/countries/BIH/provinces/Republika+Srpska/cities/Bijeljina> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BIH/provinces/Republika+Srpska_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BIH/provinces/Republika+Srpska_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/BIH/provinces/Republika+Srpska_obpophistcoll> .
 

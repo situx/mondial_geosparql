@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PE/provinces/San+Martín/cities/Moyobamba>,
         <http://www.semwebtech.org/mondial/countries/PE/provinces/San+Martín/cities/Tarapoto> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PE/provinces/San+Martín_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/San+Martín_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/San+Martín_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/San+Martín_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/San+Martín_obpophistcoll> .
 

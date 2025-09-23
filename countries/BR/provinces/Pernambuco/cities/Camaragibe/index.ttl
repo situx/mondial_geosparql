@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Camaragibe_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Camaragibe_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Camaragibe_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Camaragibe_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Camaragibe_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Camaragibe_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Camaragibe_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Camaragibe_obpophistcoll> .
 

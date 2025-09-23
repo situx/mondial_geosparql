@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PE/provinces/Junín/cities/Huancayo> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PE/provinces/Junín/cities/Huancayo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PE/provinces/Junín_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Junín_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Junín_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Junín_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Junín_obpophistcoll> .
 

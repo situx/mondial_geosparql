@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CO/provinces/Risaralda/cities/Dosquebradas>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Risaralda/cities/Pereira> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Risaralda_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Risaralda_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Risaralda_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Risaralda_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Risaralda_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Risaralda_obpophistcoll> .
 

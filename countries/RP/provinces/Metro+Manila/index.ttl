@@ -29,9 +29,5 @@
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Taguig>,
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Valenzuela> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila_obpophistcoll> .
 

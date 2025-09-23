@@ -17,9 +17,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Te+Ika-a-Maui+(North+Island)> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NZ/cities/Auckland_obele>,
         <http://www.semwebtech.org/mondial/countries/NZ/cities/Auckland_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NZ/cities/Auckland_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NZ/cities/Auckland_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NZ/cities/Auckland_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NZ/cities/Auckland_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/NZ/cities/Auckland_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/NZ/cities/Auckland_obpophistcoll> .
 

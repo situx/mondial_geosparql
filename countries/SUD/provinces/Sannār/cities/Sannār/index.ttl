@@ -16,8 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Blue+Nile> ;
     skos:prefLabel "سنار" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/Sannār/cities/Sannār_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Sannār/cities/Sannār_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Sannār/cities/Sannār_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Sannār/cities/Sannār_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Sannār/cities/Sannār_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Sannār/cities/Sannār_obpophistcoll> .
 

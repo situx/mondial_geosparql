@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CI/provinces/Lacs/cities/Dimbokro> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CI/provinces/Lacs/cities/Dimbokro> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CI/provinces/Lacs_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Lacs_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Lacs_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Lacs_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Lacs_obpophistcoll> .
 

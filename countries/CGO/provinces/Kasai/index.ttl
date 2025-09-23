@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai/cities/Luebo>,
         <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai/cities/Tshikapa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai_obpophistcoll> .
 

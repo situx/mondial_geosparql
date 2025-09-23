@@ -19,10 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie/cities/Perpignan>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie/cities/Toulouse> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie_obpophistcoll> .
 

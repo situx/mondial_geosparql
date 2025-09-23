@@ -18,9 +18,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Honshu> ;
     skos:prefLabel "新潟市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Niigata/cities/Niigata_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Niigata/cities/Niigata_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Niigata/cities/Niigata_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Niigata/cities/Niigata_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Niigata/cities/Niigata_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Niigata/cities/Niigata_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Niigata/cities/Niigata_obpophistcoll> .
 

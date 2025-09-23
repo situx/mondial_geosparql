@@ -14,7 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NIC/cities/Granada_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Lake+Nicaragua> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NIC/cities/Granada_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NIC/cities/Granada_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NIC/cities/Granada_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NIC/cities/Granada_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NIC/cities/Granada_obpophistcoll> .
 

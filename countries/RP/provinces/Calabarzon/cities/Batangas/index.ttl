@@ -16,14 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Luzon> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Batangas_obele>,
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Batangas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Batangas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Batangas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Batangas_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Batangas_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Batangas_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Batangas_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Batangas_obpophist6>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Batangas_obpophist7>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Batangas_obpophist8>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Batangas_obpophist9> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Batangas_obpophistcoll> .
 

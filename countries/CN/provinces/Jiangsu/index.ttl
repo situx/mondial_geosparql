@@ -37,9 +37,5 @@
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Zhenjiang> ;
     skos:prefLabel "江苏" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu_obpophistcoll> .
 

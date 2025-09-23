@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Indian+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MOC/provinces/Cabo+Delgado/cities/Pemba_obele>,
         <http://www.semwebtech.org/mondial/countries/MOC/provinces/Cabo+Delgado/cities/Pemba_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Cabo+Delgado/cities/Pemba_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Cabo+Delgado/cities/Pemba_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Cabo+Delgado/cities/Pemba_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Cabo+Delgado/cities/Pemba_obpophistcoll> .
 

@@ -15,5 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Baltic+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Kalmar/cities/Kalmar_obele>,
         <http://www.semwebtech.org/mondial/countries/S/provinces/Kalmar/cities/Kalmar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Kalmar/cities/Kalmar_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Kalmar/cities/Kalmar_obpophistcoll> .
 

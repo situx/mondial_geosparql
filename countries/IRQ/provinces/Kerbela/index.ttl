@@ -19,9 +19,5 @@
     skos:altLabel "Karbala" ;
     skos:prefLabel "كربلاء" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Kerbela_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Kerbela_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Kerbela_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Kerbela_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Kerbela_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Kerbela_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Kerbela_obpophistcoll> .
 

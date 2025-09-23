@@ -17,8 +17,5 @@
     skos:prefLabel "О́рша" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BY/provinces/Vitebsk/cities/Orsha_obele>,
         <http://www.semwebtech.org/mondial/countries/BY/provinces/Vitebsk/cities/Orsha_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Vitebsk/cities/Orsha_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Vitebsk/cities/Orsha_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Vitebsk/cities/Orsha_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Vitebsk/cities/Orsha_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BY/provinces/Vitebsk/cities/Orsha_obpophistcoll> .
 

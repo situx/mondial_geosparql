@@ -29,15 +29,8 @@
     ns1:unemployment 12 ;
     skos:prefLabel "Sint Maarten" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SX_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SX_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SX_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SX_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SX_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/SX_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/SX_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/SX_obpophist6>,
-        <http://www.semwebtech.org/mondial/countries/SX_obpophist7>,
-        <http://www.semwebtech.org/mondial/countries/SX_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/SX_obpopg>,
+        <http://www.semwebtech.org/mondial/countries/SX_obpophistcoll>,
         <http://www.semwebtech.org/mondial/countries/SX_obrel1>,
         <http://www.semwebtech.org/mondial/countries/SX_obrel2>,
         <http://www.semwebtech.org/mondial/countries/SX_obrel3>,

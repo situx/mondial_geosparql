@@ -27,10 +27,5 @@
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia/cities/Salvador>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia/cities/Vitória+da+Conquista> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia_obpophistcoll> .
 

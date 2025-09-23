@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Ehime/cities/Matsuyama> ;
     skos:prefLabel "愛媛県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Ehime_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Ehime_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Ehime_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Ehime_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Ehime_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Ehime_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Ehime_obpophistcoll> .
 

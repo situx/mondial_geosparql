@@ -1,0 +1,31 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/countries/AUS_obpophistcoll> a <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Observation of Population of AUS"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    rdfs:member <http://www.semwebtech.org/mondial/countries/AUS_obpophist0>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist10>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist11>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist12>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist13>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist14>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist15>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist16>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist17>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist18>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist19>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist20>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist3>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist4>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/AUS_obpophist9> .
+

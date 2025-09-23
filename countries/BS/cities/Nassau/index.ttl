@@ -16,9 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/New+Providence> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BS/cities/Nassau_obele>,
         <http://www.semwebtech.org/mondial/countries/BS/cities/Nassau_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BS/cities/Nassau_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BS/cities/Nassau_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BS/cities/Nassau_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BS/cities/Nassau_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BS/cities/Nassau_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/BS/cities/Nassau_obpophistcoll> .
 

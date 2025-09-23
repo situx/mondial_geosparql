@@ -13,6 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ANG/provinces/Zaire/cities/Mbanza+Congo_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Zaire/cities/Mbanza+Congo_obele>,
         <http://www.semwebtech.org/mondial/countries/ANG/provinces/Zaire/cities/Mbanza+Congo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Zaire/cities/Mbanza+Congo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Zaire/cities/Mbanza+Congo_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Zaire/cities/Mbanza+Congo_obpophistcoll> .
 

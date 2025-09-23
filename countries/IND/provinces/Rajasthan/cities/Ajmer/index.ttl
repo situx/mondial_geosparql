@@ -13,5 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/IND/provinces/Rajasthan/cities/Ajmer_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Rajasthan/cities/Ajmer_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Rajasthan/cities/Ajmer_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Rajasthan/cities/Ajmer_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Rajasthan/cities/Ajmer_obpophistcoll> .
 

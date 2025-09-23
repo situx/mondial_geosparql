@@ -15,7 +15,5 @@
     skos:altLabel "Bien Hoa City" ;
     skos:prefLabel "Biên Hoà" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/VN/provinces/Southeast/cities/Bien+Hoa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Southeast/cities/Bien+Hoa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Southeast/cities/Bien+Hoa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Southeast/cities/Bien+Hoa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Southeast/cities/Bien+Hoa_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RCB/provinces/Lékoumou/cities/Sibiti> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RCB/provinces/Lékoumou/cities/Sibiti> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCB/provinces/Lékoumou_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Lékoumou_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Lékoumou_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Lékoumou_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Lékoumou_obpophistcoll> .
 

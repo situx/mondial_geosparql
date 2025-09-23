@@ -19,9 +19,5 @@
     skos:altLabel "Cherkaska" ;
     skos:prefLabel "Черкаська" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Cerkaska_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cerkaska_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cerkaska_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cerkaska_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cerkaska_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cerkaska_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cerkaska_obpophistcoll> .
 

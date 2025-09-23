@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SN/provinces/Diourbel/cities/Diourbel> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SN/provinces/Diourbel/cities/Diourbel> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SN/provinces/Diourbel_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Diourbel_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Diourbel_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Diourbel_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Diourbel_obpophistcoll> .
 

@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Stadt/cities/Basel> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Stadt/cities/Basel> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Stadt_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Stadt_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Stadt_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Stadt_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Stadt_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Stadt_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Stadt_obpophistcoll> .
 

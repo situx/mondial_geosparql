@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Mardin/cities/Kızıltepe>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Mardin/cities/Mardin> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Mardin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Mardin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Mardin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Mardin_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Mardin_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Mardin_obpophistcoll> .
 

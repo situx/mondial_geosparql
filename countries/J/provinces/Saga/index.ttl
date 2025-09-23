@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Saga/cities/Saga> ;
     skos:prefLabel "佐賀県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Saga_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saga_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saga_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saga_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saga_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saga_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Saga_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Burdur/cities/Burdur> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Burdur/cities/Burdur> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Burdur_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Burdur_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Burdur_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Burdur_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Burdur_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Burdur_obpophistcoll> .
 

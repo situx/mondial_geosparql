@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SA/provinces/Najran/cities/Najran> ;
     skos:prefLabel "نجران" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SA/provinces/Najran_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Najran_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Najran_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Najran_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Najran_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/SA/provinces/Najran_obpophistcoll> .
 

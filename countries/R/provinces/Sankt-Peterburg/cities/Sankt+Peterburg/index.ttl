@@ -22,9 +22,5 @@
     skos:prefLabel "Санкт-Петербург" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Sankt-Peterburg/cities/Sankt+Peterburg_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Sankt-Peterburg/cities/Sankt+Peterburg_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sankt-Peterburg/cities/Sankt+Peterburg_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sankt-Peterburg/cities/Sankt+Peterburg_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sankt-Peterburg/cities/Sankt+Peterburg_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sankt-Peterburg/cities/Sankt+Peterburg_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sankt-Peterburg/cities/Sankt+Peterburg_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Sankt-Peterburg/cities/Sankt+Peterburg_obpophistcoll> .
 

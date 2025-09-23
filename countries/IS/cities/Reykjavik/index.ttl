@@ -17,10 +17,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Iceland> ;
     skos:prefLabel "Reykjavík" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IS/cities/Reykjavik_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IS/cities/Reykjavik_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IS/cities/Reykjavik_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IS/cities/Reykjavik_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IS/cities/Reykjavik_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IS/cities/Reykjavik_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/IS/cities/Reykjavik_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/IS/cities/Reykjavik_obpophistcoll> .
 

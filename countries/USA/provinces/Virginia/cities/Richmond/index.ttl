@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Richmond_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Richmond_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Richmond_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Richmond_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Richmond_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Richmond_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Richmond_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Richmond_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Richmond_obpophistcoll> .
 

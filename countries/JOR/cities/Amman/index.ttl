@@ -15,7 +15,5 @@
     skos:prefLabel "العاصمة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/JOR/cities/Amman_obele>,
         <http://www.semwebtech.org/mondial/countries/JOR/cities/Amman_obpop>,
-        <http://www.semwebtech.org/mondial/countries/JOR/cities/Amman_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/JOR/cities/Amman_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/JOR/cities/Amman_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/JOR/cities/Amman_obpophistcoll> .
 

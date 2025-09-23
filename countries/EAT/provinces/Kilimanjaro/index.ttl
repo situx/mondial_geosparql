@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kilimanjaro/cities/Moshi> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kilimanjaro/cities/Moshi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kilimanjaro_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kilimanjaro_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kilimanjaro_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kilimanjaro_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kilimanjaro_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kilimanjaro_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kilimanjaro_obpophistcoll> .
 

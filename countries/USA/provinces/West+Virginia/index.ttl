@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/USA/provinces/West+Virginia/cities/Charleston> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/USA/provinces/West+Virginia/cities/Charleston> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/West+Virginia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/West+Virginia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/West+Virginia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/West+Virginia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/West+Virginia_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/West+Virginia_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/West+Virginia_obpophistcoll> .
 

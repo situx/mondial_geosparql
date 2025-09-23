@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CN/provinces/Tianjin/cities/Tianjin> ;
     skos:prefLabel "天津" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Tianjin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Tianjin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Tianjin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Tianjin_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Tianjin_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Tianjin_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Tianjin_obpophistcoll> .
 

@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Raidak> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BHT/cities/Thimphu_obele>,
         <http://www.semwebtech.org/mondial/countries/BHT/cities/Thimphu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BHT/cities/Thimphu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BHT/cities/Thimphu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BHT/cities/Thimphu_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/BHT/cities/Thimphu_obpophistcoll> .
 

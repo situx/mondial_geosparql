@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/TR/provinces/Eskişehir/cities/Eskisehir_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Eskişehir/cities/Eskisehir_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Eskişehir/cities/Eskisehir_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Eskişehir/cities/Eskisehir_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Eskişehir/cities/Eskisehir_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Eskişehir/cities/Eskisehir_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Eskişehir/cities/Eskisehir_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Eskişehir/cities/Eskisehir_obpophistcoll> .
 

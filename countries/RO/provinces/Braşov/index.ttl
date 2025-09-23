@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Braşov/cities/Braşov> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Braşov/cities/Braşov> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Braşov_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Braşov_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Braşov_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Braşov_obpophistcoll> .
 

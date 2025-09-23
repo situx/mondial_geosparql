@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RIM/provinces/Assaba/cities/Kiffa> ;
     skos:prefLabel "لعصابة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RIM/provinces/Assaba_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Assaba_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Assaba_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Assaba_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Assaba_obpophistcoll> .
 

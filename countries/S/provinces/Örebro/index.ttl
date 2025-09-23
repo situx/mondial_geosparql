@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/S/provinces/Örebro/cities/Örebro> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/S/provinces/Örebro/cities/Örebro> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Örebro_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Örebro_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Örebro_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Örebro_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Örebro_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Örebro_obpophistcoll> .
 

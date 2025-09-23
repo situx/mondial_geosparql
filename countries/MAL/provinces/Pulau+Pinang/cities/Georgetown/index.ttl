@@ -17,7 +17,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Penang> ;
     skos:altLabel "Penang" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAL/provinces/Pulau+Pinang/cities/Georgetown_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Pulau+Pinang/cities/Georgetown_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Pulau+Pinang/cities/Georgetown_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Pulau+Pinang/cities/Georgetown_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Pulau+Pinang/cities/Georgetown_obpophistcoll> .
 

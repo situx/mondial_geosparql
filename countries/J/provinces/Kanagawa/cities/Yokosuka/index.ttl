@@ -17,9 +17,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Honshu> ;
     skos:prefLabel "横須賀市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Kanagawa/cities/Yokosuka_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kanagawa/cities/Yokosuka_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kanagawa/cities/Yokosuka_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kanagawa/cities/Yokosuka_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kanagawa/cities/Yokosuka_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kanagawa/cities/Yokosuka_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Kanagawa/cities/Yokosuka_obpophistcoll> .
 

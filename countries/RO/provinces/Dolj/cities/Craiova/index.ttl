@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Jiu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Dolj/cities/Craiova_obele>,
         <http://www.semwebtech.org/mondial/countries/RO/provinces/Dolj/cities/Craiova_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Dolj/cities/Craiova_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Dolj/cities/Craiova_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Dolj/cities/Craiova_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Dolj/cities/Craiova_obpophistcoll> .
 

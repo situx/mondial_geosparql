@@ -17,6 +17,5 @@
         <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta/cities/Long+Xuyen>,
         <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta/cities/Rach+Gia> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta_obpop>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta_obpophistcoll> .
 

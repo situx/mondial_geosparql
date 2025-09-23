@@ -16,9 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Honshu> ;
     skos:prefLabel "さいたま市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama/cities/Saitama_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama/cities/Saitama_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama/cities/Saitama_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama/cities/Saitama_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama/cities/Saitama_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama/cities/Saitama_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama/cities/Saitama_obpophistcoll> .
 

@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SN/provinces/Kédougou/cities/Kedougou> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SN/provinces/Kédougou/cities/Kedougou> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SN/provinces/Kédougou_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kédougou_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kédougou_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kédougou_obpophistcoll> .
 

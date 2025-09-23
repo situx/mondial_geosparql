@@ -16,7 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Borneo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BRU/cities/Bandar+Seri+Begawan_obele>,
         <http://www.semwebtech.org/mondial/countries/BRU/cities/Bandar+Seri+Begawan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BRU/cities/Bandar+Seri+Begawan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BRU/cities/Bandar+Seri+Begawan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BRU/cities/Bandar+Seri+Begawan_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/BRU/cities/Bandar+Seri+Begawan_obpophistcoll> .
 

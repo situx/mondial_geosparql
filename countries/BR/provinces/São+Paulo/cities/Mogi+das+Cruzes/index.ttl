@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Tiete> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Mogi+das+Cruzes_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Mogi+das+Cruzes_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Mogi+das+Cruzes_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Mogi+das+Cruzes_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Mogi+das+Cruzes_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Mogi+das+Cruzes_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/São+Paulo/cities/Mogi+das+Cruzes_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CI/provinces/Vallée+du+Bandama/cities/Bouaké> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CI/provinces/Vallée+du+Bandama/cities/Bouaké> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CI/provinces/Vallée+du+Bandama_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Vallée+du+Bandama_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Vallée+du+Bandama_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Vallée+du+Bandama_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Vallée+du+Bandama_obpophistcoll> .
 

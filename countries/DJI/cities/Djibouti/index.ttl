@@ -14,7 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/DJI/cities/Djibouti_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Gulf+of+Aden> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DJI/cities/Djibouti_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DJI/cities/Djibouti_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DJI/cities/Djibouti_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/DJI/cities/Djibouti_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/DJI/cities/Djibouti_obpophistcoll> .
 

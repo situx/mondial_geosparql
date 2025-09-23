@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Ohio+River> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Ohio/cities/Cincinnati_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Ohio/cities/Cincinnati_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Ohio/cities/Cincinnati_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Ohio/cities/Cincinnati_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Ohio/cities/Cincinnati_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Ohio/cities/Cincinnati_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Ohio/cities/Cincinnati_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Ohio/cities/Cincinnati_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/MOC/provinces/Manica/cities/Chimoio> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MOC/provinces/Manica/cities/Chimoio> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MOC/provinces/Manica_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Manica_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Manica_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Manica_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Manica_obpophistcoll> .
 

@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Caribbean+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Carabobo/cities/Puerto+Cabello_obele>,
         <http://www.semwebtech.org/mondial/countries/YV/provinces/Carabobo/cities/Puerto+Cabello_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Carabobo/cities/Puerto+Cabello_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Carabobo/cities/Puerto+Cabello_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Carabobo/cities/Puerto+Cabello_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Carabobo/cities/Puerto+Cabello_obpophistcoll> .
 

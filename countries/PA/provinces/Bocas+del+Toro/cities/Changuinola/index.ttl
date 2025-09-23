@@ -14,7 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PA/provinces/Bocas+del+Toro/cities/Changuinola_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Caribbean+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PA/provinces/Bocas+del+Toro/cities/Changuinola_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Bocas+del+Toro/cities/Changuinola_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Bocas+del+Toro/cities/Changuinola_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Bocas+del+Toro/cities/Changuinola_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PA/provinces/Bocas+del+Toro/cities/Changuinola_obpophistcoll> .
 

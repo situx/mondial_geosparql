@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/S/provinces/Västernorrland/cities/Härnösand> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/S/provinces/Västernorrland/cities/Härnösand> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Västernorrland_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västernorrland_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västernorrland_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västernorrland_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västernorrland_obpophistcoll> .
 

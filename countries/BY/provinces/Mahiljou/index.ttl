@@ -20,8 +20,5 @@
     skos:altLabel "Mogilev" ;
     skos:prefLabel "Могилевской" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BY/provinces/Mahiljou_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Mahiljou_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Mahiljou_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Mahiljou_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Mahiljou_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BY/provinces/Mahiljou_obpophistcoll> .
 

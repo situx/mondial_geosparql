@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Yenissey> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Khakasiya/cities/Abakan_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Khakasiya/cities/Abakan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Khakasiya/cities/Abakan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Khakasiya/cities/Abakan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Khakasiya/cities/Abakan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Khakasiya/cities/Abakan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Khakasiya/cities/Abakan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Khakasiya/cities/Abakan_obpophistcoll> .
 

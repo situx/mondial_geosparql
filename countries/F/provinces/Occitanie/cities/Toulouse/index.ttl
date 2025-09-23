@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Garonne> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie/cities/Toulouse_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie/cities/Toulouse_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie/cities/Toulouse_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie/cities/Toulouse_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie/cities/Toulouse_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie/cities/Toulouse_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie/cities/Toulouse_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie/cities/Toulouse_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Occitanie/cities/Toulouse_obpophistcoll> .
 

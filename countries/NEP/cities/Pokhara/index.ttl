@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NEP/cities/Pokhara_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NEP/cities/Pokhara_obele>,
         <http://www.semwebtech.org/mondial/countries/NEP/cities/Pokhara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NEP/cities/Pokhara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NEP/cities/Pokhara_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NEP/cities/Pokhara_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NEP/cities/Pokhara_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/NEP/cities/Pokhara_obpophistcoll> .
 

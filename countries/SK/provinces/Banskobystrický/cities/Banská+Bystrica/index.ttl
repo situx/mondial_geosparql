@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Hron> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SK/provinces/Banskobystrický/cities/Banská+Bystrica_obele>,
         <http://www.semwebtech.org/mondial/countries/SK/provinces/Banskobystrický/cities/Banská+Bystrica_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Banskobystrický/cities/Banská+Bystrica_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Banskobystrický/cities/Banská+Bystrica_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Banskobystrický/cities/Banská+Bystrica_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Banskobystrický/cities/Banská+Bystrica_obpophistcoll> .
 

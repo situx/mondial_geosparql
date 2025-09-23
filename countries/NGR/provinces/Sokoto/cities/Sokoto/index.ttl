@@ -14,7 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NGR/provinces/Sokoto/cities/Sokoto_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Sokoto> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Sokoto/cities/Sokoto_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Sokoto/cities/Sokoto_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Sokoto/cities/Sokoto_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Sokoto/cities/Sokoto_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Sokoto/cities/Sokoto_obpophistcoll> .
 

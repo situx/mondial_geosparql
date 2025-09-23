@@ -17,8 +17,5 @@
     skos:altLabel "Wad Madani" ;
     skos:prefLabel "الجزيرة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Jazīrah/cities/Al+Gazira_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Jazīrah/cities/Al+Gazira_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Jazīrah/cities/Al+Gazira_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Jazīrah/cities/Al+Gazira_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Jazīrah/cities/Al+Gazira_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Jazīrah/cities/Al+Gazira_obpophistcoll> .
 

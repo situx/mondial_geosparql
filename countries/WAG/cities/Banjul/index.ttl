@@ -17,6 +17,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/St.+Mary's+Island> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/WAG/cities/Banjul_obele>,
         <http://www.semwebtech.org/mondial/countries/WAG/cities/Banjul_obpop>,
-        <http://www.semwebtech.org/mondial/countries/WAG/cities/Banjul_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/WAG/cities/Banjul_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/WAG/cities/Banjul_obpophistcoll> .
 

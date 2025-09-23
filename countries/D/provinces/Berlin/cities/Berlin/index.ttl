@@ -16,8 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Spree> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Berlin/cities/Berlin_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Berlin/cities/Berlin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Berlin/cities/Berlin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Berlin/cities/Berlin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Berlin/cities/Berlin_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Berlin/cities/Berlin_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Berlin/cities/Berlin_obpophistcoll> .
 

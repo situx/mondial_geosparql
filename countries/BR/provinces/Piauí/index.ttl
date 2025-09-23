@@ -17,10 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BR/provinces/Piauí/cities/Parnaíba>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Piauí/cities/Teresina> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Piauí_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Piauí_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Piauí_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Piauí_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Piauí_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Piauí_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Piauí_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Piauí_obpophistcoll> .
 

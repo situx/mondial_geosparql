@@ -15,7 +15,5 @@
     skos:altLabel "Tabuk" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SA/provinces/Tabouk/cities/Tabouk_obele>,
         <http://www.semwebtech.org/mondial/countries/SA/provinces/Tabouk/cities/Tabouk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Tabouk/cities/Tabouk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Tabouk/cities/Tabouk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Tabouk/cities/Tabouk_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SA/provinces/Tabouk/cities/Tabouk_obpophistcoll> .
 

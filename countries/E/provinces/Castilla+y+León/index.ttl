@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León/cities/Salamanca>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León/cities/Valladolid> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla+y+León_obpophistcoll> .
 

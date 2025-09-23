@@ -17,7 +17,5 @@
     skos:prefLabel "سكيكدة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DZ/cities/Skikda_obele>,
         <http://www.semwebtech.org/mondial/countries/DZ/cities/Skikda_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Skikda_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Skikda_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Skikda_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/DZ/cities/Skikda_obpophistcoll> .
 

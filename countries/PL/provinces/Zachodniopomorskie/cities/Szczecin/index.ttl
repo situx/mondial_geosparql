@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Oder> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL/provinces/Zachodniopomorskie/cities/Szczecin_obele>,
         <http://www.semwebtech.org/mondial/countries/PL/provinces/Zachodniopomorskie/cities/Szczecin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Zachodniopomorskie/cities/Szczecin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Zachodniopomorskie/cities/Szczecin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Zachodniopomorskie/cities/Szczecin_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Zachodniopomorskie/cities/Szczecin_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Zachodniopomorskie/cities/Szczecin_obpophistcoll> .
 

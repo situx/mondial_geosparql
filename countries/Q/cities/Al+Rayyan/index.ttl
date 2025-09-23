@@ -16,10 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Persian+Gulf> ;
     skos:prefLabel "الريان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/Q/cities/Al+Rayyan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/Q/cities/Al+Rayyan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/Q/cities/Al+Rayyan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/Q/cities/Al+Rayyan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/Q/cities/Al+Rayyan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/Q/cities/Al+Rayyan_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/Q/cities/Al+Rayyan_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/Q/cities/Al+Rayyan_obpophistcoll> .
 

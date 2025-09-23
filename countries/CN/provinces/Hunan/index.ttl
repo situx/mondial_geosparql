@@ -26,9 +26,5 @@
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Zhuzhou> ;
     skos:prefLabel "湖南" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan_obpophistcoll> .
 

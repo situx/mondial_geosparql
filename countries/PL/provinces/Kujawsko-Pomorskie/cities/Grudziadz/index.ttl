@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Weichsel> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL/provinces/Kujawsko-Pomorskie/cities/Grudziadz_obele>,
         <http://www.semwebtech.org/mondial/countries/PL/provinces/Kujawsko-Pomorskie/cities/Grudziadz_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Kujawsko-Pomorskie/cities/Grudziadz_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Kujawsko-Pomorskie/cities/Grudziadz_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Kujawsko-Pomorskie/cities/Grudziadz_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Kujawsko-Pomorskie/cities/Grudziadz_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Kujawsko-Pomorskie/cities/Grudziadz_obpophistcoll> .
 

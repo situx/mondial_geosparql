@@ -15,8 +15,5 @@
     skos:prefLabel "الأبيض" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Kurdufān/cities/Al+Ubayyiḑ_obele>,
         <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Kurdufān/cities/Al+Ubayyiḑ_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Kurdufān/cities/Al+Ubayyiḑ_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Kurdufān/cities/Al+Ubayyiḑ_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Kurdufān/cities/Al+Ubayyiḑ_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Kurdufān/cities/Al+Ubayyiḑ_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Kurdufān/cities/Al+Ubayyiḑ_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Simiyu/cities/Bariadi> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAT/provinces/Simiyu/cities/Bariadi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Simiyu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Simiyu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Simiyu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Simiyu_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Simiyu_obpophistcoll> .
 

@@ -15,5 +15,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Isla+Margarita> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Nueva+Esparta/cities/Porlamar_obele>,
         <http://www.semwebtech.org/mondial/countries/YV/provinces/Nueva+Esparta/cities/Porlamar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Nueva+Esparta/cities/Porlamar_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Nueva+Esparta/cities/Porlamar_obpophistcoll> .
 

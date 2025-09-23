@@ -16,9 +16,5 @@
     skos:prefLabel "Йошкар-Ола" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Mariy-El/cities/Yoshkar-Ola_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Mariy-El/cities/Yoshkar-Ola_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Mariy-El/cities/Yoshkar-Ola_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Mariy-El/cities/Yoshkar-Ola_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Mariy-El/cities/Yoshkar-Ola_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Mariy-El/cities/Yoshkar-Ola_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Mariy-El/cities/Yoshkar-Ola_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Mariy-El/cities/Yoshkar-Ola_obpophistcoll> .
 

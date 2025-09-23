@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RI/provinces/DI+Yogyakarta/cities/Yogyakarta> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RI/provinces/DI+Yogyakarta/cities/Yogyakarta> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/DI+Yogyakarta_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/DI+Yogyakarta_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/DI+Yogyakarta_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/DI+Yogyakarta_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/DI+Yogyakarta_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/DI+Yogyakarta_obpophistcoll> .
 

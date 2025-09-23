@@ -14,7 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/KP/cities/Wonsan_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Sea+of+Japan> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KP/cities/Wonsan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KP/cities/Wonsan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KP/cities/Wonsan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KP/cities/Wonsan_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Wonsan_obpophistcoll> .
 

@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/C/provinces/Artemisa/cities/Artemisa> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/C/provinces/Artemisa/cities/Artemisa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/C/provinces/Artemisa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Artemisa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Artemisa_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Artemisa_obpophistcoll> .
 

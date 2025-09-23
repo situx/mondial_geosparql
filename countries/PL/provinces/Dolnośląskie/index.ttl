@@ -18,7 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/PL/provinces/Dolnośląskie/cities/Wałbrzych>,
         <http://www.semwebtech.org/mondial/countries/PL/provinces/Dolnośląskie/cities/Wrocław> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL/provinces/Dolnośląskie_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Dolnośląskie_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Dolnośląskie_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Dolnośląskie_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Dolnośląskie_obpophistcoll> .
 

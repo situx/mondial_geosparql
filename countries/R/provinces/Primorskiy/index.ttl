@@ -20,9 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/R/provinces/Primorskiy/cities/Vladivostok> ;
     skos:prefLabel "Приморский" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Primorskiy_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Primorskiy_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Primorskiy_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Primorskiy_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Primorskiy_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Primorskiy_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Primorskiy_obpophistcoll> .
 

@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/UZ/provinces/Buxoro/cities/Buxoro> ;
     skos:altLabel "Bukhara" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UZ/provinces/Buxoro_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Buxoro_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Buxoro_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Buxoro_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Buxoro_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Buxoro_obpophistcoll> .
 

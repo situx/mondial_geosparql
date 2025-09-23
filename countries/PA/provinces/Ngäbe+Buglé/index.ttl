@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PA/provinces/Ngäbe+Buglé/cities/Chichica> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PA/provinces/Ngäbe+Buglé/cities/Chichica> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PA/provinces/Ngäbe+Buglé_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Ngäbe+Buglé_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Ngäbe+Buglé_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Ngäbe+Buglé_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PA/provinces/Ngäbe+Buglé_obpophistcoll> .
 

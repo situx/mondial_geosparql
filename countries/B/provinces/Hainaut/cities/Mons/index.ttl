@@ -14,9 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/B/provinces/Hainaut/cities/Mons_geom> ;
     skos:altLabel "Bergen" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/B/provinces/Hainaut/cities/Mons_obpop>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Hainaut/cities/Mons_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Hainaut/cities/Mons_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Hainaut/cities/Mons_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Hainaut/cities/Mons_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Hainaut/cities/Mons_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Hainaut/cities/Mons_obpophistcoll> .
 

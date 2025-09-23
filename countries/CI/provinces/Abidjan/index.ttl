@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CI/provinces/Abidjan/cities/Abidjan> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CI/provinces/Abidjan/cities/Abidjan> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CI/provinces/Abidjan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Abidjan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Abidjan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Abidjan_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Abidjan_obpophistcoll> .
 

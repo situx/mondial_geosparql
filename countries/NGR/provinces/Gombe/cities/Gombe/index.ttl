@@ -12,7 +12,5 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NGR/provinces/Gombe/cities/Gombe_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Gombe/cities/Gombe_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Gombe/cities/Gombe_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Gombe/cities/Gombe_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Gombe/cities/Gombe_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Gombe/cities/Gombe_obpophistcoll> .
 

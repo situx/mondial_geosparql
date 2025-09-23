@@ -15,7 +15,5 @@
     skos:altLabel "Padua" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Veneto/cities/Pádova_obele>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Veneto/cities/Pádova_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Veneto/cities/Pádova_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Veneto/cities/Pádova_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Veneto/cities/Pádova_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Veneto/cities/Pádova_obpophistcoll> .
 

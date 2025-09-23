@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GH/provinces/Northern/cities/Tamale_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GH/provinces/Northern/cities/Tamale_obele>,
         <http://www.semwebtech.org/mondial/countries/GH/provinces/Northern/cities/Tamale_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Northern/cities/Tamale_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Northern/cities/Tamale_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Northern/cities/Tamale_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Northern/cities/Tamale_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Northern/cities/Tamale_obpophistcoll> .
 

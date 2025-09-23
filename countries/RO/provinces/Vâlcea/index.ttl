@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Vâlcea/cities/Râmnicu+Vâlcea> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Vâlcea/cities/Râmnicu+Vâlcea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Vâlcea_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Vâlcea_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Vâlcea_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Vâlcea_obpophistcoll> .
 

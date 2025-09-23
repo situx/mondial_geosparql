@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Hudud+ash+Shamaliyah/cities/Arar> ;
     skos:prefLabel "الحدود الشمالية" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Hudud+ash+Shamaliyah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Hudud+ash+Shamaliyah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Hudud+ash+Shamaliyah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Hudud+ash+Shamaliyah_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Hudud+ash+Shamaliyah_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Hudud+ash+Shamaliyah_obpophistcoll> .
 

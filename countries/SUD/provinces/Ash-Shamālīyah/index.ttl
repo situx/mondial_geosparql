@@ -19,7 +19,5 @@
     skos:altLabel "Northern" ;
     skos:prefLabel "الشمالية" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/Ash-Shamālīyah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Ash-Shamālīyah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Ash-Shamālīyah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Ash-Shamālīyah_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Ash-Shamālīyah_obpophistcoll> .
 

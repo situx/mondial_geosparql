@@ -18,8 +18,5 @@
     skos:prefLabel "彰化市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RC/cities/Changhua_obele>,
         <http://www.semwebtech.org/mondial/countries/RC/cities/Changhua_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RC/cities/Changhua_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RC/cities/Changhua_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RC/cities/Changhua_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RC/cities/Changhua_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RC/cities/Changhua_obpophistcoll> .
 

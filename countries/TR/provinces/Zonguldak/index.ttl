@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Zonguldak/cities/Karadeniz+Ereğli>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Zonguldak/cities/Zonguldak> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Zonguldak_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Zonguldak_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Zonguldak_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Zonguldak_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Zonguldak_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Zonguldak_obpophistcoll> .
 

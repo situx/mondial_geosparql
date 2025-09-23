@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/YV/provinces/Bolívar/cities/Ciudad+Bolívar>,
         <http://www.semwebtech.org/mondial/countries/YV/provinces/Bolívar/cities/Ciudad+Guayana> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Bolívar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Bolívar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Bolívar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Bolívar_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Bolívar_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Bolívar_obpophistcoll> .
 

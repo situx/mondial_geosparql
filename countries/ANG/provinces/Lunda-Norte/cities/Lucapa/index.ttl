@@ -13,6 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Norte/cities/Lucapa_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Norte/cities/Lucapa_obele>,
         <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Norte/cities/Lucapa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Norte/cities/Lucapa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Norte/cities/Lucapa_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Norte/cities/Lucapa_obpophistcoll> .
 

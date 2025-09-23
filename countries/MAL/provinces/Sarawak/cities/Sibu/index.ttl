@@ -16,6 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Borneo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak/cities/Sibu_obele>,
         <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak/cities/Sibu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak/cities/Sibu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak/cities/Sibu_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sarawak/cities/Sibu_obpophistcoll> .
 

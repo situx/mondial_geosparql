@@ -18,8 +18,5 @@
     skos:prefLabel "فاس" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Fes+Boulemane/cities/Fès_obele>,
         <http://www.semwebtech.org/mondial/countries/MA/provinces/Fes+Boulemane/cities/Fès_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Fes+Boulemane/cities/Fès_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Fes+Boulemane/cities/Fès_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Fes+Boulemane/cities/Fès_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Fes+Boulemane/cities/Fès_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Fes+Boulemane/cities/Fès_obpophistcoll> .
 

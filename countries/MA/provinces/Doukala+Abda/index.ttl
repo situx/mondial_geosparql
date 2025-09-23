@@ -16,5 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/MA/provinces/Doukala+Abda/cities/Safi> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MA/provinces/Doukala+Abda/cities/Safi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Doukala+Abda_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Doukala+Abda_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Doukala+Abda_obpophistcoll> .
 

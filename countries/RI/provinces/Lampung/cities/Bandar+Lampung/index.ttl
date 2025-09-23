@@ -16,7 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Sumatra> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Lampung/cities/Bandar+Lampung_obele>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Lampung/cities/Bandar+Lampung_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Lampung/cities/Bandar+Lampung_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Lampung/cities/Bandar+Lampung_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Lampung/cities/Bandar+Lampung_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Lampung/cities/Bandar+Lampung_obpophistcoll> .
 

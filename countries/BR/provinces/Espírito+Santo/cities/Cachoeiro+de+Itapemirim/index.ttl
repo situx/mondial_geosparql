@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Cachoeiro+de+Itapemirim_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Cachoeiro+de+Itapemirim_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Cachoeiro+de+Itapemirim_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Cachoeiro+de+Itapemirim_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Cachoeiro+de+Itapemirim_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Cachoeiro+de+Itapemirim_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Cachoeiro+de+Itapemirim_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Cachoeiro+de+Itapemirim_obpophistcoll> .
 

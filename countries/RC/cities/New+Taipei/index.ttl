@@ -18,7 +18,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Taiwan> ;
     skos:prefLabel "新北市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RC/cities/New+Taipei_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RC/cities/New+Taipei_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RC/cities/New+Taipei_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RC/cities/New+Taipei_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RC/cities/New+Taipei_obpophistcoll> .
 

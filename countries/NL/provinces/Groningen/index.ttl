@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/NL/provinces/Groningen/cities/Groningen> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NL/provinces/Groningen/cities/Groningen> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NL/provinces/Groningen_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Groningen_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Groningen_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Groningen_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Groningen_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Groningen_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/NL/provinces/Groningen_obpophistcoll> .
 

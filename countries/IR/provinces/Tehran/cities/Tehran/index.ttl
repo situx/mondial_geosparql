@@ -15,9 +15,5 @@
     skos:prefLabel "تهران" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Tehran/cities/Tehran_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/Tehran/cities/Tehran_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Tehran/cities/Tehran_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Tehran/cities/Tehran_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Tehran/cities/Tehran_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Tehran/cities/Tehran_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Tehran/cities/Tehran_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Tehran/cities/Tehran_obpophistcoll> .
 

@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins/cities/Araguaína_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins/cities/Araguaína_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins/cities/Araguaína_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins/cities/Araguaína_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins/cities/Araguaína_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins/cities/Araguaína_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins/cities/Araguaína_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins/cities/Araguaína_obpophistcoll> .
 

@@ -16,5 +16,5 @@
     skos:prefLabel "معرة النعمان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SYR/provinces/Idlib/cities/Maarrat+an+Numan_obele>,
         <http://www.semwebtech.org/mondial/countries/SYR/provinces/Idlib/cities/Maarrat+an+Numan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Idlib/cities/Maarrat+an+Numan_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Idlib/cities/Maarrat+an+Numan_obpophistcoll> .
 

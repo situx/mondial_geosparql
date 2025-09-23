@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SK/provinces/Bratislavský/cities/Bratislava> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SK/provinces/Bratislavský/cities/Bratislava> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SK/provinces/Bratislavský_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Bratislavský_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Bratislavský_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Bratislavský_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Bratislavský_obpophistcoll> .
 

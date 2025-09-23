@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Caribbean+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Quintana+Roo/cities/Playa+del+Carmen_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Quintana+Roo/cities/Playa+del+Carmen_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Quintana+Roo/cities/Playa+del+Carmen_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Quintana+Roo/cities/Playa+del+Carmen_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Quintana+Roo/cities/Playa+del+Carmen_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Quintana+Roo/cities/Playa+del+Carmen_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Quintana+Roo/cities/Playa+del+Carmen_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Quintana+Roo/cities/Playa+del+Carmen_obpophistcoll> .
 

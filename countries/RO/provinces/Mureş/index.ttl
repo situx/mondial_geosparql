@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Mureş/cities/Târgu+Mureş> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Mureş/cities/Târgu+Mureş> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Mureş_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Mureş_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Mureş_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Mureş_obpophistcoll> .
 

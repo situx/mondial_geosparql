@@ -36,10 +36,5 @@
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Teresópolis>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Volta+Redonda> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro_obpophistcoll> .
 

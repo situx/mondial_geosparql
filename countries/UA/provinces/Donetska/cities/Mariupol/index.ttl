@@ -18,9 +18,5 @@
     skos:prefLabel "Маріуполь" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Mariupol_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Mariupol_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Mariupol_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Mariupol_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Mariupol_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Mariupol_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Mariupol_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Mariupol_obpophistcoll> .
 

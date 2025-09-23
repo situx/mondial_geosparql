@@ -15,8 +15,5 @@
     skos:prefLabel "العين" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UAE/cities/Al+Ain_obele>,
         <http://www.semwebtech.org/mondial/countries/UAE/cities/Al+Ain_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UAE/cities/Al+Ain_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UAE/cities/Al+Ain_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UAE/cities/Al+Ain_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UAE/cities/Al+Ain_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/UAE/cities/Al+Ain_obpophistcoll> .
 

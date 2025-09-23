@@ -16,7 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Ambon> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Maluku/cities/Ambon_obele>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Maluku/cities/Ambon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Maluku/cities/Ambon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Maluku/cities/Ambon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Maluku/cities/Ambon_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Maluku/cities/Ambon_obpophistcoll> .
 

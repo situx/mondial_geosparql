@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Shimane/cities/Matsue> ;
     skos:prefLabel "島根県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Shimane_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shimane_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shimane_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shimane_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shimane_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shimane_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Shimane_obpophistcoll> .
 

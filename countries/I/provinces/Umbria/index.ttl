@@ -17,6 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/I/provinces/Umbria/cities/Perúgia>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Umbria/cities/Terni> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Umbria_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Umbria_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Umbria_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Umbria_obpophistcoll> .
 

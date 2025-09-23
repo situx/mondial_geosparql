@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Salah+al-Deen/cities/Samarra> ;
     skos:prefLabel "صلاح الدين" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Salah+al-Deen_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Salah+al-Deen_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Salah+al-Deen_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Salah+al-Deen_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Salah+al-Deen_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Salah+al-Deen_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Salah+al-Deen_obpophistcoll> .
 

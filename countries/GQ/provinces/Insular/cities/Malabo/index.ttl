@@ -16,8 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Bioko> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GQ/provinces/Insular/cities/Malabo_obele>,
         <http://www.semwebtech.org/mondial/countries/GQ/provinces/Insular/cities/Malabo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GQ/provinces/Insular/cities/Malabo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GQ/provinces/Insular/cities/Malabo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GQ/provinces/Insular/cities/Malabo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GQ/provinces/Insular/cities/Malabo_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GQ/provinces/Insular/cities/Malabo_obpophistcoll> .
 

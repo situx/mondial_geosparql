@@ -18,7 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/PE/provinces/Piura/cities/Sullana>,
         <http://www.semwebtech.org/mondial/countries/PE/provinces/Piura/cities/Talara> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PE/provinces/Piura_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Piura_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Piura_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Piura_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Piura_obpophistcoll> .
 

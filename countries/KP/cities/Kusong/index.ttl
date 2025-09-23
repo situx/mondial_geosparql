@@ -14,6 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/KP/cities/Kusong_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Sea+of+Japan> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KP/cities/Kusong_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KP/cities/Kusong_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KP/cities/Kusong_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Kusong_obpophistcoll> .
 

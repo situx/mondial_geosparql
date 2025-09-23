@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CGO/provinces/Mongala/cities/Lisala> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CGO/provinces/Mongala/cities/Lisala> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Mongala_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Mongala_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Mongala_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Mongala_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Mongala_obpophistcoll> .
 

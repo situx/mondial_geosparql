@@ -11,5 +11,5 @@
     void:linkPredicate <http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit> ;
     void:objectsTarget <http://www.ontology-of-units-of-measure.org/resource/om-2/> ;
     void:subjectsTarget <http://www.semwebtech.org/mondial/md_dataset> ;
-    void:triples 8550 .
+    void:triples 8774 .
 

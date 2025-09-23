@@ -17,8 +17,5 @@
     skos:altLabel "Vienna" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/A/provinces/Wien/cities/Wien_obele>,
         <http://www.semwebtech.org/mondial/countries/A/provinces/Wien/cities/Wien_obpop>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Wien/cities/Wien_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Wien/cities/Wien_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Wien/cities/Wien_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Wien/cities/Wien_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/A/provinces/Wien/cities/Wien_obpophistcoll> .
 

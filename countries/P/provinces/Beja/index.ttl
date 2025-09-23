@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/P/provinces/Beja/cities/Beja> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/P/provinces/Beja/cities/Beja> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/P/provinces/Beja_obpop>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Beja_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Beja_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Beja_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Beja_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Beja_obpophistcoll> .
 

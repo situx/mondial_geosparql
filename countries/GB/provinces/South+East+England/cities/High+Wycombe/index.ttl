@@ -14,8 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GB/provinces/South+East+England/cities/High+Wycombe_geom> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Great+Britain> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GB/provinces/South+East+England/cities/High+Wycombe_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+East+England/cities/High+Wycombe_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+East+England/cities/High+Wycombe_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+East+England/cities/High+Wycombe_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+East+England/cities/High+Wycombe_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+East+England/cities/High+Wycombe_obpophistcoll> .
 

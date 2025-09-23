@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Katanga/cities/Likasi>,
         <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Katanga/cities/Lubumbashi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Katanga_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Katanga_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Katanga_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Katanga_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Katanga_obpophistcoll> .
 

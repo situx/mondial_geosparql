@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TJ/provinces/Gorno-Badakhshan/cities/Khorugh> ;
     skos:prefLabel "Вилояти Мухтори Кўњистони Бадахшон" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TJ/provinces/Gorno-Badakhshan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Gorno-Badakhshan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Gorno-Badakhshan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Gorno-Badakhshan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Gorno-Badakhshan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Gorno-Badakhshan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Gorno-Badakhshan_obpophistcoll> .
 

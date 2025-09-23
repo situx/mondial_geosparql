@@ -16,10 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/F/provinces/Corse/cities/Ajaccio> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/F/provinces/Corse/cities/Ajaccio> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Corse_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Corse_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Corse_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Corse_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Corse_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Corse_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Corse_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Corse_obpophistcoll> .
 

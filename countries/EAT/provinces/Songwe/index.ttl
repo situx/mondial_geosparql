@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Songwe/cities/Vwawa> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAT/provinces/Songwe/cities/Vwawa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Songwe_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Songwe_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Songwe_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Songwe_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Songwe_obpophistcoll> .
 

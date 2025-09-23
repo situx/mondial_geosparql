@@ -15,7 +15,5 @@
     skos:prefLabel "سيدي بلعباس" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DZ/cities/Sidi+Bel+Abbës_obele>,
         <http://www.semwebtech.org/mondial/countries/DZ/cities/Sidi+Bel+Abbës_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Sidi+Bel+Abbës_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Sidi+Bel+Abbës_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Sidi+Bel+Abbës_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/DZ/cities/Sidi+Bel+Abbës_obpophistcoll> .
 

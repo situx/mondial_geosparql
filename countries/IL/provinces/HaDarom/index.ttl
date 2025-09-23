@@ -19,8 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom/cities/Beer+Sheva> ;
     skos:prefLabel "מחוז הדרום" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom_obpophistcoll> .
 

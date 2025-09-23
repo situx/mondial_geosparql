@@ -16,8 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Jamaica> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/JA/cities/Kingston_obele>,
         <http://www.semwebtech.org/mondial/countries/JA/cities/Kingston_obpop>,
-        <http://www.semwebtech.org/mondial/countries/JA/cities/Kingston_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/JA/cities/Kingston_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/JA/cities/Kingston_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/JA/cities/Kingston_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/JA/cities/Kingston_obpophistcoll> .
 

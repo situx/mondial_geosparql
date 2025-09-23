@@ -19,6 +19,5 @@
     skos:altLabel "Hama" ;
     skos:prefLabel "حماة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SYR/provinces/Hamah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Hamah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Hamah_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Hamah_obpophistcoll> .
 

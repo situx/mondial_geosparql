@@ -18,8 +18,5 @@
     skos:prefLabel "السويس" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ET/cities/As+Suways_obele>,
         <http://www.semwebtech.org/mondial/countries/ET/cities/As+Suways_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/As+Suways_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/As+Suways_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/As+Suways_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/As+Suways_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/ET/cities/As+Suways_obpophistcoll> .
 

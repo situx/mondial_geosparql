@@ -17,9 +17,5 @@
     skos:prefLabel "Ақтау" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KZ/provinces/Mangistau/cities/Aktau_obele>,
         <http://www.semwebtech.org/mondial/countries/KZ/provinces/Mangistau/cities/Aktau_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Mangistau/cities/Aktau_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Mangistau/cities/Aktau_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Mangistau/cities/Aktau_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Mangistau/cities/Aktau_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Mangistau/cities/Aktau_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Mangistau/cities/Aktau_obpophistcoll> .
 

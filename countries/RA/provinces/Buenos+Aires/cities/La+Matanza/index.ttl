@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/La+Matanza_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/La+Matanza_obele>,
         <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/La+Matanza_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/La+Matanza_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/La+Matanza_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/La+Matanza_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/La+Matanza_obpophistcoll> .
 

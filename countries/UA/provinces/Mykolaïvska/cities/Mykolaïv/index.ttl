@@ -18,9 +18,5 @@
     skos:prefLabel "Миколаїв" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Mykolaïvska/cities/Mykolaïv_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Mykolaïvska/cities/Mykolaïv_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Mykolaïvska/cities/Mykolaïv_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Mykolaïvska/cities/Mykolaïv_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Mykolaïvska/cities/Mykolaïv_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Mykolaïvska/cities/Mykolaïv_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Mykolaïvska/cities/Mykolaïv_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Mykolaïvska/cities/Mykolaïv_obpophistcoll> .
 

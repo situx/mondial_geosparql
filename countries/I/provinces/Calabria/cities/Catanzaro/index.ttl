@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/I/provinces/Calabria/cities/Catanzaro_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Calabria/cities/Catanzaro_obele>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Calabria/cities/Catanzaro_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Calabria/cities/Catanzaro_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Calabria/cities/Catanzaro_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Calabria/cities/Catanzaro_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Calabria/cities/Catanzaro_obpophistcoll> .
 

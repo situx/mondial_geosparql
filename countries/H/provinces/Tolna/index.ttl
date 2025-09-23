@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/H/provinces/Tolna/cities/Szekszárd> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/H/provinces/Tolna/cities/Szekszárd> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/H/provinces/Tolna_obpop>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Tolna_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Tolna_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Tolna_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/H/provinces/Tolna_obpophistcoll> .
 

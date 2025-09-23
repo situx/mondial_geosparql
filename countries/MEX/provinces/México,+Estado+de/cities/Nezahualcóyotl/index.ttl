@@ -13,10 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Nezahualcóyotl_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Nezahualcóyotl_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Nezahualcóyotl_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Nezahualcóyotl_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Nezahualcóyotl_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Nezahualcóyotl_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Nezahualcóyotl_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Nezahualcóyotl_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Nezahualcóyotl_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Nezahualcóyotl_obpophistcoll> .
 

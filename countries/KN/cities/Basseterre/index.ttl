@@ -18,7 +18,5 @@
     skos:altLabel "Basse Terre" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KN/cities/Basseterre_obele>,
         <http://www.semwebtech.org/mondial/countries/KN/cities/Basseterre_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KN/cities/Basseterre_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KN/cities/Basseterre_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KN/cities/Basseterre_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/KN/cities/Basseterre_obpophistcoll> .
 

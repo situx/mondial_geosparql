@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RA/provinces/Tierra+del+Fuego/cities/Ushuaia> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RA/provinces/Tierra+del+Fuego/cities/Ushuaia> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Tierra+del+Fuego_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Tierra+del+Fuego_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Tierra+del+Fuego_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Tierra+del+Fuego_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Tierra+del+Fuego_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Tierra+del+Fuego_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Tierra+del+Fuego_obpophistcoll> .
 

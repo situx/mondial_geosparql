@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Rio+Lerma+Santiago> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Jalisco/cities/Guadalajara_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Jalisco/cities/Guadalajara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Jalisco/cities/Guadalajara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Jalisco/cities/Guadalajara_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Jalisco/cities/Guadalajara_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Jalisco/cities/Guadalajara_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Jalisco/cities/Guadalajara_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Jalisco/cities/Guadalajara_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Jalisco/cities/Guadalajara_obpophistcoll> .
 

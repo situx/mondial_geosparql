@@ -22,9 +22,5 @@
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Tongliao> ;
     skos:prefLabel "内蒙古" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol_obpophistcoll> .
 

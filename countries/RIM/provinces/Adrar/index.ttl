@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RIM/provinces/Adrar/cities/Atar> ;
     skos:prefLabel "أدرار" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RIM/provinces/Adrar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Adrar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Adrar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Adrar_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Adrar_obpophistcoll> .
 

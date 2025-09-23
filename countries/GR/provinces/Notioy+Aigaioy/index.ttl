@@ -19,8 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/GR/provinces/Notioy+Aigaioy/cities/Rhodes> ;
     skos:prefLabel "Νότιου Αιγαίου" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Notioy+Aigaioy_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Notioy+Aigaioy_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Notioy+Aigaioy_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Notioy+Aigaioy_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Notioy+Aigaioy_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Notioy+Aigaioy_obpophistcoll> .
 

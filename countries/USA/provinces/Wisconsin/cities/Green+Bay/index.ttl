@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/Wisconsin/cities/Green+Bay_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Wisconsin/cities/Green+Bay_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Wisconsin/cities/Green+Bay_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Wisconsin/cities/Green+Bay_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Wisconsin/cities/Green+Bay_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Wisconsin/cities/Green+Bay_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Wisconsin/cities/Green+Bay_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Wisconsin/cities/Green+Bay_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Wisconsin/cities/Green+Bay_obpophistcoll> .
 

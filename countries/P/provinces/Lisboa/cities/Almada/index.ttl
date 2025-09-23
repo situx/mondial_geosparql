@@ -16,8 +16,5 @@
         <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Almada_obele>,
         <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Almada_obpop>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Almada_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Almada_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Almada_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Almada_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Almada_obpophistcoll> .
 

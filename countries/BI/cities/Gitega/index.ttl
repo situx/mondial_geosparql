@@ -15,5 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Luvironza> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BI/cities/Gitega_obele>,
         <http://www.semwebtech.org/mondial/countries/BI/cities/Gitega_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BI/cities/Gitega_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/BI/cities/Gitega_obpophistcoll> .
 

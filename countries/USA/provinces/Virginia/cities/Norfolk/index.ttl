@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Norfolk_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Norfolk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Norfolk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Norfolk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Norfolk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Norfolk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Norfolk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Norfolk_obpophistcoll> .
 

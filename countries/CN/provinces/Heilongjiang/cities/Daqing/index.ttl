@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Daqing_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Daqing_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Daqing_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Daqing_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Daqing_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Daqing_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Daqing_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Daqing_obpophistcoll> .
 

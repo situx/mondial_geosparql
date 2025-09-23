@@ -18,8 +18,5 @@
     skos:prefLabel "Αθήνα" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Athina_obele>,
         <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Athina_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Athina_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Athina_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Athina_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Athina_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Athina_obpophistcoll> .
 

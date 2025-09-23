@@ -17,7 +17,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Hispaniola> ;
     skos:altLabel "Pétionville" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RH/cities/Pétion-Ville_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RH/cities/Pétion-Ville_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RH/cities/Pétion-Ville_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RH/cities/Pétion-Ville_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RH/cities/Pétion-Ville_obpophistcoll> .
 

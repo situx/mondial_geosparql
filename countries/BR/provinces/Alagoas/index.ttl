@@ -17,10 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BR/provinces/Alagoas/cities/Arapiraca>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Alagoas/cities/Maceió> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Alagoas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Alagoas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Alagoas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Alagoas_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Alagoas_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Alagoas_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Alagoas_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Alagoas_obpophistcoll> .
 

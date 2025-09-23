@@ -16,10 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/BR/provinces/Amapá/cities/Macapá> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BR/provinces/Amapá/cities/Macapá> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Amapá_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Amapá_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Amapá_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Amapá_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Amapá_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Amapá_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Amapá_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Amapá_obpophistcoll> .
 

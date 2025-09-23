@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kilimanjaro/cities/Moshi_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kilimanjaro/cities/Moshi_obele>,
         <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kilimanjaro/cities/Moshi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kilimanjaro/cities/Moshi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kilimanjaro/cities/Moshi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kilimanjaro/cities/Moshi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kilimanjaro/cities/Moshi_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kilimanjaro/cities/Moshi_obpophistcoll> .
 

@@ -19,8 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias/cities/Volos> ;
     skos:prefLabel "Θεσσαλίας" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias_obpophistcoll> .
 

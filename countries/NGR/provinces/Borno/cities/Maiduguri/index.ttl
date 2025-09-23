@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NGR/provinces/Borno/cities/Maiduguri_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Borno/cities/Maiduguri_obele>,
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Borno/cities/Maiduguri_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Borno/cities/Maiduguri_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Borno/cities/Maiduguri_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Borno/cities/Maiduguri_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Borno/cities/Maiduguri_obpophistcoll> .
 

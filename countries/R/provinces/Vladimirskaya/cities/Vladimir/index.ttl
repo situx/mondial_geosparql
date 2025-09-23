@@ -15,9 +15,5 @@
     skos:prefLabel "Владимир" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Vladimirskaya/cities/Vladimir_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Vladimirskaya/cities/Vladimir_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Vladimirskaya/cities/Vladimir_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Vladimirskaya/cities/Vladimir_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Vladimirskaya/cities/Vladimir_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Vladimirskaya/cities/Vladimir_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Vladimirskaya/cities/Vladimir_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Vladimirskaya/cities/Vladimir_obpophistcoll> .
 

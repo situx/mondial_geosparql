@@ -18,8 +18,5 @@
     skos:prefLabel "珠海市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Zhongshan_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Zhongshan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Zhongshan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Zhongshan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Zhongshan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Zhongshan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Zhongshan_obpophistcoll> .
 

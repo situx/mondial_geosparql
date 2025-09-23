@@ -17,6 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/A/provinces/Oberösterreich/cities/Linz>,
         <http://www.semwebtech.org/mondial/countries/A/provinces/Oberösterreich/cities/Wels> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/A/provinces/Oberösterreich_obpop>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Oberösterreich_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Oberösterreich_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/A/provinces/Oberösterreich_obpophistcoll> .
 

@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/ANG/provinces/Malanje/cities/Malanje> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/ANG/provinces/Malanje/cities/Malanje> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Malanje_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Malanje_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Malanje_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Malanje_obpophistcoll> .
 

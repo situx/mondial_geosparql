@@ -15,7 +15,5 @@
     skos:altLabel "10th of Ramadan" ;
     skos:prefLabel "العاشر من رمضان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ET/cities/Madīnat+'Ashirh+min-Ramaḍān_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Madīnat+'Ashirh+min-Ramaḍān_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Madīnat+'Ashirh+min-Ramaḍān_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Madīnat+'Ashirh+min-Ramaḍān_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/ET/cities/Madīnat+'Ashirh+min-Ramaḍān_obpophistcoll> .
 

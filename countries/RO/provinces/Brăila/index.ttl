@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Brăila/cities/Brăila> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Brăila/cities/Brăila> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Brăila_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Brăila_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Brăila_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Brăila_obpophistcoll> .
 

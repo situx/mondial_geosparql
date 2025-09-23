@@ -17,9 +17,5 @@
     skos:prefLabel "안산시" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ROK/cities/Ansan_obele>,
         <http://www.semwebtech.org/mondial/countries/ROK/cities/Ansan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Ansan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Ansan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Ansan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Ansan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Ansan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Ansan_obpophistcoll> .
 

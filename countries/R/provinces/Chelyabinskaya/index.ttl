@@ -22,9 +22,5 @@
         <http://www.semwebtech.org/mondial/countries/R/provinces/Chelyabinskaya/cities/Zlatoust> ;
     skos:prefLabel "Челябинская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Chelyabinskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chelyabinskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chelyabinskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chelyabinskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chelyabinskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chelyabinskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Chelyabinskaya_obpophistcoll> .
 

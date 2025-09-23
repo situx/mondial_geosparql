@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Teleorman/cities/Alexandria> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Teleorman/cities/Alexandria> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Teleorman_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Teleorman_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Teleorman_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Teleorman_obpophistcoll> .
 

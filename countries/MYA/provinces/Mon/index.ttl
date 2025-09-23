@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mon/cities/Mawlamyine> ;
     skos:prefLabel "မွန်ပြည်နယ်" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mon_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mon_obpophistcoll> .
 

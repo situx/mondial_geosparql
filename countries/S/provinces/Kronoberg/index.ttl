@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/S/provinces/Kronoberg/cities/Växjö> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/S/provinces/Kronoberg/cities/Växjö> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Kronoberg_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Kronoberg_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Kronoberg_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Kronoberg_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Kronoberg_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Kronoberg_obpophistcoll> .
 

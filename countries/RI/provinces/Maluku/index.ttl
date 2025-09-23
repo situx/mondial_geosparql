@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RI/provinces/Maluku/cities/Ambon> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RI/provinces/Maluku/cities/Ambon> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Maluku_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Maluku_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Maluku_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Maluku_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Maluku_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Maluku_obpophistcoll> .
 

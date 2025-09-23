@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Sado>,
         <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/P/provinces/Setubal/cities/Setúbal_obpop>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Setubal/cities/Setúbal_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Setubal/cities/Setúbal_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Setubal/cities/Setúbal_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Setubal/cities/Setúbal_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Setubal/cities/Setúbal_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Setubal/cities/Setúbal_obpophistcoll> .
 

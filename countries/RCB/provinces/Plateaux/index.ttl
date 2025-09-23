@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RCB/provinces/Plateaux/cities/Djambala> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RCB/provinces/Plateaux/cities/Djambala> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCB/provinces/Plateaux_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Plateaux_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Plateaux_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Plateaux_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Plateaux_obpophistcoll> .
 

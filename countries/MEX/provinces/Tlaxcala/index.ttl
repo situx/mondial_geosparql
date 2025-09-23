@@ -16,10 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/MEX/provinces/Tlaxcala/cities/Tlaxcala> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MEX/provinces/Tlaxcala/cities/Tlaxcala> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Tlaxcala_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Tlaxcala_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Tlaxcala_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Tlaxcala_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Tlaxcala_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Tlaxcala_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Tlaxcala_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Tlaxcala_obpophistcoll> .
 

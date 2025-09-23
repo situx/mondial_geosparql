@@ -19,9 +19,5 @@
     skos:altLabel "Chernivetska" ;
     skos:prefLabel "Чернівецька" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernivecka_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernivecka_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernivecka_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernivecka_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernivecka_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernivecka_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernivecka_obpophistcoll> .
 

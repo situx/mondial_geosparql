@@ -17,9 +17,5 @@
     skos:altLabel "Gand",
         "Ghent" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/B/provinces/Oost-Vlaanderen/cities/Gent_obpop>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Oost-Vlaanderen/cities/Gent_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Oost-Vlaanderen/cities/Gent_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Oost-Vlaanderen/cities/Gent_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Oost-Vlaanderen/cities/Gent_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Oost-Vlaanderen/cities/Gent_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Oost-Vlaanderen/cities/Gent_obpophistcoll> .
 

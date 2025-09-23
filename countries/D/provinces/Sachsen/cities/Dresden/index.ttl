@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Elbe> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Dresden_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Dresden_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Dresden_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Dresden_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Dresden_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Dresden_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Dresden_obpophistcoll> .
 

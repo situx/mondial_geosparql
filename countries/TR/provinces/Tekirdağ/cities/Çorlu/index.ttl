@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Marmara+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Tekirdağ/cities/Çorlu_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Tekirdağ/cities/Çorlu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tekirdağ/cities/Çorlu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tekirdağ/cities/Çorlu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tekirdağ/cities/Çorlu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tekirdağ/cities/Çorlu_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tekirdağ/cities/Çorlu_obpophistcoll> .
 

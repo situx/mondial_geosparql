@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire/cities/Manchester_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire/cities/Manchester_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire/cities/Manchester_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire/cities/Manchester_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire/cities/Manchester_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire/cities/Manchester_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire/cities/Manchester_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire/cities/Manchester_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire/cities/Manchester_obpophistcoll> .
 

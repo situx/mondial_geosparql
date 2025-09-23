@@ -17,6 +17,5 @@
     skos:prefLabel "مدينة دمشق" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SYR/provinces/Dimashq/cities/Dimashq_obele>,
         <http://www.semwebtech.org/mondial/countries/SYR/provinces/Dimashq/cities/Dimashq_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Dimashq/cities/Dimashq_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Dimashq/cities/Dimashq_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Dimashq/cities/Dimashq_obpophistcoll> .
 

@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Rio+Magdalena> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Barrancabermeja_obele>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Barrancabermeja_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Barrancabermeja_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Barrancabermeja_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Barrancabermeja_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Barrancabermeja_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Barrancabermeja_obpophistcoll> .
 

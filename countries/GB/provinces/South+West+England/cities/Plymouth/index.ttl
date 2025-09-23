@@ -16,7 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Great+Britain> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GB/provinces/South+West+England/cities/Plymouth_obele>,
         <http://www.semwebtech.org/mondial/countries/GB/provinces/South+West+England/cities/Plymouth_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+West+England/cities/Plymouth_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+West+England/cities/Plymouth_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+West+England/cities/Plymouth_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+West+England/cities/Plymouth_obpophistcoll> .
 

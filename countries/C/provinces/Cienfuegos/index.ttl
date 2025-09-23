@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/C/provinces/Cienfuegos/cities/Cienfuegos> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/C/provinces/Cienfuegos/cities/Cienfuegos> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/C/provinces/Cienfuegos_obpop>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Cienfuegos_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Cienfuegos_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Cienfuegos_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Cienfuegos_obpophistcoll> .
 

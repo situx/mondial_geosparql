@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Geita/cities/Geita> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAT/provinces/Geita/cities/Geita> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Geita_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Geita_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Geita_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Geita_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Geita_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/B/provinces/Antwerpen/cities/Antwerpen> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/B/provinces/Antwerpen/cities/Antwerpen> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/B/provinces/Antwerpen_obpop>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Antwerpen_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Antwerpen_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Antwerpen_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Antwerpen_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Antwerpen_obpophistcoll> .
 

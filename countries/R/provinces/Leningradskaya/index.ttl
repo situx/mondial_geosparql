@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Leningradskaya/cities/Gatchina> ;
     skos:prefLabel "Ленинградская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Leningradskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Leningradskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Leningradskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Leningradskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Leningradskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Leningradskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Leningradskaya_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/DK/provinces/Nordjylland/cities/Ålborg> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/DK/provinces/Nordjylland/cities/Ålborg> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DK/provinces/Nordjylland_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Nordjylland_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Nordjylland_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Nordjylland_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Nordjylland_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/DK/provinces/Nordjylland_obpophistcoll> .
 

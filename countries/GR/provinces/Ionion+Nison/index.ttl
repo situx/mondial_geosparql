@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GR/provinces/Ionion+Nison/cities/Kerkyra> ;
     skos:prefLabel "Ιονίων Νήσων" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Ionion+Nison_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Ionion+Nison_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Ionion+Nison_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Ionion+Nison_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Ionion+Nison_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Ionion+Nison_obpophistcoll> .
 

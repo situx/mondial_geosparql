@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PE/provinces/Madre+de+Dios/cities/Puerto+Maldonado> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PE/provinces/Madre+de+Dios/cities/Puerto+Maldonado> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PE/provinces/Madre+de+Dios_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Madre+de+Dios_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Madre+de+Dios_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Madre+de+Dios_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Madre+de+Dios_obpophistcoll> .
 

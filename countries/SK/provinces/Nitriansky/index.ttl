@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SK/provinces/Nitriansky/cities/Nitra> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SK/provinces/Nitriansky/cities/Nitra> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SK/provinces/Nitriansky_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Nitriansky_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Nitriansky_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Nitriansky_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Nitriansky_obpophistcoll> .
 

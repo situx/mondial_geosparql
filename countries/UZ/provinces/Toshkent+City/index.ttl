@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/UZ/provinces/Toshkent+City/cities/Toshkent> ;
     skos:altLabel "Tashkent City" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UZ/provinces/Toshkent+City_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Toshkent+City_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Toshkent+City_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Toshkent+City_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Toshkent+City_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Toshkent+City_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Toshkent+City_obpophistcoll> .
 

@@ -18,10 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso/cities/Rondonópolis>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso/cities/Várzea+Grande> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso_obpophistcoll> .
 

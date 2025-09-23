@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Constanţa/cities/Constanţa> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Constanţa/cities/Constanţa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Constanţa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Constanţa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Constanţa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Constanţa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Constanţa_obpophistcoll> .
 

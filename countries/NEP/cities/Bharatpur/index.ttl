@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Gandaki> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NEP/cities/Bharatpur_obele>,
         <http://www.semwebtech.org/mondial/countries/NEP/cities/Bharatpur_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NEP/cities/Bharatpur_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NEP/cities/Bharatpur_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NEP/cities/Bharatpur_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NEP/cities/Bharatpur_obpophistcoll> .
 

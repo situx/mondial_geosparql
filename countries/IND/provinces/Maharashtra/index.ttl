@@ -29,9 +29,5 @@
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Thane>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Ulhasnagar> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra_obpophistcoll> .
 

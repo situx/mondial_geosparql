@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Kalyan_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Kalyan_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Kalyan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Kalyan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Kalyan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Kalyan_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Kalyan_obpophistcoll> .
 

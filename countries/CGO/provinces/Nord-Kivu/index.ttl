@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CGO/provinces/Nord-Kivu/cities/Butembo>,
         <http://www.semwebtech.org/mondial/countries/CGO/provinces/Nord-Kivu/cities/Goma> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Nord-Kivu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Nord-Kivu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Nord-Kivu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Nord-Kivu_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Nord-Kivu_obpophistcoll> .
 

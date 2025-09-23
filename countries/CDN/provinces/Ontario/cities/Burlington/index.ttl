@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Lake+Ontario> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Burlington_obele>,
         <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Burlington_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Burlington_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Burlington_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Burlington_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Burlington_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Burlington_obpophistcoll> .
 

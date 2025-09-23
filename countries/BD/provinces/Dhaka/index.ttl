@@ -21,8 +21,5 @@
         <http://www.semwebtech.org/mondial/countries/BD/provinces/Dhaka/cities/Tongi> ;
     skos:prefLabel "ঢাকা" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BD/provinces/Dhaka_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Dhaka_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Dhaka_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Dhaka_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Dhaka_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BD/provinces/Dhaka_obpophistcoll> .
 

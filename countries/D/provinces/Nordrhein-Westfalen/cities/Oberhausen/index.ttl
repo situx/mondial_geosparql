@@ -16,6 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Ruhr> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Oberhausen_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Oberhausen_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Oberhausen_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Oberhausen_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Oberhausen_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/GH/provinces/Volta/cities/Ho> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GH/provinces/Volta/cities/Ho> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GH/provinces/Volta_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Volta_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Volta_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Volta_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Volta_obpophistcoll> .
 

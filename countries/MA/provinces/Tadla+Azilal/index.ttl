@@ -16,5 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/MA/provinces/Tadla+Azilal/cities/Beni+Mellal> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MA/provinces/Tadla+Azilal/cities/Beni+Mellal> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Tadla+Azilal_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Tadla+Azilal_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Tadla+Azilal_obpophistcoll> .
 

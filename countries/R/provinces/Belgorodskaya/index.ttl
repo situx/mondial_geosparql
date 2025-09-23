@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya/cities/Staryj+Oskol> ;
     skos:prefLabel "Белгородская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya_obpophistcoll> .
 

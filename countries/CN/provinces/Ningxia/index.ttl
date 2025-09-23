@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CN/provinces/Ningxia/cities/Yinchuan> ;
     skos:prefLabel "宁夏" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Ningxia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Ningxia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Ningxia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Ningxia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Ningxia_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Ningxia_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Ningxia_obpophistcoll> .
 

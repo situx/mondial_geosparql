@@ -16,6 +16,5 @@
         <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SME/cities/Paramaribo_obele>,
         <http://www.semwebtech.org/mondial/countries/SME/cities/Paramaribo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SME/cities/Paramaribo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SME/cities/Paramaribo_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SME/cities/Paramaribo_obpophistcoll> .
 

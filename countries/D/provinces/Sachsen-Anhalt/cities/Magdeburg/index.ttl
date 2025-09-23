@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Elbe> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen-Anhalt/cities/Magdeburg_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen-Anhalt/cities/Magdeburg_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen-Anhalt/cities/Magdeburg_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen-Anhalt/cities/Magdeburg_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen-Anhalt/cities/Magdeburg_obpophistcoll> .
 

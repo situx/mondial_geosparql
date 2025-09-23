@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MYA/provinces/Kayin/cities/Hpa+an> ;
     skos:prefLabel "ကရင်ပြည်နယ်" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYA/provinces/Kayin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Kayin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Kayin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Kayin_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Kayin_obpophistcoll> .
 

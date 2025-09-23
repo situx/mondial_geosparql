@@ -17,9 +17,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TJ/provinces/Dushanbe/cities/Dushanbe> ;
     skos:prefLabel "Шањру ноњияњои тобеи љумњурї" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TJ/provinces/Regions+of+Republican+Subordination_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Regions+of+Republican+Subordination_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Regions+of+Republican+Subordination_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Regions+of+Republican+Subordination_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Regions+of+Republican+Subordination_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Regions+of+Republican+Subordination_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Regions+of+Republican+Subordination_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Hispaniola> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RH/cities/Port-au-Prince_obele>,
         <http://www.semwebtech.org/mondial/countries/RH/cities/Port-au-Prince_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RH/cities/Port-au-Prince_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RH/cities/Port-au-Prince_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RH/cities/Port-au-Prince_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RH/cities/Port-au-Prince_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RH/cities/Port-au-Prince_obpophistcoll> .
 

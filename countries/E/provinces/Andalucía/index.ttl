@@ -27,9 +27,5 @@
         <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Málaga>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Sevilla> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía_obpophistcoll> .
 

@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Baltic+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/LT/cities/Klaipeda_obele>,
         <http://www.semwebtech.org/mondial/countries/LT/cities/Klaipeda_obpop>,
-        <http://www.semwebtech.org/mondial/countries/LT/cities/Klaipeda_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/LT/cities/Klaipeda_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/LT/cities/Klaipeda_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/LT/cities/Klaipeda_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/LT/cities/Klaipeda_obpophistcoll> .
 

@@ -21,8 +21,5 @@
         <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Zwickau> ;
     skos:altLabel "Saxonia" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen_obpophistcoll> .
 

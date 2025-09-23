@@ -18,8 +18,5 @@
     skos:prefLabel "Волжский" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Volzhsky_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Volzhsky_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Volzhsky_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Volzhsky_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Volzhsky_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Volzhsky_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Volzhsky_obpophistcoll> .
 

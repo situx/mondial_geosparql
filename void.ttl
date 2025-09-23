@@ -88,7 +88,7 @@
     void:linkPredicate <http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit> ;
     void:objectsTarget <http://www.ontology-of-units-of-measure.org/resource/om-2/> ;
     void:subjectsTarget <http://www.semwebtech.org/mondial/md_dataset> ;
-    void:triples 8550 .
+    void:triples 8774 .
 
 <http://www.semwebtech.org/mondial/md_dataset_www.opengis.net_ont_geosparql_> a void:Linkset ;
     rdfs:label "Linkset: md_dataset - The GeoSPARQL Ontology (gsp:)"@en ;
@@ -125,16 +125,19 @@
     void:linkPredicate rdf:type ;
     void:objectsTarget sosa: ;
     void:subjectsTarget <http://www.semwebtech.org/mondial/md_dataset> ;
-    void:triples 42499 .
+    void:triples 42947 .
 
 <http://www.semwebtech.org/mondial/md_dataset_www.wikidata.org_entity_> a void:Linkset ;
-    rdfs:label "Linkset: md_dataset - Wikidata Entities (wde:)"@en ;
+    rdfs:label "Linkset: md_dataset - Wikidata Entities (wde:)"@en,
+        "Linkset: md_dataset - entity"@en ;
     void:linkPredicate <http://www.semwebtech.org/mondial/10/meta#government>,
         sosa:observedProperty ;
-    void:objectsTarget <http://www.wikidata.org/entity/> ;
+    void:objectsTarget <http://www.wikidata.org/entity/>,
+        <https://www.wikidata.org/entity/> ;
     void:subjectsTarget <http://www.semwebtech.org/mondial/md_dataset> ;
     void:triples 47,
-        30928 .
+        234,
+        30918 .
 
 <http://www.semwebtech.org/mondial/md_dataset_www.wikidata.org_entry_> a void:Linkset ;
     rdfs:label "Linkset: md_dataset - entry"@en ;
@@ -192,7 +195,7 @@
 <http://www.semwebtech.org/mondial/sosa_md_dataset_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/sosa/ in md_dataset" ;
     voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
-    voaf:occurrences 84998 .
+    voaf:occurrences 85894 .
 
 <http://www.semwebtech.org/mondial/ssn_md_dataset_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/ssn/ in md_dataset" ;
@@ -407,7 +410,7 @@ doap: a voaf:Vocabulary ;
 <http://www.semwebtech.org/mondial/md_dataset_Observation> a void:Dataset ;
     rdfs:label "Class Partition: Observation"@en ;
     void:class sosa:Observation ;
-    void:entities 33948 .
+    void:entities 34172 .
 
 <http://www.semwebtech.org/mondial/md_dataset_ObservationCollection> a void:Dataset ;
     rdfs:label "Class Partition: ObservationCollection"@en ;
@@ -417,7 +420,7 @@ doap: a voaf:Vocabulary ;
 <http://www.semwebtech.org/mondial/md_dataset_ObservationResult> a void:Dataset ;
     rdfs:label "Class Partition: ObservationResult"@en ;
     void:class sosa:ObservationResult ;
-    void:entities 8550 .
+    void:entities 8774 .
 
 <http://www.semwebtech.org/mondial/md_dataset_Organization> a void:Dataset ;
     rdfs:label "Class Partition: Organization"@en ;
@@ -615,12 +618,12 @@ doap: a voaf:Vocabulary ;
 <http://www.semwebtech.org/mondial/md_dataset_hasNumericalValue> a void:Dataset ;
     rdfs:label "Property Partition: hasNumericalValue"@en ;
     void:property <http://www.ontology-of-units-of-measure.org/resource/om-2/hasNumericalValue> ;
-    void:triples 9491 .
+    void:triples 9492 .
 
 <http://www.semwebtech.org/mondial/md_dataset_hasObservation> a void:Dataset ;
     rdfs:label "Property Partition: hasObservation"@en ;
     void:property sosa:hasObservation ;
-    void:triples 33712 .
+    void:triples 18296 .
 
 <http://www.semwebtech.org/mondial/md_dataset_hasProvince> a void:Dataset ;
     rdfs:label "Property Partition: hasProvince"@en ;
@@ -630,7 +633,7 @@ doap: a voaf:Vocabulary ;
 <http://www.semwebtech.org/mondial/md_dataset_hasResult> a void:Dataset ;
     rdfs:label "Property Partition: hasResult"@en ;
     void:property sosa:hasResult ;
-    void:triples 8550 .
+    void:triples 8774 .
 
 <http://www.semwebtech.org/mondial/md_dataset_hasSimpleResult> a void:Dataset ;
     rdfs:label "Property Partition: hasSimpleResult"@en ;
@@ -645,7 +648,7 @@ doap: a voaf:Vocabulary ;
 <http://www.semwebtech.org/mondial/md_dataset_hasUnit> a void:Dataset ;
     rdfs:label "Property Partition: hasUnit"@en ;
     void:property <http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit> ;
-    void:triples 8550 .
+    void:triples 8774 .
 
 <http://www.semwebtech.org/mondial/md_dataset_inMountains> a void:Dataset ;
     rdfs:label "Property Partition: inMountains"@en ;
@@ -670,7 +673,7 @@ doap: a voaf:Vocabulary ;
 <http://www.semwebtech.org/mondial/md_dataset_label> a void:Dataset ;
     rdfs:label "Property Partition: label"@en ;
     void:property rdfs:label ;
-    void:triples 59373 .
+    void:triples 64248 .
 
 <http://www.semwebtech.org/mondial/md_dataset_languageInfo-> a void:Dataset ;
     rdfs:label "Property Partition: languageInfo-"@en ;
@@ -700,7 +703,7 @@ doap: a voaf:Vocabulary ;
 <http://www.semwebtech.org/mondial/md_dataset_member> a void:Dataset ;
     rdfs:label "Property Partition: member"@en ;
     void:property rdfs:member ;
-    void:triples 69373 .
+    void:triples 90345 .
 
 <http://www.semwebtech.org/mondial/md_dataset_mergesWith> a void:Dataset ;
     rdfs:label "Property Partition: mergesWith"@en ;
@@ -715,7 +718,7 @@ doap: a voaf:Vocabulary ;
 <http://www.semwebtech.org/mondial/md_dataset_observedProperty> a void:Dataset ;
     rdfs:label "Property Partition: observedProperty"@en ;
     void:property sosa:observedProperty ;
-    void:triples 34685 .
+    void:triples 34909 .
 
 <http://www.semwebtech.org/mondial/md_dataset_onEthnicGroup> a void:Dataset ;
     rdfs:label "Property Partition: onEthnicGroup"@en ;
@@ -752,7 +755,7 @@ doap: a voaf:Vocabulary ;
     void:property <http://www.semwebtech.org/mondial/10/meta#type>,
         rdf:type ;
     void:triples 472,
-        59658 .
+        60106 .
 
 <http://www.semwebtech.org/mondial/md_dataset_unemployment> a void:Dataset ;
     rdfs:label "Property Partition: unemployment"@en ;
@@ -904,19 +907,19 @@ sosa: a voaf:Vocabulary ;
         adms:Asset ;
     rdfs:label "md_dataset"@en ;
     vext:averageLiteralLength 0 ;
-    vext:averageObjectIRILength 70 ;
+    vext:averageObjectIRILength 69 ;
     vext:averagePropertyIRILength 50 ;
-    vext:averageSubjectIRILength 73 ;
+    vext:averageSubjectIRILength 74 ;
     vext:datatypes 0 ;
     vext:distinctBlankNodes 338 ;
-    vext:distinctIRIReferences 206485 ;
+    vext:distinctIRIReferences 217132 ;
     vext:distinctLiterals 0 ;
-    vext:distinctRDFNodes 206823 ;
+    vext:distinctRDFNodes 217470 ;
     vext:languages 0 ;
     vext:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
     dcterms:license <http://creativecommons.org/licenses/by-sa/4.0> ;
-    dcterms:modified "2025-09-22T21:12:48"^^xsd:dateTime ;
+    dcterms:modified "2025-09-23T18:41:37"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -964,9 +967,9 @@ sosa: a voaf:Vocabulary ;
         <http://www.semwebtech.org/mondial/md_dataset_Volcano> ;
     void:classes 37 ;
     void:dataDump <https://situx.github.io/mondial_geosparql//index.ttl> ;
-    void:distinctObjects 146963 ;
-    void:distinctSubjects 59466 ;
-    void:entities 59448 ;
+    void:distinctObjects 152287 ;
+    void:distinctSubjects 64789 ;
+    void:entities 64770 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
     void:properties 56 ;
@@ -1025,7 +1028,7 @@ sosa: a voaf:Vocabulary ;
         <http://www.semwebtech.org/mondial/md_dataset_type>,
         <http://www.semwebtech.org/mondial/md_dataset_unemployment>,
         <http://www.semwebtech.org/mondial/md_dataset_wasDependentOf> ;
-    void:triples 438677 ;
+    void:triples 455551 ;
     void:uriSpace "http://www.semwebtech.org/mondial/"^^xsd:string ;
     void:vocabulary vext:,
         dcam:,

@@ -14,8 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Lianyungang_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Yellow+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Lianyungang_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Lianyungang_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Lianyungang_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Lianyungang_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Lianyungang_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Lianyungang_obpophistcoll> .
 

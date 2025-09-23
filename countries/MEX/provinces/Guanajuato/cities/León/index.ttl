@@ -15,10 +15,5 @@
     skos:altLabel "León de los Aldama" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guanajuato/cities/León_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guanajuato/cities/León_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guanajuato/cities/León_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guanajuato/cities/León_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guanajuato/cities/León_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guanajuato/cities/León_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guanajuato/cities/León_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guanajuato/cities/León_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guanajuato/cities/León_obpophistcoll> .
 

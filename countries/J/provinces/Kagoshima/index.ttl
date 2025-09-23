@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Kagoshima/cities/Kagoshima> ;
     skos:prefLabel "鹿児島県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Kagoshima_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kagoshima_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kagoshima_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kagoshima_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kagoshima_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kagoshima_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Kagoshima_obpophistcoll> .
 

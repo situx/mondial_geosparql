@@ -14,9 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/N/provinces/Rogaland/cities/Stavanger_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/North+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Rogaland/cities/Stavanger_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Rogaland/cities/Stavanger_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Rogaland/cities/Stavanger_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Rogaland/cities/Stavanger_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Rogaland/cities/Stavanger_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Rogaland/cities/Stavanger_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Rogaland/cities/Stavanger_obpophistcoll> .
 

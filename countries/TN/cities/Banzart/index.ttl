@@ -17,7 +17,5 @@
     skos:altLabel "Bizerte" ;
     skos:prefLabel " بنزرت" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TN/cities/Banzart_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TN/cities/Banzart_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TN/cities/Banzart_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TN/cities/Banzart_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/TN/cities/Banzart_obpophistcoll> .
 

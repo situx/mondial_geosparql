@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Uşak/cities/Usak> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Uşak/cities/Usak> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Uşak_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Uşak_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Uşak_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Uşak_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Uşak_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Uşak_obpophistcoll> .
 

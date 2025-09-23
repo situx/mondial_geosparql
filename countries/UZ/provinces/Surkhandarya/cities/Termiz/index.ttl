@@ -15,8 +15,5 @@
     skos:altLabel "Termez" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UZ/provinces/Surkhandarya/cities/Termiz_obele>,
         <http://www.semwebtech.org/mondial/countries/UZ/provinces/Surkhandarya/cities/Termiz_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Surkhandarya/cities/Termiz_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Surkhandarya/cities/Termiz_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Surkhandarya/cities/Termiz_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Surkhandarya/cities/Termiz_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Surkhandarya/cities/Termiz_obpophistcoll> .
 

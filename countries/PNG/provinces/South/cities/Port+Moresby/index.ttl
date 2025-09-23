@@ -16,6 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/New+Guinea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PNG/provinces/South/cities/Port+Moresby_obele>,
         <http://www.semwebtech.org/mondial/countries/PNG/provinces/South/cities/Port+Moresby_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PNG/provinces/South/cities/Port+Moresby_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PNG/provinces/South/cities/Port+Moresby_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/PNG/provinces/South/cities/Port+Moresby_obpophistcoll> .
 

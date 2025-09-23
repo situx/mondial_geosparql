@@ -18,6 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SYR/provinces/Ar+Raqqah/cities/Ar+Raqqah> ;
     skos:prefLabel "الرقة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SYR/provinces/Ar+Raqqah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Ar+Raqqah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Ar+Raqqah_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Ar+Raqqah_obpophistcoll> .
 

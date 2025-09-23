@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Indiana/cities/Indianapolis>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Indiana/cities/South+Bend> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Indiana_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Indiana_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Indiana_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Indiana_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Indiana_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Indiana_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Indiana_obpophistcoll> .
 

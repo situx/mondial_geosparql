@@ -29,9 +29,5 @@
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Tallahassee>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Tampa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida_obpophistcoll> .
 

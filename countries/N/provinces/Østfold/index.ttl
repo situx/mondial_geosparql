@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/N/provinces/Østfold/cities/Moss> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/N/provinces/Østfold/cities/Moss> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Østfold_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Østfold_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Østfold_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Østfold_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Østfold_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Østfold_obpophistcoll> .
 

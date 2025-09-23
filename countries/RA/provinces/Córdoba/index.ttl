@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RA/provinces/Córdoba/cities/Córdoba>,
         <http://www.semwebtech.org/mondial/countries/RA/provinces/Córdoba/cities/Río+Cuarto> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Córdoba_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Córdoba_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Córdoba_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Córdoba_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Córdoba_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Córdoba_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Córdoba_obpophistcoll> .
 

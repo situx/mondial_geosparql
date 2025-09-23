@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/S/provinces/Västmanland/cities/Västerås> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/S/provinces/Västmanland/cities/Västerås> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Västmanland_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västmanland_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västmanland_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västmanland_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västmanland_obpophistcoll> .
 

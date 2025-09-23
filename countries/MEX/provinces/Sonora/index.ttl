@@ -18,10 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sonora/cities/Hermosillo>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sonora/cities/Nogales> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sonora_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sonora_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sonora_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sonora_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sonora_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sonora_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sonora_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sonora_obpophistcoll> .
 

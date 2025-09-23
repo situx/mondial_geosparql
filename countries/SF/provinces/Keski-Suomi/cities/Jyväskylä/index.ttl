@@ -14,9 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SF/provinces/Keski-Suomi/cities/Jyväskylä_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Päijänne> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Keski-Suomi/cities/Jyväskylä_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Keski-Suomi/cities/Jyväskylä_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Keski-Suomi/cities/Jyväskylä_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Keski-Suomi/cities/Jyväskylä_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Keski-Suomi/cities/Jyväskylä_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Keski-Suomi/cities/Jyväskylä_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Keski-Suomi/cities/Jyväskylä_obpophistcoll> .
 

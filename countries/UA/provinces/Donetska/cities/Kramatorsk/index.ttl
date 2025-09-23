@@ -14,9 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Kramatorsk_geom> ;
     skos:prefLabel "Краматорськ" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Kramatorsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Kramatorsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Kramatorsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Kramatorsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Kramatorsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Kramatorsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Kramatorsk_obpophistcoll> .
 

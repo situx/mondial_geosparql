@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/YV/provinces/Monagas/cities/Maturín_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Monagas/cities/Maturín_obele>,
         <http://www.semwebtech.org/mondial/countries/YV/provinces/Monagas/cities/Maturín_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Monagas/cities/Maturín_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Monagas/cities/Maturín_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Monagas/cities/Maturín_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Monagas/cities/Maturín_obpophistcoll> .
 

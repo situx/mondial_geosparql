@@ -14,9 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa/cities/Helsinki_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Baltic+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa/cities/Helsinki_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa/cities/Helsinki_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa/cities/Helsinki_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa/cities/Helsinki_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa/cities/Helsinki_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa/cities/Helsinki_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa/cities/Helsinki_obpophistcoll> .
 

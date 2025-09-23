@@ -12,5 +12,5 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Yuci_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Yuci_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Yuci_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Yuci_obpophistcoll> .
 

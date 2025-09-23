@@ -9,5 +9,5 @@
     rdfs:label "Property Partition: hasNumericalValue"@en ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     void:property <http://www.ontology-of-units-of-measure.org/resource/om-2/hasNumericalValue> ;
-    void:triples 9491 .
+    void:triples 9492 .
 

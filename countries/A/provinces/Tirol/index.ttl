@@ -17,6 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol/cities/Innsbruck>,
         <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol/cities/Lienz> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol_obpop>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol_obpophistcoll> .
 

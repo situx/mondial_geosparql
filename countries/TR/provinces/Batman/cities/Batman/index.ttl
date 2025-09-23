@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/TR/provinces/Batman/cities/Batman_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Batman/cities/Batman_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Batman/cities/Batman_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Batman/cities/Batman_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Batman/cities/Batman_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Batman/cities/Batman_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Batman/cities/Batman_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Batman/cities/Batman_obpophistcoll> .
 

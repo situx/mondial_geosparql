@@ -17,10 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine/cities/Bordeaux>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine/cities/Limoges> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine_obpophistcoll> .
 

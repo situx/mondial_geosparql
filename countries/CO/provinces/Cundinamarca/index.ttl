@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CO/provinces/Bogotá+Distrito+Especial/cities/Bogotá> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CO/provinces/Cundinamarca/cities/Soacha> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Cundinamarca_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Cundinamarca_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Cundinamarca_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Cundinamarca_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Cundinamarca_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Cundinamarca_obpophistcoll> .
 

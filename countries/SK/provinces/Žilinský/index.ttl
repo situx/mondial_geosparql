@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SK/provinces/Žilinský/cities/Žilina> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SK/provinces/Žilinský/cities/Žilina> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SK/provinces/Žilinský_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Žilinský_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Žilinský_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Žilinský_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Žilinský_obpophistcoll> .
 

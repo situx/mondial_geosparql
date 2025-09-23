@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SUD/provinces/Kassalā/cities/Kassala> ;
     skos:prefLabel "كسلا" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/Kassalā_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Kassalā_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Kassalā_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Kassalā_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Kassalā_obpophistcoll> .
 

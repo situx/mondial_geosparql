@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Tokushima/cities/Tokushima> ;
     skos:prefLabel "徳島県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Tokushima_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokushima_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokushima_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokushima_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokushima_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokushima_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokushima_obpophistcoll> .
 

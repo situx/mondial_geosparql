@@ -16,11 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia/cities/Perth> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia/cities/Perth> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia_obpophist6> .
+        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia_obpophistcoll> .
 

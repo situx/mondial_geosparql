@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Iguacu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/Curitiba_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/Curitiba_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/Curitiba_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/Curitiba_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/Curitiba_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/Curitiba_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/Curitiba_obpophistcoll> .
 

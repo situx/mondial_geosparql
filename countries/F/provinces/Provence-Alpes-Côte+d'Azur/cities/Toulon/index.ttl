@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Mediterranean+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur/cities/Toulon_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur/cities/Toulon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur/cities/Toulon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur/cities/Toulon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur/cities/Toulon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur/cities/Toulon_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur/cities/Toulon_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur/cities/Toulon_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Provence-Alpes-Côte+d'Azur/cities/Toulon_obpophistcoll> .
 

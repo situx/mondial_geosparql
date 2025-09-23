@@ -30,14 +30,8 @@
     skos:prefLabel "Repubblica di San Marino (la)" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RSM_obeth1>,
         <http://www.semwebtech.org/mondial/countries/RSM_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RSM_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RSM_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RSM_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RSM_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RSM_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/RSM_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/RSM_obpophist6>,
-        <http://www.semwebtech.org/mondial/countries/RSM_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/RSM_obpopg>,
+        <http://www.semwebtech.org/mondial/countries/RSM_obpophistcoll>,
         <http://www.semwebtech.org/mondial/countries/RSM_obrel1>,
         <http://www.semwebtech.org/mondial/countries/RSM_obrel2>,
         <http://www.semwebtech.org/mondial/countries/RSM_obrel3> .

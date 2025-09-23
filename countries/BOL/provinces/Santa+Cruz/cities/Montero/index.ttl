@@ -13,5 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BOL/provinces/Santa+Cruz/cities/Montero_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BOL/provinces/Santa+Cruz/cities/Montero_obele>,
         <http://www.semwebtech.org/mondial/countries/BOL/provinces/Santa+Cruz/cities/Montero_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Santa+Cruz/cities/Montero_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Santa+Cruz/cities/Montero_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/H/provinces/Győr-Moson-Sopron/cities/Győr> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/H/provinces/Győr-Moson-Sopron/cities/Győr> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/H/provinces/Győr-Moson-Sopron_obpop>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Győr-Moson-Sopron_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Győr-Moson-Sopron_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Győr-Moson-Sopron_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/H/provinces/Győr-Moson-Sopron_obpophistcoll> .
 

@@ -16,14 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Mindanao> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Caraga/cities/Butuan_obele>,
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Caraga/cities/Butuan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Caraga/cities/Butuan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Caraga/cities/Butuan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Caraga/cities/Butuan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Caraga/cities/Butuan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Caraga/cities/Butuan_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Caraga/cities/Butuan_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Caraga/cities/Butuan_obpophist6>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Caraga/cities/Butuan_obpophist7>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Caraga/cities/Butuan_obpophist8>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Caraga/cities/Butuan_obpophist9> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Caraga/cities/Butuan_obpophistcoll> .
 

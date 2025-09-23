@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Black+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Ordu/cities/Ordu_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Ordu/cities/Ordu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Ordu/cities/Ordu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Ordu/cities/Ordu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Ordu/cities/Ordu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Ordu/cities/Ordu_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Ordu/cities/Ordu_obpophistcoll> .
 

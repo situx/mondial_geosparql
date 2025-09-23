@@ -18,9 +18,5 @@
         "San Sebastián" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Donostia_obele>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Donostia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Donostia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Donostia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Donostia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Donostia_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Donostia_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Donostia_obpophistcoll> .
 

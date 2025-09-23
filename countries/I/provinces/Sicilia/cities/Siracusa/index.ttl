@@ -18,7 +18,5 @@
     skos:altLabel "Syracuse" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Sicilia/cities/Siracusa_obele>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Sicilia/cities/Siracusa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Sicilia/cities/Siracusa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Sicilia/cities/Siracusa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Sicilia/cities/Siracusa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Sicilia/cities/Siracusa_obpophistcoll> .
 

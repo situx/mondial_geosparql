@@ -14,6 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MAL/provinces/Terengganu/cities/Kuala+Terengganu_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/South+China+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAL/provinces/Terengganu/cities/Kuala+Terengganu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Terengganu/cities/Kuala+Terengganu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Terengganu/cities/Kuala+Terengganu_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Terengganu/cities/Kuala+Terengganu_obpophistcoll> .
 

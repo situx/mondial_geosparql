@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/C/provinces/Mayabeque/cities/San+José+de+las+Lajas> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/C/provinces/Mayabeque/cities/San+José+de+las+Lajas> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/C/provinces/Mayabeque_obpop>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Mayabeque_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Mayabeque_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Mayabeque_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/H/provinces/Heves/cities/Eger> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/H/provinces/Heves/cities/Eger> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/H/provinces/Heves_obpop>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Heves_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Heves_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Heves_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/H/provinces/Heves_obpophistcoll> .
 

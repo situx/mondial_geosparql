@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+West/cities/Wa_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+West/cities/Wa_obele>,
         <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+West/cities/Wa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+West/cities/Wa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+West/cities/Wa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+West/cities/Wa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+West/cities/Wa_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+West/cities/Wa_obpophistcoll> .
 

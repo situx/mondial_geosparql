@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Long+Beach_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Long+Beach_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Long+Beach_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Long+Beach_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Long+Beach_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Long+Beach_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Long+Beach_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Long+Beach_obpophistcoll> .
 

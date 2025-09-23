@@ -18,6 +18,5 @@
     skos:prefLabel "الشلف" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DZ/cities/Ech+Chelif_obele>,
         <http://www.semwebtech.org/mondial/countries/DZ/cities/Ech+Chelif_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Ech+Chelif_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Ech+Chelif_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/DZ/cities/Ech+Chelif_obpophistcoll> .
 

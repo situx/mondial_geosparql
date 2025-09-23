@@ -16,10 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Saone> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Lyon_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Lyon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Lyon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Lyon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Lyon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Lyon_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Lyon_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Lyon_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Lyon_obpophistcoll> .
 

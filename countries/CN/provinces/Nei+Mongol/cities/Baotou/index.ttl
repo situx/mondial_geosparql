@@ -17,8 +17,5 @@
     skos:prefLabel "包头市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Baotou_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Baotou_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Baotou_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Baotou_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Baotou_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Baotou_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Baotou_obpophistcoll> .
 

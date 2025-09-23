@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Teófilo+Otoni_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Teófilo+Otoni_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Teófilo+Otoni_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Teófilo+Otoni_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Teófilo+Otoni_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Teófilo+Otoni_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Teófilo+Otoni_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Teófilo+Otoni_obpophistcoll> .
 

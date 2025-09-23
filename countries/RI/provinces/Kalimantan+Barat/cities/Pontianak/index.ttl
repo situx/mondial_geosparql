@@ -17,7 +17,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Borneo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Barat/cities/Pontianak_obele>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Barat/cities/Pontianak_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Barat/cities/Pontianak_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Barat/cities/Pontianak_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Barat/cities/Pontianak_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Barat/cities/Pontianak_obpophistcoll> .
 

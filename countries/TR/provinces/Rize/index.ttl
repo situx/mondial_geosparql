@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Rize/cities/Rize> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Rize/cities/Rize> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Rize_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Rize_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Rize_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Rize_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Rize_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Rize_obpophistcoll> .
 

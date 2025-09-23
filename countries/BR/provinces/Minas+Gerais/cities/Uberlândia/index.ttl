@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Uberlândia_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Uberlândia_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Uberlândia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Uberlândia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Uberlândia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Uberlândia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Uberlândia_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Uberlândia_obpophistcoll> .
 

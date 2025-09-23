@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Lippe> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Hamm_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Hamm_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Hamm_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Hamm_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Hamm_obpophistcoll> .
 

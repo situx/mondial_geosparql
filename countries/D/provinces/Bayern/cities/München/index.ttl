@@ -17,8 +17,5 @@
     skos:altLabel "Munich" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/München_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/München_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/München_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/München_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/München_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/München_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/München_obpophistcoll> .
 

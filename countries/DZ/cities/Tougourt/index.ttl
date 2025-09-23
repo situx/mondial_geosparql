@@ -16,6 +16,5 @@
     skos:prefLabel "توغرة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DZ/cities/Tougourt_obele>,
         <http://www.semwebtech.org/mondial/countries/DZ/cities/Tougourt_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Tougourt_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Tougourt_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/DZ/cities/Tougourt_obpophistcoll> .
 

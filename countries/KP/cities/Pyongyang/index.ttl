@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Taedong> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KP/cities/Pyongyang_obele>,
         <http://www.semwebtech.org/mondial/countries/KP/cities/Pyongyang_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KP/cities/Pyongyang_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KP/cities/Pyongyang_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KP/cities/Pyongyang_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Pyongyang_obpophistcoll> .
 

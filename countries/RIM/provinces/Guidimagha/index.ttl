@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RIM/provinces/Guidimagha/cities/Selibaby> ;
     skos:prefLabel "غيديماغا" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RIM/provinces/Guidimagha_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Guidimagha_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Guidimagha_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Guidimagha_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Guidimagha_obpophistcoll> .
 

@@ -16,6 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Weiße+Elster> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen-Anhalt/cities/Halle_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen-Anhalt/cities/Halle_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen-Anhalt/cities/Halle_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen-Anhalt/cities/Halle_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen-Anhalt/cities/Halle_obpophistcoll> .
 

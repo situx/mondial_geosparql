@@ -17,7 +17,5 @@
     skos:altLabel "Beirut" ;
     skos:prefLabel "بيروت" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RL/cities/Bayrūt_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RL/cities/Bayrūt_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RL/cities/Bayrūt_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RL/cities/Bayrūt_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RL/cities/Bayrūt_obpophistcoll> .
 

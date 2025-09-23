@@ -15,7 +15,5 @@
     skos:prefLabel "مزار شریف" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AFG/cities/Mazar-i-Sharif_obele>,
         <http://www.semwebtech.org/mondial/countries/AFG/cities/Mazar-i-Sharif_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AFG/cities/Mazar-i-Sharif_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AFG/cities/Mazar-i-Sharif_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AFG/cities/Mazar-i-Sharif_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/AFG/cities/Mazar-i-Sharif_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/N/provinces/Hordaland/cities/Bergen> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/N/provinces/Hordaland/cities/Bergen> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Hordaland_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Hordaland_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Hordaland_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Hordaland_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Hordaland_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Hordaland_obpophistcoll> .
 

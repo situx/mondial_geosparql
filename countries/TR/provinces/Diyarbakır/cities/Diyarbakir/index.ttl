@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Tigris> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Diyarbakır/cities/Diyarbakir_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Diyarbakır/cities/Diyarbakir_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Diyarbakır/cities/Diyarbakir_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Diyarbakır/cities/Diyarbakir_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Diyarbakır/cities/Diyarbakir_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Diyarbakır/cities/Diyarbakir_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Diyarbakır/cities/Diyarbakir_obpophistcoll> .
 

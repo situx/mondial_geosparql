@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IR/provinces/Ilam/cities/Ilam> ;
     skos:prefLabel "ايلام" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Ilam_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Ilam_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Ilam_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Ilam_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Ilam_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Ilam_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Ilam_obpophistcoll> .
 

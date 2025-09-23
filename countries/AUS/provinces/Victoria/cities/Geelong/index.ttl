@@ -14,11 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria/cities/Geelong_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Indian+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria/cities/Geelong_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria/cities/Geelong_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria/cities/Geelong_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria/cities/Geelong_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria/cities/Geelong_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria/cities/Geelong_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria/cities/Geelong_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria/cities/Geelong_obpophist6> .
+        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Victoria/cities/Geelong_obpophistcoll> .
 

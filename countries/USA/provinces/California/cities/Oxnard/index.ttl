@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Oxnard_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Oxnard_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Oxnard_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Oxnard_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Oxnard_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Oxnard_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Oxnard_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Oxnard_obpophistcoll> .
 

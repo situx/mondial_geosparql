@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Ottawa+River> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Ottawa_obele>,
         <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Ottawa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Ottawa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Ottawa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Ottawa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Ottawa_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Ottawa_obpophistcoll> .
 

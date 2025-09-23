@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/South+China+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Luzon> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Pasay_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Pasay_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Pasay_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Pasay_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Pasay_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Pasay_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Pasay_obpophistcoll> .
 

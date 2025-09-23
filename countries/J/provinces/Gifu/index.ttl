@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Gifu/cities/Gifu> ;
     skos:prefLabel "岐阜県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Gifu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Gifu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Gifu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Gifu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Gifu_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Gifu_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Gifu_obpophistcoll> .
 

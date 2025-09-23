@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/USA/provinces/Mississippi/cities/Jackson> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/USA/provinces/Mississippi/cities/Jackson> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Mississippi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Mississippi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Mississippi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Mississippi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Mississippi_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Mississippi_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Mississippi_obpophistcoll> .
 

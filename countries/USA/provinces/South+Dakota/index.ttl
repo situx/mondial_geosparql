@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota/cities/Pierre>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota/cities/Sioux+Falls> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota_obpophistcoll> .
 

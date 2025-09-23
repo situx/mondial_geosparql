@@ -25,8 +25,7 @@
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GAZA_obeth1>,
         <http://www.semwebtech.org/mondial/countries/GAZA_obeth2>,
         <http://www.semwebtech.org/mondial/countries/GAZA_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GAZA_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GAZA_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GAZA_obpophist2>,
+        <http://www.semwebtech.org/mondial/countries/GAZA_obpopg>,
+        <http://www.semwebtech.org/mondial/countries/GAZA_obpophistcoll>,
         <http://www.semwebtech.org/mondial/countries/GAZA_obrel1> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjols-Karjala/cities/Joensuu> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjols-Karjala/cities/Joensuu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjols-Karjala_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjols-Karjala_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjols-Karjala_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjols-Karjala_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjols-Karjala_obpophistcoll> .
 

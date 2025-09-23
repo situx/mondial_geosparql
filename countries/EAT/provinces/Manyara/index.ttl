@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Manyara/cities/Babati> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAT/provinces/Manyara/cities/Babati> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Manyara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Manyara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Manyara_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Manyara_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Manyara_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Manyara_obpophistcoll> .
 

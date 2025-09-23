@@ -14,9 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ROK/cities/Yongin_geom> ;
     skos:prefLabel "용인시" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ROK/cities/Yongin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Yongin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Yongin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Yongin_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Yongin_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Yongin_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Yongin_obpophistcoll> .
 

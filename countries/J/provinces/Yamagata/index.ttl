@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Yamagata/cities/Yamagata> ;
     skos:prefLabel "山形県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Yamagata_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamagata_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamagata_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamagata_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamagata_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamagata_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamagata_obpophistcoll> .
 

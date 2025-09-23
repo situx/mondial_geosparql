@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CO/provinces/Córdoba/cities/Montería> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CO/provinces/Córdoba/cities/Montería> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Córdoba_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Córdoba_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Córdoba_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Córdoba_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Córdoba_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Córdoba_obpophistcoll> .
 

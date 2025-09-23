@@ -20,6 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/I/provinces/Puglia/cities/Lecce>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Puglia/cities/Táranto> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Puglia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Puglia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Puglia_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Puglia_obpophistcoll> .
 

@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Sunnyvale_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Sunnyvale_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Sunnyvale_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Sunnyvale_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Sunnyvale_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Sunnyvale_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Sunnyvale_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Sunnyvale_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Sunnyvale_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/Z/provinces/North-Western/cities/Solwezi> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/Z/provinces/North-Western/cities/Solwezi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/Z/provinces/North-Western_obpop>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/North-Western_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/North-Western_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/North-Western_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/North-Western_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/Z/provinces/North-Western_obpophistcoll> .
 

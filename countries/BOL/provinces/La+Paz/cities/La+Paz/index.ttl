@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz/cities/La+Paz_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz/cities/La+Paz_obele>,
         <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz/cities/La+Paz_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz/cities/La+Paz_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz/cities/La+Paz_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz/cities/La+Paz_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz/cities/La+Paz_obpophistcoll> .
 

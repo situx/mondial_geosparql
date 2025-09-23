@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TM/provinces/Balkan/cities/Balkanabat> ;
     skos:prefLabel "Balkan" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TM/provinces/Balkan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TM/provinces/Balkan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TM/provinces/Balkan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TM/provinces/Balkan_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/TM/provinces/Balkan_obpophistcoll> .
 

@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/A/provinces/Steiermark/cities/Graz> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/A/provinces/Steiermark/cities/Graz> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/A/provinces/Steiermark_obpop>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Steiermark_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Steiermark_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/A/provinces/Steiermark_obpophistcoll> .
 

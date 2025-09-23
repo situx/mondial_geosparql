@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Morón_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Morón_obele>,
         <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Morón_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Morón_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Morón_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Morón_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Morón_obpophistcoll> .
 

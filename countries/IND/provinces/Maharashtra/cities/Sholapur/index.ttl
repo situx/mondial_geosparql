@@ -15,5 +15,5 @@
     skos:altLabel "Solapur" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Sholapur_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Sholapur_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Sholapur_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Sholapur_obpophistcoll> .
 

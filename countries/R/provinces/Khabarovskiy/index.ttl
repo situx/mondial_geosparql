@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/R/provinces/Khabarovskiy/cities/Komsomolsk-na-Amure> ;
     skos:prefLabel "Хабаровский" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Khabarovskiy_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Khabarovskiy_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Khabarovskiy_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Khabarovskiy_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Khabarovskiy_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Khabarovskiy_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Khabarovskiy_obpophistcoll> .
 

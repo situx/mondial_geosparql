@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Tochigi/cities/Utsunomiya> ;
     skos:prefLabel "栃木県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Tochigi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tochigi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tochigi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tochigi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tochigi_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tochigi_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Tochigi_obpophistcoll> .
 

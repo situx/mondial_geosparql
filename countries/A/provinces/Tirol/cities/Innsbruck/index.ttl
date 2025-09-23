@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Inn> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol/cities/Innsbruck_obele>,
         <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol/cities/Innsbruck_obpop>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol/cities/Innsbruck_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol/cities/Innsbruck_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol/cities/Innsbruck_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol/cities/Innsbruck_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/A/provinces/Tirol/cities/Innsbruck_obpophistcoll> .
 

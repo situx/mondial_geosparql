@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Xi+Jiang> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Yunnan/cities/Qujing_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Yunnan/cities/Qujing_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Yunnan/cities/Qujing_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Yunnan/cities/Qujing_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Yunnan/cities/Qujing_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Yunnan/cities/Qujing_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Yunnan/cities/Qujing_obpophistcoll> .
 

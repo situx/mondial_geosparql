@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/YV/provinces/Distrito+Federal/cities/Caracas_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Distrito+Federal/cities/Caracas_obele>,
         <http://www.semwebtech.org/mondial/countries/YV/provinces/Distrito+Federal/cities/Caracas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Distrito+Federal/cities/Caracas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Distrito+Federal/cities/Caracas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Distrito+Federal/cities/Caracas_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Distrito+Federal/cities/Caracas_obpophistcoll> .
 

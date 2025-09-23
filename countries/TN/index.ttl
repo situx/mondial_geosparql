@@ -38,15 +38,8 @@
         <http://www.semwebtech.org/mondial/countries/TN_obeth2>,
         <http://www.semwebtech.org/mondial/countries/TN_obeth3>,
         <http://www.semwebtech.org/mondial/countries/TN_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TN_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TN_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TN_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TN_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/TN_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/TN_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/TN_obpophist6>,
-        <http://www.semwebtech.org/mondial/countries/TN_obpophist7>,
-        <http://www.semwebtech.org/mondial/countries/TN_obpophist8>,
+        <http://www.semwebtech.org/mondial/countries/TN_obpopg>,
+        <http://www.semwebtech.org/mondial/countries/TN_obpophistcoll>,
         <http://www.semwebtech.org/mondial/countries/TN_obrel1>,
         <http://www.semwebtech.org/mondial/countries/TN_obrel2> .
 

@@ -17,6 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BOL/provinces/Santa+Cruz/cities/Montero>,
         <http://www.semwebtech.org/mondial/countries/BOL/provinces/Santa+Cruz/cities/Santa+Cruz+de+la+Sierra> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BOL/provinces/Santa+Cruz_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Santa+Cruz_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Santa+Cruz_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Santa+Cruz_obpophistcoll> .
 

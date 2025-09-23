@@ -13,10 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Dijon_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Dijon_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Dijon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Dijon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Dijon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Dijon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Dijon_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Dijon_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Dijon_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Dijon_obpophistcoll> .
 

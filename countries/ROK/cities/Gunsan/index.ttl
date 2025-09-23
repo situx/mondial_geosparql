@@ -16,10 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Yellow+Sea> ;
     skos:prefLabel "군산시" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ROK/cities/Gunsan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Gunsan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Gunsan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Gunsan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Gunsan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Gunsan_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Gunsan_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Gunsan_obpophistcoll> .
 

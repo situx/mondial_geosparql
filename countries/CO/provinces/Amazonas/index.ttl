@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CO/provinces/Amazonas/cities/Leticia> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CO/provinces/Amazonas/cities/Leticia> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Amazonas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Amazonas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Amazonas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Amazonas_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Amazonas_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Amazonas_obpophistcoll> .
 

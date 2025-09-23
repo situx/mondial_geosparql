@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Anaheim_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Anaheim_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Anaheim_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Anaheim_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Anaheim_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Anaheim_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Anaheim_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Anaheim_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Anaheim_obpophistcoll> .
 

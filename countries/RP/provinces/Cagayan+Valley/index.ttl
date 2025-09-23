@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RP/provinces/Cagayan+Valley/cities/Tuguegarao> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RP/provinces/Cagayan+Valley/cities/Tuguegarao> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Cagayan+Valley_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Cagayan+Valley_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Cagayan+Valley_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Cagayan+Valley_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Cagayan+Valley_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Cagayan+Valley_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Cagayan+Valley_obpophistcoll> .
 

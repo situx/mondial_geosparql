@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SK/provinces/Trenčiansky/cities/Trenčín> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SK/provinces/Trenčiansky/cities/Trenčín> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SK/provinces/Trenčiansky_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Trenčiansky_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Trenčiansky_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Trenčiansky_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Trenčiansky_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Mindanao> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Zamboanga+Peninsula/cities/Pagadian_obele>,
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Zamboanga+Peninsula/cities/Pagadian_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Zamboanga+Peninsula/cities/Pagadian_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Zamboanga+Peninsula/cities/Pagadian_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Zamboanga+Peninsula/cities/Pagadian_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Zamboanga+Peninsula/cities/Pagadian_obpophistcoll> .
 

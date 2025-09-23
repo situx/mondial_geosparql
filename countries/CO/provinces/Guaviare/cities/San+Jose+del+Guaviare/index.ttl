@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Rio+Guaviare> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Guaviare/cities/San+Jose+del+Guaviare_obele>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Guaviare/cities/San+Jose+del+Guaviare_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Guaviare/cities/San+Jose+del+Guaviare_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Guaviare/cities/San+Jose+del+Guaviare_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Guaviare/cities/San+Jose+del+Guaviare_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Guaviare/cities/San+Jose+del+Guaviare_obpophistcoll> .
 

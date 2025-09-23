@@ -14,6 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GAZA/cities/Gaza_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Mediterranean+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GAZA/cities/Gaza_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GAZA/cities/Gaza_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GAZA/cities/Gaza_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/GAZA/cities/Gaza_obpophistcoll> .
 

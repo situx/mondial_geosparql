@@ -16,5 +16,5 @@
     skos:prefLabel "دوما" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SYR/provinces/Rif+Dimashq/cities/Duma_obele>,
         <http://www.semwebtech.org/mondial/countries/SYR/provinces/Rif+Dimashq/cities/Duma_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Rif+Dimashq/cities/Duma_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Rif+Dimashq/cities/Duma_obpophistcoll> .
 

@@ -13,5 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/DZ/cities/Tamanrasset_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DZ/cities/Tamanrasset_obele>,
         <http://www.semwebtech.org/mondial/countries/DZ/cities/Tamanrasset_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Tamanrasset_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/DZ/cities/Tamanrasset_obpophistcoll> .
 

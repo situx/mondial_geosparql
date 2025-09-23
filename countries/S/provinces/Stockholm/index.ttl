@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm/cities/Huddinge>,
         <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm/cities/Stockholm> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Stockholm_obpophistcoll> .
 

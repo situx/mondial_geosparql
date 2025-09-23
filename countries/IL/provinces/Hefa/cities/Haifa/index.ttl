@@ -18,8 +18,5 @@
     skos:prefLabel "חיפה" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IL/provinces/Hefa/cities/Haifa_obele>,
         <http://www.semwebtech.org/mondial/countries/IL/provinces/Hefa/cities/Haifa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/Hefa/cities/Haifa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/Hefa/cities/Haifa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/Hefa/cities/Haifa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/Hefa/cities/Haifa_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/IL/provinces/Hefa/cities/Haifa_obpophistcoll> .
 

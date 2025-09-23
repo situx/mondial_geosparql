@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Caspian+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Dagestan/cities/Derbent_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Dagestan/cities/Derbent_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Dagestan/cities/Derbent_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Dagestan/cities/Derbent_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Dagestan/cities/Derbent_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Dagestan/cities/Derbent_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Dagestan/cities/Derbent_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Dagestan/cities/Derbent_obpophistcoll> .
 

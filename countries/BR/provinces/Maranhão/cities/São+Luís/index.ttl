@@ -16,7 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Ilha+de+São+Luís> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/São+Luís_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/São+Luís_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/São+Luís_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/São+Luís_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/São+Luís_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/São+Luís_obpophistcoll> .
 

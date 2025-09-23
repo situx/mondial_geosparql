@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Dongting+Hu>,
         <http://www.semwebtech.org/mondial/rivers/Yangtze> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Yueyang_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Yueyang_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Yueyang_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Yueyang_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Yueyang_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Yueyang_obpophistcoll> .
 

@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá/cities/Panamá+City_obele>,
         <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá/cities/Panamá+City_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá/cities/Panamá+City_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá/cities/Panamá+City_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá/cities/Panamá+City_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá/cities/Panamá+City_obpophistcoll> .
 

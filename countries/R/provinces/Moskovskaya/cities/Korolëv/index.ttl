@@ -15,7 +15,5 @@
     skos:altLabel "Korolyov" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Korolëv_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Korolëv_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Korolëv_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Korolëv_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Korolëv_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Korolëv_obpophistcoll> .
 

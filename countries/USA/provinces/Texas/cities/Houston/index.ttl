@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Houston_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Houston_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Houston_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Houston_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Houston_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Houston_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Houston_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Houston_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Houston_obpophistcoll> .
 

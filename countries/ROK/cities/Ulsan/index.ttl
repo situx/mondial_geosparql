@@ -16,10 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Sea+of+Japan> ;
     skos:prefLabel "울산광역시" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ROK/cities/Ulsan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Ulsan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Ulsan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Ulsan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Ulsan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Ulsan_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Ulsan_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Ulsan_obpophistcoll> .
 

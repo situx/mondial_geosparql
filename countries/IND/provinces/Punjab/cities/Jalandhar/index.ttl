@@ -13,5 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/IND/provinces/Punjab/cities/Jalandhar_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Punjab/cities/Jalandhar_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Punjab/cities/Jalandhar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Punjab/cities/Jalandhar_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Punjab/cities/Jalandhar_obpophistcoll> .
 

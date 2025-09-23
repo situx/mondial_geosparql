@@ -18,6 +18,5 @@
     skos:prefLabel "دمياط" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ET/cities/Dumyat_obele>,
         <http://www.semwebtech.org/mondial/countries/ET/cities/Dumyat_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Dumyat_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Dumyat_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ET/cities/Dumyat_obpophistcoll> .
 

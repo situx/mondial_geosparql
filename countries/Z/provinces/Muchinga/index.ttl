@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/Z/provinces/Muchinga/cities/Chinsali> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/Z/provinces/Muchinga/cities/Chinsali> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/Z/provinces/Muchinga_obpop>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Muchinga_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Muchinga_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Muchinga_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/Z/provinces/Muchinga_obpophistcoll> .
 

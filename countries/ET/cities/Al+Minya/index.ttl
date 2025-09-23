@@ -18,8 +18,5 @@
     skos:prefLabel "المنيا" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Minya_obele>,
         <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Minya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Minya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Minya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Minya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Minya_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Minya_obpophistcoll> .
 

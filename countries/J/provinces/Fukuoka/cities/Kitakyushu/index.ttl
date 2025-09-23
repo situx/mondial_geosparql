@@ -17,9 +17,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Kyushu> ;
     skos:prefLabel "北九州市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Fukuoka/cities/Kitakyushu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukuoka/cities/Kitakyushu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukuoka/cities/Kitakyushu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukuoka/cities/Kitakyushu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukuoka/cities/Kitakyushu_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukuoka/cities/Kitakyushu_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukuoka/cities/Kitakyushu_obpophistcoll> .
 

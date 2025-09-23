@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Satu-Mare/cities/Satu+Mare> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Satu-Mare/cities/Satu+Mare> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Satu-Mare_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Satu-Mare_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Satu-Mare_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Satu-Mare_obpophistcoll> .
 

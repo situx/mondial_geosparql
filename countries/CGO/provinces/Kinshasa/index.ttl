@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kinshasa/cities/Kinshasa> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kinshasa/cities/Kinshasa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kinshasa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kinshasa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kinshasa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kinshasa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kinshasa_obpophistcoll> .
 

@@ -16,7 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Victoria+Nile> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAU/provinces/Eastern/cities/Jinja_obele>,
         <http://www.semwebtech.org/mondial/countries/EAU/provinces/Eastern/cities/Jinja_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Eastern/cities/Jinja_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Eastern/cities/Jinja_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Eastern/cities/Jinja_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Eastern/cities/Jinja_obpophistcoll> .
 

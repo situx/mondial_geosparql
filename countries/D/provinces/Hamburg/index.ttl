@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/D/provinces/Hamburg/cities/Hamburg> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/D/provinces/Hamburg/cities/Hamburg> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Hamburg_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Hamburg_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Hamburg_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Hamburg_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Hamburg_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Hamburg_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Hamburg_obpophistcoll> .
 

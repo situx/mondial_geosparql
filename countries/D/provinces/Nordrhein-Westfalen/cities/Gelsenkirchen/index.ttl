@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Emscher> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Gelsenkirchen_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Gelsenkirchen_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Gelsenkirchen_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Gelsenkirchen_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Gelsenkirchen_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Gelsenkirchen_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Nordrhein-Westfalen/cities/Gelsenkirchen_obpophistcoll> .
 

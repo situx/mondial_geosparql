@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Ordu/cities/Ordu> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Ordu/cities/Ordu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Ordu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Ordu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Ordu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Ordu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Ordu_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Ordu_obpophistcoll> .
 

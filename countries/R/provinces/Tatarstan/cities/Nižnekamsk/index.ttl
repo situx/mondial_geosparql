@@ -17,9 +17,5 @@
     skos:altLabel "Nizhnekamsk" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan/cities/Nižnekamsk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan/cities/Nižnekamsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan/cities/Nižnekamsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan/cities/Nižnekamsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan/cities/Nižnekamsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan/cities/Nižnekamsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan/cities/Nižnekamsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan/cities/Nižnekamsk_obpophistcoll> .
 

@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta/cities/Calgary>,
         <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta/cities/Edmonton> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta_obpophistcoll> .
 

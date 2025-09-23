@@ -18,9 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/IND/provinces/West+Bengal/cities/Haora>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/West+Bengal/cities/Kolkata> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/West+Bengal_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/West+Bengal_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/West+Bengal_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/West+Bengal_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/West+Bengal_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/West+Bengal_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/West+Bengal_obpophistcoll> .
 

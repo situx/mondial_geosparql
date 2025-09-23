@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Baltic+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Schleswig-Holstein/cities/Kiel_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Schleswig-Holstein/cities/Kiel_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Schleswig-Holstein/cities/Kiel_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Schleswig-Holstein/cities/Kiel_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Schleswig-Holstein/cities/Kiel_obpophistcoll> .
 

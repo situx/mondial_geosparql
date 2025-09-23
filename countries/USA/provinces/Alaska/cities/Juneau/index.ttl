@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Alaska/cities/Juneau_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Alaska/cities/Juneau_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Alaska/cities/Juneau_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Alaska/cities/Juneau_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Alaska/cities/Juneau_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Alaska/cities/Juneau_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Alaska/cities/Juneau_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Alaska/cities/Juneau_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/P/provinces/Braga/cities/Braga> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/P/provinces/Braga/cities/Braga> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/P/provinces/Braga_obpop>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Braga_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Braga_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Braga_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Braga_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Braga_obpophistcoll> .
 

@@ -14,5 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Aksu_geom> ;
     skos:prefLabel "ئاقسۇ شەھىرى" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Aksu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Aksu_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Aksu_obpophistcoll> .
 

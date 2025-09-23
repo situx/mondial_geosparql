@@ -13,6 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BOL/provinces/Cochabamba/cities/Quillacollo_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BOL/provinces/Cochabamba/cities/Quillacollo_obele>,
         <http://www.semwebtech.org/mondial/countries/BOL/provinces/Cochabamba/cities/Quillacollo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Cochabamba/cities/Quillacollo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Cochabamba/cities/Quillacollo_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Cochabamba/cities/Quillacollo_obpophistcoll> .
 

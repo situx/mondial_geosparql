@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RCH/provinces/Libertador+General+Bernardo+O'Higgins/cities/Rancagua_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCH/provinces/Libertador+General+Bernardo+O'Higgins/cities/Rancagua_obele>,
         <http://www.semwebtech.org/mondial/countries/RCH/provinces/Libertador+General+Bernardo+O'Higgins/cities/Rancagua_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Libertador+General+Bernardo+O'Higgins/cities/Rancagua_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Libertador+General+Bernardo+O'Higgins/cities/Rancagua_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Libertador+General+Bernardo+O'Higgins/cities/Rancagua_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Libertador+General+Bernardo+O'Higgins/cities/Rancagua_obpophistcoll> .
 

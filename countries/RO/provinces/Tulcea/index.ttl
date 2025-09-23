@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Tulcea/cities/Tulcea> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Tulcea/cities/Tulcea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Tulcea_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Tulcea_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Tulcea_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Tulcea_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/HN/provinces/Intibucá/cities/La+Esperanza> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/HN/provinces/Intibucá/cities/La+Esperanza> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/HN/provinces/Intibucá_obpop>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Intibucá_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Intibucá_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Intibucá_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Intibucá_obpophistcoll> .
 

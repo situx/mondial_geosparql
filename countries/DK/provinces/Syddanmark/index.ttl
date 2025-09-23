@@ -18,8 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/DK/provinces/Syddanmark/cities/Odense>,
         <http://www.semwebtech.org/mondial/countries/DK/provinces/Syddanmark/cities/Vejle> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DK/provinces/Syddanmark_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Syddanmark_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Syddanmark_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Syddanmark_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Syddanmark_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/DK/provinces/Syddanmark_obpophistcoll> .
 

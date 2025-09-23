@@ -19,8 +19,5 @@
     skos:altLabel "Jerusalem" ;
     skos:prefLabel "מחוז ירושלים" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IL/provinces/Yerushalayim_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/Yerushalayim_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/Yerushalayim_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/Yerushalayim_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/Yerushalayim_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/IL/provinces/Yerushalayim_obpophistcoll> .
 

@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/USA/provinces/Delaware/cities/Dover> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/USA/provinces/Delaware/cities/Dover> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Delaware_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Delaware_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Delaware_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Delaware_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Delaware_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Delaware_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Delaware_obpophistcoll> .
 

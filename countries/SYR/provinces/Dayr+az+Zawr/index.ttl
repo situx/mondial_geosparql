@@ -19,6 +19,5 @@
     skos:altLabel "Deir ez-Zor" ;
     skos:prefLabel "دير الزور" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SYR/provinces/Dayr+az+Zawr_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Dayr+az+Zawr_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Dayr+az+Zawr_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Dayr+az+Zawr_obpophistcoll> .
 

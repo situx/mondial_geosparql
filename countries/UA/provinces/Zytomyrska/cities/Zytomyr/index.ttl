@@ -18,9 +18,5 @@
     skos:prefLabel "Житомир" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Zytomyrska/cities/Zytomyr_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Zytomyrska/cities/Zytomyr_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zytomyrska/cities/Zytomyr_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zytomyrska/cities/Zytomyr_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zytomyrska/cities/Zytomyr_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zytomyrska/cities/Zytomyr_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zytomyrska/cities/Zytomyr_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zytomyrska/cities/Zytomyr_obpophistcoll> .
 

@@ -17,7 +17,5 @@
     skos:altLabel "Najaf" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Najaf/cities/An+Najaf_obele>,
         <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Najaf/cities/An+Najaf_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Najaf/cities/An+Najaf_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Najaf/cities/An+Najaf_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Najaf/cities/An+Najaf_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Najaf/cities/An+Najaf_obpophistcoll> .
 

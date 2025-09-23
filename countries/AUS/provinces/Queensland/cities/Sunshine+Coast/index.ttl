@@ -14,11 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Sunshine+Coast_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Tasman+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Sunshine+Coast_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Sunshine+Coast_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Sunshine+Coast_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Sunshine+Coast_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Sunshine+Coast_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Sunshine+Coast_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Sunshine+Coast_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Sunshine+Coast_obpophist6> .
+        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Sunshine+Coast_obpophistcoll> .
 

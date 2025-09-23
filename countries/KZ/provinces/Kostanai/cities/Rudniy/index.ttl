@@ -17,9 +17,5 @@
     skos:altLabel "Rudny" ;
     skos:prefLabel "Рудный" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kostanai/cities/Rudniy_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kostanai/cities/Rudniy_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kostanai/cities/Rudniy_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kostanai/cities/Rudniy_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kostanai/cities/Rudniy_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kostanai/cities/Rudniy_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kostanai/cities/Rudniy_obpophistcoll> .
 

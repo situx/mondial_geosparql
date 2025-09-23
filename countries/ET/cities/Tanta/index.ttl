@@ -15,8 +15,5 @@
     skos:prefLabel "طنطا" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ET/cities/Tanta_obele>,
         <http://www.semwebtech.org/mondial/countries/ET/cities/Tanta_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Tanta_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Tanta_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Tanta_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Tanta_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/ET/cities/Tanta_obpophistcoll> .
 

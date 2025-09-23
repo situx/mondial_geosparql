@@ -16,8 +16,5 @@
         <http://www.semwebtech.org/mondial/seas/North+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Great+Britain> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GB/provinces/East+of+England/cities/Southend-on-Sea_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/East+of+England/cities/Southend-on-Sea_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/East+of+England/cities/Southend-on-Sea_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/East+of+England/cities/Southend-on-Sea_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/East+of+England/cities/Southend-on-Sea_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/East+of+England/cities/Southend-on-Sea_obpophistcoll> .
 

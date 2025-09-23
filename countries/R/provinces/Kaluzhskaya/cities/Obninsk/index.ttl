@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/R/provinces/Kaluzhskaya/cities/Obninsk_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Kaluzhskaya/cities/Obninsk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Kaluzhskaya/cities/Obninsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kaluzhskaya/cities/Obninsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kaluzhskaya/cities/Obninsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kaluzhskaya/cities/Obninsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kaluzhskaya/cities/Obninsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kaluzhskaya/cities/Obninsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Kaluzhskaya/cities/Obninsk_obpophistcoll> .
 

@@ -18,9 +18,5 @@
     skos:prefLabel "Якутск" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Sakha/cities/Yakutsk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Sakha/cities/Yakutsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sakha/cities/Yakutsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sakha/cities/Yakutsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sakha/cities/Yakutsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sakha/cities/Yakutsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sakha/cities/Yakutsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Sakha/cities/Yakutsk_obpophistcoll> .
 

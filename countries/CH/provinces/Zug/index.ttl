@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CH/provinces/Zug/cities/Zug> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CH/provinces/Zug/cities/Zug> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CH/provinces/Zug_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Zug_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Zug_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Zug_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Zug_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Zug_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CH/provinces/Zug_obpophistcoll> .
 

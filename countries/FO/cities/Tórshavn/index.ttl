@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Norwegian+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Streymoy> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/FO/cities/Tórshavn_obpop>,
-        <http://www.semwebtech.org/mondial/countries/FO/cities/Tórshavn_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/FO/cities/Tórshavn_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/FO/cities/Tórshavn_obpophistcoll> .
 

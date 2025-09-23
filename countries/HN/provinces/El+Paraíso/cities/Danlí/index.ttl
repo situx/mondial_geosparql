@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/HN/provinces/El+Paraíso/cities/Danlí_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/HN/provinces/El+Paraíso/cities/Danlí_obele>,
         <http://www.semwebtech.org/mondial/countries/HN/provinces/El+Paraíso/cities/Danlí_obpop>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/El+Paraíso/cities/Danlí_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/El+Paraíso/cities/Danlí_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/El+Paraíso/cities/Danlí_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/El+Paraíso/cities/Danlí_obpophistcoll> .
 

@@ -17,9 +17,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Cebu> ;
     skos:altLabel "Opon" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Visayas/cities/Lapu-Lapu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Visayas/cities/Lapu-Lapu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Visayas/cities/Lapu-Lapu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Visayas/cities/Lapu-Lapu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Visayas/cities/Lapu-Lapu_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Visayas/cities/Lapu-Lapu_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Central+Visayas/cities/Lapu-Lapu_obpophistcoll> .
 

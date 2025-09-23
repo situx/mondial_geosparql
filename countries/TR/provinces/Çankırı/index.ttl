@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Çankırı/cities/Cankiri> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Çankırı/cities/Cankiri> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Çankırı_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çankırı_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çankırı_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çankırı_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çankırı_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çankırı_obpophistcoll> .
 

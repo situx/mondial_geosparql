@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Caribbean+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar/cities/Cartagena_obele>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar/cities/Cartagena_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar/cities/Cartagena_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar/cities/Cartagena_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar/cities/Cartagena_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar/cities/Cartagena_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar/cities/Cartagena_obpophistcoll> .
 

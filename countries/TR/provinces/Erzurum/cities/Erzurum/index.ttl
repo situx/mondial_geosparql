@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Karasu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Erzurum/cities/Erzurum_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Erzurum/cities/Erzurum_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Erzurum/cities/Erzurum_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Erzurum/cities/Erzurum_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Erzurum/cities/Erzurum_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Erzurum/cities/Erzurum_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Erzurum/cities/Erzurum_obpophistcoll> .
 

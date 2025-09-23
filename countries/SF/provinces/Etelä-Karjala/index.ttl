@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SF/provinces/Etelä-Karjala/cities/Lappeenranta> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SF/provinces/Etelä-Karjala/cities/Lappeenranta> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Etelä-Karjala_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Etelä-Karjala_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Etelä-Karjala_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Etelä-Karjala_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Etelä-Karjala_obpophistcoll> .
 

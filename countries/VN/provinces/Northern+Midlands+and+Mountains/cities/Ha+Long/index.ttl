@@ -17,7 +17,5 @@
     skos:altLabel "Hong Gai" ;
     skos:prefLabel "Hạ Long" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains/cities/Ha+Long_obpop>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains/cities/Ha+Long_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains/cities/Ha+Long_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains/cities/Ha+Long_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Northern+Midlands+and+Mountains/cities/Ha+Long_obpophistcoll> .
 

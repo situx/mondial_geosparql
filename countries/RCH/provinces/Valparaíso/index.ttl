@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RCH/provinces/Valparaíso/cities/Valparaíso> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RCH/provinces/Valparaíso/cities/Valparaíso> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCH/provinces/Valparaíso_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Valparaíso_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Valparaíso_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Valparaíso_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Valparaíso_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Valparaíso_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CO/provinces/Arauca/cities/Arauca> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CO/provinces/Arauca/cities/Arauca> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Arauca_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Arauca_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Arauca_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Arauca_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Arauca_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Arauca_obpophistcoll> .
 

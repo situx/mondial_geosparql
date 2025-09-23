@@ -15,8 +15,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Cuba> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/C/provinces/Granma/cities/Bayamo_obele>,
         <http://www.semwebtech.org/mondial/countries/C/provinces/Granma/cities/Bayamo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Granma/cities/Bayamo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Granma/cities/Bayamo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Granma/cities/Bayamo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Granma/cities/Bayamo_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Granma/cities/Bayamo_obpophistcoll> .
 

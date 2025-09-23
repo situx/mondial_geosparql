@@ -17,8 +17,5 @@
     skos:prefLabel "أسوان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ET/cities/Aswan_obele>,
         <http://www.semwebtech.org/mondial/countries/ET/cities/Aswan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Aswan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Aswan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Aswan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Aswan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/ET/cities/Aswan_obpophistcoll> .
 

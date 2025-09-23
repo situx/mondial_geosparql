@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/TR/provinces/Kayseri/cities/Kayseri_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Kayseri/cities/Kayseri_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Kayseri/cities/Kayseri_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kayseri/cities/Kayseri_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kayseri/cities/Kayseri_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kayseri/cities/Kayseri_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kayseri/cities/Kayseri_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kayseri/cities/Kayseri_obpophistcoll> .
 

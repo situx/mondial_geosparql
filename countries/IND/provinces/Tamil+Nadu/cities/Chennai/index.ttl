@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Gulf+of+Bengal> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Tamil+Nadu/cities/Chennai_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Tamil+Nadu/cities/Chennai_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Tamil+Nadu/cities/Chennai_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Tamil+Nadu/cities/Chennai_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Tamil+Nadu/cities/Chennai_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Tamil+Nadu/cities/Chennai_obpophistcoll> .
 

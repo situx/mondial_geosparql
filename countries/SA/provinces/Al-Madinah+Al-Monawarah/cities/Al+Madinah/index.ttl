@@ -15,7 +15,5 @@
     skos:altLabel "Madinah" ;
     skos:prefLabel "المدينة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Madinah+Al-Monawarah/cities/Al+Madinah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Madinah+Al-Monawarah/cities/Al+Madinah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Madinah+Al-Monawarah/cities/Al+Madinah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Madinah+Al-Monawarah/cities/Al+Madinah_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Madinah+Al-Monawarah/cities/Al+Madinah_obpophistcoll> .
 

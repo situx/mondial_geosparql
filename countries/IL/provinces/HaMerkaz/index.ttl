@@ -21,8 +21,5 @@
         <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Rishon+LeZiyyon> ;
     skos:prefLabel "המרכז" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz_obpophistcoll> .
 

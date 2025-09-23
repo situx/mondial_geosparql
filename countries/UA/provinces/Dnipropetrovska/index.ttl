@@ -22,9 +22,5 @@
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska/cities/Pavlohrad> ;
     skos:prefLabel "Дніпропетровська" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska_obpophistcoll> .
 

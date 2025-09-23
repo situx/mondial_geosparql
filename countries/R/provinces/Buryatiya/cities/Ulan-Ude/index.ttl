@@ -17,9 +17,5 @@
     skos:prefLabel "Улан-Удэ" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Buryatiya/cities/Ulan-Ude_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Buryatiya/cities/Ulan-Ude_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Buryatiya/cities/Ulan-Ude_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Buryatiya/cities/Ulan-Ude_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Buryatiya/cities/Ulan-Ude_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Buryatiya/cities/Ulan-Ude_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Buryatiya/cities/Ulan-Ude_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Buryatiya/cities/Ulan-Ude_obpophistcoll> .
 

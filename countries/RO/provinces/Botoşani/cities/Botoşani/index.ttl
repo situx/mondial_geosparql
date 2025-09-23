@@ -13,6 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RO/provinces/Botoşani/cities/Botoşani_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Botoşani/cities/Botoşani_obele>,
         <http://www.semwebtech.org/mondial/countries/RO/provinces/Botoşani/cities/Botoşani_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Botoşani/cities/Botoşani_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Botoşani/cities/Botoşani_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Botoşani/cities/Botoşani_obpophistcoll> .
 

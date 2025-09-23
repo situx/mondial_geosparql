@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/San+Francisco+Bay> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Vallejo_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Vallejo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Vallejo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Vallejo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Vallejo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Vallejo_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Vallejo_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/Vallejo_obpophistcoll> .
 

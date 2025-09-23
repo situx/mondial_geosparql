@@ -9,5 +9,5 @@
     rdfs:label "Property Partition: hasUnit"@en ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     void:property <http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit> ;
-    void:triples 8550 .
+    void:triples 8774 .
 

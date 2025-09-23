@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Volga> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Syzran_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Syzran_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Syzran_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Syzran_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Syzran_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Syzran_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Syzran_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Syzran_obpophistcoll> .
 

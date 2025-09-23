@@ -16,5 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PNG/provinces/South/cities/Port+Moresby> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PNG/provinces/South/cities/Port+Moresby> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PNG/provinces/South_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PNG/provinces/South_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/PNG/provinces/South_obpophistcoll> .
 

@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PE/provinces/Puno/cities/Juliaca>,
         <http://www.semwebtech.org/mondial/countries/PE/provinces/Puno/cities/Puno> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PE/provinces/Puno_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Puno_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Puno_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Puno_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Puno_obpophistcoll> .
 

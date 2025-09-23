@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PE/provinces/Loreto/cities/Iquitos> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PE/provinces/Loreto/cities/Iquitos> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PE/provinces/Loreto_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Loreto_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Loreto_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Loreto_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Loreto_obpophistcoll> .
 

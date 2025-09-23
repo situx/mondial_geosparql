@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Ibaraki/cities/Mito> ;
     skos:prefLabel "茨城県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Ibaraki_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Ibaraki_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Ibaraki_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Ibaraki_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Ibaraki_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Ibaraki_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Ibaraki_obpophistcoll> .
 

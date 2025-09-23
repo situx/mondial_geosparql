@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/I/provinces/Marche/cities/Ancona> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/I/provinces/Marche/cities/Ancona> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Marche_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Marche_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Marche_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Marche_obpophistcoll> .
 

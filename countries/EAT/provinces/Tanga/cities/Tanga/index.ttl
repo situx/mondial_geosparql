@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Indian+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Tanga/cities/Tanga_obele>,
         <http://www.semwebtech.org/mondial/countries/EAT/provinces/Tanga/cities/Tanga_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Tanga/cities/Tanga_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Tanga/cities/Tanga_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Tanga/cities/Tanga_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Tanga/cities/Tanga_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Tanga/cities/Tanga_obpophistcoll> .
 

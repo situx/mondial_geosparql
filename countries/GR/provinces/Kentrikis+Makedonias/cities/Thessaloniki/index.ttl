@@ -17,8 +17,5 @@
     skos:prefLabel "Θεσσαλονίκη" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Kentrikis+Makedonias/cities/Thessaloniki_obele>,
         <http://www.semwebtech.org/mondial/countries/GR/provinces/Kentrikis+Makedonias/cities/Thessaloniki_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kentrikis+Makedonias/cities/Thessaloniki_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kentrikis+Makedonias/cities/Thessaloniki_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kentrikis+Makedonias/cities/Thessaloniki_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kentrikis+Makedonias/cities/Thessaloniki_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kentrikis+Makedonias/cities/Thessaloniki_obpophistcoll> .
 

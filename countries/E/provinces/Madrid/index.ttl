@@ -25,9 +25,5 @@
         <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Parla>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Torrejón+de+Ardoz> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid_obpophistcoll> .
 

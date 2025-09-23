@@ -15,9 +15,5 @@
     skos:prefLabel "Алчéвськ" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Alchevsk_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Alchevsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Alchevsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Alchevsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Alchevsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Alchevsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Alchevsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Alchevsk_obpophistcoll> .
 

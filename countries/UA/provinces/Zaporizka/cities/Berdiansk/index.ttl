@@ -17,9 +17,5 @@
     skos:prefLabel "Бердя́нськ" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka/cities/Berdiansk_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka/cities/Berdiansk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka/cities/Berdiansk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka/cities/Berdiansk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka/cities/Berdiansk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka/cities/Berdiansk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka/cities/Berdiansk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka/cities/Berdiansk_obpophistcoll> .
 

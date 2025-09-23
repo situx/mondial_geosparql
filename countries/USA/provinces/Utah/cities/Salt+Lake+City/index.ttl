@@ -16,9 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Jordan+River> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Utah/cities/Salt+Lake+City_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Utah/cities/Salt+Lake+City_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Utah/cities/Salt+Lake+City_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Utah/cities/Salt+Lake+City_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Utah/cities/Salt+Lake+City_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Utah/cities/Salt+Lake+City_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Utah/cities/Salt+Lake+City_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Utah/cities/Salt+Lake+City_obpophistcoll> .
 

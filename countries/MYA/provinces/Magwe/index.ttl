@@ -19,7 +19,5 @@
     skos:altLabel "Magway" ;
     skos:prefLabel "မကွေးတိုင်းဒေသကြီး" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYA/provinces/Magwe_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Magwe_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Magwe_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Magwe_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Magwe_obpophistcoll> .
 

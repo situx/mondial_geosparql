@@ -16,8 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Red+Sea> ;
     skos:prefLabel "بورتسودان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Baḥr+al-Aḥmar/cities/Port+Sudan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Baḥr+al-Aḥmar/cities/Port+Sudan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Baḥr+al-Aḥmar/cities/Port+Sudan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Baḥr+al-Aḥmar/cities/Port+Sudan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Baḥr+al-Aḥmar/cities/Port+Sudan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Baḥr+al-Aḥmar/cities/Port+Sudan_obpophistcoll> .
 

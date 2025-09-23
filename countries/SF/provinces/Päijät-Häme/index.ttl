@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SF/provinces/Päijät-Häme/cities/Lahti> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SF/provinces/Päijät-Häme/cities/Lahti> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Päijät-Häme_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Päijät-Häme_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Päijät-Häme_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Päijät-Häme_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Päijät-Häme_obpophistcoll> .
 

@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/North+Ossetia-Alania/cities/Vladikavkaz> ;
     skos:prefLabel "Северная Осетия-Алания" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/North+Ossetia-Alania_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/North+Ossetia-Alania_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/North+Ossetia-Alania_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/North+Ossetia-Alania_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/North+Ossetia-Alania_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/North+Ossetia-Alania_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/North+Ossetia-Alania_obpophistcoll> .
 

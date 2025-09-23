@@ -15,5 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Norwegian+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Møre+og+Romsdal/cities/Molde_obele>,
         <http://www.semwebtech.org/mondial/countries/N/provinces/Møre+og+Romsdal/cities/Molde_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Møre+og+Romsdal/cities/Molde_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Møre+og+Romsdal/cities/Molde_obpophistcoll> .
 

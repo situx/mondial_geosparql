@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CDN/provinces/British+Columbia/cities/Burnaby_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/British+Columbia/cities/Burnaby_obele>,
         <http://www.semwebtech.org/mondial/countries/CDN/provinces/British+Columbia/cities/Burnaby_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/British+Columbia/cities/Burnaby_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/British+Columbia/cities/Burnaby_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/British+Columbia/cities/Burnaby_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/British+Columbia/cities/Burnaby_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/British+Columbia/cities/Burnaby_obpophistcoll> .
 

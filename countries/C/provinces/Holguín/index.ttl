@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/C/provinces/Holguín/cities/Holguín> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/C/provinces/Holguín/cities/Holguín> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/C/provinces/Holguín_obpop>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Holguín_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Holguín_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Holguín_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Holguín_obpophistcoll> .
 

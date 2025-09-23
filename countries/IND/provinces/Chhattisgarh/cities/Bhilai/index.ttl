@@ -15,5 +15,5 @@
     skos:altLabel "Bhilai Nagar" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Chhattisgarh/cities/Bhilai_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Chhattisgarh/cities/Bhilai_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Chhattisgarh/cities/Bhilai_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Chhattisgarh/cities/Bhilai_obpophistcoll> .
 

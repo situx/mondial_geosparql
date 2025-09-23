@@ -15,9 +15,5 @@
     skos:altLabel "Mytishchi" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Mytišči_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Mytišči_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Mytišči_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Mytišči_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Mytišči_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Mytišči_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Mytišči_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Mytišči_obpophistcoll> .
 

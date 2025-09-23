@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/TR/provinces/Denizli/cities/Denizli_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Denizli/cities/Denizli_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Denizli/cities/Denizli_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Denizli/cities/Denizli_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Denizli/cities/Denizli_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Denizli/cities/Denizli_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Denizli/cities/Denizli_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Denizli/cities/Denizli_obpophistcoll> .
 

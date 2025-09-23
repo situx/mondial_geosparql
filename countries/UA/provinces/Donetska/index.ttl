@@ -23,9 +23,5 @@
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Sloviansk> ;
     skos:prefLabel "Донецька" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska_obpophistcoll> .
 

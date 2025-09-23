@@ -14,10 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/IR/provinces/Esfahan/cities/Najafabad_geom> ;
     skos:prefLabel "نجف آباد" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Esfahan/cities/Najafabad_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Esfahan/cities/Najafabad_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Esfahan/cities/Najafabad_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Esfahan/cities/Najafabad_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Esfahan/cities/Najafabad_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Esfahan/cities/Najafabad_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Esfahan/cities/Najafabad_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Esfahan/cities/Najafabad_obpophistcoll> .
 

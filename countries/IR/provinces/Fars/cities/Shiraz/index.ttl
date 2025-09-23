@@ -15,9 +15,5 @@
     skos:prefLabel "شيراز" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Fars/cities/Shiraz_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/Fars/cities/Shiraz_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Fars/cities/Shiraz_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Fars/cities/Shiraz_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Fars/cities/Shiraz_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Fars/cities/Shiraz_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Fars/cities/Shiraz_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Fars/cities/Shiraz_obpophistcoll> .
 

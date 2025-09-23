@@ -17,5 +17,5 @@
     skos:altLabel "Guwahati" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Assam/cities/Gauhati_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Assam/cities/Gauhati_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Assam/cities/Gauhati_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Assam/cities/Gauhati_obpophistcoll> .
 

@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Dâmboviţa/cities/Targoviste> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Dâmboviţa/cities/Targoviste> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Dâmboviţa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Dâmboviţa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Dâmboviţa_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Dâmboviţa_obpophistcoll> .
 

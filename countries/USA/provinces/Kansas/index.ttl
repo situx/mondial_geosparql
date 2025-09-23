@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Kansas/cities/Topeka>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Kansas/cities/Wichita> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Kansas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Kansas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Kansas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Kansas_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Kansas_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Kansas_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Kansas_obpophistcoll> .
 

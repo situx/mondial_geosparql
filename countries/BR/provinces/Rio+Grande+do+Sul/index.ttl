@@ -31,10 +31,5 @@
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul/cities/Uruguaiana>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul/cities/Viamão> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul_obpophistcoll> .
 

@@ -15,7 +15,5 @@
     skos:altLabel "Ahmedabad" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Gujarat/cities/Ahmadabad_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Gujarat/cities/Ahmadabad_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Gujarat/cities/Ahmadabad_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Gujarat/cities/Ahmadabad_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Gujarat/cities/Ahmadabad_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Gujarat/cities/Ahmadabad_obpophistcoll> .
 

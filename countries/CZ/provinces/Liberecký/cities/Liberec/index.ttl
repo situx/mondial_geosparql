@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Neiße> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CZ/provinces/Liberecký/cities/Liberec_obele>,
         <http://www.semwebtech.org/mondial/countries/CZ/provinces/Liberecký/cities/Liberec_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Liberecký/cities/Liberec_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Liberecký/cities/Liberec_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Liberecký/cities/Liberec_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Liberecký/cities/Liberec_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Liberecký/cities/Liberec_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Liberecký/cities/Liberec_obpophistcoll> .
 

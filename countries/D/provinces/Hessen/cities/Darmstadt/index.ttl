@@ -13,6 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Darmstadt_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Darmstadt_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Darmstadt_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Darmstadt_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Darmstadt_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Darmstadt_obpophistcoll> .
 

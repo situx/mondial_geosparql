@@ -17,6 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/I/provinces/Lazio/cities/Latina>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Lazio/cities/Roma> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Lazio_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Lazio_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Lazio_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Lazio_obpophistcoll> .
 

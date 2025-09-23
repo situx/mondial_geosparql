@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CDN/provinces/Northwest+Territories/cities/Yellowknife> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CDN/provinces/Northwest+Territories/cities/Yellowknife> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/Northwest+Territories_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Northwest+Territories_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Northwest+Territories_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Northwest+Territories_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Northwest+Territories_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Northwest+Territories_obpophistcoll> .
 

@@ -15,9 +15,5 @@
     skos:altLabel "Prokopyevsk" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Kemerovskaya/cities/Prokopjevsk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Kemerovskaya/cities/Prokopjevsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kemerovskaya/cities/Prokopjevsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kemerovskaya/cities/Prokopjevsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kemerovskaya/cities/Prokopjevsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kemerovskaya/cities/Prokopjevsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kemerovskaya/cities/Prokopjevsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Kemerovskaya/cities/Prokopjevsk_obpophistcoll> .
 

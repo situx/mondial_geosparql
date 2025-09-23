@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Avellaneda_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Avellaneda_obele>,
         <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Avellaneda_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Avellaneda_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Avellaneda_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Avellaneda_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Avellaneda_obpophistcoll> .
 

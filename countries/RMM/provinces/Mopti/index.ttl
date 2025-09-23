@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RMM/provinces/Mopti/cities/Mopti> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RMM/provinces/Mopti/cities/Mopti> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RMM/provinces/Mopti_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Mopti_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Mopti_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Mopti_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Mopti_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Mopti_obpophistcoll> .
 

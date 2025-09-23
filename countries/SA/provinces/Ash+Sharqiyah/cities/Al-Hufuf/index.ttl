@@ -15,7 +15,5 @@
     skos:prefLabel " ٱلْهُفُوف" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SA/provinces/Ash+Sharqiyah/cities/Al-Hufuf_obele>,
         <http://www.semwebtech.org/mondial/countries/SA/provinces/Ash+Sharqiyah/cities/Al-Hufuf_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Ash+Sharqiyah/cities/Al-Hufuf_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Ash+Sharqiyah/cities/Al-Hufuf_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Ash+Sharqiyah/cities/Al-Hufuf_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SA/provinces/Ash+Sharqiyah/cities/Al-Hufuf_obpophistcoll> .
 

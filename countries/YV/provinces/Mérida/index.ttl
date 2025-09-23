@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/YV/provinces/Mérida/cities/Mérida> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/YV/provinces/Mérida/cities/Mérida> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Mérida_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Mérida_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Mérida_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Mérida_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Mérida_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Mérida_obpophistcoll> .
 

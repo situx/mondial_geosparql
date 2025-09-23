@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Landschaft/cities/Liestal> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Landschaft/cities/Liestal> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Landschaft_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Landschaft_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Landschaft_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Landschaft_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Landschaft_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Landschaft_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CH/provinces/Basel-Landschaft_obpophistcoll> .
 

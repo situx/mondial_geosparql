@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/South+China+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Hainan> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Hainan/cities/Sanya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hainan/cities/Sanya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hainan/cities/Sanya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hainan/cities/Sanya_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hainan/cities/Sanya_obpophistcoll> .
 

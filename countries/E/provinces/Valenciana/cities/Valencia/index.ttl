@@ -16,9 +16,5 @@
         <http://www.semwebtech.org/mondial/seas/Mediterranean+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Valencia_obele>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Valencia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Valencia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Valencia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Valencia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Valencia_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Valencia_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Valencia_obpophistcoll> .
 

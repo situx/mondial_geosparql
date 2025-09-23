@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Mediterranean+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Friuli-Venezia+Giulia/cities/Trieste_obele>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Friuli-Venezia+Giulia/cities/Trieste_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Friuli-Venezia+Giulia/cities/Trieste_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Friuli-Venezia+Giulia/cities/Trieste_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Friuli-Venezia+Giulia/cities/Trieste_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Friuli-Venezia+Giulia/cities/Trieste_obpophistcoll> .
 

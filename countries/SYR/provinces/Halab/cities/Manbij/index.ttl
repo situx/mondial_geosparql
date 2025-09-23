@@ -15,5 +15,5 @@
     skos:prefLabel "منبج" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SYR/provinces/Halab/cities/Manbij_obele>,
         <http://www.semwebtech.org/mondial/countries/SYR/provinces/Halab/cities/Manbij_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Halab/cities/Manbij_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Halab/cities/Manbij_obpophistcoll> .
 

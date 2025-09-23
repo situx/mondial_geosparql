@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Gulf+of+Mexico> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Veracruz/cities/Coatzacoalcos_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Veracruz/cities/Coatzacoalcos_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Veracruz/cities/Coatzacoalcos_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Veracruz/cities/Coatzacoalcos_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Veracruz/cities/Coatzacoalcos_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Veracruz/cities/Coatzacoalcos_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Veracruz/cities/Coatzacoalcos_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Veracruz/cities/Coatzacoalcos_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Veracruz/cities/Coatzacoalcos_obpophistcoll> .
 

@@ -16,6 +16,5 @@
         "Kaxgar" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Kashgar_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Kashgar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Kashgar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Kashgar_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Kashgar_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CO/provinces/Casanare/cities/Yopal> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CO/provinces/Casanare/cities/Yopal> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Casanare_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Casanare_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Casanare_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Casanare_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Casanare_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Casanare_obpophistcoll> .
 

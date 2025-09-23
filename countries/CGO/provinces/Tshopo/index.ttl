@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tshopo/cities/Kisangani> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tshopo/cities/Kisangani> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tshopo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tshopo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tshopo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tshopo_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tshopo_obpophistcoll> .
 

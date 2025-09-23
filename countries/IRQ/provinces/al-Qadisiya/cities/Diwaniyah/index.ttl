@@ -17,7 +17,5 @@
     skos:altLabel "Ad Diwaniyah" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Qadisiya/cities/Diwaniyah_obele>,
         <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Qadisiya/cities/Diwaniyah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Qadisiya/cities/Diwaniyah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Qadisiya/cities/Diwaniyah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Qadisiya/cities/Diwaniyah_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Qadisiya/cities/Diwaniyah_obpophistcoll> .
 

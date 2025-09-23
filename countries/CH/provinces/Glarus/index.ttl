@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CH/provinces/Glarus/cities/Glarus> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CH/provinces/Glarus/cities/Glarus> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CH/provinces/Glarus_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Glarus_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Glarus_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Glarus_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Glarus_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Glarus_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CH/provinces/Glarus_obpophistcoll> .
 

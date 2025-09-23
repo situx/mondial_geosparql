@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Mino> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/Ourense_obele>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/Ourense_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/Ourense_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/Ourense_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/Ourense_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/Ourense_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/Ourense_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/Ourense_obpophistcoll> .
 

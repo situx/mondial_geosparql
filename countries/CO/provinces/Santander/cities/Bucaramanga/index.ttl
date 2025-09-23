@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Bucaramanga_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Bucaramanga_obele>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Bucaramanga_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Bucaramanga_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Bucaramanga_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Bucaramanga_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Bucaramanga_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Bucaramanga_obpophistcoll> .
 

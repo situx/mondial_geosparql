@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/R/provinces/Tulskaya/cities/Novomoskovsk_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Tulskaya/cities/Novomoskovsk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Tulskaya/cities/Novomoskovsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tulskaya/cities/Novomoskovsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tulskaya/cities/Novomoskovsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tulskaya/cities/Novomoskovsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tulskaya/cities/Novomoskovsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tulskaya/cities/Novomoskovsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Tulskaya/cities/Novomoskovsk_obpophistcoll> .
 

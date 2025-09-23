@@ -15,7 +15,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Sumatra> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Utara/cities/Binjai_obele>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Utara/cities/Binjai_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Utara/cities/Binjai_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Utara/cities/Binjai_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Utara/cities/Binjai_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Utara/cities/Binjai_obpophistcoll> .
 

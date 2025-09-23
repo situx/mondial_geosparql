@@ -18,9 +18,5 @@
     skos:prefLabel "Нижний Тагил" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Nizhny+Tagil_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Nizhny+Tagil_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Nizhny+Tagil_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Nizhny+Tagil_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Nizhny+Tagil_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Nizhny+Tagil_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Nizhny+Tagil_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Nizhny+Tagil_obpophistcoll> .
 

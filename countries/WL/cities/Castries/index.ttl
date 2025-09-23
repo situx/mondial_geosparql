@@ -16,5 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Saint+Lucia> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/WL/cities/Castries_obele>,
         <http://www.semwebtech.org/mondial/countries/WL/cities/Castries_obpop>,
-        <http://www.semwebtech.org/mondial/countries/WL/cities/Castries_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/WL/cities/Castries_obpophistcoll> .
 

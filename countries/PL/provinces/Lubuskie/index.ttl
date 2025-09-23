@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubuskie/cities/Gorzów+Wielkopolski>,
         <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubuskie/cities/Zielona+Góra> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubuskie_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubuskie_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubuskie_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubuskie_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubuskie_obpophistcoll> .
 

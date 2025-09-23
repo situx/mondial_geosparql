@@ -15,8 +15,5 @@
     skos:prefLabel "Λάρισα" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias/cities/Larissa_obele>,
         <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias/cities/Larissa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias/cities/Larissa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias/cities/Larissa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias/cities/Larissa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias/cities/Larissa_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias/cities/Larissa_obpophistcoll> .
 

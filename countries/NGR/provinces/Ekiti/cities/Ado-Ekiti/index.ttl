@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ekiti/cities/Ado-Ekiti_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ekiti/cities/Ado-Ekiti_obele>,
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ekiti/cities/Ado-Ekiti_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ekiti/cities/Ado-Ekiti_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ekiti/cities/Ado-Ekiti_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ekiti/cities/Ado-Ekiti_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Ekiti/cities/Ado-Ekiti_obpophistcoll> .
 

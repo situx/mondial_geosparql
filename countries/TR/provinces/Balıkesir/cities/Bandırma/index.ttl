@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Marmara+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Balıkesir/cities/Bandırma_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Balıkesir/cities/Bandırma_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Balıkesir/cities/Bandırma_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Balıkesir/cities/Bandırma_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Balıkesir/cities/Bandırma_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Balıkesir/cities/Bandırma_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Balıkesir/cities/Bandırma_obpophistcoll> .
 

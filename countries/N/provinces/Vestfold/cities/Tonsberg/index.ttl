@@ -14,5 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/N/provinces/Vestfold/cities/Tonsberg_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Skagerrak> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Vestfold/cities/Tonsberg_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Vestfold/cities/Tonsberg_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Vestfold/cities/Tonsberg_obpophistcoll> .
 

@@ -14,5 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Mariestad_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Vänern> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Mariestad_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Mariestad_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Mariestad_obpophistcoll> .
 

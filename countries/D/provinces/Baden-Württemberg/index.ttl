@@ -24,9 +24,5 @@
         <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Stuttgart>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Ulm> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg_obpophistcoll> .
 

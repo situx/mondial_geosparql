@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RCB/provinces/Bouenza/cities/Madingou> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RCB/provinces/Bouenza/cities/Madingou> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCB/provinces/Bouenza_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Bouenza_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Bouenza_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Bouenza_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Bouenza_obpophistcoll> .
 

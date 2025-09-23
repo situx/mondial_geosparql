@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Benguela/cities/Lobito_obele>,
         <http://www.semwebtech.org/mondial/countries/ANG/provinces/Benguela/cities/Lobito_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Benguela/cities/Lobito_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Benguela/cities/Lobito_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Benguela/cities/Lobito_obpophistcoll> .
 

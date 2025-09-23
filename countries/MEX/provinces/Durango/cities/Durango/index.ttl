@@ -15,10 +15,5 @@
     skos:altLabel "Victoria de Durango" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Durango/cities/Durango_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Durango/cities/Durango_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Durango/cities/Durango_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Durango/cities/Durango_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Durango/cities/Durango_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Durango/cities/Durango_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Durango/cities/Durango_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Durango/cities/Durango_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Durango/cities/Durango_obpophistcoll> .
 

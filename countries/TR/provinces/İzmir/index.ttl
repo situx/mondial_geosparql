@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/İzmir/cities/Menemen>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/İzmir/cities/İzmir> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/İzmir_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/İzmir_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/İzmir_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/İzmir_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/İzmir_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/İzmir_obpophistcoll> .
 

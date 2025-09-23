@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Bréscia_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Bréscia_obele>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Bréscia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Bréscia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Bréscia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Bréscia_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Bréscia_obpophistcoll> .
 

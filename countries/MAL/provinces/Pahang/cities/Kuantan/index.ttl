@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/South+China+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAL/provinces/Pahang/cities/Kuantan_obele>,
         <http://www.semwebtech.org/mondial/countries/MAL/provinces/Pahang/cities/Kuantan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Pahang/cities/Kuantan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Pahang/cities/Kuantan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Pahang/cities/Kuantan_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Pahang/cities/Kuantan_obpophistcoll> .
 

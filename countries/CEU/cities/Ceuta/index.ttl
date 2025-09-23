@@ -14,11 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CEU/cities/Ceuta_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Mediterranean+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CEU/cities/Ceuta_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CEU/cities/Ceuta_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CEU/cities/Ceuta_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CEU/cities/Ceuta_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CEU/cities/Ceuta_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CEU/cities/Ceuta_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/CEU/cities/Ceuta_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/CEU/cities/Ceuta_obpophist6> .
+        <http://www.semwebtech.org/mondial/countries/CEU/cities/Ceuta_obpophistcoll> .
 

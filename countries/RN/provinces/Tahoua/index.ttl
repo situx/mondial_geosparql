@@ -18,7 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/RN/provinces/Tahoua/cities/Illéla>,
         <http://www.semwebtech.org/mondial/countries/RN/provinces/Tahoua/cities/Tahoua> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RN/provinces/Tahoua_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Tahoua_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Tahoua_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Tahoua_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RN/provinces/Tahoua_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RCB/provinces/Cuvette-Ouest/cities/Ewo> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RCB/provinces/Cuvette-Ouest/cities/Ewo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCB/provinces/Cuvette-Ouest_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Cuvette-Ouest_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Cuvette-Ouest_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Cuvette-Ouest_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Cuvette-Ouest_obpophistcoll> .
 

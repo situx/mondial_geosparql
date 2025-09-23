@@ -16,9 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Maas> ;
     skos:altLabel "Luik" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/B/provinces/Liège/cities/Liège_obpop>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Liège/cities/Liège_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Liège/cities/Liège_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Liège/cities/Liège_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Liège/cities/Liège_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Liège/cities/Liège_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Liège/cities/Liège_obpophistcoll> .
 

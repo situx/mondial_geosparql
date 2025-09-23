@@ -16,9 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Te+Waka-a-Maui+(South+Island)> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NZ/cities/Christchurch_obele>,
         <http://www.semwebtech.org/mondial/countries/NZ/cities/Christchurch_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NZ/cities/Christchurch_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NZ/cities/Christchurch_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NZ/cities/Christchurch_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NZ/cities/Christchurch_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/NZ/cities/Christchurch_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/NZ/cities/Christchurch_obpophistcoll> .
 

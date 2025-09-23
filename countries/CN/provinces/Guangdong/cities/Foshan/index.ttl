@@ -17,8 +17,5 @@
     skos:prefLabel "佛山市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Foshan_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Foshan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Foshan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Foshan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Foshan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Foshan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Foshan_obpophistcoll> .
 

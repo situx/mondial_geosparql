@@ -17,8 +17,5 @@
     skos:prefLabel "თბილისი" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GE/cities/Tbilisi_obele>,
         <http://www.semwebtech.org/mondial/countries/GE/cities/Tbilisi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GE/cities/Tbilisi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GE/cities/Tbilisi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GE/cities/Tbilisi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GE/cities/Tbilisi_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GE/cities/Tbilisi_obpophistcoll> .
 

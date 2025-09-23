@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/N/provinces/Troms/cities/Tromsø> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/N/provinces/Troms/cities/Tromsø> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Troms_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Troms_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Troms_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Troms_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Troms_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Troms_obpophistcoll> .
 

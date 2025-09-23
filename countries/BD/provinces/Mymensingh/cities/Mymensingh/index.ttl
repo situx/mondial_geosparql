@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BD/provinces/Mymensingh/cities/Mymensingh_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BD/provinces/Mymensingh/cities/Mymensingh_obele>,
         <http://www.semwebtech.org/mondial/countries/BD/provinces/Mymensingh/cities/Mymensingh_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Mymensingh/cities/Mymensingh_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Mymensingh/cities/Mymensingh_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Mymensingh/cities/Mymensingh_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/BD/provinces/Mymensingh/cities/Mymensingh_obpophistcoll> .
 

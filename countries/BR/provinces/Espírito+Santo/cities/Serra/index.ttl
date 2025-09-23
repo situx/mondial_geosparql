@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Serra_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Serra_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Serra_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Serra_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Serra_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Serra_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Serra_obpophistcoll> .
 

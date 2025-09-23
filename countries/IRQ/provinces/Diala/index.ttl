@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Diala/cities/Baqubah> ;
     skos:prefLabel "ديالى" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Diala_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Diala_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Diala_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Diala_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Diala_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Diala_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Diala_obpophistcoll> .
 

@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Rio+Bogota> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Bogotá+Distrito+Especial/cities/Bogotá_obele>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Bogotá+Distrito+Especial/cities/Bogotá_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bogotá+Distrito+Especial/cities/Bogotá_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bogotá+Distrito+Especial/cities/Bogotá_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bogotá+Distrito+Especial/cities/Bogotá_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bogotá+Distrito+Especial/cities/Bogotá_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bogotá+Distrito+Especial/cities/Bogotá_obpophistcoll> .
 

@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Caribbean+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PA/provinces/Colón/cities/Colón_obele>,
         <http://www.semwebtech.org/mondial/countries/PA/provinces/Colón/cities/Colón_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Colón/cities/Colón_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Colón/cities/Colón_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Colón/cities/Colón_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PA/provinces/Colón/cities/Colón_obpophistcoll> .
 

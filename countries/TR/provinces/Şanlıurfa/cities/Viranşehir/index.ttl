@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/TR/provinces/Şanlıurfa/cities/Viranşehir_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Şanlıurfa/cities/Viranşehir_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Şanlıurfa/cities/Viranşehir_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Şanlıurfa/cities/Viranşehir_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Şanlıurfa/cities/Viranşehir_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Şanlıurfa/cities/Viranşehir_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Şanlıurfa/cities/Viranşehir_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Şanlıurfa/cities/Viranşehir_obpophistcoll> .
 

@@ -16,8 +16,5 @@
         <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará/cities/Belém_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará/cities/Belém_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará/cities/Belém_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará/cities/Belém_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará/cities/Belém_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará/cities/Belém_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará/cities/Belém_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/Z/provinces/Luapula/cities/Mansa> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/Z/provinces/Luapula/cities/Mansa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/Z/provinces/Luapula_obpop>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Luapula_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Luapula_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Luapula_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Luapula_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/Z/provinces/Luapula_obpophistcoll> .
 

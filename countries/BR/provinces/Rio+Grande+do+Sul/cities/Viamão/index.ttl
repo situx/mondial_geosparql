@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul/cities/Viamão_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul/cities/Viamão_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul/cities/Viamão_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul/cities/Viamão_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul/cities/Viamão_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul/cities/Viamão_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul/cities/Viamão_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul/cities/Viamão_obpophistcoll> .
 

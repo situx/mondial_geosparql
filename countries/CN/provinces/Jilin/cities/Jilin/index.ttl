@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Songhua> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Jilin/cities/Jilin_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Jilin/cities/Jilin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jilin/cities/Jilin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jilin/cities/Jilin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jilin/cities/Jilin_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jilin/cities/Jilin_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jilin/cities/Jilin_obpophistcoll> .
 

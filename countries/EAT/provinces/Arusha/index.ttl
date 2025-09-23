@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Arusha/cities/Arusha> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAT/provinces/Arusha/cities/Arusha> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Arusha_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Arusha_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Arusha_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Arusha_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Arusha_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Arusha_obpophistcoll> .
 

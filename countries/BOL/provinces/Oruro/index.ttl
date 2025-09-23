@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/BOL/provinces/Oruro/cities/Oruro> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BOL/provinces/Oruro/cities/Oruro> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BOL/provinces/Oruro_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Oruro_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Oruro_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Oruro_obpophistcoll> .
 

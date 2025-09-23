@@ -18,9 +18,5 @@
     skos:prefLabel "Брянск" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Bryanskaya/cities/Bryansk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Bryanskaya/cities/Bryansk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bryanskaya/cities/Bryansk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bryanskaya/cities/Bryansk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bryanskaya/cities/Bryansk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bryanskaya/cities/Bryansk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bryanskaya/cities/Bryansk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Bryanskaya/cities/Bryansk_obpophistcoll> .
 

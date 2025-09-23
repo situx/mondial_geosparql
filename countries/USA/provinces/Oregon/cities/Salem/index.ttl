@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/Oregon/cities/Salem_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Oregon/cities/Salem_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Oregon/cities/Salem_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Oregon/cities/Salem_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Oregon/cities/Salem_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Oregon/cities/Salem_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Oregon/cities/Salem_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Oregon/cities/Salem_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Oregon/cities/Salem_obpophistcoll> .
 

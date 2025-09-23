@@ -14,9 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa/cities/Espoo_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Baltic+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa/cities/Espoo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa/cities/Espoo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa/cities/Espoo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa/cities/Espoo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa/cities/Espoo_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa/cities/Espoo_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Uusimaa/cities/Espoo_obpophistcoll> .
 

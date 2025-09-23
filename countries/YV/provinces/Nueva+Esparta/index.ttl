@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/YV/provinces/Nueva+Esparta/cities/La+Asuncion>,
         <http://www.semwebtech.org/mondial/countries/YV/provinces/Nueva+Esparta/cities/Porlamar> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Nueva+Esparta_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Nueva+Esparta_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Nueva+Esparta_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Nueva+Esparta_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Nueva+Esparta_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Nueva+Esparta_obpophistcoll> .
 

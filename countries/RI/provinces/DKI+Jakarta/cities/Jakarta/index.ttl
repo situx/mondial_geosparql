@@ -16,7 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Java> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/DKI+Jakarta/cities/Jakarta_obele>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/DKI+Jakarta/cities/Jakarta_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/DKI+Jakarta/cities/Jakarta_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/DKI+Jakarta/cities/Jakarta_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/DKI+Jakarta/cities/Jakarta_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/DKI+Jakarta/cities/Jakarta_obpophistcoll> .
 

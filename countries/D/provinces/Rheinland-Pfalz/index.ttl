@@ -20,9 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Mainz>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Trier> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz_obpophistcoll> .
 

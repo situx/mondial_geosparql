@@ -15,7 +15,5 @@
     skos:altLabel "Bengaluru" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Karnataka/cities/Bangalore_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Karnataka/cities/Bangalore_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Karnataka/cities/Bangalore_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Karnataka/cities/Bangalore_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Karnataka/cities/Bangalore_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Karnataka/cities/Bangalore_obpophistcoll> .
 

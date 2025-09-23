@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Argun> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Hailar_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Hailar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Hailar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Hailar_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Hailar_obpophistcoll> .
 

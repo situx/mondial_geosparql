@@ -15,8 +15,5 @@
     skos:altLabel "Wāh Cantonment" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Wah+Cantonment_obele>,
         <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Wah+Cantonment_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Wah+Cantonment_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Wah+Cantonment_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Wah+Cantonment_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Wah+Cantonment_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Wah+Cantonment_obpophistcoll> .
 

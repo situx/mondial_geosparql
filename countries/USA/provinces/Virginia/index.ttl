@@ -23,9 +23,5 @@
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Richmond>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Virginia+Beach> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia_obpophistcoll> .
 

@@ -16,9 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Oahu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Hawaii/cities/Honolulu_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Hawaii/cities/Honolulu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Hawaii/cities/Honolulu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Hawaii/cities/Honolulu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Hawaii/cities/Honolulu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Hawaii/cities/Honolulu_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Hawaii/cities/Honolulu_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Hawaii/cities/Honolulu_obpophistcoll> .
 

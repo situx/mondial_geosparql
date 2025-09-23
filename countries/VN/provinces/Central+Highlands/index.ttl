@@ -15,6 +15,5 @@
     geo:hasMetricArea 54641.1 ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/VN/provinces/Central+Highlands/cities/Buon+Ma+Thuot> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/VN/provinces/Central+Highlands_obpop>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Central+Highlands_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Central+Highlands_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Central+Highlands_obpophistcoll> .
 

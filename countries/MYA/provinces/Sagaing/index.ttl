@@ -19,7 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/MYA/provinces/Sagaing/cities/Sagaing> ;
     skos:prefLabel "စစ်ကိုင်းတိုင်းဒေသကြီး" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYA/provinces/Sagaing_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Sagaing_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Sagaing_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Sagaing_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Sagaing_obpophistcoll> .
 

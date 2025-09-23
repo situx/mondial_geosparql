@@ -16,6 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Iller> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Ulm_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Ulm_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Ulm_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Ulm_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Ulm_obpophistcoll> .
 

@@ -15,7 +15,5 @@
     skos:altLabel "Tirane" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AL/cities/Tirana_obele>,
         <http://www.semwebtech.org/mondial/countries/AL/cities/Tirana_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AL/cities/Tirana_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AL/cities/Tirana_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AL/cities/Tirana_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/AL/cities/Tirana_obpophistcoll> .
 

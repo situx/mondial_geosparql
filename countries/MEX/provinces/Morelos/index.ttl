@@ -18,10 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Morelos/cities/Cuernavaca>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Morelos/cities/Jiutepec> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Morelos_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Morelos_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Morelos_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Morelos_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Morelos_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Morelos_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Morelos_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Morelos_obpophistcoll> .
 

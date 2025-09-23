@@ -15,8 +15,5 @@
     skos:prefLabel "Ош" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KG/cities/Osh_obele>,
         <http://www.semwebtech.org/mondial/countries/KG/cities/Osh_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KG/cities/Osh_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KG/cities/Osh_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KG/cities/Osh_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/KG/cities/Osh_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/KG/cities/Osh_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RCH/provinces/Tarapacá/cities/Iquique> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RCH/provinces/Tarapacá/cities/Iquique> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCH/provinces/Tarapacá_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Tarapacá_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Tarapacá_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Tarapacá_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Tarapacá_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Tarapacá_obpophistcoll> .
 

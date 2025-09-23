@@ -18,9 +18,5 @@
     skos:prefLabel "Астрахань" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Astrakhanskaya/cities/Astrakhan_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Astrakhanskaya/cities/Astrakhan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Astrakhanskaya/cities/Astrakhan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Astrakhanskaya/cities/Astrakhan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Astrakhanskaya/cities/Astrakhan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Astrakhanskaya/cities/Astrakhan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Astrakhanskaya/cities/Astrakhan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Astrakhanskaya/cities/Astrakhan_obpophistcoll> .
 

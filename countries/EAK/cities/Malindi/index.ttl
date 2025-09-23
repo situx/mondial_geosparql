@@ -14,10 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/EAK/cities/Malindi_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Indian+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAK/cities/Malindi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAK/cities/Malindi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAK/cities/Malindi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAK/cities/Malindi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAK/cities/Malindi_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/EAK/cities/Malindi_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/EAK/cities/Malindi_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/EAK/cities/Malindi_obpophistcoll> .
 

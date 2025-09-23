@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Tambovskaya/cities/Tambov> ;
     skos:prefLabel "Тамбовская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Tambovskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tambovskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tambovskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tambovskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tambovskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tambovskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Tambovskaya_obpophistcoll> .
 

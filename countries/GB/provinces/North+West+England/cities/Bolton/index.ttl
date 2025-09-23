@@ -14,7 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GB/provinces/North+West+England/cities/Bolton_geom> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Great+Britain> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GB/provinces/North+West+England/cities/Bolton_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/North+West+England/cities/Bolton_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/North+West+England/cities/Bolton_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/North+West+England/cities/Bolton_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/North+West+England/cities/Bolton_obpophistcoll> .
 

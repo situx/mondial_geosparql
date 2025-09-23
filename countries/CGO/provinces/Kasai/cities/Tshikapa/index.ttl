@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Kasai> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai/cities/Tshikapa_obele>,
         <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai/cities/Tshikapa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai/cities/Tshikapa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai/cities/Tshikapa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai/cities/Tshikapa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai/cities/Tshikapa_obpophistcoll> .
 

@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/East+China+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Zhoushan> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Zhejiang/cities/Zhoushan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Zhejiang/cities/Zhoushan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Zhejiang/cities/Zhoushan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Zhejiang/cities/Zhoushan_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Zhejiang/cities/Zhoushan_obpophistcoll> .
 

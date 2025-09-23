@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Yuan+Jiang> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Changde_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Changde_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Changde_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Changde_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Changde_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Changde_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hunan/cities/Changde_obpophistcoll> .
 

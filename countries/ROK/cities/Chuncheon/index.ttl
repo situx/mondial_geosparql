@@ -16,10 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Bukhangang> ;
     skos:prefLabel "춘천시" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ROK/cities/Chuncheon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Chuncheon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Chuncheon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Chuncheon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Chuncheon_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Chuncheon_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Chuncheon_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Chuncheon_obpophistcoll> .
 

@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RA/provinces/Santiago+de+Estero/cities/Santiago+del+Estero> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RA/provinces/Santiago+de+Estero/cities/Santiago+del+Estero> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Santiago+de+Estero_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Santiago+de+Estero_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Santiago+de+Estero_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Santiago+de+Estero_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Santiago+de+Estero_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Santiago+de+Estero_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Santiago+de+Estero_obpophistcoll> .
 

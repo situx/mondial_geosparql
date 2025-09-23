@@ -15,9 +15,5 @@
     skos:prefLabel "Івано-Франківськ" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Ivano-Frankivska/cities/Ivano-Frankivsk_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Ivano-Frankivska/cities/Ivano-Frankivsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Ivano-Frankivska/cities/Ivano-Frankivsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Ivano-Frankivska/cities/Ivano-Frankivsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Ivano-Frankivska/cities/Ivano-Frankivsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Ivano-Frankivska/cities/Ivano-Frankivsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Ivano-Frankivska/cities/Ivano-Frankivsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Ivano-Frankivska/cities/Ivano-Frankivsk_obpophistcoll> .
 

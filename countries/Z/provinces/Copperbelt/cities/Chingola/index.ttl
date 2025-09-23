@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Kafue> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/Z/provinces/Copperbelt/cities/Chingola_obele>,
         <http://www.semwebtech.org/mondial/countries/Z/provinces/Copperbelt/cities/Chingola_obpop>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Copperbelt/cities/Chingola_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Copperbelt/cities/Chingola_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Copperbelt/cities/Chingola_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Copperbelt/cities/Chingola_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/Z/provinces/Copperbelt/cities/Chingola_obpophistcoll> .
 

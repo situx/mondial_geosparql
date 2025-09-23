@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Hunedoara/cities/Deva> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Hunedoara/cities/Deva> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Hunedoara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Hunedoara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Hunedoara_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Hunedoara_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/N/provinces/Rogaland/cities/Stavanger> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/N/provinces/Rogaland/cities/Stavanger> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Rogaland_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Rogaland_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Rogaland_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Rogaland_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Rogaland_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Rogaland_obpophistcoll> .
 

@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Floridablanca_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Floridablanca_obele>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Floridablanca_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Floridablanca_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Floridablanca_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Floridablanca_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Floridablanca_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Floridablanca_obpophistcoll> .
 

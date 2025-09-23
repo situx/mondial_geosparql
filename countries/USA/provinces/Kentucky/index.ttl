@@ -18,9 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Kentucky/cities/Lexington>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Kentucky/cities/Louisville> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Kentucky_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Kentucky_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Kentucky_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Kentucky_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Kentucky_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Kentucky_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Kentucky_obpophistcoll> .
 

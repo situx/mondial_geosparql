@@ -15,7 +15,5 @@
     skos:altLabel "Sulaymaniyah" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/As+Sulaymaniyah/cities/As+Sulaymaniyah_obele>,
         <http://www.semwebtech.org/mondial/countries/IRQ/provinces/As+Sulaymaniyah/cities/As+Sulaymaniyah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/As+Sulaymaniyah/cities/As+Sulaymaniyah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/As+Sulaymaniyah/cities/As+Sulaymaniyah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/As+Sulaymaniyah/cities/As+Sulaymaniyah_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/As+Sulaymaniyah/cities/As+Sulaymaniyah_obpophistcoll> .
 

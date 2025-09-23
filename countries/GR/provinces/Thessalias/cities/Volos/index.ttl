@@ -17,8 +17,5 @@
     skos:prefLabel "Βόλος" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias/cities/Volos_obele>,
         <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias/cities/Volos_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias/cities/Volos_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias/cities/Volos_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias/cities/Volos_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias/cities/Volos_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Thessalias/cities/Volos_obpophistcoll> .
 

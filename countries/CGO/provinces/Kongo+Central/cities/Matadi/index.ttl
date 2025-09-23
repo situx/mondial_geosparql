@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Congo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kongo+Central/cities/Matadi_obele>,
         <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kongo+Central/cities/Matadi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kongo+Central/cities/Matadi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kongo+Central/cities/Matadi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kongo+Central/cities/Matadi_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kongo+Central/cities/Matadi_obpophistcoll> .
 

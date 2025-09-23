@@ -14,9 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/J/provinces/Yamaguchi/cities/Yamaguchi_geom> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Honshu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Yamaguchi/cities/Yamaguchi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamaguchi/cities/Yamaguchi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamaguchi/cities/Yamaguchi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamaguchi/cities/Yamaguchi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamaguchi/cities/Yamaguchi_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamaguchi/cities/Yamaguchi_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamaguchi/cities/Yamaguchi_obpophistcoll> .
 

@@ -12,5 +12,5 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NGR/provinces/Anambra/cities/Awka_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Anambra/cities/Awka_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Anambra/cities/Awka_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Anambra/cities/Awka_obpophistcoll> .
 

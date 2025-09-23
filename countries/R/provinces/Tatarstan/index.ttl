@@ -21,9 +21,5 @@
         <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan/cities/Nižnekamsk> ;
     skos:prefLabel "Татарстан" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan_obpophistcoll> .
 

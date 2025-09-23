@@ -18,7 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/RSA/provinces/Eastern+Cape/cities/Buffalo+City>,
         <http://www.semwebtech.org/mondial/countries/RSA/provinces/Eastern+Cape/cities/Nelson+Mandela+Bay> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RSA/provinces/Eastern+Cape_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Eastern+Cape_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Eastern+Cape_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Eastern+Cape_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Eastern+Cape_obpophistcoll> .
 

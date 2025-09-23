@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CI/provinces/Bas-Sassandra/cities/San-Pedro> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CI/provinces/Bas-Sassandra/cities/San-Pedro> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CI/provinces/Bas-Sassandra_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Bas-Sassandra_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Bas-Sassandra_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Bas-Sassandra_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Bas-Sassandra_obpophistcoll> .
 

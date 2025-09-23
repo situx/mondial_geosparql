@@ -20,8 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun/cities/Ilesha>,
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun/cities/Oshogbo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun_obpophistcoll> .
 

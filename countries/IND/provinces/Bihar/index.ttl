@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/IND/provinces/Bihar/cities/Patna> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IND/provinces/Bihar/cities/Patna> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Bihar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Bihar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Bihar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Bihar_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Bihar_obpophistcoll> .
 

@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/J/provinces/Shizuoka/cities/Shizuoka> ;
     skos:prefLabel "静岡県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Shizuoka_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shizuoka_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shizuoka_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shizuoka_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shizuoka_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shizuoka_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Shizuoka_obpophistcoll> .
 

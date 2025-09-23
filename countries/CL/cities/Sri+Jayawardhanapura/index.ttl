@@ -19,7 +19,5 @@
         "Sri Jayewardenepura" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CL/cities/Sri+Jayawardhanapura_obele>,
         <http://www.semwebtech.org/mondial/countries/CL/cities/Sri+Jayawardhanapura_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CL/cities/Sri+Jayawardhanapura_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CL/cities/Sri+Jayawardhanapura_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CL/cities/Sri+Jayawardhanapura_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CL/cities/Sri+Jayawardhanapura_obpophistcoll> .
 

@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Fongafale> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TUV/cities/Funafuti_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TUV/cities/Funafuti_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TUV/cities/Funafuti_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TUV/cities/Funafuti_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TUV/cities/Funafuti_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TUV/cities/Funafuti_obpophistcoll> .
 

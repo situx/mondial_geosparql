@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Neckar> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Stuttgart_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Stuttgart_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Stuttgart_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Stuttgart_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Stuttgart_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Stuttgart_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Stuttgart_obpophistcoll> .
 

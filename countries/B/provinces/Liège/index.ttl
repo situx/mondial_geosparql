@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/B/provinces/Liège/cities/Liège> ;
     skos:altLabel "Luik" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/B/provinces/Liège_obpop>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Liège_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Liège_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Liège_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Liège_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Liège_obpophistcoll> .
 

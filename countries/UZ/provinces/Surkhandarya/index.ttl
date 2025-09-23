@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/UZ/provinces/Surkhandarya/cities/Termiz> ;
     skos:altLabel "Surxondaryo" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UZ/provinces/Surkhandarya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Surkhandarya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Surkhandarya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Surkhandarya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Surkhandarya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Surkhandarya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Surkhandarya_obpophistcoll> .
 

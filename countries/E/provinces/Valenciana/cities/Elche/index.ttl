@@ -15,9 +15,5 @@
     skos:altLabel "Elx" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Elche_obele>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Elche_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Elche_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Elche_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Elche_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Elche_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Elche_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Elche_obpophistcoll> .
 

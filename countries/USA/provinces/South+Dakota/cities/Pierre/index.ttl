@@ -16,9 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Missouri> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota/cities/Pierre_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota/cities/Pierre_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota/cities/Pierre_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota/cities/Pierre_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota/cities/Pierre_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota/cities/Pierre_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota/cities/Pierre_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota/cities/Pierre_obpophistcoll> .
 

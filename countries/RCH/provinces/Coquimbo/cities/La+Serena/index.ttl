@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCH/provinces/Coquimbo/cities/La+Serena_obele>,
         <http://www.semwebtech.org/mondial/countries/RCH/provinces/Coquimbo/cities/La+Serena_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Coquimbo/cities/La+Serena_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Coquimbo/cities/La+Serena_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Coquimbo/cities/La+Serena_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Coquimbo/cities/La+Serena_obpophistcoll> .
 

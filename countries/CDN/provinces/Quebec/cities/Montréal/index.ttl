@@ -16,8 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Île+de+Montréal> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec/cities/Montréal_obele>,
         <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec/cities/Montréal_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec/cities/Montréal_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec/cities/Montréal_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec/cities/Montréal_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec/cities/Montréal_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec/cities/Montréal_obpophistcoll> .
 

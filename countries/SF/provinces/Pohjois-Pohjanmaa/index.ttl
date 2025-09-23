@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Pohjanmaa/cities/Oulu> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Pohjanmaa/cities/Oulu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Pohjanmaa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Pohjanmaa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Pohjanmaa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Pohjanmaa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Pohjanmaa_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CI/provinces/Sassandra-Marahoué/cities/Daloa> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CI/provinces/Sassandra-Marahoué/cities/Daloa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CI/provinces/Sassandra-Marahoué_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Sassandra-Marahoué_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Sassandra-Marahoué_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Sassandra-Marahoué_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Sassandra-Marahoué_obpophistcoll> .
 

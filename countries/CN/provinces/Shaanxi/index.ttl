@@ -20,9 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Shaanxi/cities/Xianyang> ;
     skos:prefLabel "陕西" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Shaanxi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shaanxi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shaanxi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shaanxi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shaanxi_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shaanxi_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shaanxi_obpophistcoll> .
 

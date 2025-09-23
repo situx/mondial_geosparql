@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Ob> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Salekhard_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Salekhard_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Salekhard_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Salekhard_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Salekhard_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Salekhard_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Salekhard_obpophistcoll> .
 

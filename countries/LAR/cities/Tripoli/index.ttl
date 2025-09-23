@@ -17,9 +17,5 @@
     skos:prefLabel "طرابلس" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/LAR/cities/Tripoli_obele>,
         <http://www.semwebtech.org/mondial/countries/LAR/cities/Tripoli_obpop>,
-        <http://www.semwebtech.org/mondial/countries/LAR/cities/Tripoli_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/LAR/cities/Tripoli_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/LAR/cities/Tripoli_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/LAR/cities/Tripoli_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/LAR/cities/Tripoli_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/LAR/cities/Tripoli_obpophistcoll> .
 

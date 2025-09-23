@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/YV/provinces/Táchira/cities/San+Cristóbal_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Táchira/cities/San+Cristóbal_obele>,
         <http://www.semwebtech.org/mondial/countries/YV/provinces/Táchira/cities/San+Cristóbal_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Táchira/cities/San+Cristóbal_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Táchira/cities/San+Cristóbal_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Táchira/cities/San+Cristóbal_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Táchira/cities/San+Cristóbal_obpophistcoll> .
 

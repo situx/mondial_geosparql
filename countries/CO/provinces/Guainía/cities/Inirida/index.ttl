@@ -15,7 +15,5 @@
     skos:altLabel "Puerto Inirida" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Guainía/cities/Inirida_obele>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Guainía/cities/Inirida_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Guainía/cities/Inirida_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Guainía/cities/Inirida_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Guainía/cities/Inirida_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Guainía/cities/Inirida_obpophistcoll> .
 

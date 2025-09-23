@@ -15,8 +15,5 @@
     skos:prefLabel "贵阳市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Guizhou/cities/Guiyang_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Guizhou/cities/Guiyang_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guizhou/cities/Guiyang_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guizhou/cities/Guiyang_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guizhou/cities/Guiyang_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guizhou/cities/Guiyang_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guizhou/cities/Guiyang_obpophistcoll> .
 

@@ -16,10 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/East+China+Sea> ;
     skos:prefLabel "여수시" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ROK/cities/Yeosu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Yeosu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Yeosu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Yeosu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Yeosu_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Yeosu_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Yeosu_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Yeosu_obpophistcoll> .
 

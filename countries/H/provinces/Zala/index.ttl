@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/H/provinces/Zala/cities/Zalaegerszeg> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/H/provinces/Zala/cities/Zalaegerszeg> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/H/provinces/Zala_obpop>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Zala_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Zala_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Zala_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/H/provinces/Zala_obpophistcoll> .
 

@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Tisza> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/H/provinces/Jász-Nagykun-Szolnok/cities/Szolnok_obele>,
         <http://www.semwebtech.org/mondial/countries/H/provinces/Jász-Nagykun-Szolnok/cities/Szolnok_obpop>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Jász-Nagykun-Szolnok/cities/Szolnok_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Jász-Nagykun-Szolnok/cities/Szolnok_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Jász-Nagykun-Szolnok/cities/Szolnok_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/H/provinces/Jász-Nagykun-Szolnok/cities/Szolnok_obpophistcoll> .
 

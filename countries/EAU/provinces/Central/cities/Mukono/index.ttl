@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Lake+Victoria> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central/cities/Mukono_obele>,
         <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central/cities/Mukono_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central/cities/Mukono_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central/cities/Mukono_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central/cities/Mukono_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central/cities/Mukono_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central/cities/Mukono_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central/cities/Mukono_obpophistcoll> .
 

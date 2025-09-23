@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IR/provinces/Bushehr/cities/Bushehr> ;
     skos:prefLabel "بوشهر" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Bushehr_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Bushehr_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Bushehr_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Bushehr_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Bushehr_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Bushehr_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Bushehr_obpophistcoll> .
 

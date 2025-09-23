@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Gulf+of+Bengal> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Andhra+Pradesh/cities/Visakhapatnam_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Andhra+Pradesh/cities/Visakhapatnam_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Andhra+Pradesh/cities/Visakhapatnam_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Andhra+Pradesh/cities/Visakhapatnam_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Andhra+Pradesh/cities/Visakhapatnam_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Andhra+Pradesh/cities/Visakhapatnam_obpophistcoll> .
 

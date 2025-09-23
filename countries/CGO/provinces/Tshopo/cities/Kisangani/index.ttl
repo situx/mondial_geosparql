@@ -16,7 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Lualaba> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tshopo/cities/Kisangani_obele>,
         <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tshopo/cities/Kisangani_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tshopo/cities/Kisangani_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tshopo/cities/Kisangani_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tshopo/cities/Kisangani_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tshopo/cities/Kisangani_obpophistcoll> .
 

@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Miass> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Chelyabinskaya/cities/Miass_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Chelyabinskaya/cities/Miass_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chelyabinskaya/cities/Miass_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chelyabinskaya/cities/Miass_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chelyabinskaya/cities/Miass_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chelyabinskaya/cities/Miass_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chelyabinskaya/cities/Miass_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Chelyabinskaya/cities/Miass_obpophistcoll> .
 

@@ -16,9 +16,5 @@
     skos:prefLabel "Қарағанды" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Karaganda_obele>,
         <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Karaganda_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Karaganda_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Karaganda_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Karaganda_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Karaganda_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Karaganda_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Karaganda_obpophistcoll> .
 

@@ -22,9 +22,5 @@
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Michigan/cities/Sterling+Heights>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Michigan/cities/Warren> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Michigan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Michigan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Michigan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Michigan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Michigan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Michigan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Michigan_obpophistcoll> .
 

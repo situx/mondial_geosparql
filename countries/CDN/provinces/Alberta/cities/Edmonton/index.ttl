@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/North+Saskatchewan+River> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta/cities/Edmonton_obele>,
         <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta/cities/Edmonton_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta/cities/Edmonton_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta/cities/Edmonton_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta/cities/Edmonton_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta/cities/Edmonton_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta/cities/Edmonton_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta/cities/Edmonton_obpophistcoll> .
 

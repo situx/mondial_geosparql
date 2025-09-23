@@ -16,10 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Corse> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Corse/cities/Ajaccio_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Corse/cities/Ajaccio_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Corse/cities/Ajaccio_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Corse/cities/Ajaccio_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Corse/cities/Ajaccio_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Corse/cities/Ajaccio_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Corse/cities/Ajaccio_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Corse/cities/Ajaccio_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Corse/cities/Ajaccio_obpophistcoll> .
 

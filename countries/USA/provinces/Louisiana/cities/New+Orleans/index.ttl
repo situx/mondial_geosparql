@@ -15,15 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Mississippi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Louisiana/cities/New+Orleans_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Louisiana/cities/New+Orleans_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Louisiana/cities/New+Orleans_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Louisiana/cities/New+Orleans_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Louisiana/cities/New+Orleans_obpophist10>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Louisiana/cities/New+Orleans_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Louisiana/cities/New+Orleans_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Louisiana/cities/New+Orleans_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Louisiana/cities/New+Orleans_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Louisiana/cities/New+Orleans_obpophist6>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Louisiana/cities/New+Orleans_obpophist7>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Louisiana/cities/New+Orleans_obpophist8>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Louisiana/cities/New+Orleans_obpophist9> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Louisiana/cities/New+Orleans_obpophistcoll> .
 

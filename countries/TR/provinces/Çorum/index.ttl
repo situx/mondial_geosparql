@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Çorum/cities/Corum> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Çorum/cities/Corum> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Çorum_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çorum_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çorum_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çorum_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çorum_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çorum_obpophistcoll> .
 

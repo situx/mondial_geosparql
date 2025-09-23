@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Trabzon/cities/Trabzon> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Trabzon/cities/Trabzon> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Trabzon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Trabzon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Trabzon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Trabzon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Trabzon_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Trabzon_obpophistcoll> .
 

@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Ceará/cities/Sobral_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Ceará/cities/Sobral_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Ceará/cities/Sobral_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Ceará/cities/Sobral_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Ceará/cities/Sobral_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Ceará/cities/Sobral_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Ceará/cities/Sobral_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Ceará/cities/Sobral_obpophistcoll> .
 

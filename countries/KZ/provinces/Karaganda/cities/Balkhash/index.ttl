@@ -18,8 +18,5 @@
     skos:prefLabel "Балқаш" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Balkhash_obele>,
         <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Balkhash_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Balkhash_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Balkhash_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Balkhash_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Balkhash_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Balkhash_obpophistcoll> .
 

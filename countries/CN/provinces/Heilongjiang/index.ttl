@@ -22,9 +22,5 @@
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Qiqihar> ;
     skos:prefLabel "黑龙江" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang_obpophistcoll> .
 

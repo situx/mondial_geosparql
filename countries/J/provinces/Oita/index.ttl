@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Oita/cities/Oita> ;
     skos:prefLabel "大分県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Oita_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Oita_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Oita_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Oita_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Oita_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Oita_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Oita_obpophistcoll> .
 

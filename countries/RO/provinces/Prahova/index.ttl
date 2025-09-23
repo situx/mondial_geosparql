@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Prahova/cities/Ploieşti> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Prahova/cities/Ploieşti> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Prahova_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Prahova_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Prahova_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Prahova_obpophistcoll> .
 

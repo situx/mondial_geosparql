@@ -19,7 +19,5 @@
     skos:altLabel "Al Gezira" ;
     skos:prefLabel "الجزيرة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Jazīrah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Jazīrah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Jazīrah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Jazīrah_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Jazīrah_obpophistcoll> .
 

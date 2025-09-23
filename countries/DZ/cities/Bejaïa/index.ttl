@@ -17,7 +17,5 @@
     skos:prefLabel "بجاية" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DZ/cities/Bejaïa_obele>,
         <http://www.semwebtech.org/mondial/countries/DZ/cities/Bejaïa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Bejaïa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Bejaïa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Bejaïa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/DZ/cities/Bejaïa_obpophistcoll> .
 

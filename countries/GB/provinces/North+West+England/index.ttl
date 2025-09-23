@@ -30,8 +30,5 @@
         <http://www.semwebtech.org/mondial/countries/GB/provinces/North+West+England/cities/Warrington>,
         <http://www.semwebtech.org/mondial/countries/GB/provinces/North+West+England/cities/Wigan> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GB/provinces/North+West+England_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/North+West+England_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/North+West+England_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/North+West+England_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/North+West+England_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/North+West+England_obpophistcoll> .
 

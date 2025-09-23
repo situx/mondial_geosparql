@@ -18,9 +18,5 @@
     skos:prefLabel "Ульяновск" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Ulyanovskaya/cities/Ulyanovsk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Ulyanovskaya/cities/Ulyanovsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ulyanovskaya/cities/Ulyanovsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ulyanovskaya/cities/Ulyanovsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ulyanovskaya/cities/Ulyanovsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ulyanovskaya/cities/Ulyanovsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ulyanovskaya/cities/Ulyanovsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Ulyanovskaya/cities/Ulyanovsk_obpophistcoll> .
 

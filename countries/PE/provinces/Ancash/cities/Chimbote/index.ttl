@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PE/provinces/Ancash/cities/Chimbote_obele>,
         <http://www.semwebtech.org/mondial/countries/PE/provinces/Ancash/cities/Chimbote_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Ancash/cities/Chimbote_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Ancash/cities/Chimbote_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Ancash/cities/Chimbote_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Ancash/cities/Chimbote_obpophistcoll> .
 

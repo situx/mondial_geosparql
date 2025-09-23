@@ -17,8 +17,5 @@
     skos:prefLabel "重庆巿" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Chongqing/cities/Chongqing_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Chongqing/cities/Chongqing_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Chongqing/cities/Chongqing_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Chongqing/cities/Chongqing_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Chongqing/cities/Chongqing_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Chongqing/cities/Chongqing_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Chongqing/cities/Chongqing_obpophistcoll> .
 

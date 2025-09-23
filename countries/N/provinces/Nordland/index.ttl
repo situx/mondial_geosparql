@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/N/provinces/Nordland/cities/Bodø>,
         <http://www.semwebtech.org/mondial/countries/N/provinces/Nordland/cities/Narvik> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Nordland_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Nordland_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Nordland_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Nordland_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Nordland_obpophistcoll> .
 

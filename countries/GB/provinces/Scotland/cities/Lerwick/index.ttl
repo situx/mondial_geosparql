@@ -15,5 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/North+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Shetland+Mainland> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GB/provinces/Scotland/cities/Lerwick_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Scotland/cities/Lerwick_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/Scotland/cities/Lerwick_obpophistcoll> .
 

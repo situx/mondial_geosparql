@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RSA/provinces/North+West/cities/Mmabatho> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RSA/provinces/North+West/cities/Mmabatho> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RSA/provinces/North+West_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/North+West_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/North+West_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/North+West_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/North+West_obpophistcoll> .
 

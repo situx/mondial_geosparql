@@ -17,7 +17,5 @@
     skos:prefLabel "عنابة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DZ/cities/Annaba_obele>,
         <http://www.semwebtech.org/mondial/countries/DZ/cities/Annaba_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Annaba_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Annaba_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Annaba_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/DZ/cities/Annaba_obpophistcoll> .
 

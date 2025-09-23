@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Lake+Tanganjika> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BI/cities/Bujumbura_obele>,
         <http://www.semwebtech.org/mondial/countries/BI/cities/Bujumbura_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BI/cities/Bujumbura_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BI/cities/Bujumbura_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/BI/cities/Bujumbura_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kelantan/cities/Kota+Bahru> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kelantan/cities/Kota+Bahru> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kelantan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kelantan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kelantan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kelantan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kelantan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Kelantan_obpophistcoll> .
 

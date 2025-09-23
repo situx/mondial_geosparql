@@ -16,9 +16,5 @@
         <http://www.semwebtech.org/mondial/seas/Sea+of+Japan> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Hokkaido> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido/cities/Hakodate_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido/cities/Hakodate_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido/cities/Hakodate_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido/cities/Hakodate_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido/cities/Hakodate_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido/cities/Hakodate_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido/cities/Hakodate_obpophistcoll> .
 

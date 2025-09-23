@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/GH/provinces/Bono+East/cities/Techiman> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GH/provinces/Bono+East/cities/Techiman> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GH/provinces/Bono+East_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Bono+East_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Bono+East_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Bono+East_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Bono+East_obpophistcoll> .
 

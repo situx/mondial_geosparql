@@ -16,9 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Guadalcanal> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SOL/cities/Honiara_obele>,
         <http://www.semwebtech.org/mondial/countries/SOL/cities/Honiara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SOL/cities/Honiara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SOL/cities/Honiara_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SOL/cities/Honiara_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SOL/cities/Honiara_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/SOL/cities/Honiara_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/SOL/cities/Honiara_obpophistcoll> .
 

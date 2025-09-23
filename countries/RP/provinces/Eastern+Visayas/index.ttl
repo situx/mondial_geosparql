@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RP/provinces/Eastern+Visayas/cities/Tacloban> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RP/provinces/Eastern+Visayas/cities/Tacloban> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Eastern+Visayas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Eastern+Visayas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Eastern+Visayas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Eastern+Visayas_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Eastern+Visayas_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Eastern+Visayas_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Eastern+Visayas_obpophistcoll> .
 

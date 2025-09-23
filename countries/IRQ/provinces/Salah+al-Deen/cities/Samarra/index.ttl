@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Tigris> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Salah+al-Deen/cities/Samarra_obele>,
         <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Salah+al-Deen/cities/Samarra_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Salah+al-Deen/cities/Samarra_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Salah+al-Deen/cities/Samarra_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Salah+al-Deen/cities/Samarra_obpophistcoll> .
 

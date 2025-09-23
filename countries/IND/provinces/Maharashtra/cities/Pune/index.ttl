@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Pune_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Pune_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Pune_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Pune_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Pune_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Pune_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Pune_obpophistcoll> .
 

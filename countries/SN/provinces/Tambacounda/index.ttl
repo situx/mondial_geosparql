@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SN/provinces/Tambacounda/cities/Tambacounda> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SN/provinces/Tambacounda/cities/Tambacounda> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SN/provinces/Tambacounda_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Tambacounda_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Tambacounda_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Tambacounda_obpophistcoll> .
 

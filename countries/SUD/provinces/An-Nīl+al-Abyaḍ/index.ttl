@@ -18,7 +18,5 @@
     skos:altLabel "White Nile" ;
     skos:prefLabel "النيل الأبيض" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/An-Nīl+al-Abyaḍ_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/An-Nīl+al-Abyaḍ_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/An-Nīl+al-Abyaḍ_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/An-Nīl+al-Abyaḍ_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/An-Nīl+al-Abyaḍ_obpophistcoll> .
 

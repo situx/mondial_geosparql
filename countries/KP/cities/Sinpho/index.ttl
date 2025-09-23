@@ -16,6 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Sea+of+Japan> ;
     skos:altLabel "Sinpo" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KP/cities/Sinpho_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KP/cities/Sinpho_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KP/cities/Sinpho_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Sinpho_obpophistcoll> .
 

@@ -16,5 +16,5 @@
         <http://www.semwebtech.org/mondial/seas/Indian+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SO/cities/Kismayo_obele>,
         <http://www.semwebtech.org/mondial/countries/SO/cities/Kismayo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SO/cities/Kismayo_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/SO/cities/Kismayo_obpophistcoll> .
 

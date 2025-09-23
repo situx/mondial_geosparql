@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/USA/provinces/District+of+Columbia/cities/Washington> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/USA/provinces/District+of+Columbia/cities/Washington> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/District+of+Columbia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/District+of+Columbia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/District+of+Columbia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/District+of+Columbia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/District+of+Columbia_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/District+of+Columbia_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/District+of+Columbia_obpophistcoll> .
 

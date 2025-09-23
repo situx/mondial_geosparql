@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Uruguay> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Entre+Ríos/cities/Concordia_obele>,
         <http://www.semwebtech.org/mondial/countries/RA/provinces/Entre+Ríos/cities/Concordia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Entre+Ríos/cities/Concordia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Entre+Ríos/cities/Concordia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Entre+Ríos/cities/Concordia_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Entre+Ríos/cities/Concordia_obpophistcoll> .
 

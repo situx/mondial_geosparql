@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/USA/provinces/Utah/cities/Salt+Lake+City> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/USA/provinces/Utah/cities/Salt+Lake+City> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Utah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Utah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Utah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Utah_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Utah_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Utah_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Utah_obpophistcoll> .
 

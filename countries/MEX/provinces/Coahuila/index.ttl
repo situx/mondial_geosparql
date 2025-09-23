@@ -18,10 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Coahuila/cities/Saltillo>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Coahuila/cities/Torreón> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Coahuila_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Coahuila_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Coahuila_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Coahuila_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Coahuila_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Coahuila_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Coahuila_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Coahuila_obpophistcoll> .
 

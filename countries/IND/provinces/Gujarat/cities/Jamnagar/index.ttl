@@ -15,5 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Arabian+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Gujarat/cities/Jamnagar_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Gujarat/cities/Jamnagar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Gujarat/cities/Jamnagar_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Gujarat/cities/Jamnagar_obpophistcoll> .
 

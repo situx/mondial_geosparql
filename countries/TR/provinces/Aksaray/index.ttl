@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Aksaray/cities/Aksaray> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Aksaray/cities/Aksaray> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Aksaray_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Aksaray_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Aksaray_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Aksaray_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Aksaray_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Aksaray_obpophistcoll> .
 

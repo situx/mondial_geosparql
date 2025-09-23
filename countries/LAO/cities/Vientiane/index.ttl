@@ -17,6 +17,5 @@
     skos:altLabel "Viangchan" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/LAO/cities/Vientiane_obele>,
         <http://www.semwebtech.org/mondial/countries/LAO/cities/Vientiane_obpop>,
-        <http://www.semwebtech.org/mondial/countries/LAO/cities/Vientiane_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/LAO/cities/Vientiane_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/LAO/cities/Vientiane_obpophistcoll> .
 

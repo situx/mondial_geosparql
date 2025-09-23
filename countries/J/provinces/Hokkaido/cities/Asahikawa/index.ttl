@@ -16,9 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Hokkaido> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido/cities/Asahikawa_obele>,
         <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido/cities/Asahikawa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido/cities/Asahikawa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido/cities/Asahikawa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido/cities/Asahikawa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido/cities/Asahikawa_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido/cities/Asahikawa_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido/cities/Asahikawa_obpophistcoll> .
 

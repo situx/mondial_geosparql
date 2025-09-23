@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Chanab> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Chiniot_obele>,
         <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Chiniot_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Chiniot_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Chiniot_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Chiniot_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Chiniot_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Chiniot_obpophistcoll> .
 

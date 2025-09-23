@@ -17,7 +17,5 @@
     skos:altLabel "Mosul" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Nineveh/cities/Al+Mawsil_obele>,
         <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Nineveh/cities/Al+Mawsil_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Nineveh/cities/Al+Mawsil_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Nineveh/cities/Al+Mawsil_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Nineveh/cities/Al+Mawsil_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Nineveh/cities/Al+Mawsil_obpophistcoll> .
 

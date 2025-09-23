@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia/cities/Feira+de+Santana_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia/cities/Feira+de+Santana_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia/cities/Feira+de+Santana_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia/cities/Feira+de+Santana_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia/cities/Feira+de+Santana_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia/cities/Feira+de+Santana_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia/cities/Feira+de+Santana_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia/cities/Feira+de+Santana_obpophistcoll> .
 

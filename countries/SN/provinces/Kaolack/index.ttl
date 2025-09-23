@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SN/provinces/Kaolack/cities/Kaolack> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SN/provinces/Kaolack/cities/Kaolack> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SN/provinces/Kaolack_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kaolack_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kaolack_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kaolack_obpophistcoll> .
 

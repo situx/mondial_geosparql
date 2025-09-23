@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Chukotka/cities/Anadyr> ;
     skos:prefLabel "Чукотский" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Chukotka_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chukotka_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chukotka_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chukotka_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chukotka_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chukotka_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Chukotka_obpophistcoll> .
 

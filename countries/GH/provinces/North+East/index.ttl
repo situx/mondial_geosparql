@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/GH/provinces/North+East/cities/Nalerigu> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GH/provinces/North+East/cities/Nalerigu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GH/provinces/North+East_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/North+East_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/North+East_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/North+East_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/North+East_obpophistcoll> .
 

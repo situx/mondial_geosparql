@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Dakota/cities/Fargo_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Dakota/cities/Fargo_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Dakota/cities/Fargo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Dakota/cities/Fargo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Dakota/cities/Fargo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Dakota/cities/Fargo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Dakota/cities/Fargo_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Dakota/cities/Fargo_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Dakota/cities/Fargo_obpophistcoll> .
 

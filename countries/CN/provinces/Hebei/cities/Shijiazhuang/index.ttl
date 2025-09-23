@@ -15,8 +15,5 @@
     skos:prefLabel "石家庄市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Shijiazhuang_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Shijiazhuang_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Shijiazhuang_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Shijiazhuang_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Shijiazhuang_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Shijiazhuang_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Shijiazhuang_obpophistcoll> .
 

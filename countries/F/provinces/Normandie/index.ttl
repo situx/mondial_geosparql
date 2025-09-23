@@ -18,10 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/F/provinces/Normandie/cities/Le+Havre>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Normandie/cities/Rouen> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Normandie_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Normandie_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Normandie_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Normandie_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Normandie_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Normandie_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Normandie_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Normandie_obpophistcoll> .
 

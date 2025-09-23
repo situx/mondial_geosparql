@@ -16,11 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Ireland> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRL/provinces/Munster/cities/Cork_obele>,
         <http://www.semwebtech.org/mondial/countries/IRL/provinces/Munster/cities/Cork_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Munster/cities/Cork_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Munster/cities/Cork_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Munster/cities/Cork_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Munster/cities/Cork_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Munster/cities/Cork_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Munster/cities/Cork_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Munster/cities/Cork_obpophist6> .
+        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Munster/cities/Cork_obpophistcoll> .
 

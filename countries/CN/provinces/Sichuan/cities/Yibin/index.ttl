@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Yangtze> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Sichuan/cities/Yibin_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Sichuan/cities/Yibin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Sichuan/cities/Yibin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Sichuan/cities/Yibin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Sichuan/cities/Yibin_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Sichuan/cities/Yibin_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Sichuan/cities/Yibin_obpophistcoll> .
 

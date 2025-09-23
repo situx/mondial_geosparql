@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RCH/provinces/Atacama/cities/Copiapó> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RCH/provinces/Atacama/cities/Copiapó> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCH/provinces/Atacama_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Atacama_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Atacama_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Atacama_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Atacama_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Atacama_obpophistcoll> .
 

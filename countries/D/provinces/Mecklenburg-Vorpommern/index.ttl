@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/D/provinces/Mecklenburg-Vorpommern/cities/Rostock>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Mecklenburg-Vorpommern/cities/Schwerin> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Mecklenburg-Vorpommern_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Mecklenburg-Vorpommern_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Mecklenburg-Vorpommern_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Mecklenburg-Vorpommern_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Mecklenburg-Vorpommern_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Mecklenburg-Vorpommern_obpophistcoll> .
 

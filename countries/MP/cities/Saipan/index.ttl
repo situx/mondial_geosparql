@@ -16,9 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Saipan> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MP/cities/Saipan_obele>,
         <http://www.semwebtech.org/mondial/countries/MP/cities/Saipan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MP/cities/Saipan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MP/cities/Saipan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MP/cities/Saipan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MP/cities/Saipan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MP/cities/Saipan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/MP/cities/Saipan_obpophistcoll> .
 

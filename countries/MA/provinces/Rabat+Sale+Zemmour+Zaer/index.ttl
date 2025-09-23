@@ -18,5 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/MA/provinces/Rabat+Sale+Zemmour+Zaer/cities/Salé>,
         <http://www.semwebtech.org/mondial/countries/MA/provinces/Rabat+Sale+Zemmour+Zaer/cities/Temara> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Rabat+Sale+Zemmour+Zaer_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Rabat+Sale+Zemmour+Zaer_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Rabat+Sale+Zemmour+Zaer_obpophistcoll> .
 

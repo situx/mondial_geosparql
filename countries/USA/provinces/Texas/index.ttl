@@ -40,9 +40,5 @@
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Waco>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Wichita+Falls> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas_obpophistcoll> .
 

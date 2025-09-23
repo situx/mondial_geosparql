@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Skagerrak> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Oslo/cities/Oslo_obele>,
         <http://www.semwebtech.org/mondial/countries/N/provinces/Oslo/cities/Oslo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Oslo/cities/Oslo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Oslo/cities/Oslo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Oslo/cities/Oslo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Oslo/cities/Oslo_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Oslo/cities/Oslo_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Oslo/cities/Oslo_obpophistcoll> .
 

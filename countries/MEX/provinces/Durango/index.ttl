@@ -17,10 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MEX/provinces/Durango/cities/Durango>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Durango/cities/Gómez+Palacio> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Durango_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Durango_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Durango_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Durango_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Durango_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Durango_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Durango_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Durango_obpophistcoll> .
 

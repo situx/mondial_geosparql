@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GR/provinces/Ipeiroy/cities/Ioannina> ;
     skos:prefLabel "Ηπείρου" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Ipeiroy_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Ipeiroy_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Ipeiroy_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Ipeiroy_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Ipeiroy_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Ipeiroy_obpophistcoll> .
 

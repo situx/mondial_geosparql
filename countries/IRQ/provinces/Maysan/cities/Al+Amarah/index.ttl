@@ -17,7 +17,5 @@
     skos:altLabel "Amarah" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Maysan/cities/Al+Amarah_obele>,
         <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Maysan/cities/Al+Amarah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Maysan/cities/Al+Amarah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Maysan/cities/Al+Amarah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Maysan/cities/Al+Amarah_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Maysan/cities/Al+Amarah_obpophistcoll> .
 

@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/ANG/provinces/Luanda/cities/Luanda> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/ANG/provinces/Luanda/cities/Luanda> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Luanda_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Luanda_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Luanda_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Luanda_obpophistcoll> .
 

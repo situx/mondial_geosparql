@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/MOC/provinces/Sofala/cities/Beira> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MOC/provinces/Sofala/cities/Beira> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MOC/provinces/Sofala_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Sofala_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Sofala_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Sofala_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Sofala_obpophistcoll> .
 

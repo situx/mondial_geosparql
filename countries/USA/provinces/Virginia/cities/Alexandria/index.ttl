@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Potomac+River> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Alexandria_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Alexandria_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Alexandria_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Alexandria_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Alexandria_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Alexandria_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Alexandria_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Alexandria_obpophistcoll> .
 

@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Colorado+Springs_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Colorado+Springs_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Colorado+Springs_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Colorado+Springs_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Colorado+Springs_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Colorado+Springs_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Colorado+Springs_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Colorado+Springs_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Colorado+Springs_obpophistcoll> .
 

@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/IND/provinces/Mizoram/cities/Aijal> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IND/provinces/Mizoram/cities/Aijal> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Mizoram_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Mizoram_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Mizoram_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Mizoram_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Mizoram_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Mizoram_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Mizoram_obpophistcoll> .
 

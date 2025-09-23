@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kagera/cities/Bukoba> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kagera/cities/Bukoba> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kagera_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kagera_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kagera_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kagera_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kagera_obpophistcoll> .
 

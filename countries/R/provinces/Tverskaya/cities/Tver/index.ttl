@@ -17,9 +17,5 @@
     skos:prefLabel "Тверь" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Tverskaya/cities/Tver_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Tverskaya/cities/Tver_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tverskaya/cities/Tver_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tverskaya/cities/Tver_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tverskaya/cities/Tver_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tverskaya/cities/Tver_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tverskaya/cities/Tver_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Tverskaya/cities/Tver_obpophistcoll> .
 

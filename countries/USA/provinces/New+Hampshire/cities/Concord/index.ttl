@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Merrimack+River> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire/cities/Concord_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire/cities/Concord_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire/cities/Concord_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire/cities/Concord_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire/cities/Concord_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire/cities/Concord_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire/cities/Concord_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire/cities/Concord_obpophistcoll> .
 

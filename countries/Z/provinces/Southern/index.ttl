@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/Z/provinces/Southern/cities/Livingstone> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/Z/provinces/Southern/cities/Livingstone> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/Z/provinces/Southern_obpop>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Southern_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Southern_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Southern_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Southern_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/Z/provinces/Southern_obpophistcoll> .
 

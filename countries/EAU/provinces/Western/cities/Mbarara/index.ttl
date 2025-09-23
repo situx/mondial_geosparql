@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/EAU/provinces/Western/cities/Mbarara_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAU/provinces/Western/cities/Mbarara_obele>,
         <http://www.semwebtech.org/mondial/countries/EAU/provinces/Western/cities/Mbarara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Western/cities/Mbarara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Western/cities/Mbarara_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Western/cities/Mbarara_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Western/cities/Mbarara_obpophistcoll> .
 

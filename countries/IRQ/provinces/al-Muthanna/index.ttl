@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Muthanna/cities/As+Samawah> ;
     skos:prefLabel "المثنى" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Muthanna_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Muthanna_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Muthanna_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Muthanna_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Muthanna_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Muthanna_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Muthanna_obpophistcoll> .
 

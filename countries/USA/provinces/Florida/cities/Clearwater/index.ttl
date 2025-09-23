@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Gulf+of+Mexico> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Clearwater_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Clearwater_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Clearwater_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Clearwater_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Clearwater_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Clearwater_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Clearwater_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Clearwater_obpophistcoll> .
 

@@ -22,10 +22,5 @@
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/San+Nicolás+de+los+Garzas>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/San+Pedro+Garza+García> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon_obpophistcoll> .
 

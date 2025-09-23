@@ -15,5 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Godavari> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Andhra+Pradesh/cities/Rajahmundry_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Andhra+Pradesh/cities/Rajahmundry_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Andhra+Pradesh/cities/Rajahmundry_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Andhra+Pradesh/cities/Rajahmundry_obpophistcoll> .
 

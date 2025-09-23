@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/N/provinces/Sogn+og+Fjordane/cities/Hermansverk> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/N/provinces/Sogn+og+Fjordane/cities/Hermansverk> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Sogn+og+Fjordane_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Sogn+og+Fjordane_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Sogn+og+Fjordane_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Sogn+og+Fjordane_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Sogn+og+Fjordane_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Sogn+og+Fjordane_obpophistcoll> .
 

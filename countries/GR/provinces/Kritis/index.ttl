@@ -19,8 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis/cities/Iraklio> ;
     skos:prefLabel "Κρήτης" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis_obpophistcoll> .
 

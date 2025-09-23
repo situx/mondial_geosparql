@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Oder> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL/provinces/Dolnośląskie/cities/Wrocław_obele>,
         <http://www.semwebtech.org/mondial/countries/PL/provinces/Dolnośląskie/cities/Wrocław_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Dolnośląskie/cities/Wrocław_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Dolnośląskie/cities/Wrocław_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Dolnośląskie/cities/Wrocław_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Dolnośląskie/cities/Wrocław_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Dolnośląskie/cities/Wrocław_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RCB/provinces/Brazzaville/cities/Brazzaville> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RCB/provinces/Brazzaville/cities/Brazzaville> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCB/provinces/Brazzaville_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Brazzaville_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Brazzaville_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Brazzaville_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Brazzaville_obpophistcoll> .
 

@@ -16,11 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/AUS/provinces/South+Australia/cities/Adelaide> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/AUS/provinces/South+Australia/cities/Adelaide> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AUS/provinces/South+Australia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/South+Australia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/South+Australia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/South+Australia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/South+Australia_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/South+Australia_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/South+Australia_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/South+Australia_obpophist6> .
+        <http://www.semwebtech.org/mondial/countries/AUS/provinces/South+Australia_obpophistcoll> .
 

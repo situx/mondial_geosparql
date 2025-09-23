@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar/cities/Cartagena>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar/cities/Magangué> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar_obpophistcoll> .
 

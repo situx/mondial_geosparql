@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Valle+de+Cauca/cities/Buenaventura_obele>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Valle+de+Cauca/cities/Buenaventura_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Valle+de+Cauca/cities/Buenaventura_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Valle+de+Cauca/cities/Buenaventura_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Valle+de+Cauca/cities/Buenaventura_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Valle+de+Cauca/cities/Buenaventura_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Valle+de+Cauca/cities/Buenaventura_obpophistcoll> .
 

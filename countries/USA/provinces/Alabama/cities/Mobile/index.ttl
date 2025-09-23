@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Gulf+of+Mexico> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Alabama/cities/Mobile_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Alabama/cities/Mobile_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Alabama/cities/Mobile_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Alabama/cities/Mobile_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Alabama/cities/Mobile_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Alabama/cities/Mobile_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Alabama/cities/Mobile_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Alabama/cities/Mobile_obpophistcoll> .
 

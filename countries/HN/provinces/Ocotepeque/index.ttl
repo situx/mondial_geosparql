@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/HN/provinces/Ocotepeque/cities/Nueva+Ocotepeque> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/HN/provinces/Ocotepeque/cities/Nueva+Ocotepeque> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/HN/provinces/Ocotepeque_obpop>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Ocotepeque_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Ocotepeque_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Ocotepeque_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Ocotepeque_obpophistcoll> .
 

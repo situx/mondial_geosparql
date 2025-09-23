@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CDN/provinces/Saskatchewan/cities/Regina>,
         <http://www.semwebtech.org/mondial/countries/CDN/provinces/Saskatchewan/cities/Saskatoon> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/Saskatchewan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Saskatchewan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Saskatchewan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Saskatchewan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Saskatchewan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Saskatchewan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Saskatchewan_obpophistcoll> .
 

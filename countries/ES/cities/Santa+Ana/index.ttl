@@ -13,6 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ES/cities/Santa+Ana_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ES/cities/Santa+Ana_obele>,
         <http://www.semwebtech.org/mondial/countries/ES/cities/Santa+Ana_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ES/cities/Santa+Ana_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ES/cities/Santa+Ana_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ES/cities/Santa+Ana_obpophistcoll> .
 

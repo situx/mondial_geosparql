@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Datong_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Datong_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Datong_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Datong_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Datong_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Datong_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Datong_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Datong_obpophistcoll> .
 

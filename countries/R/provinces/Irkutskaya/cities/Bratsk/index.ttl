@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Angara> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Irkutskaya/cities/Bratsk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Irkutskaya/cities/Bratsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Irkutskaya/cities/Bratsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Irkutskaya/cities/Bratsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Irkutskaya/cities/Bratsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Irkutskaya/cities/Bratsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Irkutskaya/cities/Bratsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Irkutskaya/cities/Bratsk_obpophistcoll> .
 

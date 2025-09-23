@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Vättern> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Jönköping/cities/Jönköping_obele>,
         <http://www.semwebtech.org/mondial/countries/S/provinces/Jönköping/cities/Jönköping_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Jönköping/cities/Jönköping_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Jönköping/cities/Jönköping_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Jönköping/cities/Jönköping_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Jönköping/cities/Jönköping_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Jönköping/cities/Jönköping_obpophistcoll> .
 

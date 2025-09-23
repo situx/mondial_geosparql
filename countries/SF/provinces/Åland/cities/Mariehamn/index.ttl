@@ -14,6 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SF/provinces/Åland/cities/Mariehamn_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Baltic+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Åland/cities/Mariehamn_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Åland/cities/Mariehamn_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Åland/cities/Mariehamn_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Åland/cities/Mariehamn_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RI/provinces/Bali/cities/Denpasar> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RI/provinces/Bali/cities/Denpasar> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Bali_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Bali_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Bali_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Bali_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Bali_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Bali_obpophistcoll> .
 

@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Kirkuk/cities/Kirkuk> ;
     skos:prefLabel "كركوك" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Kirkuk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Kirkuk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Kirkuk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Kirkuk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Kirkuk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Kirkuk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Kirkuk_obpophistcoll> .
 

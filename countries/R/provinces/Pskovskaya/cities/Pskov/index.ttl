@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Ozero+Pskovskoje> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Pskovskaya/cities/Pskov_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Pskovskaya/cities/Pskov_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Pskovskaya/cities/Pskov_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Pskovskaya/cities/Pskov_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Pskovskaya/cities/Pskov_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Pskovskaya/cities/Pskov_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Pskovskaya/cities/Pskov_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Pskovskaya/cities/Pskov_obpophistcoll> .
 

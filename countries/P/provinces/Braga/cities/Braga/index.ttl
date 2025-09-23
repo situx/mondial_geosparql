@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/P/provinces/Braga/cities/Braga_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/P/provinces/Braga/cities/Braga_obele>,
         <http://www.semwebtech.org/mondial/countries/P/provinces/Braga/cities/Braga_obpop>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Braga/cities/Braga_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Braga/cities/Braga_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Braga/cities/Braga_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Braga/cities/Braga_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Braga/cities/Braga_obpophistcoll> .
 

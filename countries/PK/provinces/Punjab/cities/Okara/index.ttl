@@ -15,8 +15,5 @@
     skos:altLabel "Okāra" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Okara_obele>,
         <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Okara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Okara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Okara_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Okara_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Okara_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Okara_obpophistcoll> .
 

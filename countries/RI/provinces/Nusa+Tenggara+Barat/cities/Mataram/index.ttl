@@ -16,6 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Lombok> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Nusa+Tenggara+Barat/cities/Mataram_obele>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Nusa+Tenggara+Barat/cities/Mataram_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Nusa+Tenggara+Barat/cities/Mataram_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Nusa+Tenggara+Barat/cities/Mataram_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Nusa+Tenggara+Barat/cities/Mataram_obpophistcoll> .
 

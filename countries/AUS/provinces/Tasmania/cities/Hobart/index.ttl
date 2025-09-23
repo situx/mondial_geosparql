@@ -16,11 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Tasmania> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania/cities/Hobart_obele>,
         <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania/cities/Hobart_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania/cities/Hobart_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania/cities/Hobart_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania/cities/Hobart_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania/cities/Hobart_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania/cities/Hobart_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania/cities/Hobart_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania/cities/Hobart_obpophist6> .
+        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania/cities/Hobart_obpophistcoll> .
 

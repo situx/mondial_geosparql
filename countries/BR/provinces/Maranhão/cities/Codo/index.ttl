@@ -13,5 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/Codo_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/Codo_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/Codo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/Codo_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/Codo_obpophistcoll> .
 

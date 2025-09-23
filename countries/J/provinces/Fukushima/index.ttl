@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Fukushima/cities/Fukushima> ;
     skos:prefLabel "福島県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Fukushima_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukushima_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukushima_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukushima_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukushima_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukushima_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukushima_obpophistcoll> .
 

@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Niigata/cities/Niigata> ;
     skos:prefLabel "新潟県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Niigata_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Niigata_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Niigata_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Niigata_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Niigata_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Niigata_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Niigata_obpophistcoll> .
 

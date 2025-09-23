@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Jilin/cities/Jilin> ;
     skos:prefLabel "吉林" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Jilin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jilin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jilin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jilin_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jilin_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jilin_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jilin_obpophistcoll> .
 

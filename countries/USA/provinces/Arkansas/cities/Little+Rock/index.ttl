@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Arkansas> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Arkansas/cities/Little+Rock_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Arkansas/cities/Little+Rock_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Arkansas/cities/Little+Rock_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Arkansas/cities/Little+Rock_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Arkansas/cities/Little+Rock_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Arkansas/cities/Little+Rock_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Arkansas/cities/Little+Rock_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Arkansas/cities/Little+Rock_obpophistcoll> .
 

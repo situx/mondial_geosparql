@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RMM/provinces/Bamako/cities/Bamako> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RMM/provinces/Bamako/cities/Bamako> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RMM/provinces/Bamako_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Bamako_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Bamako_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Bamako_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Bamako_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Bamako_obpophistcoll> .
 

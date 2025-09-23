@@ -17,8 +17,5 @@
     skos:prefLabel "Гомель" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BY/provinces/Gomel/cities/Gomel_obele>,
         <http://www.semwebtech.org/mondial/countries/BY/provinces/Gomel/cities/Gomel_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Gomel/cities/Gomel_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Gomel/cities/Gomel_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Gomel/cities/Gomel_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Gomel/cities/Gomel_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BY/provinces/Gomel/cities/Gomel_obpophistcoll> .
 

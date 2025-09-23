@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Sul/cities/Saurimo> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Sul/cities/Saurimo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Sul_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Sul_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Sul_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Sul_obpophistcoll> .
 

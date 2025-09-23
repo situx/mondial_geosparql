@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Norte/cities/Lucapa> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Norte/cities/Lucapa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Norte_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Norte_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Norte_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Norte_obpophistcoll> .
 

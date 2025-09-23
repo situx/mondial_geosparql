@@ -17,6 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten/cities/Klagenfurt>,
         <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten/cities/Villach> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten_obpop>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten_obpophistcoll> .
 

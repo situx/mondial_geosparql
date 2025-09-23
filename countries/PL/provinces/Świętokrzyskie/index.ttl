@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PL/provinces/Świętokrzyskie/cities/Kielce> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PL/provinces/Świętokrzyskie/cities/Kielce> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL/provinces/Świętokrzyskie_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Świętokrzyskie_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Świętokrzyskie_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Świętokrzyskie_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Świętokrzyskie_obpophistcoll> .
 

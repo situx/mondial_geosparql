@@ -12,10 +12,5 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MEX/provinces/San+Luis+Potosí/cities/Soledad+de+Graciano+Sanchez_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/San+Luis+Potosí/cities/Soledad+de+Graciano+Sanchez_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/San+Luis+Potosí/cities/Soledad+de+Graciano+Sanchez_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/San+Luis+Potosí/cities/Soledad+de+Graciano+Sanchez_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/San+Luis+Potosí/cities/Soledad+de+Graciano+Sanchez_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/San+Luis+Potosí/cities/Soledad+de+Graciano+Sanchez_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/San+Luis+Potosí/cities/Soledad+de+Graciano+Sanchez_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/San+Luis+Potosí/cities/Soledad+de+Graciano+Sanchez_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/San+Luis+Potosí/cities/Soledad+de+Graciano+Sanchez_obpophistcoll> .
 

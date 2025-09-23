@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PE/provinces/Ucayali/cities/Pucallpa> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PE/provinces/Ucayali/cities/Pucallpa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PE/provinces/Ucayali_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Ucayali_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Ucayali_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Ucayali_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Ucayali_obpophistcoll> .
 

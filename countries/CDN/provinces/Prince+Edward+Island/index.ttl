@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CDN/provinces/Prince+Edward+Island/cities/Charlottetown> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CDN/provinces/Prince+Edward+Island/cities/Charlottetown> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/Prince+Edward+Island_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Prince+Edward+Island_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Prince+Edward+Island_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Prince+Edward+Island_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Prince+Edward+Island_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Prince+Edward+Island_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Prince+Edward+Island_obpophistcoll> .
 

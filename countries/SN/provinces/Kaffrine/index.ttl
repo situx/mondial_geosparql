@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SN/provinces/Kaffrine/cities/Kaffrine> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SN/provinces/Kaffrine/cities/Kaffrine> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SN/provinces/Kaffrine_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kaffrine_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kaffrine_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kaffrine_obpophistcoll> .
 

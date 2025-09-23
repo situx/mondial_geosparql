@@ -15,5 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Gulf+of+Aden> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SO/cities/Berbera_obele>,
         <http://www.semwebtech.org/mondial/countries/SO/cities/Berbera_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SO/cities/Berbera_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/SO/cities/Berbera_obpophistcoll> .
 

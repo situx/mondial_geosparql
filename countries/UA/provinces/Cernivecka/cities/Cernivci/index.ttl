@@ -19,9 +19,5 @@
     skos:prefLabel "Чернівці" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernivecka/cities/Cernivci_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernivecka/cities/Cernivci_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernivecka/cities/Cernivci_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernivecka/cities/Cernivci_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernivecka/cities/Cernivci_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernivecka/cities/Cernivci_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernivecka/cities/Cernivci_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernivecka/cities/Cernivci_obpophistcoll> .
 

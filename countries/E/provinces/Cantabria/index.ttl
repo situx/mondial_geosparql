@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/E/provinces/Cantabria/cities/Santander> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/E/provinces/Cantabria/cities/Santander> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Cantabria_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Cantabria_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Cantabria_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Cantabria_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Cantabria_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Cantabria_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Cantabria_obpophistcoll> .
 

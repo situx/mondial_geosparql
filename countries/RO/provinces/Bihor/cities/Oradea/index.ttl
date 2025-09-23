@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RO/provinces/Bihor/cities/Oradea_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Bihor/cities/Oradea_obele>,
         <http://www.semwebtech.org/mondial/countries/RO/provinces/Bihor/cities/Oradea_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Bihor/cities/Oradea_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Bihor/cities/Oradea_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Bihor/cities/Oradea_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Bihor/cities/Oradea_obpophistcoll> .
 

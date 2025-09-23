@@ -15,6 +15,5 @@
     skos:altLabel "Bisho" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RSA/provinces/Eastern+Cape/cities/Bhisho_obele>,
         <http://www.semwebtech.org/mondial/countries/RSA/provinces/Eastern+Cape/cities/Bhisho_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Eastern+Cape/cities/Bhisho_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Eastern+Cape/cities/Bhisho_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Eastern+Cape/cities/Bhisho_obpophistcoll> .
 

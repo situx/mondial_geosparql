@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RA/provinces/Neuquén/cities/Neuquén> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RA/provinces/Neuquén/cities/Neuquén> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Neuquén_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Neuquén_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Neuquén_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Neuquén_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Neuquén_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Neuquén_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Neuquén_obpophistcoll> .
 

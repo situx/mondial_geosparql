@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/A/provinces/Niederösterreich/cities/St.+Pölten_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/A/provinces/Niederösterreich/cities/St.+Pölten_obele>,
         <http://www.semwebtech.org/mondial/countries/A/provinces/Niederösterreich/cities/St.+Pölten_obpop>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Niederösterreich/cities/St.+Pölten_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Niederösterreich/cities/St.+Pölten_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Niederösterreich/cities/St.+Pölten_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Niederösterreich/cities/St.+Pölten_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/A/provinces/Niederösterreich/cities/St.+Pölten_obpophistcoll> .
 

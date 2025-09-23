@@ -16,8 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Cuba> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/C/provinces/Cienfuegos/cities/Cienfuegos_obele>,
         <http://www.semwebtech.org/mondial/countries/C/provinces/Cienfuegos/cities/Cienfuegos_obpop>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Cienfuegos/cities/Cienfuegos_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Cienfuegos/cities/Cienfuegos_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Cienfuegos/cities/Cienfuegos_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Cienfuegos/cities/Cienfuegos_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Cienfuegos/cities/Cienfuegos_obpophistcoll> .
 

@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Tottori/cities/Tottori> ;
     skos:prefLabel "鳥取県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Tottori_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tottori_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tottori_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tottori_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tottori_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tottori_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Tottori_obpophistcoll> .
 

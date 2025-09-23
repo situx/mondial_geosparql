@@ -19,9 +19,5 @@
     skos:altLabel "Al-Qādisiyyah" ;
     skos:prefLabel "القادسية" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Qadisiya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Qadisiya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Qadisiya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Qadisiya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Qadisiya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Qadisiya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Qadisiya_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CI/provinces/Gôh-Djiboua/cities/Gagnoa> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CI/provinces/Gôh-Djiboua/cities/Gagnoa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CI/provinces/Gôh-Djiboua_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Gôh-Djiboua_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Gôh-Djiboua_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Gôh-Djiboua_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Gôh-Djiboua_obpophistcoll> .
 

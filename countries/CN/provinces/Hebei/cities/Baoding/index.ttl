@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Baoding_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Baoding_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Baoding_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Baoding_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Baoding_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Baoding_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Baoding_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Baoding_obpophistcoll> .
 

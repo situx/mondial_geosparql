@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PE/provinces/Arequipa/cities/Arequipa> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PE/provinces/Arequipa/cities/Arequipa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PE/provinces/Arequipa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Arequipa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Arequipa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Arequipa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Arequipa_obpophistcoll> .
 

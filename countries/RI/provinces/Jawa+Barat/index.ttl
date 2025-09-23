@@ -23,8 +23,5 @@
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Jawa+Barat/cities/Sukabumi>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Jawa+Barat/cities/Tasikmalaya> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Jawa+Barat_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Jawa+Barat_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Jawa+Barat_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Jawa+Barat_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Jawa+Barat_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Jawa+Barat_obpophistcoll> .
 

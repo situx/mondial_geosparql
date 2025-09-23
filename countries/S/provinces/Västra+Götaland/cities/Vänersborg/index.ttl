@@ -15,5 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Vänern>,
         <http://www.semwebtech.org/mondial/rivers/Götaälv> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Vänersborg_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Vänersborg_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Vänersborg_obpophistcoll> .
 

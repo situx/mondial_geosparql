@@ -14,8 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Tangshan_geom> ;
     skos:prefLabel "唐山市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Tangshan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Tangshan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Tangshan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Tangshan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Tangshan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hebei/cities/Tangshan_obpophistcoll> .
 

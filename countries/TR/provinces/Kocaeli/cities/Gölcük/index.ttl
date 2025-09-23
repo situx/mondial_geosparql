@@ -14,8 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/TR/provinces/Kocaeli/cities/Gölcük_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Marmara+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Kocaeli/cities/Gölcük_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kocaeli/cities/Gölcük_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kocaeli/cities/Gölcük_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kocaeli/cities/Gölcük_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kocaeli/cities/Gölcük_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kocaeli/cities/Gölcük_obpophistcoll> .
 

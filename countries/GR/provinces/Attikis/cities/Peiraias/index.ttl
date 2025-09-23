@@ -19,8 +19,5 @@
     skos:prefLabel "Πειραιάς" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Peiraias_obele>,
         <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Peiraias_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Peiraias_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Peiraias_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Peiraias_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Peiraias_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Peiraias_obpophistcoll> .
 

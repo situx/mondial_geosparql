@@ -18,7 +18,5 @@
     skos:prefLabel "ምጽዋዕ " ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ER/cities/Massaua_obele>,
         <http://www.semwebtech.org/mondial/countries/ER/cities/Massaua_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ER/cities/Massaua_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ER/cities/Massaua_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ER/cities/Massaua_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/ER/cities/Massaua_obpophistcoll> .
 

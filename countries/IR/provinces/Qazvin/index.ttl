@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IR/provinces/Qazvin/cities/Qazvin> ;
     skos:prefLabel "قزوين" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Qazvin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Qazvin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Qazvin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Qazvin_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Qazvin_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Qazvin_obpophistcoll> .
 

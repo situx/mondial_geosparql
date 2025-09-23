@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/BOL/provinces/Beni/cities/Trinidad> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BOL/provinces/Beni/cities/Trinidad> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BOL/provinces/Beni_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Beni_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Beni_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Beni_obpophistcoll> .
 

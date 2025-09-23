@@ -13,5 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/IND/provinces/Jharkhand/cities/Jamshedpur_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Jharkhand/cities/Jamshedpur_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Jharkhand/cities/Jamshedpur_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Jharkhand/cities/Jamshedpur_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Jharkhand/cities/Jamshedpur_obpophistcoll> .
 

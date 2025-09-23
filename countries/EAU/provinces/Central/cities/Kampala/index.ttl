@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Lake+Victoria> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central/cities/Kampala_obele>,
         <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central/cities/Kampala_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central/cities/Kampala_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central/cities/Kampala_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central/cities/Kampala_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central/cities/Kampala_obpophistcoll> .
 

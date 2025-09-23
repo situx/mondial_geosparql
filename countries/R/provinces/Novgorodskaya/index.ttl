@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Novgorodskaya/cities/Velikij+Novgorod> ;
     skos:prefLabel "Новгородская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Novgorodskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Novgorodskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Novgorodskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Novgorodskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Novgorodskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Novgorodskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Novgorodskaya_obpophistcoll> .
 

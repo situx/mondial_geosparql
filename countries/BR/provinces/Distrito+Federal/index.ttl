@@ -16,10 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/BR/provinces/Distrito+Federal/cities/Brasília> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BR/provinces/Distrito+Federal/cities/Brasília> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Distrito+Federal_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Distrito+Federal_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Distrito+Federal_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Distrito+Federal_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Distrito+Federal_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Distrito+Federal_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Distrito+Federal_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Distrito+Federal_obpophistcoll> .
 

@@ -15,7 +15,5 @@
     skos:altLabel "Kairouan" ;
     skos:prefLabel "القيروان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TN/cities/Al-Qayrawān_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TN/cities/Al-Qayrawān_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TN/cities/Al-Qayrawān_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TN/cities/Al-Qayrawān_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/TN/cities/Al-Qayrawān_obpophistcoll> .
 

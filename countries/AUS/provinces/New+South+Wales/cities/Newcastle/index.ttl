@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Tasman+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales/cities/Newcastle_obele>,
         <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales/cities/Newcastle_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales/cities/Newcastle_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales/cities/Newcastle_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales/cities/Newcastle_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales/cities/Newcastle_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales/cities/Newcastle_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales/cities/Newcastle_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales/cities/Newcastle_obpophistcoll> .
 

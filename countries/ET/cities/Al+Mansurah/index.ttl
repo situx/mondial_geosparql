@@ -16,8 +16,5 @@
     skos:prefLabel "المنصورة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Mansurah_obele>,
         <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Mansurah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Mansurah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Mansurah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Mansurah_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Mansurah_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Mansurah_obpophistcoll> .
 

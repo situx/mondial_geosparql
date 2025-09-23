@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/IRQ/provinces/As+Sulaymaniyah/cities/As+Sulaymaniyah> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IRQ/provinces/As+Sulaymaniyah/cities/As+Sulaymaniyah> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/As+Sulaymaniyah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/As+Sulaymaniyah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/As+Sulaymaniyah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/As+Sulaymaniyah_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/As+Sulaymaniyah_obpophistcoll> .
 

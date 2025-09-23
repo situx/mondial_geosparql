@@ -25,8 +25,5 @@
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Sichuan/cities/Zigong> ;
     skos:prefLabel "四川" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Sichuan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Sichuan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Sichuan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Sichuan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Sichuan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Sichuan_obpophistcoll> .
 

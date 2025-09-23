@@ -15,10 +15,5 @@
     skos:prefLabel "گرگان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Golestan/cities/Gorgan_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/Golestan/cities/Gorgan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Golestan/cities/Gorgan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Golestan/cities/Gorgan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Golestan/cities/Gorgan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Golestan/cities/Gorgan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Golestan/cities/Gorgan_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Golestan/cities/Gorgan_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Golestan/cities/Gorgan_obpophistcoll> .
 

@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/A/provinces/Wien/cities/Wien> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/A/provinces/Wien/cities/Wien> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/A/provinces/Wien_obpop>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Wien_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Wien_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/A/provinces/Wien_obpophistcoll> .
 

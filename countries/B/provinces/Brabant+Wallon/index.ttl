@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/B/provinces/Brabant+Wallon/cities/Wavre> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/B/provinces/Brabant+Wallon/cities/Wavre> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/B/provinces/Brabant+Wallon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Brabant+Wallon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Brabant+Wallon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Brabant+Wallon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Brabant+Wallon_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Brabant+Wallon_obpophistcoll> .
 

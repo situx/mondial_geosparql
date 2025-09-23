@@ -18,9 +18,5 @@
     skos:prefLabel "Тобо́льск" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Tobolsk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Tobolsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Tobolsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Tobolsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Tobolsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Tobolsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Tobolsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Tobolsk_obpophistcoll> .
 

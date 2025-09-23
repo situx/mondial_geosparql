@@ -22,9 +22,5 @@
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Illinois/cities/Rockford>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Illinois/cities/Springfield> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Illinois_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Illinois_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Illinois_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Illinois_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Illinois_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Illinois_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Illinois_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Sivas/cities/Sivas> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Sivas/cities/Sivas> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Sivas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Sivas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Sivas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Sivas_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Sivas_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Sivas_obpophistcoll> .
 

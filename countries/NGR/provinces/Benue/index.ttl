@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/NGR/provinces/Benue/cities/Makurdi> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NGR/provinces/Benue/cities/Makurdi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Benue_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Benue_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Benue_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Benue_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Benue_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Benue_obpophistcoll> .
 

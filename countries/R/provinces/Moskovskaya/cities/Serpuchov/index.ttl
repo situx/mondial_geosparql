@@ -17,9 +17,5 @@
     skos:altLabel "Serpukhov" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Serpuchov_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Serpuchov_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Serpuchov_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Serpuchov_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Serpuchov_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Serpuchov_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Serpuchov_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Moskovskaya/cities/Serpuchov_obpophistcoll> .
 

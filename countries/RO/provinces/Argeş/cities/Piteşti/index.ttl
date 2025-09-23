@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Argeș> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Argeş/cities/Piteşti_obele>,
         <http://www.semwebtech.org/mondial/countries/RO/provinces/Argeş/cities/Piteşti_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Argeş/cities/Piteşti_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Argeş/cities/Piteşti_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Argeş/cities/Piteşti_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Argeş/cities/Piteşti_obpophistcoll> .
 

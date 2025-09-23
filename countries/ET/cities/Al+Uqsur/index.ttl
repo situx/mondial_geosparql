@@ -18,7 +18,5 @@
     skos:prefLabel "الاقص" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Uqsur_obele>,
         <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Uqsur_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Uqsur_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Uqsur_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Uqsur_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Uqsur_obpophistcoll> .
 

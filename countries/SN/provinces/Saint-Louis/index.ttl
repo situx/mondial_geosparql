@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SN/provinces/Saint-Louis/cities/Saint-Louis> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SN/provinces/Saint-Louis/cities/Saint-Louis> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SN/provinces/Saint-Louis_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Saint-Louis_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Saint-Louis_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Saint-Louis_obpophistcoll> .
 

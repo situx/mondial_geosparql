@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Garonne> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine/cities/Bordeaux_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine/cities/Bordeaux_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine/cities/Bordeaux_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine/cities/Bordeaux_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine/cities/Bordeaux_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine/cities/Bordeaux_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine/cities/Bordeaux_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine/cities/Bordeaux_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Nouvelle-Aquitaine/cities/Bordeaux_obpophistcoll> .
 

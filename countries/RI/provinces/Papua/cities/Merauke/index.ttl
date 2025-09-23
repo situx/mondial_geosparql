@@ -16,6 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/New+Guinea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Papua/cities/Merauke_obele>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Papua/cities/Merauke_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Papua/cities/Merauke_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Papua/cities/Merauke_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Papua/cities/Merauke_obpophistcoll> .
 

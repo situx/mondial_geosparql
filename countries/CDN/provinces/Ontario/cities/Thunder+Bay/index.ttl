@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Lake+Superior> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Thunder+Bay_obele>,
         <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Thunder+Bay_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Thunder+Bay_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Thunder+Bay_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Thunder+Bay_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Thunder+Bay_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Thunder+Bay_obpophistcoll> .
 

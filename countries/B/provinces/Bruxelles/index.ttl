@@ -19,8 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles/cities/Molenbeek-Saint-Jean>,
         <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles/cities/Schaerbeek> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles_obpop>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles_obpophistcoll> .
 

@@ -19,7 +19,5 @@
     skos:altLabel "North Kordofan" ;
     skos:prefLabel "شمال كردفان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Kurdufān_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Kurdufān_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Kurdufān_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Kurdufān_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Kurdufān_obpophistcoll> .
 

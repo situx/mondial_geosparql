@@ -17,5 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MA/provinces/Oriental/cities/Nador>,
         <http://www.semwebtech.org/mondial/countries/MA/provinces/Oriental/cities/Oujda> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Oriental_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Oriental_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Oriental_obpophistcoll> .
 

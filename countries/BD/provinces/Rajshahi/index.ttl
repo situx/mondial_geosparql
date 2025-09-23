@@ -19,8 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi/cities/Rajshahi> ;
     skos:prefLabel "রাজশাহী" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi_obpophistcoll> .
 

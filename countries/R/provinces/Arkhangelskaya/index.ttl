@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/R/provinces/Arkhangelskaya/cities/Severodvinsk> ;
     skos:prefLabel "Архангельская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Arkhangelskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Arkhangelskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Arkhangelskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Arkhangelskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Arkhangelskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Arkhangelskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Arkhangelskaya_obpophistcoll> .
 

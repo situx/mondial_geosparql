@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Akita/cities/Akita> ;
     skos:prefLabel "秋田県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Akita_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Akita_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Akita_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Akita_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Akita_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Akita_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Akita_obpophistcoll> .
 

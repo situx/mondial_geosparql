@@ -17,8 +17,5 @@
     skos:prefLabel "南京市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Nanjing_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Nanjing_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Nanjing_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Nanjing_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Nanjing_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Nanjing_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Nanjing_obpophistcoll> .
 

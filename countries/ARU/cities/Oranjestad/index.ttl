@@ -16,7 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Aruba> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ARU/cities/Oranjestad_obele>,
         <http://www.semwebtech.org/mondial/countries/ARU/cities/Oranjestad_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ARU/cities/Oranjestad_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ARU/cities/Oranjestad_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ARU/cities/Oranjestad_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/ARU/cities/Oranjestad_obpophistcoll> .
 

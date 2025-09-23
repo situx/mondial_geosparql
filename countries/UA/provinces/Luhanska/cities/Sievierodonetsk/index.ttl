@@ -17,9 +17,5 @@
     skos:prefLabel "Сєвєродонецьк" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Sievierodonetsk_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Sievierodonetsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Sievierodonetsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Sievierodonetsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Sievierodonetsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Sievierodonetsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Sievierodonetsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Luhanska/cities/Sievierodonetsk_obpophistcoll> .
 

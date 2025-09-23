@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/IND/provinces/Delhi/cities/Delhi> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IND/provinces/Delhi/cities/Delhi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Delhi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Delhi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Delhi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Delhi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Delhi_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Delhi_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Delhi_obpophistcoll> .
 

@@ -15,6 +15,5 @@
     skos:altLabel "Pietersburg" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RSA/provinces/Limpopo/cities/Polokwane_obele>,
         <http://www.semwebtech.org/mondial/countries/RSA/provinces/Limpopo/cities/Polokwane_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Limpopo/cities/Polokwane_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Limpopo/cities/Polokwane_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Limpopo/cities/Polokwane_obpophistcoll> .
 

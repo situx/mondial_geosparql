@@ -14,6 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten/cities/Tangerang_geom> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Java> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten/cities/Tangerang_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten/cities/Tangerang_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten/cities/Tangerang_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten/cities/Tangerang_obpophistcoll> .
 

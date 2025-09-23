@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/IND/provinces/Puducherry/cities/Pondicherry> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IND/provinces/Puducherry/cities/Pondicherry> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Puducherry_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Puducherry_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Puducherry_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Puducherry_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Puducherry_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Puducherry_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Puducherry_obpophistcoll> .
 

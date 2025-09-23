@@ -15,10 +15,5 @@
     skos:altLabel "San Nicolas de los Garza" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/San+Nicolás+de+los+Garzas_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/San+Nicolás+de+los+Garzas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/San+Nicolás+de+los+Garzas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/San+Nicolás+de+los+Garzas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/San+Nicolás+de+los+Garzas_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/San+Nicolás+de+los+Garzas_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/San+Nicolás+de+los+Garzas_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/San+Nicolás+de+los+Garzas_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nuevo+Léon/cities/San+Nicolás+de+los+Garzas_obpophistcoll> .
 

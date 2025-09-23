@@ -17,10 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso+do+Sul/cities/Campo+Grande>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso+do+Sul/cities/Dourados> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso+do+Sul_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso+do+Sul_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso+do+Sul_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso+do+Sul_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso+do+Sul_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso+do+Sul_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso+do+Sul_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Mato+Grosso+do+Sul_obpophistcoll> .
 

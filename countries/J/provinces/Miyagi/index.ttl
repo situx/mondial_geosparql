@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Miyagi/cities/Sendai> ;
     skos:prefLabel "宮城県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Miyagi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Miyagi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Miyagi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Miyagi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Miyagi_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Miyagi_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Miyagi_obpophistcoll> .
 

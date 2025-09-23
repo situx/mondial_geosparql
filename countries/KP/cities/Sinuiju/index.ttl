@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Yalu>,
         <http://www.semwebtech.org/mondial/seas/Yellow+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KP/cities/Sinuiju_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KP/cities/Sinuiju_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KP/cities/Sinuiju_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KP/cities/Sinuiju_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Sinuiju_obpophistcoll> .
 

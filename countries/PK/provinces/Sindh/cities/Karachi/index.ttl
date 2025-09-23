@@ -17,8 +17,5 @@
     skos:altLabel "Karāchi" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Karachi_obele>,
         <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Karachi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Karachi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Karachi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Karachi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Karachi_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Karachi_obpophistcoll> .
 

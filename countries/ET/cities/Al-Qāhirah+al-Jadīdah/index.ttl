@@ -18,6 +18,5 @@
     skos:prefLabel "القاهرة الجديدة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ET/cities/Al-Qāhirah+al-Jadīdah_obele>,
         <http://www.semwebtech.org/mondial/countries/ET/cities/Al-Qāhirah+al-Jadīdah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al-Qāhirah+al-Jadīdah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al-Qāhirah+al-Jadīdah_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ET/cities/Al-Qāhirah+al-Jadīdah_obpophistcoll> .
 

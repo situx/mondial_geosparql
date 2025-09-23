@@ -15,10 +15,5 @@
     skos:prefLabel "بيرجند" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/South+Khorasan/cities/Birjand_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/South+Khorasan/cities/Birjand_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/South+Khorasan/cities/Birjand_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/South+Khorasan/cities/Birjand_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/South+Khorasan/cities/Birjand_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/South+Khorasan/cities/Birjand_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/South+Khorasan/cities/Birjand_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/South+Khorasan/cities/Birjand_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/South+Khorasan/cities/Birjand_obpophistcoll> .
 

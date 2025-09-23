@@ -23,13 +23,7 @@
         <http://www.semwebtech.org/mondial/countries/CEU_obeth2>,
         <http://www.semwebtech.org/mondial/countries/CEU_obeth3>,
         <http://www.semwebtech.org/mondial/countries/CEU_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CEU_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CEU_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CEU_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CEU_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CEU_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/CEU_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/CEU_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/CEU_obpophistcoll>,
         <http://www.semwebtech.org/mondial/countries/CEU_obrel1>,
         <http://www.semwebtech.org/mondial/countries/CEU_obrel2> .
 

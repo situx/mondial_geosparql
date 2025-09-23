@@ -15,7 +15,5 @@
     skos:prefLabel "تبسة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DZ/cities/Tébessa_obele>,
         <http://www.semwebtech.org/mondial/countries/DZ/cities/Tébessa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Tébessa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Tébessa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Tébessa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/DZ/cities/Tébessa_obpophistcoll> .
 

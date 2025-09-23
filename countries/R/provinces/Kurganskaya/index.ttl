@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Kurganskaya/cities/Kurgan> ;
     skos:prefLabel "Курганская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Kurganskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kurganskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kurganskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kurganskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kurganskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kurganskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Kurganskaya_obpophistcoll> .
 

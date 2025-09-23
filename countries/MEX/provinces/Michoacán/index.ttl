@@ -18,10 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Michoacán/cities/Uruapan>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Michoacán/cities/Zamora+de+Hidalgo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Michoacán_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Michoacán_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Michoacán_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Michoacán_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Michoacán_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Michoacán_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Michoacán_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Michoacán_obpophistcoll> .
 

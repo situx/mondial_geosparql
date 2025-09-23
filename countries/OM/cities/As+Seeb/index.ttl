@@ -17,7 +17,5 @@
     skos:altLabel "As Sib" ;
     skos:prefLabel "السيب" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/OM/cities/As+Seeb_obpop>,
-        <http://www.semwebtech.org/mondial/countries/OM/cities/As+Seeb_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/OM/cities/As+Seeb_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/OM/cities/As+Seeb_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/OM/cities/As+Seeb_obpophistcoll> .
 

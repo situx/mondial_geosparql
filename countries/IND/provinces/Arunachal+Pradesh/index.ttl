@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/IND/provinces/Arunachal+Pradesh/cities/Itanagar> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IND/provinces/Arunachal+Pradesh/cities/Itanagar> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Arunachal+Pradesh_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Arunachal+Pradesh_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Arunachal+Pradesh_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Arunachal+Pradesh_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Arunachal+Pradesh_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Arunachal+Pradesh_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Arunachal+Pradesh_obpophistcoll> .
 

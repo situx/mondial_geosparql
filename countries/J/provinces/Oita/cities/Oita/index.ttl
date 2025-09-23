@@ -17,9 +17,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Kyushu> ;
     skos:prefLabel "大分市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Oita/cities/Oita_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Oita/cities/Oita_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Oita/cities/Oita_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Oita/cities/Oita_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Oita/cities/Oita_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Oita/cities/Oita_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Oita/cities/Oita_obpophistcoll> .
 

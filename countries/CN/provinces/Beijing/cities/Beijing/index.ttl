@@ -15,8 +15,5 @@
     skos:prefLabel "北京巿" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Beijing/cities/Beijing_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Beijing/cities/Beijing_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Beijing/cities/Beijing_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Beijing/cities/Beijing_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Beijing/cities/Beijing_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Beijing/cities/Beijing_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Beijing/cities/Beijing_obpophistcoll> .
 

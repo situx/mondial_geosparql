@@ -15,7 +15,5 @@
     skos:prefLabel "Περιστέρι" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Peristeri_obele>,
         <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Peristeri_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Peristeri_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Peristeri_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Peristeri_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Peristeri_obpophistcoll> .
 

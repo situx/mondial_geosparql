@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RP/provinces/Bicol/cities/Legazpi> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RP/provinces/Bicol/cities/Legazpi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Bicol_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Bicol_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Bicol_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Bicol_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Bicol_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Bicol_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Bicol_obpophistcoll> .
 

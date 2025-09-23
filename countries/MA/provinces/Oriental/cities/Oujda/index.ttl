@@ -15,8 +15,5 @@
     skos:prefLabel "وجدة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Oriental/cities/Oujda_obele>,
         <http://www.semwebtech.org/mondial/countries/MA/provinces/Oriental/cities/Oujda_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Oriental/cities/Oujda_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Oriental/cities/Oujda_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Oriental/cities/Oujda_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Oriental/cities/Oujda_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Oriental/cities/Oujda_obpophistcoll> .
 

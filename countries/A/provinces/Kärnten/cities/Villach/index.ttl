@@ -16,8 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Gail> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten/cities/Villach_obele>,
         <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten/cities/Villach_obpop>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten/cities/Villach_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten/cities/Villach_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten/cities/Villach_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten/cities/Villach_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten/cities/Villach_obpophistcoll> .
 

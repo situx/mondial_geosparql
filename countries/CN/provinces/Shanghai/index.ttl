@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanghai/cities/Shanghai> ;
     skos:prefLabel "上海" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanghai_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanghai_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanghai_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanghai_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanghai_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanghai_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanghai_obpophistcoll> .
 

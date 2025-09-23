@@ -16,5 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Pohnpei> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/FSM/cities/Palikir_obele>,
         <http://www.semwebtech.org/mondial/countries/FSM/cities/Palikir_obpop>,
-        <http://www.semwebtech.org/mondial/countries/FSM/cities/Palikir_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/FSM/cities/Palikir_obpophistcoll> .
 

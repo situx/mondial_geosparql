@@ -17,6 +17,5 @@
     skos:altLabel "Thiruvananthapuram" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Kerala/cities/Trivandrum_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Kerala/cities/Trivandrum_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Kerala/cities/Trivandrum_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Kerala/cities/Trivandrum_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Kerala/cities/Trivandrum_obpophistcoll> .
 

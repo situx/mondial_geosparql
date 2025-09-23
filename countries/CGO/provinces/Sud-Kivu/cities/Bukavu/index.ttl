@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Lake+Kivu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu/cities/Bukavu_obele>,
         <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu/cities/Bukavu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu/cities/Bukavu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu/cities/Bukavu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu/cities/Bukavu_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu/cities/Bukavu_obpophistcoll> .
 

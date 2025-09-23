@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Niğde/cities/Nigde> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Niğde/cities/Nigde> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Niğde_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Niğde_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Niğde_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Niğde_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Niğde_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Niğde_obpophistcoll> .
 

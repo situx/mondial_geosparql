@@ -17,7 +17,5 @@
     skos:altLabel "Mersa Matruh" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ET/cities/Marsa+Matruh_obele>,
         <http://www.semwebtech.org/mondial/countries/ET/cities/Marsa+Matruh_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Marsa+Matruh_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Marsa+Matruh_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Marsa+Matruh_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/ET/cities/Marsa+Matruh_obpophistcoll> .
 

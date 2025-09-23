@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Great+Slave+Lake> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/Northwest+Territories/cities/Yellowknife_obele>,
         <http://www.semwebtech.org/mondial/countries/CDN/provinces/Northwest+Territories/cities/Yellowknife_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Northwest+Territories/cities/Yellowknife_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Northwest+Territories/cities/Yellowknife_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Northwest+Territories/cities/Yellowknife_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Northwest+Territories/cities/Yellowknife_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Northwest+Territories/cities/Yellowknife_obpophistcoll> .
 

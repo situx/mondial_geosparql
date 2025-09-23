@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Wasit/cities/Al+Kut> ;
     skos:prefLabel "واسط" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Wasit_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Wasit_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Wasit_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Wasit_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Wasit_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Wasit_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Wasit_obpophistcoll> .
 

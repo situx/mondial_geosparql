@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Majuro> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MH/cities/Majuro_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MH/cities/Majuro_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MH/cities/Majuro_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MH/cities/Majuro_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MH/cities/Majuro_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MH/cities/Majuro_obpophistcoll> .
 

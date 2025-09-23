@@ -15,7 +15,5 @@
     skos:prefLabel "ក្រុងសៀមរាប" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/K/cities/Siem+Reap_obele>,
         <http://www.semwebtech.org/mondial/countries/K/cities/Siem+Reap_obpop>,
-        <http://www.semwebtech.org/mondial/countries/K/cities/Siem+Reap_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/K/cities/Siem+Reap_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/K/cities/Siem+Reap_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/K/cities/Siem+Reap_obpophistcoll> .
 

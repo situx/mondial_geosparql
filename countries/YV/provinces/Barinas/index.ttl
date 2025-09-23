@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/YV/provinces/Barinas/cities/Barinas> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/YV/provinces/Barinas/cities/Barinas> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Barinas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Barinas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Barinas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Barinas_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Barinas_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Barinas_obpophistcoll> .
 

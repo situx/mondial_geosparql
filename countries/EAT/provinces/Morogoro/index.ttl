@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Morogoro/cities/Morogoro> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAT/provinces/Morogoro/cities/Morogoro> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Morogoro_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Morogoro_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Morogoro_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Morogoro_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Morogoro_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Morogoro_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Morogoro_obpophistcoll> .
 

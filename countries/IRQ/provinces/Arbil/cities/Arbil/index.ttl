@@ -15,7 +15,5 @@
     skos:altLabel "Erbil" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Arbil/cities/Arbil_obele>,
         <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Arbil/cities/Arbil_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Arbil/cities/Arbil_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Arbil/cities/Arbil_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Arbil/cities/Arbil_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Arbil/cities/Arbil_obpophistcoll> .
 

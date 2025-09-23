@@ -18,7 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Jharkhand/cities/Jamshedpur>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Jharkhand/cities/Ranchi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Jharkhand_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Jharkhand_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Jharkhand_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Jharkhand_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Jharkhand_obpophistcoll> .
 

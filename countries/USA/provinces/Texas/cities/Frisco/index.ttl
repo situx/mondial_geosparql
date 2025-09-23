@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Frisco_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Frisco_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Frisco_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Frisco_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Frisco_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Frisco_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Frisco_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Frisco_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Frisco_obpophistcoll> .
 

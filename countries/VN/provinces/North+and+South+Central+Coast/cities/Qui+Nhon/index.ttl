@@ -17,7 +17,5 @@
     skos:altLabel "Quy Nhơn" ;
     skos:prefLabel "Quy Nhơn" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Qui+Nhon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Qui+Nhon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Qui+Nhon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Qui+Nhon_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Qui+Nhon_obpophistcoll> .
 

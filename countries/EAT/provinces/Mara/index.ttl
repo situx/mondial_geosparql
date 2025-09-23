@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mara/cities/Musoma> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mara/cities/Musoma> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mara_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mara_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mara_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mara_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mara_obpophistcoll> .
 

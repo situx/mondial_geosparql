@@ -15,5 +15,5 @@
     skos:altLabel "Bokara Steel City" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Jharkhand/cities/Bokaro+Steel+City_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Jharkhand/cities/Bokaro+Steel+City_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Jharkhand/cities/Bokaro+Steel+City_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Jharkhand/cities/Bokaro+Steel+City_obpophistcoll> .
 

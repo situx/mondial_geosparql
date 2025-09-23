@@ -16,7 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Sri+Lanka> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CL/cities/Colombo_obele>,
         <http://www.semwebtech.org/mondial/countries/CL/cities/Colombo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CL/cities/Colombo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CL/cities/Colombo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CL/cities/Colombo_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CL/cities/Colombo_obpophistcoll> .
 

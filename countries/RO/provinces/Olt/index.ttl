@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Olt/cities/Slatina> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Olt/cities/Slatina> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Olt_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Olt_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Olt_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Olt_obpophistcoll> .
 

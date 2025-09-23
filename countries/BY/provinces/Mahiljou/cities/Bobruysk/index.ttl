@@ -17,8 +17,5 @@
     skos:prefLabel "Бобруйск" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BY/provinces/Mahiljou/cities/Bobruysk_obele>,
         <http://www.semwebtech.org/mondial/countries/BY/provinces/Mahiljou/cities/Bobruysk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Mahiljou/cities/Bobruysk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Mahiljou/cities/Bobruysk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Mahiljou/cities/Bobruysk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Mahiljou/cities/Bobruysk_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BY/provinces/Mahiljou/cities/Bobruysk_obpophistcoll> .
 

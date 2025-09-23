@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perak/cities/Ipoh_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perak/cities/Ipoh_obele>,
         <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perak/cities/Ipoh_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perak/cities/Ipoh_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perak/cities/Ipoh_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perak/cities/Ipoh_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Perak/cities/Ipoh_obpophistcoll> .
 

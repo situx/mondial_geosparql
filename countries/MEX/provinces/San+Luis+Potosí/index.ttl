@@ -17,10 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MEX/provinces/San+Luis+Potosí/cities/San+Luis+Potosí>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/San+Luis+Potosí/cities/Soledad+de+Graciano+Sanchez> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/San+Luis+Potosí_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/San+Luis+Potosí_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/San+Luis+Potosí_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/San+Luis+Potosí_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/San+Luis+Potosí_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/San+Luis+Potosí_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/San+Luis+Potosí_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/San+Luis+Potosí_obpophistcoll> .
 

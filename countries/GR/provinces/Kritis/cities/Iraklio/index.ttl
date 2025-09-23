@@ -20,8 +20,5 @@
     skos:prefLabel "Ηράκλειο" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis/cities/Iraklio_obele>,
         <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis/cities/Iraklio_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis/cities/Iraklio_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis/cities/Iraklio_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis/cities/Iraklio_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis/cities/Iraklio_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Kritis/cities/Iraklio_obpophistcoll> .
 

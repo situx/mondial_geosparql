@@ -15,8 +15,5 @@
     skos:altLabel "Kasūr" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Kasur_obele>,
         <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Kasur_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Kasur_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Kasur_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Kasur_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Kasur_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Kasur_obpophistcoll> .
 

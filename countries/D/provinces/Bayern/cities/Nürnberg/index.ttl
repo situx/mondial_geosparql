@@ -17,8 +17,5 @@
     skos:altLabel "Nuremberg" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Nürnberg_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Nürnberg_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Nürnberg_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Nürnberg_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Nürnberg_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Nürnberg_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Nürnberg_obpophistcoll> .
 

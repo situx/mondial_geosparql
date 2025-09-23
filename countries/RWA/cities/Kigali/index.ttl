@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RWA/cities/Kigali_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RWA/cities/Kigali_obele>,
         <http://www.semwebtech.org/mondial/countries/RWA/cities/Kigali_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RWA/cities/Kigali_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RWA/cities/Kigali_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RWA/cities/Kigali_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RWA/cities/Kigali_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RWA/cities/Kigali_obpophistcoll> .
 

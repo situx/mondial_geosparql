@@ -20,9 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan/cities/Orumiyeh> ;
     skos:prefLabel "آذربايجان غربي" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan_obpophistcoll> .
 

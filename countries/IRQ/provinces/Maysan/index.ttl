@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Maysan/cities/Al+Amarah> ;
     skos:prefLabel "ميسان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Maysan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Maysan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Maysan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Maysan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Maysan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Maysan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Maysan_obpophistcoll> .
 

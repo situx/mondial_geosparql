@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/MAL/provinces/Terengganu/cities/Kuala+Terengganu> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MAL/provinces/Terengganu/cities/Kuala+Terengganu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAL/provinces/Terengganu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Terengganu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Terengganu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Terengganu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Terengganu_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Terengganu_obpophistcoll> .
 

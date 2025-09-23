@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NAM/cities/Walvis+Bay_obele>,
         <http://www.semwebtech.org/mondial/countries/NAM/cities/Walvis+Bay_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NAM/cities/Walvis+Bay_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NAM/cities/Walvis+Bay_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NAM/cities/Walvis+Bay_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NAM/cities/Walvis+Bay_obpophistcoll> .
 

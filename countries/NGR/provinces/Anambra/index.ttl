@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NGR/provinces/Anambra/cities/Awka>,
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Anambra/cities/Onitsha> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Anambra_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Anambra_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Anambra_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Anambra_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Anambra_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Anambra_obpophistcoll> .
 

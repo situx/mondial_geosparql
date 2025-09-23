@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RIM/provinces/Brakna/cities/Aleg> ;
     skos:prefLabel "لبراكنة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RIM/provinces/Brakna_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Brakna_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Brakna_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Brakna_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Brakna_obpophistcoll> .
 

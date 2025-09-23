@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Tverskaya/cities/Tver> ;
     skos:prefLabel "Тверская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Tverskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tverskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tverskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tverskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tverskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tverskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Tverskaya_obpophistcoll> .
 

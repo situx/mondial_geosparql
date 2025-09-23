@@ -18,7 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/RN/provinces/Maradi/cities/Maradi>,
         <http://www.semwebtech.org/mondial/countries/RN/provinces/Maradi/cities/Tessaoua> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RN/provinces/Maradi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Maradi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Maradi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Maradi_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RN/provinces/Maradi_obpophistcoll> .
 

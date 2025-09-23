@@ -16,6 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Barbados> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BDS/cities/Bridgetown_obele>,
         <http://www.semwebtech.org/mondial/countries/BDS/cities/Bridgetown_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BDS/cities/Bridgetown_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BDS/cities/Bridgetown_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/BDS/cities/Bridgetown_obpophistcoll> .
 

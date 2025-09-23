@@ -15,9 +15,5 @@
     skos:prefLabel "부천시" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ROK/cities/Bucheon_obele>,
         <http://www.semwebtech.org/mondial/countries/ROK/cities/Bucheon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Bucheon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Bucheon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Bucheon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Bucheon_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Bucheon_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Bucheon_obpophistcoll> .
 

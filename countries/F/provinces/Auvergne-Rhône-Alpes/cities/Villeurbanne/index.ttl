@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Rhone> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Villeurbanne_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Villeurbanne_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Villeurbanne_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Villeurbanne_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Villeurbanne_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Villeurbanne_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Villeurbanne_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Villeurbanne_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Villeurbanne_obpophistcoll> .
 

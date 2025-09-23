@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Luziânia_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Luziânia_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Luziânia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Luziânia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Luziânia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Luziânia_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Luziânia_obpophistcoll> .
 

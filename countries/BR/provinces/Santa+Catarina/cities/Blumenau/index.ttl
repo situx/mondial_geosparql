@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Santa+Catarina/cities/Blumenau_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Santa+Catarina/cities/Blumenau_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Santa+Catarina/cities/Blumenau_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Santa+Catarina/cities/Blumenau_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Santa+Catarina/cities/Blumenau_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Santa+Catarina/cities/Blumenau_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Santa+Catarina/cities/Blumenau_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Santa+Catarina/cities/Blumenau_obpophistcoll> .
 

@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Galaţi/cities/Galaţi> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Galaţi/cities/Galaţi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Galaţi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Galaţi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Galaţi_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Galaţi_obpophistcoll> .
 

@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Ill> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Mulhouse_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Mulhouse_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Mulhouse_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Mulhouse_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Mulhouse_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Mulhouse_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Mulhouse_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Mulhouse_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Mulhouse_obpophistcoll> .
 

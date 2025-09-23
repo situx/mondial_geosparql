@@ -17,6 +17,5 @@
         <http://www.semwebtech.org/mondial/rivers/Regen> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Regensburg_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Regensburg_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Regensburg_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Regensburg_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Bayern/cities/Regensburg_obpophistcoll> .
 

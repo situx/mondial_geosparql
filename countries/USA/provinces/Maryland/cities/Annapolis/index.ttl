@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Maryland/cities/Annapolis_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Maryland/cities/Annapolis_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Maryland/cities/Annapolis_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Maryland/cities/Annapolis_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Maryland/cities/Annapolis_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Maryland/cities/Annapolis_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Maryland/cities/Annapolis_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Maryland/cities/Annapolis_obpophistcoll> .
 

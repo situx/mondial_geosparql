@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Weiße+Elster> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Leipzig_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Leipzig_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Leipzig_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Leipzig_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Leipzig_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Leipzig_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Leipzig_obpophistcoll> .
 

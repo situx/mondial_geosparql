@@ -17,9 +17,5 @@
     skos:prefLabel "آبادان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Khuzestan/cities/Abadan_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/Khuzestan/cities/Abadan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khuzestan/cities/Abadan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khuzestan/cities/Abadan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khuzestan/cities/Abadan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khuzestan/cities/Abadan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khuzestan/cities/Abadan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Khuzestan/cities/Abadan_obpophistcoll> .
 

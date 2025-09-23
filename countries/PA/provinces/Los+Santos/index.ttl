@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PA/provinces/Los+Santos/cities/Las+Tablas> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PA/provinces/Los+Santos/cities/Las+Tablas> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PA/provinces/Los+Santos_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Los+Santos_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Los+Santos_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Los+Santos_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PA/provinces/Los+Santos_obpophistcoll> .
 

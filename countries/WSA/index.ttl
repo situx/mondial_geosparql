@@ -25,7 +25,7 @@
         <http://www.semwebtech.org/mondial/countries/RIM> ;
     skos:prefLabel "الصحراء الغربية" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/WSA_obpop>,
-        <http://www.semwebtech.org/mondial/countries/WSA_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/WSA_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/WSA_obpopg>,
+        <http://www.semwebtech.org/mondial/countries/WSA_obpophistcoll>,
         <http://www.semwebtech.org/mondial/countries/WSA_obrel1> .
 

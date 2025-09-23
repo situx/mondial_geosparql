@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/HN/provinces/Cortés/cities/San+Pedro+Sula_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/HN/provinces/Cortés/cities/San+Pedro+Sula_obele>,
         <http://www.semwebtech.org/mondial/countries/HN/provinces/Cortés/cities/San+Pedro+Sula_obpop>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Cortés/cities/San+Pedro+Sula_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Cortés/cities/San+Pedro+Sula_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Cortés/cities/San+Pedro+Sula_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Cortés/cities/San+Pedro+Sula_obpophistcoll> .
 

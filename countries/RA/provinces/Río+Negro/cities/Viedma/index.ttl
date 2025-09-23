@@ -15,5 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Río+Neuquen> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Río+Negro/cities/Viedma_obele>,
         <http://www.semwebtech.org/mondial/countries/RA/provinces/Río+Negro/cities/Viedma_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Río+Negro/cities/Viedma_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Río+Negro/cities/Viedma_obpophistcoll> .
 

@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CZ/provinces/Zlínský/cities/Zlín_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CZ/provinces/Zlínský/cities/Zlín_obele>,
         <http://www.semwebtech.org/mondial/countries/CZ/provinces/Zlínský/cities/Zlín_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Zlínský/cities/Zlín_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Zlínský/cities/Zlín_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Zlínský/cities/Zlín_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Zlínský/cities/Zlín_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Zlínský/cities/Zlín_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Zlínský/cities/Zlín_obpophistcoll> .
 

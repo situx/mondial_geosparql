@@ -16,8 +16,5 @@
         <http://www.semwebtech.org/mondial/seas/Marmara+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/İstanbul/cities/İstanbul_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/İstanbul/cities/İstanbul_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/İstanbul/cities/İstanbul_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/İstanbul/cities/İstanbul_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/İstanbul/cities/İstanbul_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/İstanbul/cities/İstanbul_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/İstanbul/cities/İstanbul_obpophistcoll> .
 

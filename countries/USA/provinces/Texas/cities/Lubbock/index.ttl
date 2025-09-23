@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Lubbock_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Lubbock_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Lubbock_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Lubbock_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Lubbock_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Lubbock_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Lubbock_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Lubbock_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/Lubbock_obpophistcoll> .
 

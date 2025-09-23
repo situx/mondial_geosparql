@@ -16,9 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/SouthernBug> ;
     skos:prefLabel "Вінниця" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Vinnytska/cities/Vinnytsia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Vinnytska/cities/Vinnytsia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Vinnytska/cities/Vinnytsia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Vinnytska/cities/Vinnytsia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Vinnytska/cities/Vinnytsia_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Vinnytska/cities/Vinnytsia_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Vinnytska/cities/Vinnytsia_obpophistcoll> .
 

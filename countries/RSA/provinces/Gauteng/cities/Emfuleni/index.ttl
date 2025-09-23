@@ -15,6 +15,5 @@
     skos:altLabel "Vanderbijlpark" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Emfuleni_obele>,
         <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Emfuleni_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Emfuleni_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Emfuleni_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Emfuleni_obpophistcoll> .
 

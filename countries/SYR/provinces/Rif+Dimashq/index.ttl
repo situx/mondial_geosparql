@@ -18,6 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SYR/provinces/Rif+Dimashq/cities/Duma> ;
     skos:prefLabel "ريف دمشق" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SYR/provinces/Rif+Dimashq_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Rif+Dimashq_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Rif+Dimashq_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Rif+Dimashq_obpophistcoll> .
 

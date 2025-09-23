@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GH/provinces/Eastern/cities/Koforidua_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GH/provinces/Eastern/cities/Koforidua_obele>,
         <http://www.semwebtech.org/mondial/countries/GH/provinces/Eastern/cities/Koforidua_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Eastern/cities/Koforidua_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Eastern/cities/Koforidua_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Eastern/cities/Koforidua_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Eastern/cities/Koforidua_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Eastern/cities/Koforidua_obpophistcoll> .
 

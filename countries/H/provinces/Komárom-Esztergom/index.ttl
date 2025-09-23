@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/H/provinces/Komárom-Esztergom/cities/Tatabánya> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/H/provinces/Komárom-Esztergom/cities/Tatabánya> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/H/provinces/Komárom-Esztergom_obpop>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Komárom-Esztergom_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Komárom-Esztergom_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Komárom-Esztergom_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/H/provinces/Komárom-Esztergom_obpophistcoll> .
 

@@ -17,7 +17,5 @@
     skos:altLabel "Nasiriyah" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Thi+Qar/cities/An+Nasiriyah_obele>,
         <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Thi+Qar/cities/An+Nasiriyah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Thi+Qar/cities/An+Nasiriyah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Thi+Qar/cities/An+Nasiriyah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Thi+Qar/cities/An+Nasiriyah_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Thi+Qar/cities/An+Nasiriyah_obpophistcoll> .
 

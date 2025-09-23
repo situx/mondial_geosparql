@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RO/provinces/Iaşi/cities/Iaşi_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Iaşi/cities/Iaşi_obele>,
         <http://www.semwebtech.org/mondial/countries/RO/provinces/Iaşi/cities/Iaşi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Iaşi/cities/Iaşi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Iaşi/cities/Iaşi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Iaşi/cities/Iaşi_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Iaşi/cities/Iaşi_obpophistcoll> .
 

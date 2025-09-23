@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Leganés_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Leganés_obele>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Leganés_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Leganés_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Leganés_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Leganés_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Leganés_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Leganés_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Leganés_obpophistcoll> .
 

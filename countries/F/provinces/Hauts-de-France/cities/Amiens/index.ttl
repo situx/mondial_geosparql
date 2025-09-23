@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Somme> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Hauts-de-France/cities/Amiens_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Hauts-de-France/cities/Amiens_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Hauts-de-France/cities/Amiens_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Hauts-de-France/cities/Amiens_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Hauts-de-France/cities/Amiens_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Hauts-de-France/cities/Amiens_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Hauts-de-France/cities/Amiens_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Hauts-de-France/cities/Amiens_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Hauts-de-France/cities/Amiens_obpophistcoll> .
 

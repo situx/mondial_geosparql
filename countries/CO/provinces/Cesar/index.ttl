@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CO/provinces/Cesar/cities/Valledupar> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CO/provinces/Cesar/cities/Valledupar> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Cesar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Cesar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Cesar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Cesar_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Cesar_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Cesar_obpophistcoll> .
 

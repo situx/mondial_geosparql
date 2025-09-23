@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/Wisconsin/cities/Madison_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Wisconsin/cities/Madison_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Wisconsin/cities/Madison_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Wisconsin/cities/Madison_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Wisconsin/cities/Madison_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Wisconsin/cities/Madison_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Wisconsin/cities/Madison_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Wisconsin/cities/Madison_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Wisconsin/cities/Madison_obpophistcoll> .
 

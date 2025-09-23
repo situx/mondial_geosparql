@@ -15,8 +15,5 @@
     skos:altLabel "Jaboatao dos Guararapes" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Jaboatão_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Jaboatão_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Jaboatão_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Jaboatão_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Jaboatão_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Jaboatão_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Jaboatão_obpophistcoll> .
 

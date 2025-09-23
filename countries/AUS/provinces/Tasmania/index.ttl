@@ -16,11 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania/cities/Hobart> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania/cities/Hobart> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania_obpophist6> .
+        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Tasmania_obpophistcoll> .
 

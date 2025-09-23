@@ -16,9 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Yodo> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Honshu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Shiga/cities/Otsu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shiga/cities/Otsu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shiga/cities/Otsu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shiga/cities/Otsu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shiga/cities/Otsu_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Shiga/cities/Otsu_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Shiga/cities/Otsu_obpophistcoll> .
 

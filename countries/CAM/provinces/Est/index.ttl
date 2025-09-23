@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CAM/provinces/Est/cities/Bertoua> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CAM/provinces/Est/cities/Bertoua> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CAM/provinces/Est_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Est_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Est_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Est_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Est_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Est_obpophistcoll> .
 

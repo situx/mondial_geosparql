@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/USA/provinces/Maine/cities/Augusta>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Maine/cities/Portland> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Maine_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Maine_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Maine_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Maine_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Maine_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Maine_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Maine_obpophistcoll> .
 

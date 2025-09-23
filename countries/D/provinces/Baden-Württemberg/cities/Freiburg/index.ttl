@@ -15,6 +15,5 @@
     skos:altLabel "Freiburg im Breisgau" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Freiburg_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Freiburg_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Freiburg_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Freiburg_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Freiburg_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RCB/provinces/Pointe-Noire/cities/Pointe-Noire> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RCB/provinces/Pointe-Noire/cities/Pointe-Noire> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCB/provinces/Pointe-Noire_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Pointe-Noire_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Pointe-Noire_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Pointe-Noire_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Pointe-Noire_obpophistcoll> .
 

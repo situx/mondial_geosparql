@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Rio+Grijalva> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chiapas/cities/Tuxtla+Gutiérrez_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chiapas/cities/Tuxtla+Gutiérrez_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chiapas/cities/Tuxtla+Gutiérrez_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chiapas/cities/Tuxtla+Gutiérrez_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chiapas/cities/Tuxtla+Gutiérrez_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chiapas/cities/Tuxtla+Gutiérrez_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chiapas/cities/Tuxtla+Gutiérrez_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chiapas/cities/Tuxtla+Gutiérrez_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chiapas/cities/Tuxtla+Gutiérrez_obpophistcoll> .
 

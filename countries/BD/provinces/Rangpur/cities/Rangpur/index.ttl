@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BD/provinces/Rangpur/cities/Rangpur_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BD/provinces/Rangpur/cities/Rangpur_obele>,
         <http://www.semwebtech.org/mondial/countries/BD/provinces/Rangpur/cities/Rangpur_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rangpur/cities/Rangpur_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rangpur/cities/Rangpur_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rangpur/cities/Rangpur_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rangpur/cities/Rangpur_obpophistcoll> .
 

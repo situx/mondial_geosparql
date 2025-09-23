@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/KZ/provinces/South-Kazakhstan/cities/Shymkent> ;
     skos:prefLabel "Оңтүстік Қазақстан" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KZ/provinces/South-Kazakhstan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/South-Kazakhstan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/South-Kazakhstan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/South-Kazakhstan_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/KZ/provinces/South-Kazakhstan_obpophistcoll> .
 

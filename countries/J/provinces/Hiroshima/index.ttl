@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/J/provinces/Hiroshima/cities/Hiroshima> ;
     skos:prefLabel "広島県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Hiroshima_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hiroshima_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hiroshima_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hiroshima_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hiroshima_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hiroshima_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Hiroshima_obpophistcoll> .
 

@@ -23,8 +23,5 @@
         <http://www.semwebtech.org/mondial/countries/GB/provinces/West+Midlands/cities/Wolverhampton>,
         <http://www.semwebtech.org/mondial/countries/GB/provinces/West+Midlands/cities/Worcester> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GB/provinces/West+Midlands_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/West+Midlands_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/West+Midlands_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/West+Midlands_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/West+Midlands_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/West+Midlands_obpophistcoll> .
 

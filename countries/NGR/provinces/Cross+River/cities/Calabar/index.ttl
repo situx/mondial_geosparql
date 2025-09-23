@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Cross+River/cities/Calabar_obele>,
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Cross+River/cities/Calabar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Cross+River/cities/Calabar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Cross+River/cities/Calabar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Cross+River/cities/Calabar_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Cross+River/cities/Calabar_obpophistcoll> .
 

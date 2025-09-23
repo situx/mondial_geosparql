@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RA/provinces/Córdoba/cities/Córdoba_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Córdoba/cities/Córdoba_obele>,
         <http://www.semwebtech.org/mondial/countries/RA/provinces/Córdoba/cities/Córdoba_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Córdoba/cities/Córdoba_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Córdoba/cities/Córdoba_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Córdoba/cities/Córdoba_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Córdoba/cities/Córdoba_obpophistcoll> .
 

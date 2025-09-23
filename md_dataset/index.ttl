@@ -35,20 +35,20 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "md_dataset"@en ;
     ns1:averageLiteralLength 0 ;
-    ns1:averageObjectIRILength 70 ;
+    ns1:averageObjectIRILength 69 ;
     ns1:averagePropertyIRILength 50 ;
-    ns1:averageSubjectIRILength 73 ;
+    ns1:averageSubjectIRILength 74 ;
     ns1:datatypes 0 ;
     ns1:distinctBlankNodes 338 ;
-    ns1:distinctIRIReferences 206485 ;
+    ns1:distinctIRIReferences 217132 ;
     ns1:distinctLiterals 0 ;
-    ns1:distinctRDFNodes 206823 ;
+    ns1:distinctRDFNodes 217470 ;
     ns1:languages 0 ;
     ns1:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     dcterms:license <http://creativecommons.org/licenses/by-sa/4.0> ;
-    dcterms:modified "2025-09-22T21:12:48"^^xsd:dateTime ;
+    dcterms:modified "2025-09-23T18:41:37"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -96,9 +96,9 @@
         <http://www.semwebtech.org/mondial/md_dataset_Volcano> ;
     void:classes 37 ;
     void:dataDump <https://situx.github.io/mondial_geosparql//index.ttl> ;
-    void:distinctObjects 146963 ;
-    void:distinctSubjects 59466 ;
-    void:entities 59448 ;
+    void:distinctObjects 152287 ;
+    void:distinctSubjects 64789 ;
+    void:entities 64770 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
     void:properties 56 ;
@@ -157,7 +157,7 @@
         <http://www.semwebtech.org/mondial/md_dataset_type>,
         <http://www.semwebtech.org/mondial/md_dataset_unemployment>,
         <http://www.semwebtech.org/mondial/md_dataset_wasDependentOf> ;
-    void:triples 438677 ;
+    void:triples 455551 ;
     void:uriSpace "http://www.semwebtech.org/mondial/"^^xsd:string ;
     void:vocabulary ns1:,
         dcam:,

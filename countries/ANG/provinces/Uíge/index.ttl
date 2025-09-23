@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/ANG/provinces/Uíge/cities/Uige> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/ANG/provinces/Uíge/cities/Uige> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Uíge_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Uíge_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Uíge_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Uíge_obpophistcoll> .
 

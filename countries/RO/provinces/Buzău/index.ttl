@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Buzău/cities/Buzău> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Buzău/cities/Buzău> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Buzău_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Buzău_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Buzău_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Buzău_obpophistcoll> .
 

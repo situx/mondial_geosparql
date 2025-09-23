@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Indian+Ocean> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Unguja> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Zanzibar/cities/Zanzibar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Zanzibar/cities/Zanzibar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Zanzibar/cities/Zanzibar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Zanzibar/cities/Zanzibar_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Zanzibar/cities/Zanzibar_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Zanzibar/cities/Zanzibar_obpophistcoll> .
 

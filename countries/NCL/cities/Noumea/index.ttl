@@ -16,7 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Grande+Terre> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NCL/cities/Noumea_obele>,
         <http://www.semwebtech.org/mondial/countries/NCL/cities/Noumea_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NCL/cities/Noumea_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NCL/cities/Noumea_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NCL/cities/Noumea_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NCL/cities/Noumea_obpophistcoll> .
 

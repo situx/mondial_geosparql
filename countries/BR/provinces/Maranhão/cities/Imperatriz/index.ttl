@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Tocantins> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/Imperatriz_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/Imperatriz_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/Imperatriz_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/Imperatriz_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/Imperatriz_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/Imperatriz_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Maranhão/cities/Imperatriz_obpophistcoll> .
 

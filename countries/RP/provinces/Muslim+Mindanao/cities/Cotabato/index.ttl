@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Sulawesi+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Mindanao> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Muslim+Mindanao/cities/Cotabato_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Muslim+Mindanao/cities/Cotabato_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Muslim+Mindanao/cities/Cotabato_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Muslim+Mindanao/cities/Cotabato_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Muslim+Mindanao/cities/Cotabato_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Muslim+Mindanao/cities/Cotabato_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Muslim+Mindanao/cities/Cotabato_obpophistcoll> .
 

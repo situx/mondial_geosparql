@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IR/provinces/Kermanshah/cities/Kermanshah> ;
     skos:prefLabel "كرمانشاه" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Kermanshah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kermanshah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kermanshah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kermanshah_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kermanshah_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kermanshah_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kermanshah_obpophistcoll> .
 

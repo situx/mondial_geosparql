@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PE/provinces/La+Libertad/cities/Trujillo> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PE/provinces/La+Libertad/cities/Trujillo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PE/provinces/La+Libertad_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/La+Libertad_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/La+Libertad_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/La+Libertad_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/La+Libertad_obpophistcoll> .
 

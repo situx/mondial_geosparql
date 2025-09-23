@@ -16,8 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     skos:prefLabel "سلا" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Rabat+Sale+Zemmour+Zaer/cities/Salé_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Rabat+Sale+Zemmour+Zaer/cities/Salé_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Rabat+Sale+Zemmour+Zaer/cities/Salé_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Rabat+Sale+Zemmour+Zaer/cities/Salé_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Rabat+Sale+Zemmour+Zaer/cities/Salé_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Rabat+Sale+Zemmour+Zaer/cities/Salé_obpophistcoll> .
 

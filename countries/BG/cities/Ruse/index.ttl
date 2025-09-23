@@ -17,9 +17,5 @@
     skos:prefLabel "Русе" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BG/cities/Ruse_obele>,
         <http://www.semwebtech.org/mondial/countries/BG/cities/Ruse_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Ruse_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Ruse_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Ruse_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Ruse_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Ruse_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/BG/cities/Ruse_obpophistcoll> .
 

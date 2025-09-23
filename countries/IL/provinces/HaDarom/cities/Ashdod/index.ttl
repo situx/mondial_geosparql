@@ -16,8 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Mediterranean+Sea> ;
     skos:prefLabel "אשדוד" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom/cities/Ashdod_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom/cities/Ashdod_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom/cities/Ashdod_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom/cities/Ashdod_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom/cities/Ashdod_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom/cities/Ashdod_obpophistcoll> .
 

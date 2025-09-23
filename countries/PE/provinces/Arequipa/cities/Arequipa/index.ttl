@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PE/provinces/Arequipa/cities/Arequipa_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PE/provinces/Arequipa/cities/Arequipa_obele>,
         <http://www.semwebtech.org/mondial/countries/PE/provinces/Arequipa/cities/Arequipa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Arequipa/cities/Arequipa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Arequipa/cities/Arequipa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Arequipa/cities/Arequipa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Arequipa/cities/Arequipa_obpophistcoll> .
 

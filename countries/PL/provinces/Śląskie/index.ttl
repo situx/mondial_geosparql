@@ -27,7 +27,5 @@
         <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie/cities/Tychy>,
         <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie/cities/Zabrze> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Śląskie_obpophistcoll> .
 

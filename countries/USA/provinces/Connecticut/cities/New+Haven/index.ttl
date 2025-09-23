@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/New+Haven_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/New+Haven_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/New+Haven_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/New+Haven_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/New+Haven_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/New+Haven_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/New+Haven_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/New+Haven_obpophistcoll> .
 

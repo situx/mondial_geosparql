@@ -12,9 +12,5 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/B/provinces/Luxembourg/cities/Arlon_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/B/provinces/Luxembourg/cities/Arlon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Luxembourg/cities/Arlon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Luxembourg/cities/Arlon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Luxembourg/cities/Arlon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Luxembourg/cities/Arlon_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Luxembourg/cities/Arlon_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Luxembourg/cities/Arlon_obpophistcoll> .
 

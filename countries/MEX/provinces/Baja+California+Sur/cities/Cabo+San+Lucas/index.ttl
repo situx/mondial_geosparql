@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur/cities/Cabo+San+Lucas_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur/cities/Cabo+San+Lucas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur/cities/Cabo+San+Lucas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur/cities/Cabo+San+Lucas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur/cities/Cabo+San+Lucas_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur/cities/Cabo+San+Lucas_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur/cities/Cabo+San+Lucas_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur/cities/Cabo+San+Lucas_obpophistcoll> .
 

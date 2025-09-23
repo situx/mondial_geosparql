@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/IND/provinces/Goa/cities/Panaji> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IND/provinces/Goa/cities/Panaji> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Goa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Goa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Goa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Goa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Goa_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Goa_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Goa_obpophistcoll> .
 

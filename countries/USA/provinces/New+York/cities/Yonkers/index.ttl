@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Hudson+River> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/New+York/cities/Yonkers_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/New+York/cities/Yonkers_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+York/cities/Yonkers_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+York/cities/Yonkers_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+York/cities/Yonkers_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+York/cities/Yonkers_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+York/cities/Yonkers_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+York/cities/Yonkers_obpophistcoll> .
 

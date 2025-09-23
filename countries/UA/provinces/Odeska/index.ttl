@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/UA/provinces/Odeska/cities/Odesa> ;
     skos:prefLabel "Одеська" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Odeska_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Odeska_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Odeska_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Odeska_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Odeska_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Odeska_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Odeska_obpophistcoll> .
 

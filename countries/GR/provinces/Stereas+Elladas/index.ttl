@@ -19,8 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/GR/provinces/Stereas+Elladas/cities/Lamia> ;
     skos:prefLabel "Στερεάς Ελλάδας" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Stereas+Elladas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Stereas+Elladas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Stereas+Elladas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Stereas+Elladas_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Stereas+Elladas_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Stereas+Elladas_obpophistcoll> .
 

@@ -17,6 +17,5 @@
     skos:altLabel "Ludwigshafen am Rhein" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Ludwigshafen_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Ludwigshafen_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Ludwigshafen_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Ludwigshafen_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Ludwigshafen_obpophistcoll> .
 

@@ -14,10 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ROK/cities/Seongnam_geom> ;
     skos:prefLabel "성남시" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ROK/cities/Seongnam_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Seongnam_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Seongnam_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Seongnam_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Seongnam_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Seongnam_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Seongnam_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Seongnam_obpophistcoll> .
 

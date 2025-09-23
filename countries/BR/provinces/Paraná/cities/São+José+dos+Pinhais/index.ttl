@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/São+José+dos+Pinhais_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/São+José+dos+Pinhais_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/São+José+dos+Pinhais_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/São+José+dos+Pinhais_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/São+José+dos+Pinhais_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/São+José+dos+Pinhais_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/São+José+dos+Pinhais_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraná/cities/São+José+dos+Pinhais_obpophistcoll> .
 

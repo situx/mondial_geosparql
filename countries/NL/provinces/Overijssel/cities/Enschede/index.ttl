@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NL/provinces/Overijssel/cities/Enschede_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NL/provinces/Overijssel/cities/Enschede_obele>,
         <http://www.semwebtech.org/mondial/countries/NL/provinces/Overijssel/cities/Enschede_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Overijssel/cities/Enschede_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Overijssel/cities/Enschede_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Overijssel/cities/Enschede_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NL/provinces/Overijssel/cities/Enschede_obpophistcoll> .
 

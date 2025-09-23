@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Seyhan> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Adana/cities/Adana_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Adana/cities/Adana_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Adana/cities/Adana_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Adana/cities/Adana_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Adana/cities/Adana_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Adana/cities/Adana_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Adana/cities/Adana_obpophistcoll> .
 

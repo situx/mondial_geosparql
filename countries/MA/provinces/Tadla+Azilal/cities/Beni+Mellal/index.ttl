@@ -15,8 +15,5 @@
     skos:prefLabel "بني ملال" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Tadla+Azilal/cities/Beni+Mellal_obele>,
         <http://www.semwebtech.org/mondial/countries/MA/provinces/Tadla+Azilal/cities/Beni+Mellal_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Tadla+Azilal/cities/Beni+Mellal_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Tadla+Azilal/cities/Beni+Mellal_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Tadla+Azilal/cities/Beni+Mellal_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Tadla+Azilal/cities/Beni+Mellal_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Tadla+Azilal/cities/Beni+Mellal_obpophistcoll> .
 

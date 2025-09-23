@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Lomas+de+Zamora_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Lomas+de+Zamora_obele>,
         <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Lomas+de+Zamora_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Lomas+de+Zamora_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Lomas+de+Zamora_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Lomas+de+Zamora_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Lomas+de+Zamora_obpophistcoll> .
 

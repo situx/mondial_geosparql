@@ -17,9 +17,5 @@
     skos:prefLabel "Пловдив" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BG/cities/Plovdiv_obele>,
         <http://www.semwebtech.org/mondial/countries/BG/cities/Plovdiv_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Plovdiv_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Plovdiv_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Plovdiv_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Plovdiv_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Plovdiv_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/BG/cities/Plovdiv_obpophistcoll> .
 

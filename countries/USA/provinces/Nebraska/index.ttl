@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/USA/provinces/Nebraska/cities/Lincoln>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Nebraska/cities/Omaha> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Nebraska_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Nebraska_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Nebraska_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Nebraska_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Nebraska_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Nebraska_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Nebraska_obpophistcoll> .
 

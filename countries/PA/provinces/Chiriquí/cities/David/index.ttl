@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PA/provinces/Chiriquí/cities/David_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PA/provinces/Chiriquí/cities/David_obele>,
         <http://www.semwebtech.org/mondial/countries/PA/provinces/Chiriquí/cities/David_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Chiriquí/cities/David_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Chiriquí/cities/David_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Chiriquí/cities/David_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PA/provinces/Chiriquí/cities/David_obpophistcoll> .
 

@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Giurgiu/cities/Giurgiu> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Giurgiu/cities/Giurgiu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Giurgiu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Giurgiu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Giurgiu_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Giurgiu_obpophistcoll> .
 

@@ -20,8 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/GB/provinces/East+Midlands/cities/Northampton>,
         <http://www.semwebtech.org/mondial/countries/GB/provinces/East+Midlands/cities/Nottingham> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GB/provinces/East+Midlands_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/East+Midlands_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/East+Midlands_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/East+Midlands_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/East+Midlands_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/East+Midlands_obpophistcoll> .
 

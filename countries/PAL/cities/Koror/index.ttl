@@ -16,9 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Koror> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PAL/cities/Koror_obele>,
         <http://www.semwebtech.org/mondial/countries/PAL/cities/Koror_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PAL/cities/Koror_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PAL/cities/Koror_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PAL/cities/Koror_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PAL/cities/Koror_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/PAL/cities/Koror_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/PAL/cities/Koror_obpophistcoll> .
 

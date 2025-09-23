@@ -17,5 +17,5 @@
     skos:altLabel "Vadsoe" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Finnmark/cities/Vadsø_obele>,
         <http://www.semwebtech.org/mondial/countries/N/provinces/Finnmark/cities/Vadsø_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Finnmark/cities/Vadsø_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Finnmark/cities/Vadsø_obpophistcoll> .
 

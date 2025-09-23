@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/ANG/provinces/Namibe/cities/Moçâmedes> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/ANG/provinces/Namibe/cities/Moçâmedes> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Namibe_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Namibe_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Namibe_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Namibe_obpophistcoll> .
 

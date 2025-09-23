@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Connecticut+River> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Hartford_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Hartford_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Hartford_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Hartford_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Hartford_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Hartford_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Hartford_obpophistcoll> .
 

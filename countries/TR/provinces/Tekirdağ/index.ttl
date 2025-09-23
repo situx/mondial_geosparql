@@ -18,8 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Tekirdağ/cities/Çerkezköy>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Tekirdağ/cities/Çorlu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Tekirdağ_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tekirdağ_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tekirdağ_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tekirdağ_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tekirdağ_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tekirdağ_obpophistcoll> .
 

@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Toyama/cities/Toyama> ;
     skos:prefLabel "富山県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Toyama_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Toyama_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Toyama_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Toyama_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Toyama_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Toyama_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Toyama_obpophistcoll> .
 

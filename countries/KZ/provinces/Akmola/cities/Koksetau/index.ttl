@@ -16,9 +16,5 @@
     skos:prefLabel "Көкшетау" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KZ/provinces/Akmola/cities/Koksetau_obele>,
         <http://www.semwebtech.org/mondial/countries/KZ/provinces/Akmola/cities/Koksetau_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Akmola/cities/Koksetau_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Akmola/cities/Koksetau_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Akmola/cities/Koksetau_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Akmola/cities/Koksetau_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Akmola/cities/Koksetau_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Akmola/cities/Koksetau_obpophistcoll> .
 

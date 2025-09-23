@@ -15,5 +15,5 @@
     skos:prefLabel "ادلب" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SYR/provinces/Idlib/cities/Idlib_obele>,
         <http://www.semwebtech.org/mondial/countries/SYR/provinces/Idlib/cities/Idlib_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Idlib/cities/Idlib_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Idlib/cities/Idlib_obpophistcoll> .
 

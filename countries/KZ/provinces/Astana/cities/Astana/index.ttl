@@ -21,12 +21,5 @@
     skos:prefLabel "Астана" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KZ/provinces/Astana/cities/Astana_obele>,
         <http://www.semwebtech.org/mondial/countries/KZ/provinces/Astana/cities/Astana_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Astana/cities/Astana_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Astana/cities/Astana_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Astana/cities/Astana_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Astana/cities/Astana_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Astana/cities/Astana_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Astana/cities/Astana_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Astana/cities/Astana_obpophist6>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Astana/cities/Astana_obpophist7> .
+        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Astana/cities/Astana_obpophistcoll> .
 

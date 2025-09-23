@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/B/provinces/Namur/cities/Namur> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/B/provinces/Namur/cities/Namur> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/B/provinces/Namur_obpop>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Namur_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Namur_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Namur_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Namur_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Namur_obpophistcoll> .
 

@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Ialomiţa/cities/Slobozia> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Ialomiţa/cities/Slobozia> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Ialomiţa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Ialomiţa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Ialomiţa_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Ialomiţa_obpophistcoll> .
 

@@ -12,7 +12,5 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá+Oeste/cities/Arraiján_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá+Oeste/cities/Arraiján_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá+Oeste/cities/Arraiján_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá+Oeste/cities/Arraiján_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá+Oeste/cities/Arraiján_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PA/provinces/Panamá+Oeste/cities/Arraiján_obpophistcoll> .
 

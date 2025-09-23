@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RCH/provinces/Coquimbo/cities/La+Serena> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RCH/provinces/Coquimbo/cities/La+Serena> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCH/provinces/Coquimbo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Coquimbo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Coquimbo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Coquimbo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Coquimbo_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Coquimbo_obpophistcoll> .
 

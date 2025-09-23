@@ -16,7 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/South+China+Sea> ;
     skos:prefLabel "Đà Nẵng" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Da+Nang_obpop>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Da+Nang_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Da+Nang_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Da+Nang_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Da+Nang_obpophistcoll> .
 

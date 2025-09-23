@@ -16,9 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Negros> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas/cities/Bacolod_obele>,
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas/cities/Bacolod_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas/cities/Bacolod_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas/cities/Bacolod_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas/cities/Bacolod_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas/cities/Bacolod_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas/cities/Bacolod_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas/cities/Bacolod_obpophistcoll> .
 

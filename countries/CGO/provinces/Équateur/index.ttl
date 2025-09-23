@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CGO/provinces/Équateur/cities/Mbandaka> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CGO/provinces/Équateur/cities/Mbandaka> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Équateur_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Équateur_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Équateur_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Équateur_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Équateur_obpophistcoll> .
 

@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec/cities/Montréal>,
         <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec/cities/Quebec> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec_obpophistcoll> .
 

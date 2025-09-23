@@ -19,7 +19,5 @@
     skos:altLabel "Blue Nile" ;
     skos:prefLabel "النيل الأزرق" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/An-Nīl+al-Azraq_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/An-Nīl+al-Azraq_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/An-Nīl+al-Azraq_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/An-Nīl+al-Azraq_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/An-Nīl+al-Azraq_obpophistcoll> .
 

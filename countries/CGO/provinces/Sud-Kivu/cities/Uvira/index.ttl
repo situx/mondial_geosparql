@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Lake+Tanganjika> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu/cities/Uvira_obele>,
         <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu/cities/Uvira_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu/cities/Uvira_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu/cities/Uvira_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu/cities/Uvira_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu/cities/Uvira_obpophistcoll> .
 

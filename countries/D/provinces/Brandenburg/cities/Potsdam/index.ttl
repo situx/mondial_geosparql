@@ -15,5 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Havel> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Brandenburg/cities/Potsdam_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Brandenburg/cities/Potsdam_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Brandenburg/cities/Potsdam_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Brandenburg/cities/Potsdam_obpophistcoll> .
 

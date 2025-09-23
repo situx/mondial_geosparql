@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Moscow/cities/Moskva> ;
     skos:prefLabel "Москва" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Moscow_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moscow_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moscow_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moscow_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moscow_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Moscow_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Moscow_obpophistcoll> .
 

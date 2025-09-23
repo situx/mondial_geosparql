@@ -14,11 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Brisbane_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Tasman+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Brisbane_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Brisbane_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Brisbane_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Brisbane_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Brisbane_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Brisbane_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Brisbane_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Brisbane_obpophist6> .
+        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Queensland/cities/Brisbane_obpophistcoll> .
 

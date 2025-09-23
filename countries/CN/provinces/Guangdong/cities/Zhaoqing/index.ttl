@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Xi+Jiang> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Zhaoqing_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Zhaoqing_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Zhaoqing_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Zhaoqing_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Zhaoqing_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Zhaoqing_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Zhaoqing_obpophistcoll> .
 

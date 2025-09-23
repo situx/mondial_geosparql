@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/N/provinces/Vest-Agder/cities/Kristiansand> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/N/provinces/Vest-Agder/cities/Kristiansand> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Vest-Agder_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Vest-Agder_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Vest-Agder_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Vest-Agder_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Vest-Agder_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Vest-Agder_obpophistcoll> .
 

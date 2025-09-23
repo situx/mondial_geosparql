@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Rio+Lerma+Santiago> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guanajuato/cities/Irapuato_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guanajuato/cities/Irapuato_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guanajuato/cities/Irapuato_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guanajuato/cities/Irapuato_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guanajuato/cities/Irapuato_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guanajuato/cities/Irapuato_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guanajuato/cities/Irapuato_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guanajuato/cities/Irapuato_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guanajuato/cities/Irapuato_obpophistcoll> .
 

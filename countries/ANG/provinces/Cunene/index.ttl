@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cunene/cities/Ngiva> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cunene/cities/Ngiva> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cunene_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cunene_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cunene_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cunene_obpophistcoll> .
 

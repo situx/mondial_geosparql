@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/IND/provinces/Lakshadweep/cities/Kavaratti> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IND/provinces/Lakshadweep/cities/Kavaratti> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Lakshadweep_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Lakshadweep_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Lakshadweep_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Lakshadweep_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Lakshadweep_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Lakshadweep_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Lakshadweep_obpophistcoll> .
 

@@ -17,7 +17,5 @@
     skos:prefLabel "أكادير" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Souss+Massa+Daraa/cities/Agadir_obele>,
         <http://www.semwebtech.org/mondial/countries/MA/provinces/Souss+Massa+Daraa/cities/Agadir_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Souss+Massa+Daraa/cities/Agadir_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Souss+Massa+Daraa/cities/Agadir_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Souss+Massa+Daraa/cities/Agadir_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Souss+Massa+Daraa/cities/Agadir_obpophistcoll> .
 

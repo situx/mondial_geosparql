@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Isere> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Grenoble_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Grenoble_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Grenoble_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Grenoble_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Grenoble_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Grenoble_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Grenoble_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Grenoble_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Grenoble_obpophistcoll> .
 

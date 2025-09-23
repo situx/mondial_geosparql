@@ -16,9 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Missouri> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri/cities/St.+Louis_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri/cities/St.+Louis_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri/cities/St.+Louis_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri/cities/St.+Louis_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri/cities/St.+Louis_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri/cities/St.+Louis_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri/cities/St.+Louis_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri/cities/St.+Louis_obpophistcoll> .
 

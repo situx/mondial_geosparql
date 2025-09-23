@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/P/provinces/Azores/cities/Ponta+Delgada> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/P/provinces/Azores/cities/Ponta+Delgada> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/P/provinces/Azores_obpop>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Azores_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Azores_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Azores_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Azores_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Azores_obpophistcoll> .
 

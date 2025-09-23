@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul/cities/Santa+Maria_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul/cities/Santa+Maria_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul/cities/Santa+Maria_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul/cities/Santa+Maria_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul/cities/Santa+Maria_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul/cities/Santa+Maria_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul/cities/Santa+Maria_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+Grande+do+Sul/cities/Santa+Maria_obpophistcoll> .
 

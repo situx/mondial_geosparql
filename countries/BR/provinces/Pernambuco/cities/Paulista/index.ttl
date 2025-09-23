@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Paulista_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Paulista_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Paulista_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Paulista_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Paulista_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Paulista_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Paulista_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Paulista_obpophistcoll> .
 

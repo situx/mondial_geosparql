@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/South+Saskatchewan+River> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/Saskatchewan/cities/Saskatoon_obele>,
         <http://www.semwebtech.org/mondial/countries/CDN/provinces/Saskatchewan/cities/Saskatoon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Saskatchewan/cities/Saskatoon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Saskatchewan/cities/Saskatoon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Saskatchewan/cities/Saskatoon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Saskatchewan/cities/Saskatoon_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Saskatchewan/cities/Saskatoon_obpophistcoll> .
 

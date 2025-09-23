@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PA/provinces/Colón/cities/Colón> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PA/provinces/Colón/cities/Colón> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PA/provinces/Colón_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Colón_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Colón_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Colón_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PA/provinces/Colón_obpophistcoll> .
 

@@ -18,8 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/MAL/provinces/Selangor/cities/Petaling+Jaya>,
         <http://www.semwebtech.org/mondial/countries/MAL/provinces/Selangor/cities/Shah+Alam> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAL/provinces/Selangor_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Selangor_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Selangor_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Selangor_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Selangor_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Selangor_obpophistcoll> .
 

@@ -17,9 +17,5 @@
     skos:prefLabel "Павлодар" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KZ/provinces/Pavlodar/cities/Pavlodar_obele>,
         <http://www.semwebtech.org/mondial/countries/KZ/provinces/Pavlodar/cities/Pavlodar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Pavlodar/cities/Pavlodar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Pavlodar/cities/Pavlodar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Pavlodar/cities/Pavlodar_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Pavlodar/cities/Pavlodar_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Pavlodar/cities/Pavlodar_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Pavlodar/cities/Pavlodar_obpophistcoll> .
 

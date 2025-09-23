@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Bartın/cities/Bartin> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Bartın/cities/Bartin> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Bartın_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Bartın_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Bartın_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Bartın_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Bartın_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Bartın_obpophistcoll> .
 

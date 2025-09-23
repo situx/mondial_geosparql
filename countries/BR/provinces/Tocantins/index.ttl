@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins/cities/Araguaína>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins/cities/Palmas> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins_obpophistcoll> .
 

@@ -15,7 +15,5 @@
     skos:altLabel "Calcutta" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/West+Bengal/cities/Kolkata_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/West+Bengal/cities/Kolkata_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/West+Bengal/cities/Kolkata_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/West+Bengal/cities/Kolkata_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/West+Bengal/cities/Kolkata_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/West+Bengal/cities/Kolkata_obpophistcoll> .
 

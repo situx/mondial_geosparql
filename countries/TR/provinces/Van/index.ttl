@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Van/cities/Van> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Van/cities/Van> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Van_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Van_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Van_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Van_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Van_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Van_obpophistcoll> .
 

@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/C/provinces/Pinar+del+Río/cities/Pinar+del+Río> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/C/provinces/Pinar+del+Río/cities/Pinar+del+Río> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/C/provinces/Pinar+del+Río_obpop>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Pinar+del+Río_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Pinar+del+Río_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Pinar+del+Río_obpophistcoll> .
 

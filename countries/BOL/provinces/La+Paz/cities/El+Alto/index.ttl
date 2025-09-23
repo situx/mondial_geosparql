@@ -13,6 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz/cities/El+Alto_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz/cities/El+Alto_obele>,
         <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz/cities/El+Alto_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz/cities/El+Alto_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz/cities/El+Alto_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/La+Paz/cities/El+Alto_obpophistcoll> .
 

@@ -21,9 +21,5 @@
         <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido/cities/Sapporo> ;
     skos:prefLabel "北海道" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Hokkaido_obpophistcoll> .
 

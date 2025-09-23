@@ -16,8 +16,5 @@
         <http://www.semwebtech.org/mondial/seas/Bering+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Chukotka/cities/Anadyr_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Chukotka/cities/Anadyr_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chukotka/cities/Anadyr_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chukotka/cities/Anadyr_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chukotka/cities/Anadyr_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chukotka/cities/Anadyr_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Chukotka/cities/Anadyr_obpophistcoll> .
 

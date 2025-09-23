@@ -20,7 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Tembisa>,
         <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Tshwane> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng_obpophistcoll> .
 

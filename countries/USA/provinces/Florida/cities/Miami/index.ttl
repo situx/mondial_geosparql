@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Miami_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Miami_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Miami_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Miami_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Miami_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Miami_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Miami_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Miami_obpophistcoll> .
 

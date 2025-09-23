@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/R/provinces/Magadanskaya/cities/Okhotsk> ;
     skos:prefLabel "Магаданская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Magadanskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Magadanskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Magadanskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Magadanskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Magadanskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Magadanskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Magadanskaya_obpophistcoll> .
 

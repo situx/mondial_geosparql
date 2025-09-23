@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/HN/provinces/El+Paraíso/cities/Danlí>,
         <http://www.semwebtech.org/mondial/countries/HN/provinces/El+Paraíso/cities/Yuscaran> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/HN/provinces/El+Paraíso_obpop>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/El+Paraíso_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/El+Paraíso_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/El+Paraíso_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/El+Paraíso_obpophistcoll> .
 

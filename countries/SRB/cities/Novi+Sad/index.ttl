@@ -17,8 +17,5 @@
     skos:prefLabel "Нови Сад" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SRB/cities/Novi+Sad_obele>,
         <http://www.semwebtech.org/mondial/countries/SRB/cities/Novi+Sad_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SRB/cities/Novi+Sad_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SRB/cities/Novi+Sad_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SRB/cities/Novi+Sad_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SRB/cities/Novi+Sad_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/SRB/cities/Novi+Sad_obpophistcoll> .
 

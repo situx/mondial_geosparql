@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Mordoviya/cities/Saransk> ;
     skos:prefLabel "Мордовия" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Mordoviya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Mordoviya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Mordoviya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Mordoviya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Mordoviya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Mordoviya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Mordoviya_obpophistcoll> .
 

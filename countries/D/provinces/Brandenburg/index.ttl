@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/D/provinces/Brandenburg/cities/Cottbus>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Brandenburg/cities/Potsdam> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Brandenburg_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Brandenburg_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Brandenburg_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Brandenburg_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Brandenburg_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Brandenburg_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Brandenburg_obpophistcoll> .
 

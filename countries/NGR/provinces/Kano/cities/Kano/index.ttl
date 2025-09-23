@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Hadejia> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kano/cities/Kano_obele>,
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kano/cities/Kano_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kano/cities/Kano_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kano/cities/Kano_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kano/cities/Kano_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kano/cities/Kano_obpophistcoll> .
 

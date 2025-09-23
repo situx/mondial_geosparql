@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Selatan/cities/Bandjarmasin> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Selatan/cities/Bandjarmasin> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Selatan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Selatan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Selatan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Selatan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Selatan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Selatan_obpophistcoll> .
 

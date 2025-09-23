@@ -16,5 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PNG/provinces/Bougainville/cities/Buka> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PNG/provinces/Bougainville/cities/Buka> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PNG/provinces/Bougainville_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PNG/provinces/Bougainville_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/PNG/provinces/Bougainville_obpophistcoll> .
 

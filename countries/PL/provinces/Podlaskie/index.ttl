@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PL/provinces/Podlaskie/cities/Białystok> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PL/provinces/Podlaskie/cities/Białystok> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL/provinces/Podlaskie_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Podlaskie_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Podlaskie_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Podlaskie_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Podlaskie_obpophistcoll> .
 

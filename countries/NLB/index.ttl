@@ -19,8 +19,7 @@
     ns1:government <http://www.wikidata.org/entity/Q7174> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NLB/cities/Kralendijk> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NLB_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NLB_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NLB_obpophist1>,
+        <http://www.semwebtech.org/mondial/countries/NLB_obpophistcoll>,
         <http://www.semwebtech.org/mondial/countries/NLB_obrel1>,
         <http://www.semwebtech.org/mondial/countries/NLB_obrel2>,
         <http://www.semwebtech.org/mondial/countries/NLB_obrel3>,

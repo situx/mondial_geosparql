@@ -16,6 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Gulf+of+Thailand> ;
     skos:prefLabel "ชลบุรี" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/THA/cities/Chon+Buri_obpop>,
-        <http://www.semwebtech.org/mondial/countries/THA/cities/Chon+Buri_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/THA/cities/Chon+Buri_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/THA/cities/Chon+Buri_obpophistcoll> .
 

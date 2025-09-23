@@ -19,7 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/KZ/provinces/East-Kazakhstan/cities/Öskemen> ;
     skos:prefLabel "Шығыс Қазақстан" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KZ/provinces/East-Kazakhstan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/East-Kazakhstan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/East-Kazakhstan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/East-Kazakhstan_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/KZ/provinces/East-Kazakhstan_obpophistcoll> .
 

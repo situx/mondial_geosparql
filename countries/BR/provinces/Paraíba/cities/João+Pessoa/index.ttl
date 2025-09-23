@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraíba/cities/João+Pessoa_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraíba/cities/João+Pessoa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraíba/cities/João+Pessoa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraíba/cities/João+Pessoa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraíba/cities/João+Pessoa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraíba/cities/João+Pessoa_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Paraíba/cities/João+Pessoa_obpophistcoll> .
 

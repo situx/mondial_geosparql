@@ -15,10 +15,5 @@
     skos:prefLabel "بابل" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Mazandaran/cities/Babol_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/Mazandaran/cities/Babol_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Mazandaran/cities/Babol_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Mazandaran/cities/Babol_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Mazandaran/cities/Babol_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Mazandaran/cities/Babol_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Mazandaran/cities/Babol_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Mazandaran/cities/Babol_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Mazandaran/cities/Babol_obpophistcoll> .
 

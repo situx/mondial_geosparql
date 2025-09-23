@@ -14,10 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/IR/provinces/Mazandaran/cities/Qaemshahr_geom> ;
     skos:prefLabel "قائم شهر" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Mazandaran/cities/Qaemshahr_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Mazandaran/cities/Qaemshahr_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Mazandaran/cities/Qaemshahr_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Mazandaran/cities/Qaemshahr_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Mazandaran/cities/Qaemshahr_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Mazandaran/cities/Qaemshahr_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Mazandaran/cities/Qaemshahr_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Mazandaran/cities/Qaemshahr_obpophistcoll> .
 

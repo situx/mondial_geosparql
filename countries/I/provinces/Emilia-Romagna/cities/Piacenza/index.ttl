@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Po> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Piacenza_obele>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Piacenza_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Piacenza_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Piacenza_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Piacenza_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Piacenza_obpophistcoll> .
 

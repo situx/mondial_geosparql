@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/ETH/provinces/Dire+Dawa/cities/Dire+Dawa> ;
     skos:prefLabel "ድሬዳዋ" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ETH/provinces/Dire+Dawa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Dire+Dawa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Dire+Dawa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Dire+Dawa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Dire+Dawa_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Dire+Dawa_obpophistcoll> .
 

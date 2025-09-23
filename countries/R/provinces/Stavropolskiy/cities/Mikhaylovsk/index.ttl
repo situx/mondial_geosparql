@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/R/provinces/Stavropolskiy/cities/Mikhaylovsk_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Stavropolskiy/cities/Mikhaylovsk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Stavropolskiy/cities/Mikhaylovsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Stavropolskiy/cities/Mikhaylovsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Stavropolskiy/cities/Mikhaylovsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Stavropolskiy/cities/Mikhaylovsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Stavropolskiy/cities/Mikhaylovsk_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Stavropolskiy/cities/Mikhaylovsk_obpophistcoll> .
 

@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Oulujoki>,
         <http://www.semwebtech.org/mondial/seas/Baltic+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Pohjanmaa/cities/Oulu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Pohjanmaa/cities/Oulu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Pohjanmaa/cities/Oulu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Pohjanmaa/cities/Oulu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Pohjanmaa/cities/Oulu_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Pohjanmaa/cities/Oulu_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Pohjanmaa/cities/Oulu_obpophistcoll> .
 

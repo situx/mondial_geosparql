@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Baltic+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie/cities/Gdynia_obele>,
         <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie/cities/Gdynia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie/cities/Gdynia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie/cities/Gdynia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie/cities/Gdynia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie/cities/Gdynia_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie/cities/Gdynia_obpophistcoll> .
 

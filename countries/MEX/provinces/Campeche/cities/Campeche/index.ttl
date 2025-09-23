@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Gulf+of+Mexico> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Campeche/cities/Campeche_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Campeche/cities/Campeche_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Campeche/cities/Campeche_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Campeche/cities/Campeche_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Campeche/cities/Campeche_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Campeche/cities/Campeche_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Campeche/cities/Campeche_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Campeche/cities/Campeche_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Campeche/cities/Campeche_obpophistcoll> .
 

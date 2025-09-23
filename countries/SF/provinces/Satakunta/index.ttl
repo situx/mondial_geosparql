@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SF/provinces/Satakunta/cities/Pori> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SF/provinces/Satakunta/cities/Pori> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Satakunta_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Satakunta_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Satakunta_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Satakunta_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Satakunta_obpophistcoll> .
 

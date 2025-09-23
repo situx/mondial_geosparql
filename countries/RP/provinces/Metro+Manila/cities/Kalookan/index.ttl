@@ -16,9 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Luzon> ;
     skos:altLabel "Caloocan" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Kalookan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Kalookan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Kalookan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Kalookan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Kalookan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Kalookan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Kalookan_obpophistcoll> .
 

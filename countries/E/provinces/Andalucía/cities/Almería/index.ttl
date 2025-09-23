@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Mediterranean+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Almería_obele>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Almería_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Almería_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Almería_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Almería_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Almería_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Almería_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Almería_obpophistcoll> .
 

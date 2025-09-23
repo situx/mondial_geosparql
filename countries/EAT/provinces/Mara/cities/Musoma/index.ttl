@@ -16,8 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Mara> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mara/cities/Musoma_obele>,
         <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mara/cities/Musoma_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mara/cities/Musoma_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mara/cities/Musoma_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mara/cities/Musoma_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mara/cities/Musoma_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mara/cities/Musoma_obpophistcoll> .
 

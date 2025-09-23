@@ -17,8 +17,5 @@
     skos:altLabel "Antakya" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Hatay/cities/Hatay_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Hatay/cities/Hatay_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Hatay/cities/Hatay_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Hatay/cities/Hatay_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Hatay/cities/Hatay_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Hatay/cities/Hatay_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Hatay/cities/Hatay_obpophistcoll> .
 

@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CAM/provinces/Ouest/cities/Bafoussam_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CAM/provinces/Ouest/cities/Bafoussam_obele>,
         <http://www.semwebtech.org/mondial/countries/CAM/provinces/Ouest/cities/Bafoussam_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Ouest/cities/Bafoussam_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Ouest/cities/Bafoussam_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Ouest/cities/Bafoussam_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Ouest/cities/Bafoussam_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Ouest/cities/Bafoussam_obpophistcoll> .
 

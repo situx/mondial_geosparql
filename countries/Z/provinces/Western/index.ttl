@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/Z/provinces/Western/cities/Mongu> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/Z/provinces/Western/cities/Mongu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/Z/provinces/Western_obpop>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Western_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Western_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Western_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Western_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/Z/provinces/Western_obpophistcoll> .
 

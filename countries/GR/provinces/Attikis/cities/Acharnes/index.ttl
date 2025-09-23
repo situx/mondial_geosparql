@@ -15,7 +15,5 @@
     skos:prefLabel "Αχαρνές" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Acharnes_obele>,
         <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Acharnes_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Acharnes_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Acharnes_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Acharnes_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Attikis/cities/Acharnes_obpophistcoll> .
 

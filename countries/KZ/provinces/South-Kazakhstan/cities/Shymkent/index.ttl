@@ -15,9 +15,5 @@
     skos:prefLabel "Шымкент" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KZ/provinces/South-Kazakhstan/cities/Shymkent_obele>,
         <http://www.semwebtech.org/mondial/countries/KZ/provinces/South-Kazakhstan/cities/Shymkent_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/South-Kazakhstan/cities/Shymkent_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/South-Kazakhstan/cities/Shymkent_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/South-Kazakhstan/cities/Shymkent_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/South-Kazakhstan/cities/Shymkent_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/South-Kazakhstan/cities/Shymkent_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/KZ/provinces/South-Kazakhstan/cities/Shymkent_obpophistcoll> .
 

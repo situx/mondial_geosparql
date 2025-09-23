@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NGR/provinces/Niger/cities/Bida>,
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Niger/cities/Minna> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Niger_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Niger_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Niger_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Niger_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Niger_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Niger_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SF/provinces/Kanta-Häme/cities/Hämeenlinna> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SF/provinces/Kanta-Häme/cities/Hämeenlinna> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Kanta-Häme_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Kanta-Häme_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Kanta-Häme_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Kanta-Häme_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Kanta-Häme_obpophistcoll> .
 

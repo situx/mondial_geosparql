@@ -20,10 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Ceará/cities/Maracanaú>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Ceará/cities/Sobral> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Ceará_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Ceará_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Ceará_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Ceará_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Ceará_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Ceará_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Ceará_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Ceará_obpophistcoll> .
 

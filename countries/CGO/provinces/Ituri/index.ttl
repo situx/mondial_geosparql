@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CGO/provinces/Ituri/cities/Bunia> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CGO/provinces/Ituri/cities/Bunia> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Ituri_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Ituri_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Ituri_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Ituri_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Ituri_obpophistcoll> .
 

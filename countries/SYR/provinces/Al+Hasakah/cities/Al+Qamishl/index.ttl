@@ -16,6 +16,5 @@
     skos:prefLabel "القامشلي" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SYR/provinces/Al+Hasakah/cities/Al+Qamishl_obele>,
         <http://www.semwebtech.org/mondial/countries/SYR/provinces/Al+Hasakah/cities/Al+Qamishl_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Al+Hasakah/cities/Al+Qamishl_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Al+Hasakah/cities/Al+Qamishl_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Al+Hasakah/cities/Al+Qamishl_obpophistcoll> .
 

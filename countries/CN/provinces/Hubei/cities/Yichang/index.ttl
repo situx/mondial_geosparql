@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Yangtze> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Hubei/cities/Yichang_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Hubei/cities/Yichang_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hubei/cities/Yichang_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hubei/cities/Yichang_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hubei/cities/Yichang_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hubei/cities/Yichang_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Hubei/cities/Yichang_obpophistcoll> .
 

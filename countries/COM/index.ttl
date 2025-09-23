@@ -30,12 +30,8 @@
     skos:prefLabel "اتحاد جزر القمر" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/COM_obeth1>,
         <http://www.semwebtech.org/mondial/countries/COM_obpop>,
-        <http://www.semwebtech.org/mondial/countries/COM_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/COM_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/COM_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/COM_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/COM_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/COM_obpophist5>,
+        <http://www.semwebtech.org/mondial/countries/COM_obpopg>,
+        <http://www.semwebtech.org/mondial/countries/COM_obpophistcoll>,
         <http://www.semwebtech.org/mondial/countries/COM_obrel1>,
         <http://www.semwebtech.org/mondial/countries/COM_obrel2> .
 

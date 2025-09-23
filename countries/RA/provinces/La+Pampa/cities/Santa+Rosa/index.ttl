@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RA/provinces/La+Pampa/cities/Santa+Rosa_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/La+Pampa/cities/Santa+Rosa_obele>,
         <http://www.semwebtech.org/mondial/countries/RA/provinces/La+Pampa/cities/Santa+Rosa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/La+Pampa/cities/Santa+Rosa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/La+Pampa/cities/Santa+Rosa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/La+Pampa/cities/Santa+Rosa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/La+Pampa/cities/Santa+Rosa_obpophistcoll> .
 

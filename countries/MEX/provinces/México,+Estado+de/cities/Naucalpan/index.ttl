@@ -15,10 +15,5 @@
     skos:altLabel "Naucalpan de Juarez" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Naucalpan_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Naucalpan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Naucalpan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Naucalpan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Naucalpan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Naucalpan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Naucalpan_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Naucalpan_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/México,+Estado+de/cities/Naucalpan_obpophistcoll> .
 

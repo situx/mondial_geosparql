@@ -15,8 +15,5 @@
     skos:altLabel "Rāwalpindi" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Rawalpindi_obele>,
         <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Rawalpindi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Rawalpindi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Rawalpindi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Rawalpindi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Rawalpindi_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Rawalpindi_obpophistcoll> .
 

@@ -15,10 +15,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Mindanao> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Northern+Mindanao/cities/Valencia_obele>,
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Northern+Mindanao/cities/Valencia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Northern+Mindanao/cities/Valencia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Northern+Mindanao/cities/Valencia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Northern+Mindanao/cities/Valencia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Northern+Mindanao/cities/Valencia_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Northern+Mindanao/cities/Valencia_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Northern+Mindanao/cities/Valencia_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Northern+Mindanao/cities/Valencia_obpophistcoll> .
 

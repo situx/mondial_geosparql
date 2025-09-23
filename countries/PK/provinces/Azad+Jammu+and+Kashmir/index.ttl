@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PK/provinces/Azad+Jammu+and+Kashmir/cities/Muzaffarabad> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PK/provinces/Azad+Jammu+and+Kashmir/cities/Muzaffarabad> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK/provinces/Azad+Jammu+and+Kashmir_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Azad+Jammu+and+Kashmir_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Azad+Jammu+and+Kashmir_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Azad+Jammu+and+Kashmir_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Azad+Jammu+and+Kashmir_obpophistcoll> .
 

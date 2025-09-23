@@ -15,8 +15,5 @@
     skos:altLabel "Zagazig" ;
     skos:prefLabel "الزقازيق" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ET/cities/Az+Zaqaziq_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Az+Zaqaziq_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Az+Zaqaziq_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Az+Zaqaziq_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Az+Zaqaziq_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/ET/cities/Az+Zaqaziq_obpophistcoll> .
 

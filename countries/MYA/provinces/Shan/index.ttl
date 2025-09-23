@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MYA/provinces/Shan/cities/Taunggyi> ;
     skos:prefLabel "ရှမ်းပြည်နယ်" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYA/provinces/Shan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Shan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Shan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Shan_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Shan_obpophistcoll> .
 

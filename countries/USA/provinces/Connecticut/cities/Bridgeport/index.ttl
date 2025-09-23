@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Bridgeport_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Bridgeport_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Bridgeport_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Bridgeport_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Bridgeport_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Bridgeport_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Bridgeport_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Bridgeport_obpophistcoll> .
 

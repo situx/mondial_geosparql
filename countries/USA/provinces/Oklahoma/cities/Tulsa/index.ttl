@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Arkansas> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Oklahoma/cities/Tulsa_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Oklahoma/cities/Tulsa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Oklahoma/cities/Tulsa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Oklahoma/cities/Tulsa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Oklahoma/cities/Tulsa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Oklahoma/cities/Tulsa_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Oklahoma/cities/Tulsa_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Oklahoma/cities/Tulsa_obpophistcoll> .
 

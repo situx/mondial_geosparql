@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/Iowa/cities/Cedar+Rapids_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Iowa/cities/Cedar+Rapids_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Iowa/cities/Cedar+Rapids_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Iowa/cities/Cedar+Rapids_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Iowa/cities/Cedar+Rapids_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Iowa/cities/Cedar+Rapids_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Iowa/cities/Cedar+Rapids_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Iowa/cities/Cedar+Rapids_obpophistcoll> .
 

@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/B/provinces/Hainaut/cities/Charleroi>,
         <http://www.semwebtech.org/mondial/countries/B/provinces/Hainaut/cities/Mons> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/B/provinces/Hainaut_obpop>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Hainaut_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Hainaut_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Hainaut_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Hainaut_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Hainaut_obpophistcoll> .
 

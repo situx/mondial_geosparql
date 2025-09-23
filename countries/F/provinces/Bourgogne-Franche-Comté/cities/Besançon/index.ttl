@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Doubs> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Besançon_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Besançon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Besançon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Besançon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Besançon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Besançon_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Besançon_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Besançon_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Besançon_obpophistcoll> .
 

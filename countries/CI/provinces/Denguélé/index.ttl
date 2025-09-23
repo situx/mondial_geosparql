@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CI/provinces/Denguélé/cities/Odienné> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CI/provinces/Denguélé/cities/Odienné> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CI/provinces/Denguélé_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Denguélé_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Denguélé_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Denguélé_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Denguélé_obpophistcoll> .
 

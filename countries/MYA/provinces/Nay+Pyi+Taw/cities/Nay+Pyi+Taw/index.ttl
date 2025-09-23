@@ -17,5 +17,5 @@
     skos:prefLabel "နေပြည်တော်" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYA/provinces/Nay+Pyi+Taw/cities/Nay+Pyi+Taw_obele>,
         <http://www.semwebtech.org/mondial/countries/MYA/provinces/Nay+Pyi+Taw/cities/Nay+Pyi+Taw_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Nay+Pyi+Taw/cities/Nay+Pyi+Taw_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Nay+Pyi+Taw/cities/Nay+Pyi+Taw_obpophistcoll> .
 

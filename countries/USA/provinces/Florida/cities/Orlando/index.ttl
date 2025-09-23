@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Orlando_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Orlando_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Orlando_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Orlando_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Orlando_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Orlando_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Orlando_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Orlando_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/Orlando_obpophistcoll> .
 

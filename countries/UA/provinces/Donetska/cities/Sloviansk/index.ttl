@@ -14,9 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Sloviansk_geom> ;
     skos:prefLabel "Слов'я́нськ" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Sloviansk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Sloviansk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Sloviansk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Sloviansk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Sloviansk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Sloviansk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Donetska/cities/Sloviansk_obpophistcoll> .
 

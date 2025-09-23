@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Balıkesir/cities/Balıkesir>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Balıkesir/cities/Bandırma> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Balıkesir_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Balıkesir_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Balıkesir_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Balıkesir_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Balıkesir_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Balıkesir_obpophistcoll> .
 

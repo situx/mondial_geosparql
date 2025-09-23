@@ -14,8 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Huludao_geom> ;
     skos:altLabel "Jinxi" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Huludao_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Huludao_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Huludao_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Huludao_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Huludao_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Huludao_obpophistcoll> .
 

@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/South+Platte+River> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Denver_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Denver_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Denver_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Denver_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Denver_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Denver_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Denver_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Denver_obpophistcoll> .
 

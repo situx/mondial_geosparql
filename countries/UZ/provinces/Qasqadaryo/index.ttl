@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qasqadaryo/cities/Qarshi> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qasqadaryo/cities/Qarshi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qasqadaryo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qasqadaryo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qasqadaryo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qasqadaryo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qasqadaryo_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qasqadaryo_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qasqadaryo_obpophistcoll> .
 

@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/YV/provinces/Carabobo/cities/Valencia_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Carabobo/cities/Valencia_obele>,
         <http://www.semwebtech.org/mondial/countries/YV/provinces/Carabobo/cities/Valencia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Carabobo/cities/Valencia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Carabobo/cities/Valencia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Carabobo/cities/Valencia_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Carabobo/cities/Valencia_obpophistcoll> .
 

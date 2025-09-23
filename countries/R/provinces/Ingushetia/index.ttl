@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/R/provinces/Ingushetia/cities/Nazran> ;
     skos:prefLabel "Ингушетия" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Ingushetia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ingushetia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ingushetia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ingushetia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ingushetia_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ingushetia_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Ingushetia_obpophistcoll> .
 

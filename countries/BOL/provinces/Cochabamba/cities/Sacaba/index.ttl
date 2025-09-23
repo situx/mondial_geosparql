@@ -13,6 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BOL/provinces/Cochabamba/cities/Sacaba_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BOL/provinces/Cochabamba/cities/Sacaba_obele>,
         <http://www.semwebtech.org/mondial/countries/BOL/provinces/Cochabamba/cities/Sacaba_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Cochabamba/cities/Sacaba_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Cochabamba/cities/Sacaba_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Cochabamba/cities/Sacaba_obpophistcoll> .
 

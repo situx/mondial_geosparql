@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PK/provinces/FCT+Islamabad/cities/Islamabad> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PK/provinces/FCT+Islamabad/cities/Islamabad> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK/provinces/FCT+Islamabad_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/FCT+Islamabad_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/FCT+Islamabad_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/FCT+Islamabad_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/FCT+Islamabad_obpophistcoll> .
 

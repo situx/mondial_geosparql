@@ -17,6 +17,5 @@
     skos:altLabel "Offenbach" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Offenbach+am+Main_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Offenbach+am+Main_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Offenbach+am+Main_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Offenbach+am+Main_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Hessen/cities/Offenbach+am+Main_obpophistcoll> .
 

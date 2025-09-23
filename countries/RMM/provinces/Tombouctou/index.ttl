@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RMM/provinces/Tombouctou/cities/Tombouctou> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RMM/provinces/Tombouctou/cities/Tombouctou> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RMM/provinces/Tombouctou_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Tombouctou_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Tombouctou_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Tombouctou_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Tombouctou_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Tombouctou_obpophistcoll> .
 

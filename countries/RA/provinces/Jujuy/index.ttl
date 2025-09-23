@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RA/provinces/Jujuy/cities/San+Salvador+de+Jujuy> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RA/provinces/Jujuy/cities/San+Salvador+de+Jujuy> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Jujuy_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Jujuy_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Jujuy_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Jujuy_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Jujuy_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Jujuy_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Jujuy_obpophistcoll> .
 

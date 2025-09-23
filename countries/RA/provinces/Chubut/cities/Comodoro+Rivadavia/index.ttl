@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut/cities/Comodoro+Rivadavia_obele>,
         <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut/cities/Comodoro+Rivadavia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut/cities/Comodoro+Rivadavia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut/cities/Comodoro+Rivadavia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut/cities/Comodoro+Rivadavia_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut/cities/Comodoro+Rivadavia_obpophistcoll> .
 

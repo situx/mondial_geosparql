@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra/cities/Accra_obele>,
         <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra/cities/Accra_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra/cities/Accra_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra/cities/Accra_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra/cities/Accra_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra/cities/Accra_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra/cities/Accra_obpophistcoll> .
 

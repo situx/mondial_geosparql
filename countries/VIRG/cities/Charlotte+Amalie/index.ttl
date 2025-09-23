@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Caribbean+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Saint+Thomas> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/VIRG/cities/Charlotte+Amalie_obpop>,
-        <http://www.semwebtech.org/mondial/countries/VIRG/cities/Charlotte+Amalie_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/VIRG/cities/Charlotte+Amalie_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/VIRG/cities/Charlotte+Amalie_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/VIRG/cities/Charlotte+Amalie_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/VIRG/cities/Charlotte+Amalie_obpophistcoll> .
 

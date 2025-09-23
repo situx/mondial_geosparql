@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/N/provinces/Vestfold/cities/Tonsberg> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/N/provinces/Vestfold/cities/Tonsberg> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Vestfold_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Vestfold_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Vestfold_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Vestfold_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Vestfold_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Vestfold_obpophistcoll> .
 

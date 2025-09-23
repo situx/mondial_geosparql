@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/E/provinces/Extremadura/cities/Badajoz>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Extremadura/cities/Merida> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Extremadura_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Extremadura_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Extremadura_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Extremadura_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Extremadura_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Extremadura_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Extremadura_obpophistcoll> .
 

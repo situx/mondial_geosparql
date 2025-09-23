@@ -17,8 +17,5 @@
     skos:altLabel "Guixian" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangxi/cities/Guigang_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangxi/cities/Guigang_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangxi/cities/Guigang_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangxi/cities/Guigang_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangxi/cities/Guigang_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangxi/cities/Guigang_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangxi/cities/Guigang_obpophistcoll> .
 

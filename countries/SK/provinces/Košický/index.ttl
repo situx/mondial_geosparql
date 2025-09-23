@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SK/provinces/Košický/cities/Košice> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SK/provinces/Košický/cities/Košice> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SK/provinces/Košický_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Košický_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Košický_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Košický_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Košický_obpophistcoll> .
 

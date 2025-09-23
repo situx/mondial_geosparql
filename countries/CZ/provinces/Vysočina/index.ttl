@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CZ/provinces/Vysočina/cities/Jihlava> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CZ/provinces/Vysočina/cities/Jihlava> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CZ/provinces/Vysočina_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Vysočina_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Vysočina_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Vysočina_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Vysočina_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Vysočina_obpophistcoll> .
 

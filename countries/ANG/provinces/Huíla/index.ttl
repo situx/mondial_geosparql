@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/ANG/provinces/Huíla/cities/Lubango> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/ANG/provinces/Huíla/cities/Lubango> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Huíla_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Huíla_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Huíla_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Huíla_obpophistcoll> .
 

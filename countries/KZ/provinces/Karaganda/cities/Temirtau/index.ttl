@@ -14,9 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Temirtau_geom> ;
     skos:prefLabel "Теміртау" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Temirtau_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Temirtau_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Temirtau_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Temirtau_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Temirtau_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Temirtau_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Karaganda/cities/Temirtau_obpophistcoll> .
 

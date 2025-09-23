@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CH/provinces/Uri/cities/Altdorf> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CH/provinces/Uri/cities/Altdorf> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CH/provinces/Uri_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Uri_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Uri_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Uri_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Uri_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CH/provinces/Uri_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CH/provinces/Uri_obpophistcoll> .
 

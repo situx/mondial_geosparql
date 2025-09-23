@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Loire> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire/cities/Tours_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire/cities/Tours_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire/cities/Tours_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire/cities/Tours_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire/cities/Tours_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire/cities/Tours_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire/cities/Tours_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire/cities/Tours_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire/cities/Tours_obpophistcoll> .
 

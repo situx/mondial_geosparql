@@ -17,9 +17,5 @@
     skos:altLabel "Kamensk Uralsky" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Kamensk-Uralskij_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Kamensk-Uralskij_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Kamensk-Uralskij_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Kamensk-Uralskij_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Kamensk-Uralskij_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Kamensk-Uralskij_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Kamensk-Uralskij_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Kamensk-Uralskij_obpophistcoll> .
 

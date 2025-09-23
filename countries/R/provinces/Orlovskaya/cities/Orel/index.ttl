@@ -19,9 +19,5 @@
     skos:prefLabel "Орел" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Orlovskaya/cities/Orel_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Orlovskaya/cities/Orel_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orlovskaya/cities/Orel_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orlovskaya/cities/Orel_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orlovskaya/cities/Orel_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orlovskaya/cities/Orel_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Orlovskaya/cities/Orel_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Orlovskaya/cities/Orel_obpophistcoll> .
 

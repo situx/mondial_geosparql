@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Acre> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Acre/cities/Rio+Branco_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Acre/cities/Rio+Branco_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Acre/cities/Rio+Branco_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Acre/cities/Rio+Branco_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Acre/cities/Rio+Branco_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Acre/cities/Rio+Branco_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Acre/cities/Rio+Branco_obpophistcoll> .
 

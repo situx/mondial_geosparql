@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RA/provinces/Río+Negro/cities/Bariloche>,
         <http://www.semwebtech.org/mondial/countries/RA/provinces/Río+Negro/cities/Viedma> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Río+Negro_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Río+Negro_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Río+Negro_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Río+Negro_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Río+Negro_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Río+Negro_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Río+Negro_obpophistcoll> .
 

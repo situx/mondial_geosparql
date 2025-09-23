@@ -13,6 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RN/provinces/Maradi/cities/Aguié_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RN/provinces/Maradi/cities/Aguié_obele>,
         <http://www.semwebtech.org/mondial/countries/RN/provinces/Maradi/cities/Aguié_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Maradi/cities/Aguié_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Maradi/cities/Aguié_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RN/provinces/Maradi/cities/Aguié_obpophistcoll> .
 

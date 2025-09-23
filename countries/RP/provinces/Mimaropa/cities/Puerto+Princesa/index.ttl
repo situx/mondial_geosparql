@@ -15,14 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Sulu+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Palawan> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Mimaropa/cities/Puerto+Princesa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Mimaropa/cities/Puerto+Princesa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Mimaropa/cities/Puerto+Princesa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Mimaropa/cities/Puerto+Princesa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Mimaropa/cities/Puerto+Princesa_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Mimaropa/cities/Puerto+Princesa_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Mimaropa/cities/Puerto+Princesa_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Mimaropa/cities/Puerto+Princesa_obpophist6>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Mimaropa/cities/Puerto+Princesa_obpophist7>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Mimaropa/cities/Puerto+Princesa_obpophist8>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Mimaropa/cities/Puerto+Princesa_obpophist9> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Mimaropa/cities/Puerto+Princesa_obpophistcoll> .
 

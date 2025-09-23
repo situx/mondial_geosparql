@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/YV/provinces/Distrito+Federal/cities/Caracas> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/YV/provinces/Distrito+Federal/cities/Caracas> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Distrito+Federal_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Distrito+Federal_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Distrito+Federal_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Distrito+Federal_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Distrito+Federal_obpophistcoll> .
 

@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/R/provinces/Jewish+Autonomous+Oblast/cities/Birobidzhan_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Jewish+Autonomous+Oblast/cities/Birobidzhan_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Jewish+Autonomous+Oblast/cities/Birobidzhan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Jewish+Autonomous+Oblast/cities/Birobidzhan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Jewish+Autonomous+Oblast/cities/Birobidzhan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Jewish+Autonomous+Oblast/cities/Birobidzhan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Jewish+Autonomous+Oblast/cities/Birobidzhan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Jewish+Autonomous+Oblast/cities/Birobidzhan_obpophistcoll> .
 

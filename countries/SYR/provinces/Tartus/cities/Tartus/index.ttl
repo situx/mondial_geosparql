@@ -17,5 +17,5 @@
     skos:prefLabel "طرطوس" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SYR/provinces/Tartus/cities/Tartus_obele>,
         <http://www.semwebtech.org/mondial/countries/SYR/provinces/Tartus/cities/Tartus_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Tartus/cities/Tartus_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Tartus/cities/Tartus_obpophistcoll> .
 

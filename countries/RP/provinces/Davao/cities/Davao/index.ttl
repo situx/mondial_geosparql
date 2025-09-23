@@ -16,14 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Mindanao> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Davao/cities/Davao_obele>,
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Davao/cities/Davao_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Davao/cities/Davao_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Davao/cities/Davao_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Davao/cities/Davao_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Davao/cities/Davao_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Davao/cities/Davao_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Davao/cities/Davao_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Davao/cities/Davao_obpophist6>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Davao/cities/Davao_obpophist7>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Davao/cities/Davao_obpophist8>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Davao/cities/Davao_obpophist9> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Davao/cities/Davao_obpophistcoll> .
 

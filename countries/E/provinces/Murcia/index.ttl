@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/E/provinces/Murcia/cities/Cartagena>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Murcia/cities/Murcia> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Murcia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Murcia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Murcia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Murcia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Murcia_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Murcia_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Murcia_obpophistcoll> .
 

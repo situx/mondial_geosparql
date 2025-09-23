@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten/cities/Klagenfurt_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten/cities/Klagenfurt_obele>,
         <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten/cities/Klagenfurt_obpop>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten/cities/Klagenfurt_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten/cities/Klagenfurt_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten/cities/Klagenfurt_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten/cities/Klagenfurt_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/A/provinces/Kärnten/cities/Klagenfurt_obpophistcoll> .
 

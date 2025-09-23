@@ -15,8 +15,5 @@
     skos:altLabel "Urfa" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Şanlıurfa/cities/Şanlıurfa_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Şanlıurfa/cities/Şanlıurfa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Şanlıurfa/cities/Şanlıurfa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Şanlıurfa/cities/Şanlıurfa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Şanlıurfa/cities/Şanlıurfa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Şanlıurfa/cities/Şanlıurfa_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Şanlıurfa/cities/Şanlıurfa_obpophistcoll> .
 

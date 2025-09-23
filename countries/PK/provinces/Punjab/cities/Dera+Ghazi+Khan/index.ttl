@@ -16,8 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Indus> ;
     skos:altLabel "Dera Ghāzi Khān" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Dera+Ghazi+Khan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Dera+Ghazi+Khan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Dera+Ghazi+Khan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Dera+Ghazi+Khan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Dera+Ghazi+Khan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Dera+Ghazi+Khan_obpophistcoll> .
 

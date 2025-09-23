@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SF/provinces/Keski-Suomi/cities/Jyväskylä> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SF/provinces/Keski-Suomi/cities/Jyväskylä> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Keski-Suomi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Keski-Suomi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Keski-Suomi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Keski-Suomi_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Keski-Suomi_obpophistcoll> .
 

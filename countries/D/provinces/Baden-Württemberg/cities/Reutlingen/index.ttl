@@ -13,6 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Reutlingen_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Reutlingen_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Reutlingen_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Reutlingen_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Reutlingen_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Reutlingen_obpophistcoll> .
 

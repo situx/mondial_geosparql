@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/P/provinces/Viana+do+Castelo/cities/Viana+do+Castelo> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/P/provinces/Viana+do+Castelo/cities/Viana+do+Castelo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/P/provinces/Viana+do+Castelo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Viana+do+Castelo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Viana+do+Castelo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Viana+do+Castelo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Viana+do+Castelo_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Viana+do+Castelo_obpophistcoll> .
 

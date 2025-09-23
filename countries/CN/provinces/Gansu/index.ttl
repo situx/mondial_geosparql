@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Gansu/cities/Tianshui> ;
     skos:prefLabel "甘肃" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Gansu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Gansu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Gansu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Gansu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Gansu_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Gansu_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Gansu_obpophistcoll> .
 

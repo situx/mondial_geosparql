@@ -16,8 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Huai> ;
     skos:prefLabel "淮安市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Huaian_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Huaian_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Huaian_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Huaian_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Huaian_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Huaian_obpophistcoll> .
 

@@ -17,7 +17,5 @@
     skos:altLabel "Milan" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Milano_obele>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Milano_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Milano_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Milano_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Milano_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Milano_obpophistcoll> .
 

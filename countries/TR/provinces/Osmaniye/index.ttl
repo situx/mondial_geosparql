@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Osmaniye/cities/Osmaniye> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Osmaniye/cities/Osmaniye> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Osmaniye_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Osmaniye_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Osmaniye_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Osmaniye_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Osmaniye_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Osmaniye_obpophistcoll> .
 

@@ -25,9 +25,5 @@
         <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen/cities/Wolfsburg> ;
     skos:altLabel "Lower Saxony" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Niedersachsen_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Arabian+Sea> ;
     skos:prefLabel "صَلَالَة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/OM/cities/Salalah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/OM/cities/Salalah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/OM/cities/Salalah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/OM/cities/Salalah_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/OM/cities/Salalah_obpophistcoll> .
 

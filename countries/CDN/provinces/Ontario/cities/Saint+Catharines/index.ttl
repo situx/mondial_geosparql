@@ -17,8 +17,5 @@
     skos:altLabel "St. Catharines" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Saint+Catharines_obele>,
         <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Saint+Catharines_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Saint+Catharines_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Saint+Catharines_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Saint+Catharines_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Saint+Catharines_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Ontario/cities/Saint+Catharines_obpophistcoll> .
 

@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/H/provinces/Heves/cities/Eger_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/H/provinces/Heves/cities/Eger_obele>,
         <http://www.semwebtech.org/mondial/countries/H/provinces/Heves/cities/Eger_obpop>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Heves/cities/Eger_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Heves/cities/Eger_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Heves/cities/Eger_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/H/provinces/Heves/cities/Eger_obpophistcoll> .
 

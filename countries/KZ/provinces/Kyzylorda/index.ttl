@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kyzylorda/cities/Kyzylorda> ;
     skos:prefLabel "Қызылорда" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kyzylorda_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kyzylorda_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kyzylorda_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kyzylorda_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Kyzylorda_obpophistcoll> .
 

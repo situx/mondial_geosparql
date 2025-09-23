@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RCH/provinces/Maule/cities/Talca> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RCH/provinces/Maule/cities/Talca> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCH/provinces/Maule_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Maule_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Maule_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Maule_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Maule_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Maule_obpophistcoll> .
 

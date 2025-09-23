@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Chesapeake_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Chesapeake_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Chesapeake_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Chesapeake_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Chesapeake_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Chesapeake_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Chesapeake_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Chesapeake_obpophistcoll> .
 

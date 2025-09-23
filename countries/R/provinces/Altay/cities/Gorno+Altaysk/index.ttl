@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Katun> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Altay/cities/Gorno+Altaysk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Altay/cities/Gorno+Altaysk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Altay/cities/Gorno+Altaysk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Altay/cities/Gorno+Altaysk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Altay/cities/Gorno+Altaysk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Altay/cities/Gorno+Altaysk_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Altay/cities/Gorno+Altaysk_obpophistcoll> .
 

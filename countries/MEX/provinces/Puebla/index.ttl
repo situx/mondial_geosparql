@@ -17,10 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MEX/provinces/Puebla/cities/Puebla>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Puebla/cities/Tehuacán> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Puebla_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Puebla_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Puebla_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Puebla_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Puebla_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Puebla_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Puebla_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Puebla_obpophistcoll> .
 

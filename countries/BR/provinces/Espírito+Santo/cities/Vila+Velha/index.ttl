@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Vila+Velha_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Vila+Velha_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Vila+Velha_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Vila+Velha_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Vila+Velha_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Vila+Velha_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Vila+Velha_obpophistcoll> .
 

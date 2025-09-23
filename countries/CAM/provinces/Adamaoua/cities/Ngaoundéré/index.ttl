@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Logone> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CAM/provinces/Adamaoua/cities/Ngaoundéré_obele>,
         <http://www.semwebtech.org/mondial/countries/CAM/provinces/Adamaoua/cities/Ngaoundéré_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Adamaoua/cities/Ngaoundéré_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Adamaoua/cities/Ngaoundéré_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Adamaoua/cities/Ngaoundéré_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Adamaoua/cities/Ngaoundéré_obpophistcoll> .
 

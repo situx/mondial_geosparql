@@ -17,9 +17,5 @@
     skos:altLabel "Cherkessk" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Karachayevo-Cherkesskaya/cities/Čerkessk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Karachayevo-Cherkesskaya/cities/Čerkessk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Karachayevo-Cherkesskaya/cities/Čerkessk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Karachayevo-Cherkesskaya/cities/Čerkessk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Karachayevo-Cherkesskaya/cities/Čerkessk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Karachayevo-Cherkesskaya/cities/Čerkessk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Karachayevo-Cherkesskaya/cities/Čerkessk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Karachayevo-Cherkesskaya/cities/Čerkessk_obpophistcoll> .
 

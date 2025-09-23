@@ -17,7 +17,5 @@
     skos:prefLabel "เชียงใหม่" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/THA/cities/Chiang+Mai_obele>,
         <http://www.semwebtech.org/mondial/countries/THA/cities/Chiang+Mai_obpop>,
-        <http://www.semwebtech.org/mondial/countries/THA/cities/Chiang+Mai_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/THA/cities/Chiang+Mai_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/THA/cities/Chiang+Mai_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/THA/cities/Chiang+Mai_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PE/provinces/Apurímac/cities/Abancay> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PE/provinces/Apurímac/cities/Abancay> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PE/provinces/Apurímac_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Apurímac_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Apurímac_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Apurímac_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Apurímac_obpophistcoll> .
 

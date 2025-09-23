@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RIM/provinces/Tagant/cities/Tidjikja> ;
     skos:prefLabel "تكانت" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RIM/provinces/Tagant_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Tagant_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Tagant_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Tagant_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Tagant_obpophistcoll> .
 

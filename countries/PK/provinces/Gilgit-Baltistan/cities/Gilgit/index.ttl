@@ -13,5 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PK/provinces/Gilgit-Baltistan/cities/Gilgit_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK/provinces/Gilgit-Baltistan/cities/Gilgit_obele>,
         <http://www.semwebtech.org/mondial/countries/PK/provinces/Gilgit-Baltistan/cities/Gilgit_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Gilgit-Baltistan/cities/Gilgit_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Gilgit-Baltistan/cities/Gilgit_obpophistcoll> .
 

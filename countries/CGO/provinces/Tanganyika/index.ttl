@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tanganyika/cities/Kalemi> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tanganyika/cities/Kalemi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tanganyika_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tanganyika_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tanganyika_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tanganyika_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Tanganyika_obpophistcoll> .
 

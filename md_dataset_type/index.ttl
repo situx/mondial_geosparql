@@ -12,5 +12,5 @@
     void:property <http://www.semwebtech.org/mondial/10/meta#type>,
         rdf:type ;
     void:triples 472,
-        59658 .
+        60106 .
 

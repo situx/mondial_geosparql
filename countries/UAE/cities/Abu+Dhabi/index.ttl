@@ -16,8 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Persian+Gulf> ;
     skos:prefLabel "أبوظبي" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UAE/cities/Abu+Dhabi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UAE/cities/Abu+Dhabi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UAE/cities/Abu+Dhabi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UAE/cities/Abu+Dhabi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UAE/cities/Abu+Dhabi_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/UAE/cities/Abu+Dhabi_obpophistcoll> .
 

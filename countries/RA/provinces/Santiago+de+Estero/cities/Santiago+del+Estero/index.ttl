@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Río+Sali> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Santiago+de+Estero/cities/Santiago+del+Estero_obele>,
         <http://www.semwebtech.org/mondial/countries/RA/provinces/Santiago+de+Estero/cities/Santiago+del+Estero_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Santiago+de+Estero/cities/Santiago+del+Estero_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Santiago+de+Estero/cities/Santiago+del+Estero_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Santiago+de+Estero/cities/Santiago+del+Estero_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Santiago+de+Estero/cities/Santiago+del+Estero_obpophistcoll> .
 

@@ -19,8 +19,5 @@
     skos:prefLabel "תל אביב -יפו" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IL/provinces/Tel+Aviv/cities/Tel+Aviv-Yafo_obele>,
         <http://www.semwebtech.org/mondial/countries/IL/provinces/Tel+Aviv/cities/Tel+Aviv-Yafo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/Tel+Aviv/cities/Tel+Aviv-Yafo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/Tel+Aviv/cities/Tel+Aviv-Yafo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/Tel+Aviv/cities/Tel+Aviv-Yafo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/Tel+Aviv/cities/Tel+Aviv-Yafo_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/IL/provinces/Tel+Aviv/cities/Tel+Aviv-Yafo_obpophistcoll> .
 

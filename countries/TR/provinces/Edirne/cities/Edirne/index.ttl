@@ -16,8 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Tundzha> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Edirne/cities/Edirne_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Edirne/cities/Edirne_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Edirne/cities/Edirne_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Edirne/cities/Edirne_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Edirne/cities/Edirne_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Edirne/cities/Edirne_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Edirne/cities/Edirne_obpophistcoll> .
 

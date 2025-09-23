@@ -14,7 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/THA/cities/Nonthaburi_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Mae+Nam+Chao+Phraya> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/THA/cities/Nonthaburi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/THA/cities/Nonthaburi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/THA/cities/Nonthaburi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/THA/cities/Nonthaburi_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/THA/cities/Nonthaburi_obpophistcoll> .
 

@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Mureș> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Arad/cities/Arad_obele>,
         <http://www.semwebtech.org/mondial/countries/RO/provinces/Arad/cities/Arad_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Arad/cities/Arad_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Arad/cities/Arad_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Arad/cities/Arad_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Arad/cities/Arad_obpophistcoll> .
 

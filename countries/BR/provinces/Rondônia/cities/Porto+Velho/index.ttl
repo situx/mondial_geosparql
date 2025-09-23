@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Rio+Madeira> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Rondônia/cities/Porto+Velho_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Rondônia/cities/Porto+Velho_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rondônia/cities/Porto+Velho_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rondônia/cities/Porto+Velho_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rondônia/cities/Porto+Velho_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rondônia/cities/Porto+Velho_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rondônia/cities/Porto+Velho_obpophistcoll> .
 

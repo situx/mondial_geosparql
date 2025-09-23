@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RI/provinces/Aceh/cities/Banda+Aceh> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RI/provinces/Aceh/cities/Banda+Aceh> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Aceh_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Aceh_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Aceh_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Aceh_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Aceh_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Aceh_obpophistcoll> .
 

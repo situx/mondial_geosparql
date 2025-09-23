@@ -17,8 +17,5 @@
     skos:prefLabel "兰州市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Gansu/cities/Lanzhou_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Gansu/cities/Lanzhou_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Gansu/cities/Lanzhou_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Gansu/cities/Lanzhou_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Gansu/cities/Lanzhou_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Gansu/cities/Lanzhou_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Gansu/cities/Lanzhou_obpophistcoll> .
 

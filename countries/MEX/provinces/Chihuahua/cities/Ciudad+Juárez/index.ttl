@@ -17,10 +17,5 @@
     skos:altLabel "Juárez" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chihuahua/cities/Ciudad+Juárez_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chihuahua/cities/Ciudad+Juárez_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chihuahua/cities/Ciudad+Juárez_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chihuahua/cities/Ciudad+Juárez_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chihuahua/cities/Ciudad+Juárez_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chihuahua/cities/Ciudad+Juárez_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chihuahua/cities/Ciudad+Juárez_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chihuahua/cities/Ciudad+Juárez_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chihuahua/cities/Ciudad+Juárez_obpophistcoll> .
 

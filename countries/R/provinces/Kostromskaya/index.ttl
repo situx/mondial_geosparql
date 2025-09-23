@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Kostromskaya/cities/Kostroma> ;
     skos:prefLabel "Костромская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Kostromskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kostromskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kostromskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kostromskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kostromskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kostromskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Kostromskaya_obpophistcoll> .
 

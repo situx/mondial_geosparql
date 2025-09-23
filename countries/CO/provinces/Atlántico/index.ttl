@@ -18,8 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Atlántico/cities/Malambo>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Atlántico/cities/Soledad> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Atlántico_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Atlántico_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Atlántico_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Atlántico_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Atlántico_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Atlántico_obpophistcoll> .
 

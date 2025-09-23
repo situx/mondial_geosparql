@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Erzincan/cities/Erzincan> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Erzincan/cities/Erzincan> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Erzincan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Erzincan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Erzincan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Erzincan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Erzincan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Erzincan_obpophistcoll> .
 

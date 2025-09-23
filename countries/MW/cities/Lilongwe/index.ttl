@@ -13,10 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MW/cities/Lilongwe_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MW/cities/Lilongwe_obele>,
         <http://www.semwebtech.org/mondial/countries/MW/cities/Lilongwe_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MW/cities/Lilongwe_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MW/cities/Lilongwe_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MW/cities/Lilongwe_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MW/cities/Lilongwe_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MW/cities/Lilongwe_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MW/cities/Lilongwe_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MW/cities/Lilongwe_obpophistcoll> .
 

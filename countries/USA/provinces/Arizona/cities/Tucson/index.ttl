@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/Arizona/cities/Tucson_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Arizona/cities/Tucson_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Arizona/cities/Tucson_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Arizona/cities/Tucson_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Arizona/cities/Tucson_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Arizona/cities/Tucson_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Arizona/cities/Tucson_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Arizona/cities/Tucson_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Arizona/cities/Tucson_obpophistcoll> .
 

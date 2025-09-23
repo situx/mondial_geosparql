@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/PA/provinces/Coclé/cities/Penonomé_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PA/provinces/Coclé/cities/Penonomé_obele>,
         <http://www.semwebtech.org/mondial/countries/PA/provinces/Coclé/cities/Penonomé_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Coclé/cities/Penonomé_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Coclé/cities/Penonomé_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PA/provinces/Coclé/cities/Penonomé_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PA/provinces/Coclé/cities/Penonomé_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SF/provinces/Lappia/cities/Rovaniemi> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SF/provinces/Lappia/cities/Rovaniemi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Lappia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Lappia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Lappia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Lappia_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Lappia_obpophistcoll> .
 

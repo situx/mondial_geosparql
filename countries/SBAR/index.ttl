@@ -22,13 +22,6 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SBAR/cities/Gustavia> ;
     skos:prefLabel "Collectivité de Saint-Barthélemy" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SBAR_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SBAR_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SBAR_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SBAR_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SBAR_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/SBAR_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/SBAR_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/SBAR_obpophist6>,
-        <http://www.semwebtech.org/mondial/countries/SBAR_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/SBAR_obpophistcoll>,
         <http://www.semwebtech.org/mondial/countries/SBAR_obrel1> .
 

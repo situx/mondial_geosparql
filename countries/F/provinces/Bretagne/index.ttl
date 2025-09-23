@@ -17,10 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Brest>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Rennes> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne_obpophistcoll> .
 

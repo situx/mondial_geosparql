@@ -16,8 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Île+Jésus> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec/cities/Laval_obele>,
         <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec/cities/Laval_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec/cities/Laval_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec/cities/Laval_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec/cities/Laval_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec/cities/Laval_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Quebec/cities/Laval_obpophistcoll> .
 

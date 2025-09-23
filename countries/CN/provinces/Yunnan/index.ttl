@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Yunnan/cities/Qujing> ;
     skos:prefLabel "云南" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Yunnan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Yunnan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Yunnan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Yunnan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Yunnan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Yunnan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Yunnan_obpophistcoll> .
 

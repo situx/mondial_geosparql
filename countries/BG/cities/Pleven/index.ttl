@@ -15,9 +15,5 @@
     skos:prefLabel "Стара Загора" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BG/cities/Pleven_obele>,
         <http://www.semwebtech.org/mondial/countries/BG/cities/Pleven_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Pleven_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Pleven_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Pleven_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Pleven_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Pleven_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/BG/cities/Pleven_obpophistcoll> .
 

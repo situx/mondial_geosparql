@@ -16,5 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Trinidad> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TT/cities/Port-of-Spain_obele>,
         <http://www.semwebtech.org/mondial/countries/TT/cities/Port-of-Spain_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TT/cities/Port-of-Spain_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/TT/cities/Port-of-Spain_obpophistcoll> .
 

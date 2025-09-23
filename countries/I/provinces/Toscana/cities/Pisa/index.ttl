@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Arno> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Toscana/cities/Pisa_obele>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Toscana/cities/Pisa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Toscana/cities/Pisa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Toscana/cities/Pisa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Toscana/cities/Pisa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Toscana/cities/Pisa_obpophistcoll> .
 

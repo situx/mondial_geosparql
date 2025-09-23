@@ -19,8 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten/cities/Tangerang>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten/cities/Tangerang+Selatan> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten_obpophistcoll> .
 

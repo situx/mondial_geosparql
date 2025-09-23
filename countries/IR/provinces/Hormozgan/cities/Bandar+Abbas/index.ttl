@@ -17,9 +17,5 @@
     skos:prefLabel "بندرعباس" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Hormozgan/cities/Bandar+Abbas_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/Hormozgan/cities/Bandar+Abbas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Hormozgan/cities/Bandar+Abbas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Hormozgan/cities/Bandar+Abbas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Hormozgan/cities/Bandar+Abbas_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Hormozgan/cities/Bandar+Abbas_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Hormozgan/cities/Bandar+Abbas_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Hormozgan/cities/Bandar+Abbas_obpophistcoll> .
 

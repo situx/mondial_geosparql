@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Ohio+River> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Pennsylvania/cities/Pittsburgh_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Pennsylvania/cities/Pittsburgh_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Pennsylvania/cities/Pittsburgh_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Pennsylvania/cities/Pittsburgh_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Pennsylvania/cities/Pittsburgh_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Pennsylvania/cities/Pittsburgh_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Pennsylvania/cities/Pittsburgh_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Pennsylvania/cities/Pittsburgh_obpophistcoll> .
 

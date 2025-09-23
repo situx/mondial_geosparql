@@ -17,7 +17,5 @@
     skos:prefLabel "Rạch Giá" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta/cities/Rach+Gia_obele>,
         <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta/cities/Rach+Gia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta/cities/Rach+Gia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta/cities/Rach+Gia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta/cities/Rach+Gia_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Mekong+River+Delta/cities/Rach+Gia_obpophistcoll> .
 

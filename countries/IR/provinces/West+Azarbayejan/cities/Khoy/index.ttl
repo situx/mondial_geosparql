@@ -16,10 +16,5 @@
     skos:prefLabel "خوئ" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan/cities/Khoy_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan/cities/Khoy_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan/cities/Khoy_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan/cities/Khoy_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan/cities/Khoy_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan/cities/Khoy_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan/cities/Khoy_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan/cities/Khoy_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan/cities/Khoy_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Shinyanga/cities/Shinyanga> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAT/provinces/Shinyanga/cities/Shinyanga> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Shinyanga_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Shinyanga_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Shinyanga_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Shinyanga_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Shinyanga_obpophistcoll> .
 

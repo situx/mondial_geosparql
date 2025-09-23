@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Siirt/cities/Siirt> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Siirt/cities/Siirt> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Siirt_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Siirt_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Siirt_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Siirt_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Siirt_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Siirt_obpophistcoll> .
 

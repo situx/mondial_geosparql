@@ -18,8 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/RMM/provinces/Koulikoro/cities/Kati>,
         <http://www.semwebtech.org/mondial/countries/RMM/provinces/Koulikoro/cities/Koulikoro> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RMM/provinces/Koulikoro_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Koulikoro_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Koulikoro_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Koulikoro_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Koulikoro_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Koulikoro_obpophistcoll> .
 

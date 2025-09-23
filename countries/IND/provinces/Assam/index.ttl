@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IND/provinces/Assam/cities/Dispur>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Assam/cities/Gauhati> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Assam_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Assam_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Assam_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Assam_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Assam_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Assam_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Assam_obpophistcoll> .
 

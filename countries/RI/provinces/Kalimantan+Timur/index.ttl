@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur/cities/Balikpapan>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur/cities/Samarinda> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/NGR/provinces/Gombe/cities/Gombe> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NGR/provinces/Gombe/cities/Gombe> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Gombe_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Gombe_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Gombe_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Gombe_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Gombe_obpophistcoll> .
 

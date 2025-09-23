@@ -17,9 +17,5 @@
     skos:prefLabel "Хуҷанд" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TJ/provinces/Sughd/cities/Khujand_obele>,
         <http://www.semwebtech.org/mondial/countries/TJ/provinces/Sughd/cities/Khujand_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Sughd/cities/Khujand_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Sughd/cities/Khujand_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Sughd/cities/Khujand_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Sughd/cities/Khujand_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Sughd/cities/Khujand_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/TJ/provinces/Sughd/cities/Khujand_obpophistcoll> .
 

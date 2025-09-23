@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/NL/provinces/Friesland/cities/Leeuwarden> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NL/provinces/Friesland/cities/Leeuwarden> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NL/provinces/Friesland_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Friesland_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Friesland_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Friesland_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Friesland_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Friesland_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/NL/provinces/Friesland_obpophistcoll> .
 

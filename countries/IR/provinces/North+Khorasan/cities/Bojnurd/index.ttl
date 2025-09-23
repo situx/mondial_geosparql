@@ -17,10 +17,5 @@
     skos:prefLabel "بجنورد" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/North+Khorasan/cities/Bojnurd_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/North+Khorasan/cities/Bojnurd_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/North+Khorasan/cities/Bojnurd_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/North+Khorasan/cities/Bojnurd_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/North+Khorasan/cities/Bojnurd_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/North+Khorasan/cities/Bojnurd_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/North+Khorasan/cities/Bojnurd_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/North+Khorasan/cities/Bojnurd_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/North+Khorasan/cities/Bojnurd_obpophistcoll> .
 

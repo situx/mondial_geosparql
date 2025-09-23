@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IND/provinces/Odisha/cities/Bhubaneswar>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Odisha/cities/Cuttack> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Odisha_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Odisha_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Odisha_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Odisha_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Odisha_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Odisha_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Odisha_obpophistcoll> .
 

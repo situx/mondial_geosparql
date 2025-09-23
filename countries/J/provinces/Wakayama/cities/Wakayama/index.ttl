@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Seto+Inland+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Honshu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Wakayama/cities/Wakayama_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Wakayama/cities/Wakayama_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Wakayama/cities/Wakayama_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Wakayama/cities/Wakayama_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Wakayama/cities/Wakayama_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Wakayama/cities/Wakayama_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Wakayama/cities/Wakayama_obpophistcoll> .
 

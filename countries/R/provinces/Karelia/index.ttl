@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Karelia/cities/Petrozavodsk> ;
     skos:prefLabel "Карелия" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Karelia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Karelia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Karelia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Karelia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Karelia_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Karelia_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Karelia_obpophistcoll> .
 

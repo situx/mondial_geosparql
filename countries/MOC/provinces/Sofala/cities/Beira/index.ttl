@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Indian+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MOC/provinces/Sofala/cities/Beira_obele>,
         <http://www.semwebtech.org/mondial/countries/MOC/provinces/Sofala/cities/Beira_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Sofala/cities/Beira_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Sofala/cities/Beira_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Sofala/cities/Beira_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Sofala/cities/Beira_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Sofala/cities/Beira_obpophistcoll> .
 

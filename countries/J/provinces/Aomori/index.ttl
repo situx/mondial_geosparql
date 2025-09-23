@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Aomori/cities/Aomori> ;
     skos:prefLabel "青森県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Aomori_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Aomori_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Aomori_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Aomori_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Aomori_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Aomori_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Aomori_obpophistcoll> .
 

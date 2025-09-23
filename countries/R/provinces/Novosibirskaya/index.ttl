@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/R/provinces/Novosibirskaya/cities/Novosibirsk> ;
     skos:prefLabel "Новосибирская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Novosibirskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Novosibirskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Novosibirskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Novosibirskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Novosibirskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Novosibirskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Novosibirskaya_obpophistcoll> .
 

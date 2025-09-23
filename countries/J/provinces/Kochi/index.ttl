@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Kochi/cities/Kochi> ;
     skos:prefLabel "高知県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Kochi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kochi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kochi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kochi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kochi_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kochi_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Kochi_obpophistcoll> .
 

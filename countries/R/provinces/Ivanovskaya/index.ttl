@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Ivanovskaya/cities/Ivanovo> ;
     skos:prefLabel "Ивановская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Ivanovskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ivanovskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ivanovskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ivanovskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ivanovskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ivanovskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Ivanovskaya_obpophistcoll> .
 

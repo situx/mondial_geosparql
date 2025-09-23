@@ -19,7 +19,5 @@
     skos:altLabel "North Darfur" ;
     skos:prefLabel "شمال دارفور" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Dārfūr_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Dārfūr_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Dārfūr_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Dārfūr_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Dārfūr_obpophistcoll> .
 

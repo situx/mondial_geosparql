@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/GH/provinces/Central/cities/Cape+Coast> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GH/provinces/Central/cities/Cape+Coast> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GH/provinces/Central_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Central_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Central_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Central_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Central_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Central_obpophistcoll> .
 

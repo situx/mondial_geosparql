@@ -19,7 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kongo+Central/cities/Matadi> ;
     skos:altLabel "Bas-Congo" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kongo+Central_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kongo+Central_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kongo+Central_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kongo+Central_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kongo+Central_obpophistcoll> .
 

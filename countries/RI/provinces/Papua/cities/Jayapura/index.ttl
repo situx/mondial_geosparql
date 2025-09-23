@@ -16,7 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/New+Guinea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Papua/cities/Jayapura_obele>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Papua/cities/Jayapura_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Papua/cities/Jayapura_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Papua/cities/Jayapura_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Papua/cities/Jayapura_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Papua/cities/Jayapura_obpophistcoll> .
 

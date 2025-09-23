@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+East/cities/Bolgatanga> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+East/cities/Bolgatanga> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+East_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+East_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+East_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+East_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+East_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Upper+East_obpophistcoll> .
 

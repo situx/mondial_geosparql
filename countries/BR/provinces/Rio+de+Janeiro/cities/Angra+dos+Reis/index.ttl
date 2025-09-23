@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Angra+dos+Reis_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Angra+dos+Reis_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Angra+dos+Reis_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Angra+dos+Reis_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Angra+dos+Reis_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Angra+dos+Reis_obpophistcoll> .
 

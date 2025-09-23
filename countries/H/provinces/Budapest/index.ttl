@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/H/provinces/Budapest/cities/Budapest> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/H/provinces/Budapest/cities/Budapest> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/H/provinces/Budapest_obpop>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Budapest_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Budapest_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Budapest_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/H/provinces/Budapest_obpophistcoll> .
 

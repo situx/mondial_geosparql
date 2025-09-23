@@ -15,9 +15,5 @@
     skos:altLabel "Aalborg" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DK/provinces/Nordjylland/cities/Ålborg_obele>,
         <http://www.semwebtech.org/mondial/countries/DK/provinces/Nordjylland/cities/Ålborg_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Nordjylland/cities/Ålborg_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Nordjylland/cities/Ålborg_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Nordjylland/cities/Ålborg_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Nordjylland/cities/Ålborg_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Nordjylland/cities/Ålborg_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/DK/provinces/Nordjylland/cities/Ålborg_obpophistcoll> .
 

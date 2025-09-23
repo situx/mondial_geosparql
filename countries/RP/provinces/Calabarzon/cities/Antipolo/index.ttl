@@ -15,9 +15,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Luzon> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Antipolo_obele>,
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Antipolo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Antipolo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Antipolo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Antipolo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Antipolo_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Antipolo_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Calabarzon/cities/Antipolo_obpophistcoll> .
 

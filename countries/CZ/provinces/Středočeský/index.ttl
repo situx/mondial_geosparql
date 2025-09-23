@@ -15,8 +15,5 @@
     geo:hasMetricArea 11014 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/CZ/provinces/Praha/cities/Praha> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CZ/provinces/Středočeský_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Středočeský_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Středočeský_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Středočeský_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Středočeský_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Středočeský_obpophistcoll> .
 

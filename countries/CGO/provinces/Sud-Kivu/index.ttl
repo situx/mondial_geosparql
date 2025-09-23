@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu/cities/Bukavu>,
         <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu/cities/Uvira> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sud-Kivu_obpophistcoll> .
 

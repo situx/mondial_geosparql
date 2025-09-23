@@ -18,7 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/PK/provinces/Khyber+Pakhtunkhwa/cities/Mingaora>,
         <http://www.semwebtech.org/mondial/countries/PK/provinces/Khyber+Pakhtunkhwa/cities/Peshawar> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK/provinces/Khyber+Pakhtunkhwa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Khyber+Pakhtunkhwa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Khyber+Pakhtunkhwa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Khyber+Pakhtunkhwa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Khyber+Pakhtunkhwa_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/S/provinces/Uppsala/cities/Uppsala> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/S/provinces/Uppsala/cities/Uppsala> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Uppsala_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Uppsala_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Uppsala_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Uppsala_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Uppsala_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Uppsala_obpophistcoll> .
 

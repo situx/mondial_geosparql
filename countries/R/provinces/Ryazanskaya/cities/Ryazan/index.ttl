@@ -18,9 +18,5 @@
     skos:prefLabel "Рязань" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Ryazanskaya/cities/Ryazan_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Ryazanskaya/cities/Ryazan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ryazanskaya/cities/Ryazan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ryazanskaya/cities/Ryazan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ryazanskaya/cities/Ryazan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ryazanskaya/cities/Ryazan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Ryazanskaya/cities/Ryazan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Ryazanskaya/cities/Ryazan_obpophistcoll> .
 

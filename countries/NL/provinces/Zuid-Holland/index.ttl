@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/NL/provinces/Zuid-Holland/cities/Leiden>,
         <http://www.semwebtech.org/mondial/countries/NL/provinces/Zuid-Holland/cities/Rotterdam> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NL/provinces/Zuid-Holland_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Zuid-Holland_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Zuid-Holland_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Zuid-Holland_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Zuid-Holland_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Zuid-Holland_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/NL/provinces/Zuid-Holland_obpophistcoll> .
 

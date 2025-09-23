@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/S/provinces/Halland/cities/Halmstad> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/S/provinces/Halland/cities/Halmstad> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Halland_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Halland_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Halland_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Halland_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Halland_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Halland_obpophistcoll> .
 

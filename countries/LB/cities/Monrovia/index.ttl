@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Saint+Paul+River>,
         <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/LB/cities/Monrovia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/LB/cities/Monrovia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/LB/cities/Monrovia_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/LB/cities/Monrovia_obpophistcoll> .
 

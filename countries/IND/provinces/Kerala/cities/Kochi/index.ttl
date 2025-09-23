@@ -17,5 +17,5 @@
     skos:altLabel "Cochin" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Kerala/cities/Kochi_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Kerala/cities/Kochi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Kerala/cities/Kochi_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Kerala/cities/Kochi_obpophistcoll> .
 

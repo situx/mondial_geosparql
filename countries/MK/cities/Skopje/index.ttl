@@ -17,6 +17,5 @@
     skos:prefLabel "Град Скопје" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MK/cities/Skopje_obele>,
         <http://www.semwebtech.org/mondial/countries/MK/cities/Skopje_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MK/cities/Skopje_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MK/cities/Skopje_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/MK/cities/Skopje_obpophistcoll> .
 

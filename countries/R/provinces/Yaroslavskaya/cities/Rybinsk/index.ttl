@@ -16,9 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Volga> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Yaroslavskaya/cities/Rybinsk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Yaroslavskaya/cities/Rybinsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Yaroslavskaya/cities/Rybinsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Yaroslavskaya/cities/Rybinsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Yaroslavskaya/cities/Rybinsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Yaroslavskaya/cities/Rybinsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Yaroslavskaya/cities/Rybinsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Yaroslavskaya/cities/Rybinsk_obpophistcoll> .
 

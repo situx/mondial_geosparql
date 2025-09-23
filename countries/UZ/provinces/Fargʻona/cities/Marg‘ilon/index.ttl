@@ -15,8 +15,5 @@
     skos:altLabel "Margilan" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona/cities/Marg‘ilon_obele>,
         <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona/cities/Marg‘ilon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona/cities/Marg‘ilon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona/cities/Marg‘ilon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona/cities/Marg‘ilon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona/cities/Marg‘ilon_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Fargʻona/cities/Marg‘ilon_obpophistcoll> .
 

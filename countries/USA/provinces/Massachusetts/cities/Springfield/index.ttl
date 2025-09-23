@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Connecticut+River> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Massachusetts/cities/Springfield_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Massachusetts/cities/Springfield_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Massachusetts/cities/Springfield_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Massachusetts/cities/Springfield_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Massachusetts/cities/Springfield_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Massachusetts/cities/Springfield_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Massachusetts/cities/Springfield_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Massachusetts/cities/Springfield_obpophistcoll> .
 

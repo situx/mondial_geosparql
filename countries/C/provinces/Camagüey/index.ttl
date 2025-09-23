@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/C/provinces/Camagüey/cities/Camagüey> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/C/provinces/Camagüey/cities/Camagüey> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/C/provinces/Camagüey_obpop>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Camagüey_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Camagüey_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Camagüey_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Camagüey_obpophistcoll> .
 

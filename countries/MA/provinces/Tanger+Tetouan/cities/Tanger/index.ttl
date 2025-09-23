@@ -18,8 +18,5 @@
     skos:prefLabel "طنجة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Tanger+Tetouan/cities/Tanger_obele>,
         <http://www.semwebtech.org/mondial/countries/MA/provinces/Tanger+Tetouan/cities/Tanger_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Tanger+Tetouan/cities/Tanger_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Tanger+Tetouan/cities/Tanger_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Tanger+Tetouan/cities/Tanger_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Tanger+Tetouan/cities/Tanger_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Tanger+Tetouan/cities/Tanger_obpophistcoll> .
 

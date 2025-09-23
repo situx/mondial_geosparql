@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Clyde> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Great+Britain> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GB/provinces/Scotland/cities/Glasgow_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Scotland/cities/Glasgow_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Scotland/cities/Glasgow_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Scotland/cities/Glasgow_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/Scotland/cities/Glasgow_obpophistcoll> .
 

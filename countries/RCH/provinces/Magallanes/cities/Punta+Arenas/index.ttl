@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCH/provinces/Magallanes/cities/Punta+Arenas_obele>,
         <http://www.semwebtech.org/mondial/countries/RCH/provinces/Magallanes/cities/Punta+Arenas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Magallanes/cities/Punta+Arenas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Magallanes/cities/Punta+Arenas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Magallanes/cities/Punta+Arenas_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Magallanes/cities/Punta+Arenas_obpophistcoll> .
 

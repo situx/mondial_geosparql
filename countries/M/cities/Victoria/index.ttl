@@ -14,9 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/M/cities/Victoria_geom> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Gozo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/M/cities/Victoria_obpop>,
-        <http://www.semwebtech.org/mondial/countries/M/cities/Victoria_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/M/cities/Victoria_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/M/cities/Victoria_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/M/cities/Victoria_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/M/cities/Victoria_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/M/cities/Victoria_obpophistcoll> .
 

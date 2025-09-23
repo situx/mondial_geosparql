@@ -16,8 +16,5 @@
     skos:prefLabel "באר שבע" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom/cities/Beer+Sheva_obele>,
         <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom/cities/Beer+Sheva_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom/cities/Beer+Sheva_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom/cities/Beer+Sheva_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom/cities/Beer+Sheva_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom/cities/Beer+Sheva_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaDarom/cities/Beer+Sheva_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Mahe> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SY/cities/Victoria_obele>,
         <http://www.semwebtech.org/mondial/countries/SY/cities/Victoria_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SY/cities/Victoria_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SY/cities/Victoria_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SY/cities/Victoria_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SY/cities/Victoria_obpophistcoll> .
 

@@ -19,7 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/PL/provinces/Kujawsko-Pomorskie/cities/Toruń>,
         <http://www.semwebtech.org/mondial/countries/PL/provinces/Kujawsko-Pomorskie/cities/Włocławek> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL/provinces/Kujawsko-Pomorskie_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Kujawsko-Pomorskie_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Kujawsko-Pomorskie_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Kujawsko-Pomorskie_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Kujawsko-Pomorskie_obpophistcoll> .
 

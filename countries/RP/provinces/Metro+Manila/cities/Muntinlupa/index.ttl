@@ -16,9 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Luzon> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Muntinlupa_obele>,
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Muntinlupa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Muntinlupa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Muntinlupa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Muntinlupa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Muntinlupa_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Muntinlupa_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Metro+Manila/cities/Muntinlupa_obpophistcoll> .
 

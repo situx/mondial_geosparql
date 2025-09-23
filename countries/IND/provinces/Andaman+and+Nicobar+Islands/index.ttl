@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/IND/provinces/Andaman+and+Nicobar+Islands/cities/Port+Blair> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IND/provinces/Andaman+and+Nicobar+Islands/cities/Port+Blair> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Andaman+and+Nicobar+Islands_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Andaman+and+Nicobar+Islands_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Andaman+and+Nicobar+Islands_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Andaman+and+Nicobar+Islands_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Andaman+and+Nicobar+Islands_obpophistcoll> .
 

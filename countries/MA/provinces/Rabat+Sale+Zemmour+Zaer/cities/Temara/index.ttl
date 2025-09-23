@@ -16,8 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     skos:prefLabel "تمارة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Rabat+Sale+Zemmour+Zaer/cities/Temara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Rabat+Sale+Zemmour+Zaer/cities/Temara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Rabat+Sale+Zemmour+Zaer/cities/Temara_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Rabat+Sale+Zemmour+Zaer/cities/Temara_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Rabat+Sale+Zemmour+Zaer/cities/Temara_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Rabat+Sale+Zemmour+Zaer/cities/Temara_obpophistcoll> .
 

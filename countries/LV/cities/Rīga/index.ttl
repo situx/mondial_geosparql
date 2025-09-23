@@ -16,8 +16,5 @@
         <http://www.semwebtech.org/mondial/seas/Baltic+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/LV/cities/Rīga_obele>,
         <http://www.semwebtech.org/mondial/countries/LV/cities/Rīga_obpop>,
-        <http://www.semwebtech.org/mondial/countries/LV/cities/Rīga_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/LV/cities/Rīga_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/LV/cities/Rīga_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/LV/cities/Rīga_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/LV/cities/Rīga_obpophistcoll> .
 

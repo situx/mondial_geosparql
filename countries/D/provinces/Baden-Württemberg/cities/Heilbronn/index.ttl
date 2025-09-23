@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Neckar> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Heilbronn_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Heilbronn_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Heilbronn_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Heilbronn_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Baden-Württemberg/cities/Heilbronn_obpophistcoll> .
 

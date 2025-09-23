@@ -19,8 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/YV/provinces/Miranda/cities/Los+Teques>,
         <http://www.semwebtech.org/mondial/countries/YV/provinces/Miranda/cities/Petare> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Miranda_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Miranda_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Miranda_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Miranda_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Miranda_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Miranda_obpophistcoll> .
 

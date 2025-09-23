@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Syrdarja> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UZ/provinces/Namangan/cities/Namangan_obele>,
         <http://www.semwebtech.org/mondial/countries/UZ/provinces/Namangan/cities/Namangan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Namangan/cities/Namangan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Namangan/cities/Namangan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Namangan/cities/Namangan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Namangan/cities/Namangan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Namangan/cities/Namangan_obpophistcoll> .
 

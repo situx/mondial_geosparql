@@ -16,8 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Yangtze> ;
     skos:prefLabel "张家港市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Zhangjiagang_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Zhangjiagang_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Zhangjiagang_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Zhangjiagang_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Zhangjiagang_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Zhangjiagang_obpophistcoll> .
 

@@ -17,9 +17,5 @@
     skos:prefLabel "Варна" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BG/cities/Varna_obele>,
         <http://www.semwebtech.org/mondial/countries/BG/cities/Varna_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Varna_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Varna_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Varna_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Varna_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Varna_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/BG/cities/Varna_obpophistcoll> .
 

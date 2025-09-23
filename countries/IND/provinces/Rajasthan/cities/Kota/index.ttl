@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Chambal> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Rajasthan/cities/Kota_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Rajasthan/cities/Kota_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Rajasthan/cities/Kota_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Rajasthan/cities/Kota_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Rajasthan/cities/Kota_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Rajasthan/cities/Kota_obpophistcoll> .
 

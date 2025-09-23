@@ -16,10 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Geumgang> ;
     skos:prefLabel "세종" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ROK/cities/Sejong_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Sejong_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Sejong_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Sejong_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Sejong_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Sejong_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Sejong_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Sejong_obpophistcoll> .
 

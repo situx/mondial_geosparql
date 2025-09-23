@@ -16,6 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Sulawesi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Gorontalo/cities/Gorontalo_obele>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Gorontalo/cities/Gorontalo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Gorontalo/cities/Gorontalo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Gorontalo/cities/Gorontalo_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Gorontalo/cities/Gorontalo_obpophistcoll> .
 

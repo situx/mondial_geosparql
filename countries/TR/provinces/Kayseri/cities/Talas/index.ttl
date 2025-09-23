@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/TR/provinces/Kayseri/cities/Talas_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Kayseri/cities/Talas_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Kayseri/cities/Talas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kayseri/cities/Talas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kayseri/cities/Talas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kayseri/cities/Talas_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kayseri/cities/Talas_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kayseri/cities/Talas_obpophistcoll> .
 

@@ -20,9 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnoyarsk/cities/Norilsk> ;
     skos:prefLabel "Красноярский" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnoyarsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnoyarsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnoyarsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnoyarsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnoyarsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnoyarsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnoyarsk_obpophistcoll> .
 

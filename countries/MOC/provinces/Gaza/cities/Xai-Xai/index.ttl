@@ -16,7 +16,5 @@
         <http://www.semwebtech.org/mondial/seas/Indian+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MOC/provinces/Gaza/cities/Xai-Xai_obele>,
         <http://www.semwebtech.org/mondial/countries/MOC/provinces/Gaza/cities/Xai-Xai_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Gaza/cities/Xai-Xai_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Gaza/cities/Xai-Xai_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Gaza/cities/Xai-Xai_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Gaza/cities/Xai-Xai_obpophistcoll> .
 

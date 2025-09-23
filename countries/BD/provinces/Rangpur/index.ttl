@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BD/provinces/Rangpur/cities/Rangpur> ;
     skos:prefLabel "রংপুর" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BD/provinces/Rangpur_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rangpur_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rangpur_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rangpur_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rangpur_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rangpur_obpophistcoll> .
 

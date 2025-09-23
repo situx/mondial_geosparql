@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/Santa+Cruz+de+Tenerife>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/Telde> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias_obpophistcoll> .
 

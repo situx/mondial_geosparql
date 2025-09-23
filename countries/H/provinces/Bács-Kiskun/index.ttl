@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/H/provinces/Bács-Kiskun/cities/Kecskemét> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/H/provinces/Bács-Kiskun/cities/Kecskemét> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/H/provinces/Bács-Kiskun_obpop>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Bács-Kiskun_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Bács-Kiskun_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Bács-Kiskun_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/H/provinces/Bács-Kiskun_obpophistcoll> .
 

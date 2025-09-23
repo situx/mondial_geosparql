@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MAL/provinces/Johor/cities/Johor+Bahru_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAL/provinces/Johor/cities/Johor+Bahru_obele>,
         <http://www.semwebtech.org/mondial/countries/MAL/provinces/Johor/cities/Johor+Bahru_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Johor/cities/Johor+Bahru_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Johor/cities/Johor+Bahru_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Johor/cities/Johor+Bahru_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Johor/cities/Johor+Bahru_obpophistcoll> .
 

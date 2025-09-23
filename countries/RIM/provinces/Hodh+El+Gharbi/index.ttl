@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RIM/provinces/Hodh+El+Gharbi/cities/Aioun> ;
     skos:prefLabel "الحوض الغربي" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RIM/provinces/Hodh+El+Gharbi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Hodh+El+Gharbi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Hodh+El+Gharbi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Hodh+El+Gharbi_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Hodh+El+Gharbi_obpophistcoll> .
 

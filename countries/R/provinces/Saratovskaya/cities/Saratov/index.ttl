@@ -17,9 +17,5 @@
     skos:prefLabel "Саратов" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Saratovskaya/cities/Saratov_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Saratovskaya/cities/Saratov_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Saratovskaya/cities/Saratov_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Saratovskaya/cities/Saratov_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Saratovskaya/cities/Saratov_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Saratovskaya/cities/Saratov_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Saratovskaya/cities/Saratov_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Saratovskaya/cities/Saratov_obpophistcoll> .
 

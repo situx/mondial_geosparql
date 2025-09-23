@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Maine> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Angers_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Angers_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Angers_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Angers_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Angers_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Angers_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Angers_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Angers_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Angers_obpophistcoll> .
 

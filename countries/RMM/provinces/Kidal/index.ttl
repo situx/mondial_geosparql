@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RMM/provinces/Kidal/cities/Kidal> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RMM/provinces/Kidal/cities/Kidal> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RMM/provinces/Kidal_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Kidal_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Kidal_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Kidal_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Kidal_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RMM/provinces/Kidal_obpophistcoll> .
 

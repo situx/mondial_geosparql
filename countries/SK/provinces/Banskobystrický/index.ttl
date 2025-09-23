@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SK/provinces/Banskobystrický/cities/Banská+Bystrica> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SK/provinces/Banskobystrický/cities/Banská+Bystrica> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SK/provinces/Banskobystrický_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Banskobystrický_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Banskobystrický_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Banskobystrický_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Banskobystrický_obpophistcoll> .
 

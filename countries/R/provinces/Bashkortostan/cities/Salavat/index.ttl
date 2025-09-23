@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Belaya> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Salavat_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Salavat_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Salavat_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Salavat_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Salavat_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Salavat_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Salavat_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Salavat_obpophistcoll> .
 

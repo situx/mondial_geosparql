@@ -18,7 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/PL/provinces/Mazowieckie/cities/Radom>,
         <http://www.semwebtech.org/mondial/countries/PL/provinces/Mazowieckie/cities/Warszawa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL/provinces/Mazowieckie_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Mazowieckie_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Mazowieckie_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Mazowieckie_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Mazowieckie_obpophistcoll> .
 

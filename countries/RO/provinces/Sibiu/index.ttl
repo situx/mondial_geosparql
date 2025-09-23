@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Sibiu/cities/Sibiu> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Sibiu/cities/Sibiu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Sibiu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Sibiu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Sibiu_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Sibiu_obpophistcoll> .
 

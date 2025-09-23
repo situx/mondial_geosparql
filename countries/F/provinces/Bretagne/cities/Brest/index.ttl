@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Brest_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Brest_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Brest_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Brest_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Brest_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Brest_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Brest_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Brest_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Brest_obpophistcoll> .
 

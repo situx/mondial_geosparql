@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Yamuna> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Delhi/cities/Delhi_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Delhi/cities/Delhi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Delhi/cities/Delhi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Delhi/cities/Delhi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Delhi/cities/Delhi_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Delhi/cities/Delhi_obpophistcoll> .
 

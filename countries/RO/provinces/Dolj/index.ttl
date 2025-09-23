@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Dolj/cities/Craiova> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Dolj/cities/Craiova> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Dolj_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Dolj_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Dolj_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Dolj_obpophistcoll> .
 

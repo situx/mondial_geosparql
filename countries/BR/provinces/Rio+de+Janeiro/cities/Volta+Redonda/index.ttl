@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Rio+Paraiba+do+Sul> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Volta+Redonda_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Volta+Redonda_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Volta+Redonda_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Volta+Redonda_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Volta+Redonda_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Volta+Redonda_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Volta+Redonda_obpophistcoll> .
 

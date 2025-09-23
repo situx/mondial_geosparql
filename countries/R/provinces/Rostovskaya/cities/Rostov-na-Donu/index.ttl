@@ -19,9 +19,5 @@
     skos:prefLabel "Ростов-на-Дону" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Rostov-na-Donu_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Rostov-na-Donu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Rostov-na-Donu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Rostov-na-Donu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Rostov-na-Donu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Rostov-na-Donu_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Rostov-na-Donu_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Rostov-na-Donu_obpophistcoll> .
 

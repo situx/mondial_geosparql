@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/San+Antonio_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/San+Antonio_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/San+Antonio_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/San+Antonio_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/San+Antonio_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/San+Antonio_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/San+Antonio_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/San+Antonio_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Texas/cities/San+Antonio_obpophistcoll> .
 

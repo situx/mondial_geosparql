@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cuando+Cubango/cities/Menongue> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cuando+Cubango/cities/Menongue> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cuando+Cubango_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cuando+Cubango_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cuando+Cubango_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cuando+Cubango_obpophistcoll> .
 

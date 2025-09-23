@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Mediterranean+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/HR/cities/Zadar_obele>,
         <http://www.semwebtech.org/mondial/countries/HR/cities/Zadar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/HR/cities/Zadar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/HR/cities/Zadar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/HR/cities/Zadar_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/HR/cities/Zadar_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/HR/cities/Zadar_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/HR/cities/Zadar_obpophistcoll> .
 

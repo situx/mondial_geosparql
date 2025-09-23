@@ -15,9 +15,5 @@
     skos:prefLabel "Біла Церква" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Bila+Tserkva_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Bila+Tserkva_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Bila+Tserkva_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Bila+Tserkva_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Bila+Tserkva_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Bila+Tserkva_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Bila+Tserkva_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Bila+Tserkva_obpophistcoll> .
 

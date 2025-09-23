@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/USA/provinces/Oklahoma/cities/Oklahoma+City>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Oklahoma/cities/Tulsa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Oklahoma_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Oklahoma_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Oklahoma_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Oklahoma_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Oklahoma_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Oklahoma_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Oklahoma_obpophistcoll> .
 

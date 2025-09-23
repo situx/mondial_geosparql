@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RIM/provinces/Dakhlet+Nouadhibou/cities/Nouadhibou> ;
     skos:prefLabel "داخلة نواذيبو" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RIM/provinces/Dakhlet+Nouadhibou_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Dakhlet+Nouadhibou_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Dakhlet+Nouadhibou_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Dakhlet+Nouadhibou_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Dakhlet+Nouadhibou_obpophistcoll> .
 

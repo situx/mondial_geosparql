@@ -34,9 +34,5 @@
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong/cities/Zibo> ;
     skos:prefLabel "山东" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shandong_obpophistcoll> .
 

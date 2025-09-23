@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PL/provinces/Łódzkie/cities/Łódź> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PL/provinces/Łódzkie/cities/Łódź> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL/provinces/Łódzkie_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Łódzkie_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Łódzkie_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Łódzkie_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Łódzkie_obpophistcoll> .
 

@@ -15,7 +15,5 @@
     geo:hasMetricArea 104331 ;
     ns1:capital <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sankuru/cities/Lodja> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sankuru_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sankuru_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sankuru_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sankuru_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Sankuru_obpophistcoll> .
 

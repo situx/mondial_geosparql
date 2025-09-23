@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Caribbean+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CR/provinces/Limón/cities/Limón_obele>,
         <http://www.semwebtech.org/mondial/countries/CR/provinces/Limón/cities/Limón_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CR/provinces/Limón/cities/Limón_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CR/provinces/Limón/cities/Limón_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CR/provinces/Limón/cities/Limón_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CR/provinces/Limón/cities/Limón_obpophistcoll> .
 

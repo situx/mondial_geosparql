@@ -16,8 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/South+China+Sea> ;
     skos:prefLabel "Vũng Tàu" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/VN/provinces/Southeast/cities/Vung+Tau_obpop>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Southeast/cities/Vung+Tau_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Southeast/cities/Vung+Tau_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Southeast/cities/Vung+Tau_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Southeast/cities/Vung+Tau_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Southeast/cities/Vung+Tau_obpophistcoll> .
 

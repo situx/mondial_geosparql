@@ -14,7 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SA/provinces/Ash+Sharqiyah/cities/Hafar+al_Batin_geom> ;
     skos:prefLabel "حفر الباطن" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SA/provinces/Ash+Sharqiyah/cities/Hafar+al_Batin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Ash+Sharqiyah/cities/Hafar+al_Batin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Ash+Sharqiyah/cities/Hafar+al_Batin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Ash+Sharqiyah/cities/Hafar+al_Batin_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SA/provinces/Ash+Sharqiyah/cities/Hafar+al_Batin_obpophistcoll> .
 

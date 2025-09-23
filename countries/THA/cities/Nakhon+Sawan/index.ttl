@@ -19,5 +19,5 @@
     skos:prefLabel "นครสวรรค์" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/THA/cities/Nakhon+Sawan_obele>,
         <http://www.semwebtech.org/mondial/countries/THA/cities/Nakhon+Sawan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/THA/cities/Nakhon+Sawan_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/THA/cities/Nakhon+Sawan_obpophistcoll> .
 

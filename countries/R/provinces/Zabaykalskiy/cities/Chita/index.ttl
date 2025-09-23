@@ -18,9 +18,5 @@
     skos:prefLabel "Чита" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Zabaykalskiy/cities/Chita_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Zabaykalskiy/cities/Chita_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Zabaykalskiy/cities/Chita_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Zabaykalskiy/cities/Chita_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Zabaykalskiy/cities/Chita_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Zabaykalskiy/cities/Chita_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Zabaykalskiy/cities/Chita_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Zabaykalskiy/cities/Chita_obpophistcoll> .
 

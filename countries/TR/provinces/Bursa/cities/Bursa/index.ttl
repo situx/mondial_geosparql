@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/TR/provinces/Bursa/cities/Bursa_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Bursa/cities/Bursa_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Bursa/cities/Bursa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Bursa/cities/Bursa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Bursa/cities/Bursa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Bursa/cities/Bursa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Bursa/cities/Bursa_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Bursa/cities/Bursa_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     skos:prefLabel "乌鲁木齐市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Wulumuqi_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Wulumuqi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Wulumuqi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Wulumuqi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Wulumuqi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Wulumuqi_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Wulumuqi_obpophistcoll> .
 

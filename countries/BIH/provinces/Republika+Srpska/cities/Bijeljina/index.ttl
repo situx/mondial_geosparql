@@ -13,5 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BIH/provinces/Republika+Srpska/cities/Bijeljina_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BIH/provinces/Republika+Srpska/cities/Bijeljina_obele>,
         <http://www.semwebtech.org/mondial/countries/BIH/provinces/Republika+Srpska/cities/Bijeljina_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BIH/provinces/Republika+Srpska/cities/Bijeljina_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/BIH/provinces/Republika+Srpska/cities/Bijeljina_obpophistcoll> .
 

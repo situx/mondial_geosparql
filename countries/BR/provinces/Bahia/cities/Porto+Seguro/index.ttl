@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia/cities/Porto+Seguro_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia/cities/Porto+Seguro_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia/cities/Porto+Seguro_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia/cities/Porto+Seguro_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia/cities/Porto+Seguro_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Bahia/cities/Porto+Seguro_obpophistcoll> .
 

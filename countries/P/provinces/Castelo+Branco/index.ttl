@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/P/provinces/Castelo+Branco/cities/Castelo+Branco> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/P/provinces/Castelo+Branco/cities/Castelo+Branco> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/P/provinces/Castelo+Branco_obpop>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Castelo+Branco_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Castelo+Branco_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Castelo+Branco_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Castelo+Branco_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Castelo+Branco_obpophistcoll> .
 

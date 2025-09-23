@@ -14,6 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SF/provinces/Kainuu/cities/Kajaani_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Oulujärvi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Kainuu/cities/Kajaani_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Kainuu/cities/Kajaani_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Kainuu/cities/Kajaani_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Kainuu/cities/Kajaani_obpophistcoll> .
 

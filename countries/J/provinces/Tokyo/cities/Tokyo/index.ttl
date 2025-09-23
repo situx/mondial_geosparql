@@ -17,9 +17,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Honshu> ;
     skos:prefLabel "特別区部" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Tokyo/cities/Tokyo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokyo/cities/Tokyo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokyo/cities/Tokyo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokyo/cities/Tokyo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokyo/cities/Tokyo_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokyo/cities/Tokyo_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokyo/cities/Tokyo_obpophistcoll> .
 

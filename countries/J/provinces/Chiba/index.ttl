@@ -22,9 +22,5 @@
         <http://www.semwebtech.org/mondial/countries/J/provinces/Chiba/cities/Matsudo> ;
     skos:prefLabel "千葉県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Chiba_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Chiba_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Chiba_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Chiba_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Chiba_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Chiba_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Chiba_obpophistcoll> .
 

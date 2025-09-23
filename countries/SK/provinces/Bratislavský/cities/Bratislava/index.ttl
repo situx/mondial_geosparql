@@ -16,7 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/March> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SK/provinces/Bratislavský/cities/Bratislava_obele>,
         <http://www.semwebtech.org/mondial/countries/SK/provinces/Bratislavský/cities/Bratislava_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Bratislavský/cities/Bratislava_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Bratislavský/cities/Bratislava_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Bratislavský/cities/Bratislava_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Bratislavský/cities/Bratislava_obpophistcoll> .
 

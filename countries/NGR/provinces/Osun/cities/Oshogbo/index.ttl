@@ -14,7 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun/cities/Oshogbo_geom> ;
     skos:altLabel "Osogbo" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun/cities/Oshogbo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun/cities/Oshogbo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun/cities/Oshogbo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun/cities/Oshogbo_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun/cities/Oshogbo_obpophistcoll> .
 

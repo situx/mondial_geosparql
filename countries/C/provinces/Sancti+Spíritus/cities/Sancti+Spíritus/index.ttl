@@ -15,8 +15,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Cuba> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/C/provinces/Sancti+Spíritus/cities/Sancti+Spíritus_obele>,
         <http://www.semwebtech.org/mondial/countries/C/provinces/Sancti+Spíritus/cities/Sancti+Spíritus_obpop>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Sancti+Spíritus/cities/Sancti+Spíritus_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Sancti+Spíritus/cities/Sancti+Spíritus_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Sancti+Spíritus/cities/Sancti+Spíritus_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Sancti+Spíritus/cities/Sancti+Spíritus_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Sancti+Spíritus/cities/Sancti+Spíritus_obpophistcoll> .
 

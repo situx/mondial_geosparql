@@ -15,8 +15,5 @@
     skos:prefLabel "太原市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Taiyuan_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Taiyuan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Taiyuan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Taiyuan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Taiyuan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Taiyuan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Taiyuan_obpophistcoll> .
 

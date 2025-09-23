@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Lomami/cities/Kamina> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Lomami/cities/Kamina> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Lomami_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Lomami_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Lomami_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Lomami_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Haut-Lomami_obpophistcoll> .
 

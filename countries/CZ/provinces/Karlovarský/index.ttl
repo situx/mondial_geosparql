@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CZ/provinces/Karlovarský/cities/Karlovy+Vary> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CZ/provinces/Karlovarský/cities/Karlovy+Vary> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CZ/provinces/Karlovarský_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Karlovarský_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Karlovarský_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Karlovarský_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Karlovarský_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Karlovarský_obpophistcoll> .
 

@@ -23,9 +23,5 @@
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangxi/cities/Yulin> ;
     skos:prefLabel "广西" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangxi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangxi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangxi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangxi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangxi_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangxi_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangxi_obpophistcoll> .
 

@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/HN/provinces/Francisco+Morazán/cities/Tegucigalpa_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/HN/provinces/Francisco+Morazán/cities/Tegucigalpa_obele>,
         <http://www.semwebtech.org/mondial/countries/HN/provinces/Francisco+Morazán/cities/Tegucigalpa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Francisco+Morazán/cities/Tegucigalpa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Francisco+Morazán/cities/Tegucigalpa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Francisco+Morazán/cities/Tegucigalpa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Francisco+Morazán/cities/Tegucigalpa_obpophistcoll> .
 

@@ -16,9 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Honshu> ;
     skos:prefLabel "川口市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama/cities/Kawaguchi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama/cities/Kawaguchi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama/cities/Kawaguchi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama/cities/Kawaguchi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama/cities/Kawaguchi_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama/cities/Kawaguchi_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama/cities/Kawaguchi_obpophistcoll> .
 

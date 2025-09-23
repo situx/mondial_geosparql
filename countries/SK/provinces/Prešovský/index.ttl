@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SK/provinces/Prešovský/cities/Prešov> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SK/provinces/Prešovský/cities/Prešov> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SK/provinces/Prešovský_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Prešovský_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Prešovský_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Prešovský_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Prešovský_obpophistcoll> .
 

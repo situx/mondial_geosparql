@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Lake+Managua> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NIC/cities/Managua_obele>,
         <http://www.semwebtech.org/mondial/countries/NIC/cities/Managua_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NIC/cities/Managua_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NIC/cities/Managua_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NIC/cities/Managua_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NIC/cities/Managua_obpophistcoll> .
 

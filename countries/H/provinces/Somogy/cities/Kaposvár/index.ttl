@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/H/provinces/Somogy/cities/Kaposvár_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/H/provinces/Somogy/cities/Kaposvár_obele>,
         <http://www.semwebtech.org/mondial/countries/H/provinces/Somogy/cities/Kaposvár_obpop>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Somogy/cities/Kaposvár_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Somogy/cities/Kaposvár_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Somogy/cities/Kaposvár_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/H/provinces/Somogy/cities/Kaposvár_obpophistcoll> .
 

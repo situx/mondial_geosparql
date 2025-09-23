@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Sergipe/cities/Aracaju_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Sergipe/cities/Aracaju_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Sergipe/cities/Aracaju_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Sergipe/cities/Aracaju_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Sergipe/cities/Aracaju_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Sergipe/cities/Aracaju_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Sergipe/cities/Aracaju_obpophistcoll> .
 

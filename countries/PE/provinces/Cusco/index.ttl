@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PE/provinces/Cusco/cities/Cusco> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PE/provinces/Cusco/cities/Cusco> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PE/provinces/Cusco_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Cusco_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Cusco_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Cusco_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Cusco_obpophistcoll> .
 

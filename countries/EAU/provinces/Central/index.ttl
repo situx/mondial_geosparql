@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central/cities/Kampala>,
         <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central/cities/Mukono> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/EAU/provinces/Central_obpophistcoll> .
 

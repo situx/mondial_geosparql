@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qoraqalpogʻiston/cities/Nukus> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qoraqalpogʻiston/cities/Nukus> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qoraqalpogʻiston_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qoraqalpogʻiston_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qoraqalpogʻiston_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qoraqalpogʻiston_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qoraqalpogʻiston_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qoraqalpogʻiston_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Qoraqalpogʻiston_obpophistcoll> .
 

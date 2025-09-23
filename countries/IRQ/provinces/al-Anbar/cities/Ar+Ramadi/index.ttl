@@ -16,7 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Euphrat> ;
     skos:altLabel "Ramadi" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Anbar/cities/Ar+Ramadi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Anbar/cities/Ar+Ramadi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Anbar/cities/Ar+Ramadi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Anbar/cities/Ar+Ramadi_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Anbar/cities/Ar+Ramadi_obpophistcoll> .
 

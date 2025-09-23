@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Anbar/cities/Ar+Ramadi> ;
     skos:prefLabel "الانبار" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Anbar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Anbar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Anbar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Anbar_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Anbar_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Anbar_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/al-Anbar_obpophistcoll> .
 

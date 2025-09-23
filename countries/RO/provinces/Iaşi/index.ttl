@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Iaşi/cities/Iaşi> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Iaşi/cities/Iaşi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Iaşi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Iaşi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Iaşi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Iaşi_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Iaşi_obpophistcoll> .
 

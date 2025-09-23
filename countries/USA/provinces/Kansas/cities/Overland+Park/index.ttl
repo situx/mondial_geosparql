@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/Kansas/cities/Overland+Park_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Kansas/cities/Overland+Park_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Kansas/cities/Overland+Park_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Kansas/cities/Overland+Park_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Kansas/cities/Overland+Park_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Kansas/cities/Overland+Park_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Kansas/cities/Overland+Park_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Kansas/cities/Overland+Park_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Kansas/cities/Overland+Park_obpophistcoll> .
 

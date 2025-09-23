@@ -16,8 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Puerto+Rico> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PR/cities/Ponce_obele>,
         <http://www.semwebtech.org/mondial/countries/PR/cities/Ponce_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PR/cities/Ponce_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PR/cities/Ponce_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PR/cities/Ponce_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PR/cities/Ponce_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PR/cities/Ponce_obpophistcoll> .
 

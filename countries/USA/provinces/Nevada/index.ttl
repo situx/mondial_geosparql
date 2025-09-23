@@ -24,9 +24,5 @@
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Nevada/cities/Spring+Valley>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Nevada/cities/Sunrise+Manor> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Nevada_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Nevada_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Nevada_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Nevada_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Nevada_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Nevada_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Nevada_obpophistcoll> .
 

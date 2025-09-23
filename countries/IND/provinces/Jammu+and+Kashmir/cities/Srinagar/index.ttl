@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Jhelum> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Jammu+and+Kashmir/cities/Srinagar_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Jammu+and+Kashmir/cities/Srinagar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Jammu+and+Kashmir/cities/Srinagar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Jammu+and+Kashmir/cities/Srinagar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Jammu+and+Kashmir/cities/Srinagar_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Jammu+and+Kashmir/cities/Srinagar_obpophistcoll> .
 

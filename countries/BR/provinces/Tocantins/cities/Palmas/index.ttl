@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Tocantins> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins/cities/Palmas_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins/cities/Palmas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins/cities/Palmas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins/cities/Palmas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins/cities/Palmas_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Tocantins/cities/Palmas_obpophistcoll> .
 

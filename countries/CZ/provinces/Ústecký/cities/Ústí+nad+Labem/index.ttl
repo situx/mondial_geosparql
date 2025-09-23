@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Elbe> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CZ/provinces/Ústecký/cities/Ústí+nad+Labem_obele>,
         <http://www.semwebtech.org/mondial/countries/CZ/provinces/Ústecký/cities/Ústí+nad+Labem_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Ústecký/cities/Ústí+nad+Labem_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Ústecký/cities/Ústí+nad+Labem_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Ústecký/cities/Ústí+nad+Labem_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Ústecký/cities/Ústí+nad+Labem_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Ústecký/cities/Ústí+nad+Labem_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Ústecký/cities/Ústí+nad+Labem_obpophistcoll> .
 

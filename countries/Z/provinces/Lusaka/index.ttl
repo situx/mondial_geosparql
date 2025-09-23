@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/Z/provinces/Lusaka/cities/Lusaka> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/Z/provinces/Lusaka/cities/Lusaka> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/Z/provinces/Lusaka_obpop>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Lusaka_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Lusaka_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Lusaka_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Lusaka_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/Z/provinces/Lusaka_obpophistcoll> .
 

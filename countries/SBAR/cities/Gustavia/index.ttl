@@ -15,5 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Caribbean+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/St.+Barthelemy> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SBAR/cities/Gustavia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SBAR/cities/Gustavia_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/SBAR/cities/Gustavia_obpophistcoll> .
 

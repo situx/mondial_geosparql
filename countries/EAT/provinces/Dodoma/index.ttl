@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Dodoma/cities/Dodoma> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAT/provinces/Dodoma/cities/Dodoma> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Dodoma_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Dodoma_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Dodoma_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Dodoma_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Dodoma_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Dodoma_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Dodoma_obpophistcoll> .
 

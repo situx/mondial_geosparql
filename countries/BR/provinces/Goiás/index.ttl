@@ -21,10 +21,5 @@
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Rio+Verde>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Águas+Lindas+de+Goiás> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás_obpophistcoll> .
 

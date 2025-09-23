@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Labrador+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Baffin+Island> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/Nunavut/cities/Iqaluit_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Nunavut/cities/Iqaluit_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Nunavut/cities/Iqaluit_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Nunavut/cities/Iqaluit_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Nunavut/cities/Iqaluit_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Nunavut/cities/Iqaluit_obpophistcoll> .
 

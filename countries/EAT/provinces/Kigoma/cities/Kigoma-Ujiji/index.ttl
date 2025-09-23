@@ -17,8 +17,5 @@
     skos:altLabel "Kigoma" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kigoma/cities/Kigoma-Ujiji_obele>,
         <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kigoma/cities/Kigoma-Ujiji_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kigoma/cities/Kigoma-Ujiji_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kigoma/cities/Kigoma-Ujiji_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kigoma/cities/Kigoma-Ujiji_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kigoma/cities/Kigoma-Ujiji_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kigoma/cities/Kigoma-Ujiji_obpophistcoll> .
 

@@ -14,8 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SF/provinces/Pirkanmaa/cities/Tampere_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Kokemäenjoki> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Pirkanmaa/cities/Tampere_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pirkanmaa/cities/Tampere_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pirkanmaa/cities/Tampere_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pirkanmaa/cities/Tampere_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pirkanmaa/cities/Tampere_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pirkanmaa/cities/Tampere_obpophistcoll> .
 

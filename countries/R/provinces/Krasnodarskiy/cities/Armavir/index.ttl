@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Kuban> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnodarskiy/cities/Armavir_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnodarskiy/cities/Armavir_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnodarskiy/cities/Armavir_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnodarskiy/cities/Armavir_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnodarskiy/cities/Armavir_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnodarskiy/cities/Armavir_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnodarskiy/cities/Armavir_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnodarskiy/cities/Armavir_obpophistcoll> .
 

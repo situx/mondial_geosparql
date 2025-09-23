@@ -19,6 +19,5 @@
     skos:prefLabel "الحديده" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YE/cities/al+Hudaydah_obele>,
         <http://www.semwebtech.org/mondial/countries/YE/cities/al+Hudaydah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YE/cities/al+Hudaydah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YE/cities/al+Hudaydah_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/YE/cities/al+Hudaydah_obpophistcoll> .
 

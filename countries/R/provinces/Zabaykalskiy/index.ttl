@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Zabaykalskiy/cities/Chita> ;
     skos:prefLabel "Забайкальский" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Zabaykalskiy_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Zabaykalskiy_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Zabaykalskiy_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Zabaykalskiy_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Zabaykalskiy_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Zabaykalskiy_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Zabaykalskiy_obpophistcoll> .
 

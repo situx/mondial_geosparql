@@ -24,9 +24,5 @@
         <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Šachty> ;
     skos:prefLabel "Ростовская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya_obpophistcoll> .
 

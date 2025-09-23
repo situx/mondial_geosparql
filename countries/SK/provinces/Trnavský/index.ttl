@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SK/provinces/Trnavský/cities/Trnava> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SK/provinces/Trnavský/cities/Trnava> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SK/provinces/Trnavský_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Trnavský_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Trnavský_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Trnavský_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Trnavský_obpophistcoll> .
 

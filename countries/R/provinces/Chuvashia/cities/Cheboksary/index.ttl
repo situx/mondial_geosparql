@@ -18,9 +18,5 @@
     skos:prefLabel "Чебоксары" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Chuvashia/cities/Cheboksary_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Chuvashia/cities/Cheboksary_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chuvashia/cities/Cheboksary_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chuvashia/cities/Cheboksary_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chuvashia/cities/Cheboksary_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chuvashia/cities/Cheboksary_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chuvashia/cities/Cheboksary_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Chuvashia/cities/Cheboksary_obpophistcoll> .
 

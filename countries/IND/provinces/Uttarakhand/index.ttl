@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/IND/provinces/Uttarakhand/cities/Dehra+Dun> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IND/provinces/Uttarakhand/cities/Dehra+Dun> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Uttarakhand_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Uttarakhand_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Uttarakhand_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Uttarakhand_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Uttarakhand_obpophistcoll> .
 

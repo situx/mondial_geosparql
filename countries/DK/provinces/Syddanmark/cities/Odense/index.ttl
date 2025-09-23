@@ -15,9 +15,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Fünen> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DK/provinces/Syddanmark/cities/Odense_obele>,
         <http://www.semwebtech.org/mondial/countries/DK/provinces/Syddanmark/cities/Odense_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Syddanmark/cities/Odense_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Syddanmark/cities/Odense_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Syddanmark/cities/Odense_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Syddanmark/cities/Odense_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/DK/provinces/Syddanmark/cities/Odense_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/DK/provinces/Syddanmark/cities/Odense_obpophistcoll> .
 

@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Elche>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana/cities/Valencia> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Valenciana_obpophistcoll> .
 

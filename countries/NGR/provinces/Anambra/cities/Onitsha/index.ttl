@@ -14,7 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NGR/provinces/Anambra/cities/Onitsha_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Niger> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Anambra/cities/Onitsha_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Anambra/cities/Onitsha_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Anambra/cities/Onitsha_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Anambra/cities/Onitsha_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Anambra/cities/Onitsha_obpophistcoll> .
 

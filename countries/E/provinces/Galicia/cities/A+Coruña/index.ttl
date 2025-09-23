@@ -17,9 +17,5 @@
     skos:altLabel "La Coruna" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/A+Coruña_obele>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/A+Coruña_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/A+Coruña_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/A+Coruña_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/A+Coruña_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/A+Coruña_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/A+Coruña_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Galicia/cities/A+Coruña_obpophistcoll> .
 

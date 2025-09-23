@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Iringa/cities/Iringa> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAT/provinces/Iringa/cities/Iringa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Iringa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Iringa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Iringa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Iringa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Iringa_obpophistcoll> .
 

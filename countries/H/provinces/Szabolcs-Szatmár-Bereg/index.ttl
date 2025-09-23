@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/H/provinces/Szabolcs-Szatmár-Bereg/cities/Nyíregyháza> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/H/provinces/Szabolcs-Szatmár-Bereg/cities/Nyíregyháza> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/H/provinces/Szabolcs-Szatmár-Bereg_obpop>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Szabolcs-Szatmár-Bereg_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Szabolcs-Szatmár-Bereg_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Szabolcs-Szatmár-Bereg_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/H/provinces/Szabolcs-Szatmár-Bereg_obpophistcoll> .
 

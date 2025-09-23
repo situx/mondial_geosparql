@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Marmara+Sea>,
         <http://www.semwebtech.org/mondial/seas/Mediterranean+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Çanakkale/cities/Canakkale_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çanakkale/cities/Canakkale_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çanakkale/cities/Canakkale_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çanakkale/cities/Canakkale_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çanakkale/cities/Canakkale_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çanakkale/cities/Canakkale_obpophistcoll> .
 

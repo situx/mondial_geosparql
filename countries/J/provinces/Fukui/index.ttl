@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Fukui/cities/Fukui> ;
     skos:prefLabel "福井県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Fukui_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukui_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukui_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukui_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukui_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukui_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Fukui_obpophistcoll> .
 

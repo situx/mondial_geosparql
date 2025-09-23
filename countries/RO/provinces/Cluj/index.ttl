@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Cluj/cities/Cluj-Napoca> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Cluj/cities/Cluj-Napoca> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Cluj_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Cluj_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Cluj_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Cluj_obpophistcoll> .
 

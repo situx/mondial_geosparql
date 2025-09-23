@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SN/provinces/Kolda/cities/Kolda> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SN/provinces/Kolda/cities/Kolda> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SN/provinces/Kolda_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kolda_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kolda_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Kolda_obpophistcoll> .
 

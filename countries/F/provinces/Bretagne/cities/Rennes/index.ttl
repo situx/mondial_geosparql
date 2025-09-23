@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Vilaine> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Rennes_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Rennes_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Rennes_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Rennes_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Rennes_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Rennes_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Rennes_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Rennes_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Bretagne/cities/Rennes_obpophistcoll> .
 

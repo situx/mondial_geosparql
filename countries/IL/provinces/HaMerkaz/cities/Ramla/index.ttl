@@ -15,8 +15,5 @@
     skos:prefLabel "רמלה" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Ramla_obele>,
         <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Ramla_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Ramla_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Ramla_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Ramla_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Ramla_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaMerkaz/cities/Ramla_obpophistcoll> .
 

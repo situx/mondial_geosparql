@@ -16,5 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/MA/provinces/Taza+Al+Hoceima+Taounate/cities/Al+Hoceima> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MA/provinces/Taza+Al+Hoceima+Taounate/cities/Al+Hoceima> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Taza+Al+Hoceima+Taounate_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Taza+Al+Hoceima+Taounate_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Taza+Al+Hoceima+Taounate_obpophistcoll> .
 

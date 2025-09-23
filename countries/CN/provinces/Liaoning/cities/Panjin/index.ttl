@@ -16,8 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Liao+He> ;
     skos:altLabel "Panshan" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Panjin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Panjin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Panjin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Panjin_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Panjin_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Liaoning/cities/Panjin_obpophistcoll> .
 

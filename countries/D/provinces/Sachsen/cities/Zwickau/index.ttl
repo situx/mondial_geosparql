@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Mulde> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Zwickau_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Zwickau_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Zwickau_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Zwickau_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Sachsen/cities/Zwickau_obpophistcoll> .
 

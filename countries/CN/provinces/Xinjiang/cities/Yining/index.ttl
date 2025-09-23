@@ -16,6 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Ili> ;
     skos:altLabel "Gulja" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Yining_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Yining_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Yining_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Xinjiang/cities/Yining_obpophistcoll> .
 

@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Batman/cities/Batman> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Batman/cities/Batman> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Batman_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Batman_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Batman_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Batman_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Batman_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Batman_obpophistcoll> .
 

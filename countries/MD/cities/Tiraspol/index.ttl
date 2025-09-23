@@ -14,6 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MD/cities/Tiraspol_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Dnister> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MD/cities/Tiraspol_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MD/cities/Tiraspol_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MD/cities/Tiraspol_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/MD/cities/Tiraspol_obpophistcoll> .
 

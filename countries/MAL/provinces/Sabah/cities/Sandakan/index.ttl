@@ -16,6 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Borneo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sabah/cities/Sandakan_obele>,
         <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sabah/cities/Sandakan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sabah/cities/Sandakan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sabah/cities/Sandakan_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Sabah/cities/Sandakan_obpophistcoll> .
 

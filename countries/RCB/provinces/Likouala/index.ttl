@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RCB/provinces/Likouala/cities/Impfondo> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RCB/provinces/Likouala/cities/Impfondo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCB/provinces/Likouala_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Likouala_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Likouala_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Likouala_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Likouala_obpophistcoll> .
 

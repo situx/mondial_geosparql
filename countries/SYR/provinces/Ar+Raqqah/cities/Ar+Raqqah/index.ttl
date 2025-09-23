@@ -17,6 +17,5 @@
     skos:prefLabel "الرقة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SYR/provinces/Ar+Raqqah/cities/Ar+Raqqah_obele>,
         <http://www.semwebtech.org/mondial/countries/SYR/provinces/Ar+Raqqah/cities/Ar+Raqqah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Ar+Raqqah/cities/Ar+Raqqah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Ar+Raqqah/cities/Ar+Raqqah_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Ar+Raqqah/cities/Ar+Raqqah_obpophistcoll> .
 

@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CR/provinces/Cartago/cities/Cartago_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CR/provinces/Cartago/cities/Cartago_obele>,
         <http://www.semwebtech.org/mondial/countries/CR/provinces/Cartago/cities/Cartago_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CR/provinces/Cartago/cities/Cartago_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CR/provinces/Cartago/cities/Cartago_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CR/provinces/Cartago/cities/Cartago_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CR/provinces/Cartago/cities/Cartago_obpophistcoll> .
 

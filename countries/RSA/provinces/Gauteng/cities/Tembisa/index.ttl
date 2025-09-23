@@ -13,6 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Tembisa_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Tembisa_obele>,
         <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Tembisa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Tembisa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Tembisa_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Gauteng/cities/Tembisa_obpophistcoll> .
 

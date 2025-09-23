@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Tanga/cities/Tanga> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAT/provinces/Tanga/cities/Tanga> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Tanga_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Tanga_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Tanga_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Tanga_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Tanga_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Tanga_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Tanga_obpophistcoll> .
 

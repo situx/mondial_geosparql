@@ -17,5 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MA/provinces/Grand+Casablanca/cities/Casablanca>,
         <http://www.semwebtech.org/mondial/countries/MA/provinces/Grand+Casablanca/cities/Mohammedia> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Grand+Casablanca_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Grand+Casablanca_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Grand+Casablanca_obpophistcoll> .
 

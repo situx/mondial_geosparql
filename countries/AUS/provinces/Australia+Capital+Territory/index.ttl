@@ -16,11 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/AUS/provinces/Australia+Capital+Territory/cities/Canberra> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/AUS/provinces/Australia+Capital+Territory/cities/Canberra> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AUS/provinces/Australia+Capital+Territory_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Australia+Capital+Territory_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Australia+Capital+Territory_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Australia+Capital+Territory_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Australia+Capital+Territory_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Australia+Capital+Territory_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Australia+Capital+Territory_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Australia+Capital+Territory_obpophist6> .
+        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Australia+Capital+Territory_obpophistcoll> .
 

@@ -17,6 +17,5 @@
     skos:prefLabel "كيهيدي" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RIM/provinces/Gorgol/cities/Kaedi_obele>,
         <http://www.semwebtech.org/mondial/countries/RIM/provinces/Gorgol/cities/Kaedi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Gorgol/cities/Kaedi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Gorgol/cities/Kaedi_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RIM/provinces/Gorgol/cities/Kaedi_obpophistcoll> .
 

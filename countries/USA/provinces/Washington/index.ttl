@@ -20,9 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Washington/cities/Tacoma>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Washington/cities/Vancouver> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Washington_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Washington_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Washington_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Washington_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Washington_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Washington_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Washington_obpophistcoll> .
 

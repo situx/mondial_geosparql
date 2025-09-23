@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Tejo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Barreiro_obele>,
         <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Barreiro_obpop>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Barreiro_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Barreiro_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Barreiro_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Lisboa/cities/Barreiro_obpophistcoll> .
 

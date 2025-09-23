@@ -15,8 +15,5 @@
     skos:prefLabel "الجنينة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/Gharb+al-Dārfūr/cities/Al-Junaynah_obele>,
         <http://www.semwebtech.org/mondial/countries/SUD/provinces/Gharb+al-Dārfūr/cities/Al-Junaynah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Gharb+al-Dārfūr/cities/Al-Junaynah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Gharb+al-Dārfūr/cities/Al-Junaynah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Gharb+al-Dārfūr/cities/Al-Junaynah_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Gharb+al-Dārfūr/cities/Al-Junaynah_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Gharb+al-Dārfūr/cities/Al-Junaynah_obpophistcoll> .
 

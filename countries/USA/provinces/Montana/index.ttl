@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/USA/provinces/Montana/cities/Billings>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Montana/cities/Helena> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Montana_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Montana_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Montana_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Montana_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Montana_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Montana_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Montana_obpophistcoll> .
 

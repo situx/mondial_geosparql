@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RCH/provinces/Lagos/cities/Osorno>,
         <http://www.semwebtech.org/mondial/countries/RCH/provinces/Lagos/cities/Puerto+Montt> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCH/provinces/Lagos_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Lagos_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Lagos_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Lagos_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Lagos_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Lagos_obpophistcoll> .
 

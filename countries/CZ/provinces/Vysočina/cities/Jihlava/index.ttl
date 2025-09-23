@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Jihlava> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CZ/provinces/Vysočina/cities/Jihlava_obele>,
         <http://www.semwebtech.org/mondial/countries/CZ/provinces/Vysočina/cities/Jihlava_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Vysočina/cities/Jihlava_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Vysočina/cities/Jihlava_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Vysočina/cities/Jihlava_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Vysočina/cities/Jihlava_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Vysočina/cities/Jihlava_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Vysočina/cities/Jihlava_obpophistcoll> .
 

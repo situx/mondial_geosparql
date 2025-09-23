@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/E/provinces/Navarra/cities/Pamplona> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/E/provinces/Navarra/cities/Pamplona> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Navarra_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Navarra_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Navarra_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Navarra_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Navarra_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Navarra_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Navarra_obpophistcoll> .
 

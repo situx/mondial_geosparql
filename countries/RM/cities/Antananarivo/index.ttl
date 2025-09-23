@@ -15,7 +15,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Madagaskar> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RM/cities/Antananarivo_obele>,
         <http://www.semwebtech.org/mondial/countries/RM/cities/Antananarivo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RM/cities/Antananarivo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RM/cities/Antananarivo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RM/cities/Antananarivo_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RM/cities/Antananarivo_obpophistcoll> .
 

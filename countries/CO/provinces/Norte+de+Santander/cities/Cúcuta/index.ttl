@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CO/provinces/Norte+de+Santander/cities/Cúcuta_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Norte+de+Santander/cities/Cúcuta_obele>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Norte+de+Santander/cities/Cúcuta_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Norte+de+Santander/cities/Cúcuta_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Norte+de+Santander/cities/Cúcuta_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Norte+de+Santander/cities/Cúcuta_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Norte+de+Santander/cities/Cúcuta_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Norte+de+Santander/cities/Cúcuta_obpophistcoll> .
 

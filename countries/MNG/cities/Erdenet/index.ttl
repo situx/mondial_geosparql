@@ -15,8 +15,5 @@
     skos:prefLabel "ᠡᠷᠳᠡᠨᠢᠲᠦ" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MNG/cities/Erdenet_obele>,
         <http://www.semwebtech.org/mondial/countries/MNG/cities/Erdenet_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MNG/cities/Erdenet_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MNG/cities/Erdenet_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MNG/cities/Erdenet_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MNG/cities/Erdenet_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MNG/cities/Erdenet_obpophistcoll> .
 

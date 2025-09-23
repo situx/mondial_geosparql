@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Rio+Grande+del+Norte> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Tamaulipas/cities/Reynosa_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Tamaulipas/cities/Reynosa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Tamaulipas/cities/Reynosa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Tamaulipas/cities/Reynosa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Tamaulipas/cities/Reynosa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Tamaulipas/cities/Reynosa_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Tamaulipas/cities/Reynosa_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Tamaulipas/cities/Reynosa_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Tamaulipas/cities/Reynosa_obpophistcoll> .
 

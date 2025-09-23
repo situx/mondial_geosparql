@@ -20,10 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará/cities/Marabá>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará/cities/Santarém> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará_obpophistcoll> .
 

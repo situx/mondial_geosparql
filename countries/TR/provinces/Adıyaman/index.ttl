@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Adıyaman/cities/Adiyaman> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Adıyaman/cities/Adiyaman> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Adıyaman_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Adıyaman_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Adıyaman_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Adıyaman_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Adıyaman_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Adıyaman_obpophistcoll> .
 

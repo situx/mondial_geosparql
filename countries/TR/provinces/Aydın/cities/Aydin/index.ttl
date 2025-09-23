@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/TR/provinces/Aydın/cities/Aydin_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Aydın/cities/Aydin_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Aydın/cities/Aydin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Aydın/cities/Aydin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Aydın/cities/Aydin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Aydın/cities/Aydin_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Aydın/cities/Aydin_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Aydın/cities/Aydin_obpophistcoll> .
 

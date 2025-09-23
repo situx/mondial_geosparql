@@ -18,9 +18,5 @@
     skos:prefLabel "深圳市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Shenzhen_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Shenzhen_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Shenzhen_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Shenzhen_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Shenzhen_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Shenzhen_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Shenzhen_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Shenzhen_obpophistcoll> .
 

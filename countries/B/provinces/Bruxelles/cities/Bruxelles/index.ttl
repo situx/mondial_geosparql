@@ -16,9 +16,5 @@
         "Brussels" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles/cities/Bruxelles_obele>,
         <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles/cities/Bruxelles_obpop>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles/cities/Bruxelles_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles/cities/Bruxelles_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles/cities/Bruxelles_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles/cities/Bruxelles_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles/cities/Bruxelles_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Bruxelles/cities/Bruxelles_obpophistcoll> .
 

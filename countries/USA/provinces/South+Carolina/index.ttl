@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Carolina/cities/Charleston>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Carolina/cities/Columbia> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Carolina_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Carolina_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Carolina_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Carolina_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Carolina_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Carolina_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Carolina_obpophistcoll> .
 

@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BF/cities/Bobo+Dioulasso_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BF/cities/Bobo+Dioulasso_obele>,
         <http://www.semwebtech.org/mondial/countries/BF/cities/Bobo+Dioulasso_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BF/cities/Bobo+Dioulasso_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BF/cities/Bobo+Dioulasso_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BF/cities/Bobo+Dioulasso_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/BF/cities/Bobo+Dioulasso_obpophistcoll> .
 

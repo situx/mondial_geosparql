@@ -12,9 +12,5 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SF/provinces/Kanta-Häme/cities/Hämeenlinna_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Kanta-Häme/cities/Hämeenlinna_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Kanta-Häme/cities/Hämeenlinna_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Kanta-Häme/cities/Hämeenlinna_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Kanta-Häme/cities/Hämeenlinna_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Kanta-Häme/cities/Hämeenlinna_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Kanta-Häme/cities/Hämeenlinna_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Kanta-Häme/cities/Hämeenlinna_obpophistcoll> .
 

@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Gulf+of+California> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Los+Mochis_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Los+Mochis_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Los+Mochis_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Los+Mochis_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Los+Mochis_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Los+Mochis_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Los+Mochis_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Los+Mochis_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Los+Mochis_obpophistcoll> .
 

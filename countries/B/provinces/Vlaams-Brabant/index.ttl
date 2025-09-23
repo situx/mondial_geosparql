@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/B/provinces/Vlaams-Brabant/cities/Leuven> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/B/provinces/Vlaams-Brabant/cities/Leuven> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/B/provinces/Vlaams-Brabant_obpop>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Vlaams-Brabant_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Vlaams-Brabant_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Vlaams-Brabant_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/B/provinces/Vlaams-Brabant_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/B/provinces/Vlaams-Brabant_obpophistcoll> .
 

@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Tennessee+River> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Alabama/cities/Huntsville_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Alabama/cities/Huntsville_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Alabama/cities/Huntsville_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Alabama/cities/Huntsville_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Alabama/cities/Huntsville_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Alabama/cities/Huntsville_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Alabama/cities/Huntsville_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Alabama/cities/Huntsville_obpophistcoll> .
 

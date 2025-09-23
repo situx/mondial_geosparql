@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Wakayama/cities/Wakayama> ;
     skos:prefLabel "和歌山県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Wakayama_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Wakayama_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Wakayama_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Wakayama_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Wakayama_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Wakayama_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Wakayama_obpophistcoll> .
 

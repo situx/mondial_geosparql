@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RA/provinces/Formosa/cities/Formosa> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RA/provinces/Formosa/cities/Formosa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Formosa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Formosa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Formosa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Formosa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Formosa_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Formosa_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Formosa_obpophistcoll> .
 

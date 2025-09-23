@@ -14,5 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RH/cities/Cité+Soleil_geom> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Hispaniola> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RH/cities/Cité+Soleil_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RH/cities/Cité+Soleil_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/RH/cities/Cité+Soleil_obpophistcoll> .
 

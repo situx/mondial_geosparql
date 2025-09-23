@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TM/provinces/Dashhowuz/cities/Dashhowuz> ;
     skos:prefLabel "Daşoguz" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TM/provinces/Dashhowuz_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TM/provinces/Dashhowuz_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TM/provinces/Dashhowuz_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TM/provinces/Dashhowuz_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/TM/provinces/Dashhowuz_obpophistcoll> .
 

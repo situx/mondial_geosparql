@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/South+Saskatchewan+River> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta/cities/Calgary_obele>,
         <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta/cities/Calgary_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta/cities/Calgary_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta/cities/Calgary_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta/cities/Calgary_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta/cities/Calgary_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta/cities/Calgary_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Alberta/cities/Calgary_obpophistcoll> .
 

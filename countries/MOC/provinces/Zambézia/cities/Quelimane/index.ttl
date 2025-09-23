@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Indian+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MOC/provinces/Zambézia/cities/Quelimane_obele>,
         <http://www.semwebtech.org/mondial/countries/MOC/provinces/Zambézia/cities/Quelimane_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Zambézia/cities/Quelimane_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Zambézia/cities/Quelimane_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Zambézia/cities/Quelimane_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Zambézia/cities/Quelimane_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Zambézia/cities/Quelimane_obpophistcoll> .
 

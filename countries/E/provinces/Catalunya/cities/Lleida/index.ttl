@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Segre> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Lleida_obele>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Lleida_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Lleida_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Lleida_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Lleida_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Lleida_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Lleida_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Catalunya/cities/Lleida_obpophistcoll> .
 

@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IR/provinces/Yazd/cities/Yazd> ;
     skos:prefLabel "يزد" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Yazd_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Yazd_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Yazd_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Yazd_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Yazd_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Yazd_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Yazd_obpophistcoll> .
 

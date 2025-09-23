@@ -20,9 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Tennessee/cities/Memphis>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Tennessee/cities/Nashville-Davidson> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Tennessee_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Tennessee_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Tennessee_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Tennessee_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Tennessee_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Tennessee_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Tennessee_obpophistcoll> .
 

@@ -16,8 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Tapajós> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará/cities/Santarém_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará/cities/Santarém_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará/cities/Santarém_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará/cities/Santarém_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará/cities/Santarém_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará/cities/Santarém_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pará/cities/Santarém_obpophistcoll> .
 

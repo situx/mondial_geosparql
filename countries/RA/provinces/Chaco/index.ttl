@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RA/provinces/Chaco/cities/Resistencia> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RA/provinces/Chaco/cities/Resistencia> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Chaco_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chaco_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chaco_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chaco_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chaco_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chaco_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chaco_obpophistcoll> .
 

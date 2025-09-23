@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/S/provinces/Västerbotten/cities/Umeå> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/S/provinces/Västerbotten/cities/Umeå> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Västerbotten_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västerbotten_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västerbotten_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västerbotten_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västerbotten_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västerbotten_obpophistcoll> .
 

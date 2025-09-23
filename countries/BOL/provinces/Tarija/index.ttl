@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/BOL/provinces/Tarija/cities/Tarija> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BOL/provinces/Tarija/cities/Tarija> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BOL/provinces/Tarija_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Tarija_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Tarija_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Tarija_obpophistcoll> .
 

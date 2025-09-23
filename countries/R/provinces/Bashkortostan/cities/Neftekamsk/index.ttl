@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Kama> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Neftekamsk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Neftekamsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Neftekamsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Neftekamsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Neftekamsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Neftekamsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Neftekamsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Neftekamsk_obpophistcoll> .
 

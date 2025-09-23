@@ -15,9 +15,5 @@
     skos:altLabel "Jerez" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Jerez+de+la+Frontera_obele>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Jerez+de+la+Frontera_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Jerez+de+la+Frontera_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Jerez+de+la+Frontera_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Jerez+de+la+Frontera_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Jerez+de+la+Frontera_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Jerez+de+la+Frontera_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Andalucía/cities/Jerez+de+la+Frontera_obpophistcoll> .
 

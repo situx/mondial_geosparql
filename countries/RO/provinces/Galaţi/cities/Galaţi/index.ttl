@@ -16,7 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Siret> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Galaţi/cities/Galaţi_obele>,
         <http://www.semwebtech.org/mondial/countries/RO/provinces/Galaţi/cities/Galaţi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Galaţi/cities/Galaţi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Galaţi/cities/Galaţi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Galaţi/cities/Galaţi_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Galaţi/cities/Galaţi_obpophistcoll> .
 

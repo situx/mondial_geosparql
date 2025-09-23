@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cuanza+Sul/cities/Sumbe_obele>,
         <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cuanza+Sul/cities/Sumbe_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cuanza+Sul/cities/Sumbe_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cuanza+Sul/cities/Sumbe_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Cuanza+Sul/cities/Sumbe_obpophistcoll> .
 

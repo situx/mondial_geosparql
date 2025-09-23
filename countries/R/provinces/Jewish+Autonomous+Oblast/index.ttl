@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Jewish+Autonomous+Oblast/cities/Birobidzhan> ;
     skos:prefLabel "Еврейская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Jewish+Autonomous+Oblast_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Jewish+Autonomous+Oblast_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Jewish+Autonomous+Oblast_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Jewish+Autonomous+Oblast_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Jewish+Autonomous+Oblast_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Jewish+Autonomous+Oblast_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Jewish+Autonomous+Oblast_obpophistcoll> .
 

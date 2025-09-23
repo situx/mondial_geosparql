@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Maas> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NL/provinces/Noord-Brabant/cities/'s-Hertogenbosch_obele>,
         <http://www.semwebtech.org/mondial/countries/NL/provinces/Noord-Brabant/cities/'s-Hertogenbosch_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Noord-Brabant/cities/'s-Hertogenbosch_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Noord-Brabant/cities/'s-Hertogenbosch_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NL/provinces/Noord-Brabant/cities/'s-Hertogenbosch_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NL/provinces/Noord-Brabant/cities/'s-Hertogenbosch_obpophistcoll> .
 

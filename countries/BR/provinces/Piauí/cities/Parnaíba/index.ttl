@@ -16,8 +16,5 @@
         <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Piauí/cities/Parnaíba_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Piauí/cities/Parnaíba_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Piauí/cities/Parnaíba_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Piauí/cities/Parnaíba_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Piauí/cities/Parnaíba_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Piauí/cities/Parnaíba_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Piauí/cities/Parnaíba_obpophistcoll> .
 

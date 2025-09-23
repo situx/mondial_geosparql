@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Tom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Tomskaya/cities/Seversk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Tomskaya/cities/Seversk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tomskaya/cities/Seversk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tomskaya/cities/Seversk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tomskaya/cities/Seversk_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Tomskaya/cities/Seversk_obpophistcoll> .
 

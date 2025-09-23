@@ -16,9 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Santiago> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CV/cities/Praia_obele>,
         <http://www.semwebtech.org/mondial/countries/CV/cities/Praia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CV/cities/Praia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CV/cities/Praia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CV/cities/Praia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CV/cities/Praia_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CV/cities/Praia_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CV/cities/Praia_obpophistcoll> .
 

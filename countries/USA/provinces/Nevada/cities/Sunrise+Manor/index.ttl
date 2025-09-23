@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/Nevada/cities/Sunrise+Manor_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Nevada/cities/Sunrise+Manor_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Nevada/cities/Sunrise+Manor_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Nevada/cities/Sunrise+Manor_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Nevada/cities/Sunrise+Manor_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Nevada/cities/Sunrise+Manor_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Nevada/cities/Sunrise+Manor_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Nevada/cities/Sunrise+Manor_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Nevada/cities/Sunrise+Manor_obpophistcoll> .
 

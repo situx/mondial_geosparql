@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CO/provinces/Tolima/cities/Ibagué_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Tolima/cities/Ibagué_obele>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Tolima/cities/Ibagué_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Tolima/cities/Ibagué_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Tolima/cities/Ibagué_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Tolima/cities/Ibagué_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Tolima/cities/Ibagué_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Tolima/cities/Ibagué_obpophistcoll> .
 

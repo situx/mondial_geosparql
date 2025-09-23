@@ -17,7 +17,5 @@
     skos:altLabel "Kut" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Wasit/cities/Al+Kut_obele>,
         <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Wasit/cities/Al+Kut_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Wasit/cities/Al+Kut_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Wasit/cities/Al+Kut_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Wasit/cities/Al+Kut_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Wasit/cities/Al+Kut_obpophistcoll> .
 

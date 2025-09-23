@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Bihor/cities/Oradea> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Bihor/cities/Oradea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Bihor_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Bihor_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Bihor_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Bihor_obpophistcoll> .
 

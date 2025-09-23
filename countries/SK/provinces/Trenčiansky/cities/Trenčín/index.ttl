@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Waag> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SK/provinces/Trenčiansky/cities/Trenčín_obele>,
         <http://www.semwebtech.org/mondial/countries/SK/provinces/Trenčiansky/cities/Trenčín_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Trenčiansky/cities/Trenčín_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Trenčiansky/cities/Trenčín_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SK/provinces/Trenčiansky/cities/Trenčín_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SK/provinces/Trenčiansky/cities/Trenčín_obpophistcoll> .
 

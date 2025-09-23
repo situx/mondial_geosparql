@@ -17,10 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chihuahua/cities/Chihuahua>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chihuahua/cities/Ciudad+Juárez> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chihuahua_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chihuahua_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chihuahua_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chihuahua_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chihuahua_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chihuahua_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chihuahua_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Chihuahua_obpophistcoll> .
 

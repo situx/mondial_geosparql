@@ -18,6 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SYR/provinces/As+Suwayda/cities/As+Suwayda> ;
     skos:prefLabel "السويداء" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SYR/provinces/As+Suwayda_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/As+Suwayda_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/As+Suwayda_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/As+Suwayda_obpophistcoll> .
 

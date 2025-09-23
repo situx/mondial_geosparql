@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/ANG/provinces/Huambo/cities/Huambo> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/ANG/provinces/Huambo/cities/Huambo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Huambo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Huambo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Huambo_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Huambo_obpophistcoll> .
 

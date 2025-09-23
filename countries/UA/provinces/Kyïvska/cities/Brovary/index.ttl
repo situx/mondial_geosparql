@@ -14,9 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Brovary_geom> ;
     skos:prefLabel "Бровари" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Brovary_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Brovary_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Brovary_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Brovary_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Brovary_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Brovary_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïvska/cities/Brovary_obpophistcoll> .
 

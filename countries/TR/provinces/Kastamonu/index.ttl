@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Kastamonu/cities/Kastamonu> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Kastamonu/cities/Kastamonu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Kastamonu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kastamonu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kastamonu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kastamonu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kastamonu_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kastamonu_obpophistcoll> .
 

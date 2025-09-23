@@ -12,10 +12,5 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/EAK/cities/Eldoret_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAK/cities/Eldoret_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAK/cities/Eldoret_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAK/cities/Eldoret_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAK/cities/Eldoret_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAK/cities/Eldoret_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/EAK/cities/Eldoret_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/EAK/cities/Eldoret_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/EAK/cities/Eldoret_obpophistcoll> .
 

@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Volga> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Saratovskaya/cities/Balakovo_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Saratovskaya/cities/Balakovo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Saratovskaya/cities/Balakovo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Saratovskaya/cities/Balakovo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Saratovskaya/cities/Balakovo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Saratovskaya/cities/Balakovo_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Saratovskaya/cities/Balakovo_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Saratovskaya/cities/Balakovo_obpophistcoll> .
 

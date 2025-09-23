@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CGO/provinces/Lualaba/cities/Kolwezi> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CGO/provinces/Lualaba/cities/Kolwezi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Lualaba_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Lualaba_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Lualaba_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Lualaba_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Lualaba_obpophistcoll> .
 

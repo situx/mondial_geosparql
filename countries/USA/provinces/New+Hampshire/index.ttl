@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire/cities/Concord>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire/cities/Manchester> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/New+Hampshire_obpophistcoll> .
 

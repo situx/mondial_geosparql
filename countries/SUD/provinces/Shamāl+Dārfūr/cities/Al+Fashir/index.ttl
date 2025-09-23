@@ -14,8 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Dārfūr/cities/Al+Fashir_geom> ;
     skos:prefLabel "الفاشر" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Dārfūr/cities/Al+Fashir_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Dārfūr/cities/Al+Fashir_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Dārfūr/cities/Al+Fashir_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Dārfūr/cities/Al+Fashir_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Dārfūr/cities/Al+Fashir_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Shamāl+Dārfūr/cities/Al+Fashir_obpophistcoll> .
 

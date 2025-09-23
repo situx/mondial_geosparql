@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Fuenlabrada_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Fuenlabrada_obele>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Fuenlabrada_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Fuenlabrada_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Fuenlabrada_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Fuenlabrada_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Fuenlabrada_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Fuenlabrada_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Fuenlabrada_obpophistcoll> .
 

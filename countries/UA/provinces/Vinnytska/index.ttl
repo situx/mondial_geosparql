@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/UA/provinces/Vinnytska/cities/Vinnytsia> ;
     skos:prefLabel "Вінницька" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Vinnytska_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Vinnytska_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Vinnytska_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Vinnytska_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Vinnytska_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Vinnytska_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Vinnytska_obpophistcoll> .
 

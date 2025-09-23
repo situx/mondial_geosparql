@@ -20,8 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Valle+de+Cauca/cities/Palmira>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Valle+de+Cauca/cities/Tuluá> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Valle+de+Cauca_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Valle+de+Cauca_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Valle+de+Cauca_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Valle+de+Cauca_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Valle+de+Cauca_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Valle+de+Cauca_obpophistcoll> .
 

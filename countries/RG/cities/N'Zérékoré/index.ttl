@@ -14,5 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/RG/cities/N'Zérékoré_geom> ;
     skos:altLabel "Nzérékoré" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RG/cities/N'Zérékoré_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RG/cities/N'Zérékoré_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/RG/cities/N'Zérékoré_obpophistcoll> .
 

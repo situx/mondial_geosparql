@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie/cities/Gdańsk>,
         <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie/cities/Gdynia> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Pomorskie_obpophistcoll> .
 

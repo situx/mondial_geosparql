@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Kirovskaya/cities/Kirov> ;
     skos:prefLabel "Кировская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Kirovskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kirovskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kirovskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kirovskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kirovskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kirovskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Kirovskaya_obpophistcoll> .
 

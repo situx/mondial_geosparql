@@ -19,9 +19,5 @@
     skos:prefLabel "Київ" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïv/cities/Kyïv_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïv/cities/Kyïv_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïv/cities/Kyïv_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïv/cities/Kyïv_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïv/cities/Kyïv_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïv/cities/Kyïv_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïv/cities/Kyïv_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Kyïv/cities/Kyïv_obpophistcoll> .
 

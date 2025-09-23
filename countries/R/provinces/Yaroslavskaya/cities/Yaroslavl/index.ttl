@@ -18,9 +18,5 @@
     skos:prefLabel "Ярославль" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Yaroslavskaya/cities/Yaroslavl_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Yaroslavskaya/cities/Yaroslavl_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Yaroslavskaya/cities/Yaroslavl_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Yaroslavskaya/cities/Yaroslavl_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Yaroslavskaya/cities/Yaroslavl_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Yaroslavskaya/cities/Yaroslavl_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Yaroslavskaya/cities/Yaroslavl_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Yaroslavskaya/cities/Yaroslavl_obpophistcoll> .
 

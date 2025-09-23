@@ -15,7 +15,5 @@
     skos:altLabel "Benin City" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Edo/cities/Benin_obele>,
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Edo/cities/Benin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Edo/cities/Benin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Edo/cities/Benin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Edo/cities/Benin_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Edo/cities/Benin_obpophistcoll> .
 

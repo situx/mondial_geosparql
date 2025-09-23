@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MOC/provinces/Manica/cities/Chimoio_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MOC/provinces/Manica/cities/Chimoio_obele>,
         <http://www.semwebtech.org/mondial/countries/MOC/provinces/Manica/cities/Chimoio_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Manica/cities/Chimoio_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Manica/cities/Chimoio_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Manica/cities/Chimoio_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Manica/cities/Chimoio_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Manica/cities/Chimoio_obpophistcoll> .
 

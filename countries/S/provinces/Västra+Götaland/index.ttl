@@ -19,8 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Mariestad>,
         <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Vänersborg> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland_obpophistcoll> .
 

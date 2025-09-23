@@ -15,7 +15,5 @@
     skos:prefLabel "Mary" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TM/provinces/Mary/cities/Mary_obele>,
         <http://www.semwebtech.org/mondial/countries/TM/provinces/Mary/cities/Mary_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TM/provinces/Mary/cities/Mary_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TM/provinces/Mary/cities/Mary_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TM/provinces/Mary/cities/Mary_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/TM/provinces/Mary/cities/Mary_obpophistcoll> .
 

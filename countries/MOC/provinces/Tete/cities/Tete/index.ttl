@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Zambezi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MOC/provinces/Tete/cities/Tete_obele>,
         <http://www.semwebtech.org/mondial/countries/MOC/provinces/Tete/cities/Tete_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Tete/cities/Tete_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Tete/cities/Tete_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Tete/cities/Tete_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Tete/cities/Tete_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MOC/provinces/Tete/cities/Tete_obpophistcoll> .
 

@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Jixi_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Jixi_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Jixi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Jixi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Jixi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Jixi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Jixi_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Heilongjiang/cities/Jixi_obpophistcoll> .
 

@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/UA/provinces/Sumska/cities/Sumy> ;
     skos:prefLabel "Сумська" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Sumska_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Sumska_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Sumska_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Sumska_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Sumska_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Sumska_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Sumska_obpophistcoll> .
 

@@ -15,5 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Skagerrak> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Aust-Agder/cities/Arendal_obele>,
         <http://www.semwebtech.org/mondial/countries/N/provinces/Aust-Agder/cities/Arendal_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Aust-Agder/cities/Arendal_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Aust-Agder/cities/Arendal_obpophistcoll> .
 

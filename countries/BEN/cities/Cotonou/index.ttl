@@ -16,8 +16,5 @@
         <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BEN/cities/Cotonou_obele>,
         <http://www.semwebtech.org/mondial/countries/BEN/cities/Cotonou_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BEN/cities/Cotonou_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BEN/cities/Cotonou_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BEN/cities/Cotonou_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BEN/cities/Cotonou_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BEN/cities/Cotonou_obpophistcoll> .
 

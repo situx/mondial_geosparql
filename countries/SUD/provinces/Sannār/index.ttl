@@ -19,7 +19,5 @@
     skos:altLabel "Sennar" ;
     skos:prefLabel "سنار" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/Sannār_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Sannār_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Sannār_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Sannār_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Sannār_obpophistcoll> .
 

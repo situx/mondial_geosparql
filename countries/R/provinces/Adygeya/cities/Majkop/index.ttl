@@ -15,9 +15,5 @@
     skos:altLabel "Maykop" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Adygeya/cities/Majkop_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Adygeya/cities/Majkop_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Adygeya/cities/Majkop_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Adygeya/cities/Majkop_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Adygeya/cities/Majkop_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Adygeya/cities/Majkop_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Adygeya/cities/Majkop_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Adygeya/cities/Majkop_obpophistcoll> .
 

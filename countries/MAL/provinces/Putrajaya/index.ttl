@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/MAL/provinces/Putrajaya/cities/Putrajaya> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MAL/provinces/Putrajaya/cities/Putrajaya> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAL/provinces/Putrajaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Putrajaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Putrajaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Putrajaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Putrajaya_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Putrajaya_obpophistcoll> .
 

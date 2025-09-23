@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Anápolis_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Anápolis_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Anápolis_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Anápolis_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Anápolis_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Anápolis_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Anápolis_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Goiás/cities/Anápolis_obpophistcoll> .
 

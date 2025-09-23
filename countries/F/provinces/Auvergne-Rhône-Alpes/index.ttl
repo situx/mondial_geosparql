@@ -20,10 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Saint-Étienne>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes/cities/Villeurbanne> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Auvergne-Rhône-Alpes_obpophistcoll> .
 

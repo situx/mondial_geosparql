@@ -32,9 +32,5 @@
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Henan/cities/Zhumadian> ;
     skos:prefLabel "河南" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Henan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Henan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Henan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Henan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Henan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Henan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Henan_obpophistcoll> .
 

@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/ANG/provinces/Moxico/cities/Luena> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/ANG/provinces/Moxico/cities/Luena> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Moxico_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Moxico_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Moxico_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Moxico_obpophistcoll> .
 

@@ -15,8 +15,5 @@
     skos:prefLabel "تطوان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Tanger+Tetouan/cities/Tétouan_obele>,
         <http://www.semwebtech.org/mondial/countries/MA/provinces/Tanger+Tetouan/cities/Tétouan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Tanger+Tetouan/cities/Tétouan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Tanger+Tetouan/cities/Tétouan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Tanger+Tetouan/cities/Tétouan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Tanger+Tetouan/cities/Tétouan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Tanger+Tetouan/cities/Tétouan_obpophistcoll> .
 

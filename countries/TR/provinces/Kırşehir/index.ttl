@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Kırşehir/cities/Kirsehir> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Kırşehir/cities/Kirsehir> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Kırşehir_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kırşehir_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kırşehir_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kırşehir_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kırşehir_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kırşehir_obpophistcoll> .
 

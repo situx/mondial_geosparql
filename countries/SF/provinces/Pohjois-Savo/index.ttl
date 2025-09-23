@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Savo/cities/Kuopio> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Savo/cities/Kuopio> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Savo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Savo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Savo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Savo_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SF/provinces/Pohjois-Savo_obpophistcoll> .
 

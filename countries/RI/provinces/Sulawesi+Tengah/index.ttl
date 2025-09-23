@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tengah/cities/Palu> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tengah/cities/Palu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tengah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tengah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tengah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tengah_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tengah_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Tengah_obpophistcoll> .
 

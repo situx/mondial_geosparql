@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Java+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Java> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten/cities/Cilegon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten/cities/Cilegon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten/cities/Cilegon_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Banten/cities/Cilegon_obpophistcoll> .
 

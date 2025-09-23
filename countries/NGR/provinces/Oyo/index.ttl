@@ -19,8 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Oyo/cities/Ogbomosho>,
         <http://www.semwebtech.org/mondial/countries/NGR/provinces/Oyo/cities/Oyo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Oyo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Oyo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Oyo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Oyo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Oyo_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Oyo_obpophistcoll> .
 

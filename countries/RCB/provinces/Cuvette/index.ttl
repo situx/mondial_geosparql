@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RCB/provinces/Cuvette/cities/Owando> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RCB/provinces/Cuvette/cities/Owando> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCB/provinces/Cuvette_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Cuvette_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Cuvette_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Cuvette_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Cuvette_obpophistcoll> .
 

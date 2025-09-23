@@ -16,7 +16,5 @@
     skos:prefLabel "الطائف" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SA/provinces/Makkah+Al-Mokarramah/cities/At+Taif_obele>,
         <http://www.semwebtech.org/mondial/countries/SA/provinces/Makkah+Al-Mokarramah/cities/At+Taif_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Makkah+Al-Mokarramah/cities/At+Taif_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Makkah+Al-Mokarramah/cities/At+Taif_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Makkah+Al-Mokarramah/cities/At+Taif_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SA/provinces/Makkah+Al-Mokarramah/cities/At+Taif_obpophistcoll> .
 

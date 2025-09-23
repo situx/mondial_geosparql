@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RP/provinces/Ilocos/cities/San+Carlos>,
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Ilocos/cities/San+Fernando> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Ilocos_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Ilocos_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Ilocos_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Ilocos_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Ilocos_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Ilocos_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Ilocos_obpophistcoll> .
 

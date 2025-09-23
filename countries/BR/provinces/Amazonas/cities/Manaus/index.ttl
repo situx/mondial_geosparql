@@ -16,8 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Rio+Negro> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Amazonas/cities/Manaus_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Amazonas/cities/Manaus_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Amazonas/cities/Manaus_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Amazonas/cities/Manaus_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Amazonas/cities/Manaus_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Amazonas/cities/Manaus_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Amazonas/cities/Manaus_obpophistcoll> .
 

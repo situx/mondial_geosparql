@@ -15,5 +15,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Java> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Jawa+Barat/cities/Cimahi_obele>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Jawa+Barat/cities/Cimahi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Jawa+Barat/cities/Cimahi_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Jawa+Barat/cities/Cimahi_obpophistcoll> .
 

@@ -15,7 +15,5 @@
     skos:prefLabel "ក្រុងបាត់ដំបង" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/K/cities/Battambang_obele>,
         <http://www.semwebtech.org/mondial/countries/K/cities/Battambang_obpop>,
-        <http://www.semwebtech.org/mondial/countries/K/cities/Battambang_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/K/cities/Battambang_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/K/cities/Battambang_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/K/cities/Battambang_obpophistcoll> .
 

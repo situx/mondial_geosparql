@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Çanakkale/cities/Canakkale> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Çanakkale/cities/Canakkale> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Çanakkale_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çanakkale_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çanakkale_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çanakkale_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çanakkale_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Çanakkale_obpophistcoll> .
 

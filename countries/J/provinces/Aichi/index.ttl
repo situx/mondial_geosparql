@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/J/provinces/Aichi/cities/Toyota> ;
     skos:prefLabel "愛知県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Aichi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Aichi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Aichi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Aichi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Aichi_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Aichi_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Aichi_obpophistcoll> .
 

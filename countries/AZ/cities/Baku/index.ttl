@@ -17,8 +17,5 @@
     skos:prefLabel "Bakı" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AZ/cities/Baku_obele>,
         <http://www.semwebtech.org/mondial/countries/AZ/cities/Baku_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AZ/cities/Baku_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AZ/cities/Baku_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AZ/cities/Baku_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/AZ/cities/Baku_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/AZ/cities/Baku_obpophistcoll> .
 

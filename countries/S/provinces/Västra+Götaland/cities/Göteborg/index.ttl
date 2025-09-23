@@ -19,9 +19,5 @@
         "Göteborg" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Göteborg_obele>,
         <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Göteborg_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Göteborg_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Göteborg_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Göteborg_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Göteborg_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Göteborg_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västra+Götaland/cities/Göteborg_obpophistcoll> .
 

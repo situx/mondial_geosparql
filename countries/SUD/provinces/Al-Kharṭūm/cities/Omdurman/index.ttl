@@ -20,8 +20,5 @@
     skos:prefLabel "أمدرمان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Kharṭūm/cities/Omdurman_obele>,
         <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Kharṭūm/cities/Omdurman_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Kharṭūm/cities/Omdurman_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Kharṭūm/cities/Omdurman_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Kharṭūm/cities/Omdurman_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Kharṭūm/cities/Omdurman_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/SUD/provinces/Al-Kharṭūm/cities/Omdurman_obpophistcoll> .
 

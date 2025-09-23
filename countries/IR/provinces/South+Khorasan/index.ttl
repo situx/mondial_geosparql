@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IR/provinces/South+Khorasan/cities/Birjand> ;
     skos:prefLabel "خراسان جنوبي" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/South+Khorasan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/South+Khorasan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/South+Khorasan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/South+Khorasan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/South+Khorasan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/South+Khorasan_obpophistcoll> .
 

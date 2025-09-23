@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RCB/provinces/Niari/cities/Dolisie> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RCB/provinces/Niari/cities/Dolisie> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCB/provinces/Niari_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Niari_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Niari_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Niari_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Niari_obpophistcoll> .
 

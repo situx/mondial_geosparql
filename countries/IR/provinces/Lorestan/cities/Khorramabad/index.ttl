@@ -16,9 +16,5 @@
     skos:prefLabel "خرم آباد" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Lorestan/cities/Khorramabad_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/Lorestan/cities/Khorramabad_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Lorestan/cities/Khorramabad_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Lorestan/cities/Khorramabad_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Lorestan/cities/Khorramabad_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Lorestan/cities/Khorramabad_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Lorestan/cities/Khorramabad_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Lorestan/cities/Khorramabad_obpophistcoll> .
 

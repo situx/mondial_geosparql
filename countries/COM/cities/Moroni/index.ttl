@@ -16,8 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Grand+Comoro> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/COM/cities/Moroni_obele>,
         <http://www.semwebtech.org/mondial/countries/COM/cities/Moroni_obpop>,
-        <http://www.semwebtech.org/mondial/countries/COM/cities/Moroni_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/COM/cities/Moroni_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/COM/cities/Moroni_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/COM/cities/Moroni_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/COM/cities/Moroni_obpophistcoll> .
 

@@ -15,8 +15,5 @@
     skos:prefLabel "天津巿" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Tianjin/cities/Tianjin_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Tianjin/cities/Tianjin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Tianjin/cities/Tianjin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Tianjin/cities/Tianjin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Tianjin/cities/Tianjin_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Tianjin/cities/Tianjin_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Tianjin/cities/Tianjin_obpophistcoll> .
 

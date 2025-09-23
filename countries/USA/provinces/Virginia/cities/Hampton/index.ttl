@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Hampton_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Hampton_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Hampton_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Hampton_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Hampton_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Hampton_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Hampton_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Hampton_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Virginia/cities/Hampton_obpophistcoll> .
 

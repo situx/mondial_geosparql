@@ -20,9 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/J/provinces/Tokyo/cities/Tokyo> ;
     skos:prefLabel "東京都" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Tokyo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokyo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokyo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokyo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokyo_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokyo_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Tokyo_obpophistcoll> .
 

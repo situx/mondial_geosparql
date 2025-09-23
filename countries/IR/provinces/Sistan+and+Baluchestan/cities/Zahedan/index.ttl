@@ -15,9 +15,5 @@
     skos:prefLabel "زاهدان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Sistan+and+Baluchestan/cities/Zahedan_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/Sistan+and+Baluchestan/cities/Zahedan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Sistan+and+Baluchestan/cities/Zahedan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Sistan+and+Baluchestan/cities/Zahedan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Sistan+and+Baluchestan/cities/Zahedan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Sistan+and+Baluchestan/cities/Zahedan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Sistan+and+Baluchestan/cities/Zahedan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Sistan+and+Baluchestan/cities/Zahedan_obpophistcoll> .
 

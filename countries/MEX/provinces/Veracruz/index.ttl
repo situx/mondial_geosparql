@@ -23,10 +23,5 @@
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Veracruz/cities/Veracruz>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Veracruz/cities/Xalapa-Enríquez> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Veracruz_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Veracruz_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Veracruz_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Veracruz_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Veracruz_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Veracruz_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Veracruz_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Veracruz_obpophistcoll> .
 

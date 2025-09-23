@@ -18,8 +18,5 @@
     skos:prefLabel "Гродно" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BY/provinces/Grodno/cities/Grodno_obele>,
         <http://www.semwebtech.org/mondial/countries/BY/provinces/Grodno/cities/Grodno_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Grodno/cities/Grodno_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Grodno/cities/Grodno_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Grodno/cities/Grodno_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Grodno/cities/Grodno_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BY/provinces/Grodno/cities/Grodno_obpophistcoll> .
 

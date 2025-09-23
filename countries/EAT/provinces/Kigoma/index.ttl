@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kigoma/cities/Kigoma-Ujiji> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kigoma/cities/Kigoma-Ujiji> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kigoma_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kigoma_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kigoma_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kigoma_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kigoma_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kigoma_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Kigoma_obpophistcoll> .
 

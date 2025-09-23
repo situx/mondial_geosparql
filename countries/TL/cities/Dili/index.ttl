@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Banda+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Timor> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TL/cities/Dili_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TL/cities/Dili_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TL/cities/Dili_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TL/cities/Dili_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/TL/cities/Dili_obpophistcoll> .
 

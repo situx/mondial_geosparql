@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Indus> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Sukkur_obele>,
         <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Sukkur_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Sukkur_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Sukkur_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Sukkur_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Sukkur_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Sukkur_obpophistcoll> .
 

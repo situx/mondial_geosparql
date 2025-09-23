@@ -16,11 +16,5 @@
         <http://www.semwebtech.org/mondial/seas/South+China+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Ujong> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SGP/cities/Singapore_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SGP/cities/Singapore_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SGP/cities/Singapore_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SGP/cities/Singapore_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SGP/cities/Singapore_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/SGP/cities/Singapore_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/SGP/cities/Singapore_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/SGP/cities/Singapore_obpophist6> .
+        <http://www.semwebtech.org/mondial/countries/SGP/cities/Singapore_obpophistcoll> .
 

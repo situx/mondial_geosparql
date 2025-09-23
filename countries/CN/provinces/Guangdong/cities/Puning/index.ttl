@@ -15,8 +15,5 @@
     skos:prefLabel "普宁市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Puning_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Puning_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Puning_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Puning_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Puning_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Puning_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Guangdong/cities/Puning_obpophistcoll> .
 

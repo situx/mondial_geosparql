@@ -15,7 +15,5 @@
     skos:prefLabel "Buôn Ma Thuột" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/VN/provinces/Central+Highlands/cities/Buon+Ma+Thuot_obele>,
         <http://www.semwebtech.org/mondial/countries/VN/provinces/Central+Highlands/cities/Buon+Ma+Thuot_obpop>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Central+Highlands/cities/Buon+Ma+Thuot_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Central+Highlands/cities/Buon+Ma+Thuot_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/Central+Highlands/cities/Buon+Ma+Thuot_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/Central+Highlands/cities/Buon+Ma+Thuot_obpophistcoll> .
 

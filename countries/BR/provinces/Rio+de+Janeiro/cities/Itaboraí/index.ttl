@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Itaboraí_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Itaboraí_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Itaboraí_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Itaboraí_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Itaboraí_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Itaboraí_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Itaboraí_obpophistcoll> .
 

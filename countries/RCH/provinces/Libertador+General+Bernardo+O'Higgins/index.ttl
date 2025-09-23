@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RCH/provinces/Libertador+General+Bernardo+O'Higgins/cities/Rancagua> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RCH/provinces/Libertador+General+Bernardo+O'Higgins/cities/Rancagua> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCH/provinces/Libertador+General+Bernardo+O'Higgins_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Libertador+General+Bernardo+O'Higgins_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Libertador+General+Bernardo+O'Higgins_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Libertador+General+Bernardo+O'Higgins_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Libertador+General+Bernardo+O'Higgins_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Libertador+General+Bernardo+O'Higgins_obpophistcoll> .
 

@@ -18,7 +18,5 @@
     skos:prefLabel "ភ្នំពេញ" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/K/cities/Phnom+Penh_obele>,
         <http://www.semwebtech.org/mondial/countries/K/cities/Phnom+Penh_obpop>,
-        <http://www.semwebtech.org/mondial/countries/K/cities/Phnom+Penh_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/K/cities/Phnom+Penh_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/K/cities/Phnom+Penh_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/K/cities/Phnom+Penh_obpophistcoll> .
 

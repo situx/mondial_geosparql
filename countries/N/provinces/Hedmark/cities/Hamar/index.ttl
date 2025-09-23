@@ -15,5 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Mjoesa-See> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Hedmark/cities/Hamar_obele>,
         <http://www.semwebtech.org/mondial/countries/N/provinces/Hedmark/cities/Hamar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Hedmark/cities/Hamar_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Hedmark/cities/Hamar_obpophistcoll> .
 

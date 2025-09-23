@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/TR/provinces/Tokat/cities/Tokat_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Tokat/cities/Tokat_obele>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Tokat/cities/Tokat_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tokat/cities/Tokat_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tokat/cities/Tokat_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tokat/cities/Tokat_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tokat/cities/Tokat_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Tokat/cities/Tokat_obpophistcoll> .
 

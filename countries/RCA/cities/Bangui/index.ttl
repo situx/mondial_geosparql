@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Ubangi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCA/cities/Bangui_obele>,
         <http://www.semwebtech.org/mondial/countries/RCA/cities/Bangui_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCA/cities/Bangui_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCA/cities/Bangui_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCA/cities/Bangui_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RCA/cities/Bangui_obpophistcoll> .
 

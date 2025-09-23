@@ -16,7 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Borneo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur/cities/Balikpapan_obele>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur/cities/Balikpapan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur/cities/Balikpapan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur/cities/Balikpapan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur/cities/Balikpapan_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur/cities/Balikpapan_obpophistcoll> .
 

@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RA/provinces/Mendoza/cities/Mendoza> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RA/provinces/Mendoza/cities/Mendoza> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Mendoza_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Mendoza_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Mendoza_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Mendoza_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Mendoza_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Mendoza_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Mendoza_obpophistcoll> .
 

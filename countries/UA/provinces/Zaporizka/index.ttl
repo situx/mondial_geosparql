@@ -20,9 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka/cities/Zaporizhzhia> ;
     skos:prefLabel "Запорізька" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Zaporizka_obpophistcoll> .
 

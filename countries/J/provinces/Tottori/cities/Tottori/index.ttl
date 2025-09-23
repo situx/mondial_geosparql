@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Sea+of+Japan> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Honshu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Tottori/cities/Tottori_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tottori/cities/Tottori_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tottori/cities/Tottori_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tottori/cities/Tottori_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tottori/cities/Tottori_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Tottori/cities/Tottori_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Tottori/cities/Tottori_obpophistcoll> .
 

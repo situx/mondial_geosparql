@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RCB/provinces/Sangha/cities/Ouesso> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RCB/provinces/Sangha/cities/Ouesso> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCB/provinces/Sangha_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Sangha_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Sangha_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Sangha_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RCB/provinces/Sangha_obpophistcoll> .
 

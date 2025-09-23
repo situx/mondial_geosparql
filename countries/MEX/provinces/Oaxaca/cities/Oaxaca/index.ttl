@@ -13,10 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MEX/provinces/Oaxaca/cities/Oaxaca_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Oaxaca/cities/Oaxaca_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Oaxaca/cities/Oaxaca_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Oaxaca/cities/Oaxaca_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Oaxaca/cities/Oaxaca_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Oaxaca/cities/Oaxaca_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Oaxaca/cities/Oaxaca_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Oaxaca/cities/Oaxaca_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Oaxaca/cities/Oaxaca_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Oaxaca/cities/Oaxaca_obpophistcoll> .
 

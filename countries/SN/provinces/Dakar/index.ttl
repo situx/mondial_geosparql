@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SN/provinces/Dakar/cities/Dakar>,
         <http://www.semwebtech.org/mondial/countries/SN/provinces/Dakar/cities/Rufisque> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SN/provinces/Dakar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Dakar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Dakar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Dakar_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Dakar_obpophistcoll> .
 

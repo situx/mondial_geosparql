@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PE/provinces/Huancavelica/cities/Huancavelica> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PE/provinces/Huancavelica/cities/Huancavelica> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PE/provinces/Huancavelica_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Huancavelica_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Huancavelica_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PE/provinces/Huancavelica_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PE/provinces/Huancavelica_obpophistcoll> .
 

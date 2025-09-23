@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Chechenskaya/cities/Grozny> ;
     skos:prefLabel "Чеченская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Chechenskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chechenskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chechenskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chechenskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chechenskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Chechenskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Chechenskaya_obpophistcoll> .
 

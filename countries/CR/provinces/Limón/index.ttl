@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CR/provinces/Limón/cities/Limón> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CR/provinces/Limón/cities/Limón> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CR/provinces/Limón_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CR/provinces/Limón_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CR/provinces/Limón_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CR/provinces/Limón_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CR/provinces/Limón_obpophistcoll> .
 

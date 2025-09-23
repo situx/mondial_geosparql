@@ -16,7 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Hispaniola> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RH/cities/Carrefour_obele>,
         <http://www.semwebtech.org/mondial/countries/RH/cities/Carrefour_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RH/cities/Carrefour_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RH/cities/Carrefour_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RH/cities/Carrefour_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RH/cities/Carrefour_obpophistcoll> .
 

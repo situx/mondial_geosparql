@@ -17,6 +17,5 @@
     skos:prefLabel "عدن" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YE/cities/Aden_obele>,
         <http://www.semwebtech.org/mondial/countries/YE/cities/Aden_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YE/cities/Aden_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YE/cities/Aden_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/YE/cities/Aden_obpophistcoll> .
 

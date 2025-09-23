@@ -17,8 +17,5 @@
     skos:altLabel "Hyderābād" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Hyderabad_obele>,
         <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Hyderabad_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Hyderabad_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Hyderabad_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Hyderabad_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Hyderabad_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Sindh/cities/Hyderabad_obpophistcoll> .
 

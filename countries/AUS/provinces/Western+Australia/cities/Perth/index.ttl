@@ -15,11 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Indian+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia/cities/Perth_obele>,
         <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia/cities/Perth_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia/cities/Perth_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia/cities/Perth_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia/cities/Perth_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia/cities/Perth_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia/cities/Perth_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia/cities/Perth_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia/cities/Perth_obpophist6> .
+        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Western+Australia/cities/Perth_obpophistcoll> .
 

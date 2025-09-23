@@ -15,8 +15,5 @@
     skos:altLabel "Urgench" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UZ/provinces/Xorazm/cities/Urganch_obele>,
         <http://www.semwebtech.org/mondial/countries/UZ/provinces/Xorazm/cities/Urganch_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Xorazm/cities/Urganch_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Xorazm/cities/Urganch_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Xorazm/cities/Urganch_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Xorazm/cities/Urganch_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Xorazm/cities/Urganch_obpophistcoll> .
 

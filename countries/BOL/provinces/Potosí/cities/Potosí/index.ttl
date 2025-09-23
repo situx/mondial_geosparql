@@ -13,6 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BOL/provinces/Potosí/cities/Potosí_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BOL/provinces/Potosí/cities/Potosí_obele>,
         <http://www.semwebtech.org/mondial/countries/BOL/provinces/Potosí/cities/Potosí_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Potosí/cities/Potosí_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Potosí/cities/Potosí_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Potosí/cities/Potosí_obpophistcoll> .
 

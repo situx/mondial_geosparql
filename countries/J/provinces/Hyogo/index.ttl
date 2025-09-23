@@ -21,9 +21,5 @@
         <http://www.semwebtech.org/mondial/countries/J/provinces/Hyogo/cities/Nishinomiya> ;
     skos:prefLabel "兵庫県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Hyogo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hyogo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hyogo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hyogo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hyogo_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Hyogo_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Hyogo_obpophistcoll> .
 

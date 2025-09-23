@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RSA/provinces/Western+Cape/cities/Cape+Town> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RSA/provinces/Western+Cape/cities/Cape+Town> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RSA/provinces/Western+Cape_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Western+Cape_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Western+Cape_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Western+Cape_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/Western+Cape_obpophistcoll> .
 

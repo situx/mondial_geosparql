@@ -15,5 +15,5 @@
     skos:altLabel "Hubballi" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Karnataka/cities/Hubli_obele>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Karnataka/cities/Hubli_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Karnataka/cities/Hubli_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Karnataka/cities/Hubli_obpophistcoll> .
 

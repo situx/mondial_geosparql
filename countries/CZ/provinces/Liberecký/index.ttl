@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CZ/provinces/Liberecký/cities/Liberec> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CZ/provinces/Liberecký/cities/Liberec> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CZ/provinces/Liberecký_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Liberecký_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Liberecký_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Liberecký_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Liberecký_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Liberecký_obpophistcoll> .
 

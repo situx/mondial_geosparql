@@ -18,7 +18,5 @@
         "Bucharest" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Bucureşti/cities/Bucureşti_obele>,
         <http://www.semwebtech.org/mondial/countries/RO/provinces/Bucureşti/cities/Bucureşti_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Bucureşti/cities/Bucureşti_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Bucureşti/cities/Bucureşti_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Bucureşti/cities/Bucureşti_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Bucureşti/cities/Bucureşti_obpophistcoll> .
 

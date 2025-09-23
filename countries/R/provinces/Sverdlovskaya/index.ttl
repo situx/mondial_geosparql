@@ -21,9 +21,5 @@
         <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya/cities/Yekaterinburg> ;
     skos:prefLabel "Свердловская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Sverdlovskaya_obpophistcoll> .
 

@@ -17,9 +17,5 @@
     skos:altLabel "Kamyshin" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Kamyšin_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Kamyšin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Kamyšin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Kamyšin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Kamyšin_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Kamyšin_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Kamyšin_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Volgogradskaya/cities/Kamyšin_obpophistcoll> .
 

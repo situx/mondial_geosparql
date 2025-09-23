@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California/cities/Ensenada_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California/cities/Ensenada_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California/cities/Ensenada_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California/cities/Ensenada_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California/cities/Ensenada_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California/cities/Ensenada_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California/cities/Ensenada_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California/cities/Ensenada_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California/cities/Ensenada_obpophistcoll> .
 

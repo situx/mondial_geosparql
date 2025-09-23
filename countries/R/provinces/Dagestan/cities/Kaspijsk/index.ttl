@@ -17,9 +17,5 @@
     skos:altLabel "Kaspiysk" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Dagestan/cities/Kaspijsk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Dagestan/cities/Kaspijsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Dagestan/cities/Kaspijsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Dagestan/cities/Kaspijsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Dagestan/cities/Kaspijsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Dagestan/cities/Kaspijsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Dagestan/cities/Kaspijsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Dagestan/cities/Kaspijsk_obpophistcoll> .
 

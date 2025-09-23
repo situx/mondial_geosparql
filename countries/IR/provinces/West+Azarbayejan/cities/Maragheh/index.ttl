@@ -15,10 +15,5 @@
     skos:prefLabel "مراغه" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan/cities/Maragheh_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan/cities/Maragheh_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan/cities/Maragheh_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan/cities/Maragheh_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan/cities/Maragheh_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan/cities/Maragheh_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan/cities/Maragheh_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan/cities/Maragheh_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/West+Azarbayejan/cities/Maragheh_obpophistcoll> .
 

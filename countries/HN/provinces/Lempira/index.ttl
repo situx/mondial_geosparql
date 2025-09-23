@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/HN/provinces/Lempira/cities/Gracias> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/HN/provinces/Lempira/cities/Gracias> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/HN/provinces/Lempira_obpop>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Lempira_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Lempira_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Lempira_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Lempira_obpophistcoll> .
 

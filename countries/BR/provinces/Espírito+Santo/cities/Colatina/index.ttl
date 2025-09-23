@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Colatina_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Colatina_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Colatina_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Colatina_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Colatina_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Colatina_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Espírito+Santo/cities/Colatina_obpophistcoll> .
 

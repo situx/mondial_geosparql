@@ -17,10 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Besançon>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté/cities/Dijon> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Bourgogne-Franche-Comté_obpophistcoll> .
 

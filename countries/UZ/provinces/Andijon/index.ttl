@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/UZ/provinces/Andijon/cities/Andijon> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/UZ/provinces/Andijon/cities/Andijon> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UZ/provinces/Andijon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Andijon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Andijon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Andijon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Andijon_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Andijon_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UZ/provinces/Andijon_obpophistcoll> .
 

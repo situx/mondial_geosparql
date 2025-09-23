@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Buryatiya/cities/Ulan-Ude> ;
     skos:prefLabel "Бурятия" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Buryatiya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Buryatiya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Buryatiya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Buryatiya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Buryatiya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Buryatiya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Buryatiya_obpophistcoll> .
 

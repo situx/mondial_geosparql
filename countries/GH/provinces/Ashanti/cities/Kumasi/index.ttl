@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/GH/provinces/Ashanti/cities/Kumasi_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GH/provinces/Ashanti/cities/Kumasi_obele>,
         <http://www.semwebtech.org/mondial/countries/GH/provinces/Ashanti/cities/Kumasi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Ashanti/cities/Kumasi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Ashanti/cities/Kumasi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Ashanti/cities/Kumasi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Ashanti/cities/Kumasi_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Ashanti/cities/Kumasi_obpophistcoll> .
 

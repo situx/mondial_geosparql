@@ -22,9 +22,5 @@
         <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan/cities/Ufa> ;
     skos:prefLabel "Башкортостан" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Bashkortostan_obpophistcoll> .
 

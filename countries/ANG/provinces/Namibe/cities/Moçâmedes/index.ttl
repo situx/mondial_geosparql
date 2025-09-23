@@ -17,6 +17,5 @@
     skos:altLabel "Namibe" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Namibe/cities/Moçâmedes_obele>,
         <http://www.semwebtech.org/mondial/countries/ANG/provinces/Namibe/cities/Moçâmedes_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Namibe/cities/Moçâmedes_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Namibe/cities/Moçâmedes_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Namibe/cities/Moçâmedes_obpophistcoll> .
 

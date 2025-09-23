@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/SN/provinces/Diourbel/cities/Diourbel_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SN/provinces/Diourbel/cities/Diourbel_obele>,
         <http://www.semwebtech.org/mondial/countries/SN/provinces/Diourbel/cities/Diourbel_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Diourbel/cities/Diourbel_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Diourbel/cities/Diourbel_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Diourbel/cities/Diourbel_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Diourbel/cities/Diourbel_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Diourbel/cities/Diourbel_obpophistcoll> .
 

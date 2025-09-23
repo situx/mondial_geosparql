@@ -17,7 +17,5 @@
     skos:prefLabel "جلالآباد" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AFG/cities/Jalālābād_obele>,
         <http://www.semwebtech.org/mondial/countries/AFG/cities/Jalālābād_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AFG/cities/Jalālābād_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AFG/cities/Jalālābād_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AFG/cities/Jalālābād_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/AFG/cities/Jalālābād_obpophistcoll> .
 

@@ -15,9 +15,5 @@
     skos:altLabel "Shakhty" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Šachty_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Šachty_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Šachty_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Šachty_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Šachty_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Šachty_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Šachty_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Rostovskaya/cities/Šachty_obpophistcoll> .
 

@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Gorj/cities/Tirgu+Jiu> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Gorj/cities/Tirgu+Jiu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Gorj_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Gorj_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Gorj_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Gorj_obpophistcoll> .
 

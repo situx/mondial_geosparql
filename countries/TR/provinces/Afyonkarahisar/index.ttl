@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Afyonkarahisar/cities/Afyonkarahisar> ;
     skos:altLabel "Afyon" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Afyonkarahisar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Afyonkarahisar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Afyonkarahisar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Afyonkarahisar_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Afyonkarahisar_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Afyonkarahisar_obpophistcoll> .
 

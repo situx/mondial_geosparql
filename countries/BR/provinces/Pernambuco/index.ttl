@@ -25,10 +25,5 @@
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Recife>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco/cities/Vitória+de+Santo+Antão> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Pernambuco_obpophistcoll> .
 

@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/R/provinces/Tulskaya/cities/Tula> ;
     skos:prefLabel "Тульская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Tulskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tulskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tulskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tulskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tulskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tulskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Tulskaya_obpophistcoll> .
 

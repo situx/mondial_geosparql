@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Indian+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAK/cities/Mombasa_obele>,
         <http://www.semwebtech.org/mondial/countries/EAK/cities/Mombasa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAK/cities/Mombasa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAK/cities/Mombasa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAK/cities/Mombasa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAK/cities/Mombasa_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/EAK/cities/Mombasa_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/EAK/cities/Mombasa_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/EAK/cities/Mombasa_obpophistcoll> .
 

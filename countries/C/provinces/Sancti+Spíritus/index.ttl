@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/C/provinces/Sancti+Spíritus/cities/Sancti+Spíritus> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/C/provinces/Sancti+Spíritus/cities/Sancti+Spíritus> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/C/provinces/Sancti+Spíritus_obpop>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Sancti+Spíritus_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Sancti+Spíritus_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Sancti+Spíritus_obpophistcoll> .
 

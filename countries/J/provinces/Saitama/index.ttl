@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama/cities/Saitama> ;
     skos:prefLabel "埼玉県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Saitama_obpophistcoll> .
 

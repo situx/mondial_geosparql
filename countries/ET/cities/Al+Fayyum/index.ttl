@@ -16,8 +16,5 @@
     skos:prefLabel "الفيوم" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Fayyum_obele>,
         <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Fayyum_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Fayyum_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Fayyum_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Fayyum_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Fayyum_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Fayyum_obpophistcoll> .
 

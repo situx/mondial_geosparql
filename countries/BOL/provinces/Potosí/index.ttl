@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/BOL/provinces/Potosí/cities/Potosí> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/BOL/provinces/Potosí/cities/Potosí> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BOL/provinces/Potosí_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Potosí_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Potosí_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/BOL/provinces/Potosí_obpophistcoll> .
 

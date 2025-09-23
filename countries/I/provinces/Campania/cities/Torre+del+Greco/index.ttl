@@ -14,7 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/I/provinces/Campania/cities/Torre+del+Greco_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Mediterranean+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Campania/cities/Torre+del+Greco_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Campania/cities/Torre+del+Greco_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Campania/cities/Torre+del+Greco_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Campania/cities/Torre+del+Greco_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Campania/cities/Torre+del+Greco_obpophistcoll> .
 

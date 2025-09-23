@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Parana> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Entre+Ríos/cities/Paraná_obele>,
         <http://www.semwebtech.org/mondial/countries/RA/provinces/Entre+Ríos/cities/Paraná_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Entre+Ríos/cities/Paraná_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Entre+Ríos/cities/Paraná_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Entre+Ríos/cities/Paraná_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Entre+Ríos/cities/Paraná_obpophistcoll> .
 

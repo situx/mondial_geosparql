@@ -17,10 +17,5 @@
     skos:altLabel "Taegu" ;
     skos:prefLabel "대구광역시" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ROK/cities/Daegu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Daegu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Daegu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Daegu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Daegu_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Daegu_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Daegu_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Daegu_obpophistcoll> .
 

@@ -36,7 +36,5 @@
         <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Sialkot>,
         <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab/cities/Wah+Cantonment> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PK/provinces/Punjab_obpophistcoll> .
 

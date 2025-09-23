@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mwanza/cities/Mwanza> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mwanza/cities/Mwanza> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mwanza_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mwanza_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mwanza_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mwanza_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mwanza_obpophistcoll> .
 

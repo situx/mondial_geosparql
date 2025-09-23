@@ -22,13 +22,8 @@
     ns1:infantMortality 56.29 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYT_obeth1>,
         <http://www.semwebtech.org/mondial/countries/MYT_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MYT_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MYT_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MYT_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MYT_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MYT_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MYT_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/MYT_obpophist6>,
+        <http://www.semwebtech.org/mondial/countries/MYT_obpopg>,
+        <http://www.semwebtech.org/mondial/countries/MYT_obpophistcoll>,
         <http://www.semwebtech.org/mondial/countries/MYT_obrel1>,
         <http://www.semwebtech.org/mondial/countries/MYT_obrel2>,
         <http://www.semwebtech.org/mondial/countries/MYT_obrel3> .

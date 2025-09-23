@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla-La+Mancha/cities/Albacete>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla-La+Mancha/cities/Toledo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla-La+Mancha_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla-La+Mancha_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla-La+Mancha_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla-La+Mancha_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla-La+Mancha_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla-La+Mancha_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Castilla-La+Mancha_obpophistcoll> .
 

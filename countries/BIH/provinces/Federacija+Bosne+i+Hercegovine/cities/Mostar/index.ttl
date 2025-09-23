@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Neretva> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BIH/provinces/Federacija+Bosne+i+Hercegovine/cities/Mostar_obele>,
         <http://www.semwebtech.org/mondial/countries/BIH/provinces/Federacija+Bosne+i+Hercegovine/cities/Mostar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BIH/provinces/Federacija+Bosne+i+Hercegovine/cities/Mostar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BIH/provinces/Federacija+Bosne+i+Hercegovine/cities/Mostar_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/BIH/provinces/Federacija+Bosne+i+Hercegovine/cities/Mostar_obpophistcoll> .
 

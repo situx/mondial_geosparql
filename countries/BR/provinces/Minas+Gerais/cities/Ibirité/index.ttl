@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Ibirité_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Ibirité_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Ibirité_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Ibirité_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Ibirité_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Ibirité_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Ibirité_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Ibirité_obpophistcoll> .
 

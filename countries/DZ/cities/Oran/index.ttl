@@ -17,7 +17,5 @@
     skos:prefLabel "وهران" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DZ/cities/Oran_obele>,
         <http://www.semwebtech.org/mondial/countries/DZ/cities/Oran_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Oran_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Oran_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Oran_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/DZ/cities/Oran_obpophistcoll> .
 

@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Caribbean+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Anzoátegui/cities/Barcelona_obele>,
         <http://www.semwebtech.org/mondial/countries/YV/provinces/Anzoátegui/cities/Barcelona_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Anzoátegui/cities/Barcelona_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Anzoátegui/cities/Barcelona_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Anzoátegui/cities/Barcelona_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Anzoátegui/cities/Barcelona_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Anzoátegui/cities/Barcelona_obpophistcoll> .
 

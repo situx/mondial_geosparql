@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/HN/provinces/Olancho/cities/Juticalpa> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/HN/provinces/Olancho/cities/Juticalpa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/HN/provinces/Olancho_obpop>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Olancho_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Olancho_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Olancho_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Olancho_obpophistcoll> .
 

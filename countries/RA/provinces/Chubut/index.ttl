@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut/cities/Comodoro+Rivadavia>,
         <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut/cities/Rawson> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Chubut_obpophistcoll> .
 

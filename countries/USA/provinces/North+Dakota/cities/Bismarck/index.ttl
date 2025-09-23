@@ -16,9 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Missouri> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Dakota/cities/Bismarck_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Dakota/cities/Bismarck_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Dakota/cities/Bismarck_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Dakota/cities/Bismarck_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Dakota/cities/Bismarck_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Dakota/cities/Bismarck_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Dakota/cities/Bismarck_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/North+Dakota/cities/Bismarck_obpophistcoll> .
 

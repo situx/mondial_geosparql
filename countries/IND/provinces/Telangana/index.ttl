@@ -17,7 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IND/provinces/Telangana/cities/Hyderabad>,
         <http://www.semwebtech.org/mondial/countries/IND/provinces/Telangana/cities/Warangal> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Telangana_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Telangana_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Telangana_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Telangana_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Telangana_obpophistcoll> .
 

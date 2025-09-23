@@ -14,11 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MEL/cities/Melilla_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Mediterranean+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEL/cities/Melilla_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEL/cities/Melilla_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEL/cities/Melilla_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEL/cities/Melilla_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEL/cities/Melilla_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEL/cities/Melilla_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEL/cities/Melilla_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/MEL/cities/Melilla_obpophist6> .
+        <http://www.semwebtech.org/mondial/countries/MEL/cities/Melilla_obpophistcoll> .
 

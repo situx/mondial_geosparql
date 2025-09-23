@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Dar+es+Salaam/cities/Dar+es+Salaam> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAT/provinces/Dar+es+Salaam/cities/Dar+es+Salaam> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Dar+es+Salaam_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Dar+es+Salaam_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Dar+es+Salaam_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Dar+es+Salaam_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Dar+es+Salaam_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Dar+es+Salaam_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Dar+es+Salaam_obpophistcoll> .
 

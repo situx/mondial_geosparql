@@ -16,10 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/MEX/provinces/Hidalgo/cities/Pachuca> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MEX/provinces/Hidalgo/cities/Pachuca> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Hidalgo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Hidalgo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Hidalgo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Hidalgo_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Hidalgo_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Hidalgo_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Hidalgo_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Hidalgo_obpophistcoll> .
 

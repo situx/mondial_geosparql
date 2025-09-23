@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Great+Britain> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GB/provinces/Wales/cities/Newport_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Wales/cities/Newport_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Wales/cities/Newport_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Wales/cities/Newport_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Wales/cities/Newport_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/Wales/cities/Newport_obpophistcoll> .
 

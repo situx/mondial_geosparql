@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/GB/provinces/Northern+Ireland/cities/Belfast> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GB/provinces/Northern+Ireland/cities/Belfast> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GB/provinces/Northern+Ireland_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Northern+Ireland_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Northern+Ireland_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Northern+Ireland_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Northern+Ireland_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Northern+Ireland_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/Northern+Ireland_obpophistcoll> .
 

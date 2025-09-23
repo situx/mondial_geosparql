@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Ubangi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCA/cities/Bimbo_obele>,
         <http://www.semwebtech.org/mondial/countries/RCA/cities/Bimbo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCA/cities/Bimbo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCA/cities/Bimbo_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCA/cities/Bimbo_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RCA/cities/Bimbo_obpophistcoll> .
 

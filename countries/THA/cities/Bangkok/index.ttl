@@ -19,7 +19,5 @@
     skos:prefLabel "กรุงเทพมหานคร" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/THA/cities/Bangkok_obele>,
         <http://www.semwebtech.org/mondial/countries/THA/cities/Bangkok_obpop>,
-        <http://www.semwebtech.org/mondial/countries/THA/cities/Bangkok_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/THA/cities/Bangkok_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/THA/cities/Bangkok_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/THA/cities/Bangkok_obpophistcoll> .
 

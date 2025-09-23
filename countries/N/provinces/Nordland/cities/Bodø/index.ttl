@@ -16,5 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Norwegian+Sea> ;
     skos:altLabel "Bodoe" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Nordland/cities/Bodø_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Nordland/cities/Bodø_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Nordland/cities/Bodø_obpophistcoll> .
 

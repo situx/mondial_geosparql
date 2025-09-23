@@ -17,9 +17,5 @@
     skos:prefLabel "Полтава" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Poltavska/cities/Poltava_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Poltavska/cities/Poltava_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Poltavska/cities/Poltava_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Poltavska/cities/Poltava_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Poltavska/cities/Poltava_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Poltavska/cities/Poltava_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Poltavska/cities/Poltava_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Poltavska/cities/Poltava_obpophistcoll> .
 

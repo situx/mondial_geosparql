@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Red+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ET/cities/Hurghada_obele>,
         <http://www.semwebtech.org/mondial/countries/ET/cities/Hurghada_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Hurghada_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Hurghada_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Hurghada_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/ET/cities/Hurghada_obpophistcoll> .
 

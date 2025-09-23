@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/Z/provinces/Northern/cities/Kasama> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/Z/provinces/Northern/cities/Kasama> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/Z/provinces/Northern_obpop>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Northern_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Northern_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/Z/provinces/Northern_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/Z/provinces/Northern_obpophistcoll> .
 

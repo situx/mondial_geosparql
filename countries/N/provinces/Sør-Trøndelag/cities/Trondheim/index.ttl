@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Norwegian+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Sør-Trøndelag/cities/Trondheim_obele>,
         <http://www.semwebtech.org/mondial/countries/N/provinces/Sør-Trøndelag/cities/Trondheim_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Sør-Trøndelag/cities/Trondheim_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Sør-Trøndelag/cities/Trondheim_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Sør-Trøndelag/cities/Trondheim_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Sør-Trøndelag/cities/Trondheim_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Sør-Trøndelag/cities/Trondheim_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Sør-Trøndelag/cities/Trondheim_obpophistcoll> .
 

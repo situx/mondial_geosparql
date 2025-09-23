@@ -18,9 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas/cities/Iloilo>,
         <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas/cities/Roxas> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RP/provinces/Western+Visayas_obpophistcoll> .
 

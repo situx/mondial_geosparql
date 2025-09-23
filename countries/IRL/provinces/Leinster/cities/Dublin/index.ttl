@@ -16,11 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Ireland> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRL/provinces/Leinster/cities/Dublin_obele>,
         <http://www.semwebtech.org/mondial/countries/IRL/provinces/Leinster/cities/Dublin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Leinster/cities/Dublin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Leinster/cities/Dublin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Leinster/cities/Dublin_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Leinster/cities/Dublin_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Leinster/cities/Dublin_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Leinster/cities/Dublin_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Leinster/cities/Dublin_obpophist6> .
+        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Leinster/cities/Dublin_obpophistcoll> .
 

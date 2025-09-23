@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/KZ/provinces/Astana/cities/Astana> ;
     skos:prefLabel "Астана" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KZ/provinces/Astana_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Astana_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Astana_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Astana_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Astana_obpophistcoll> .
 

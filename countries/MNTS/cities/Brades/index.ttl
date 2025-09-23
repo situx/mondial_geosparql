@@ -15,5 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Caribbean+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Montserrat> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MNTS/cities/Brades_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MNTS/cities/Brades_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/MNTS/cities/Brades_obpophistcoll> .
 

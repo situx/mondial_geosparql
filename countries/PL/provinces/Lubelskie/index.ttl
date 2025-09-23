@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubelskie/cities/Lublin> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubelskie/cities/Lublin> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubelskie_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubelskie_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubelskie_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubelskie_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Lubelskie_obpophistcoll> .
 

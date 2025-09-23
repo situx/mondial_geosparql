@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/R/provinces/Lipetskaya/cities/Lipetsk> ;
     skos:prefLabel "Липецкая" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Lipetskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Lipetskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Lipetskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Lipetskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Lipetskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Lipetskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Lipetskaya_obpophistcoll> .
 

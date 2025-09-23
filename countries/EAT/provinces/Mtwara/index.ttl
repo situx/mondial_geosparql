@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mtwara/cities/Mtwara> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mtwara/cities/Mtwara> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mtwara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mtwara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mtwara_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mtwara_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mtwara_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mtwara_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Mtwara_obpophistcoll> .
 

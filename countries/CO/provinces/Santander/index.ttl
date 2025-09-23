@@ -19,8 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Floridablanca>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander/cities/Girón> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Santander_obpophistcoll> .
 

@@ -12,7 +12,5 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun/cities/Ife_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun/cities/Ife_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun/cities/Ife_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun/cities/Ife_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun/cities/Ife_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Osun/cities/Ife_obpophistcoll> .
 

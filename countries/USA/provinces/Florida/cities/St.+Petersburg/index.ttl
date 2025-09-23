@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Gulf+of+Mexico> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/St.+Petersburg_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/St.+Petersburg_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/St.+Petersburg_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/St.+Petersburg_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/St.+Petersburg_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/St.+Petersburg_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/St.+Petersburg_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Florida/cities/St.+Petersburg_obpophistcoll> .
 

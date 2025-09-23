@@ -19,7 +19,5 @@
     skos:altLabel "Aqmola" ;
     skos:prefLabel "Ақмола" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KZ/provinces/Akmola_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Akmola_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Akmola_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Akmola_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Akmola_obpophistcoll> .
 

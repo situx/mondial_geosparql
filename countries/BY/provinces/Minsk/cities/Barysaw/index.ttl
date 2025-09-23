@@ -17,8 +17,5 @@
     skos:prefLabel "Барысаў" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BY/provinces/Minsk/cities/Barysaw_obele>,
         <http://www.semwebtech.org/mondial/countries/BY/provinces/Minsk/cities/Barysaw_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Minsk/cities/Barysaw_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Minsk/cities/Barysaw_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Minsk/cities/Barysaw_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Minsk/cities/Barysaw_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BY/provinces/Minsk/cities/Barysaw_obpophistcoll> .
 

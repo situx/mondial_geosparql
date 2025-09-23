@@ -17,6 +17,5 @@
     skos:altLabel "Coro" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Falcón/cities/Santa+Ana+de+Coro_obele>,
         <http://www.semwebtech.org/mondial/countries/YV/provinces/Falcón/cities/Santa+Ana+de+Coro_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Falcón/cities/Santa+Ana+de+Coro_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Falcón/cities/Santa+Ana+de+Coro_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Falcón/cities/Santa+Ana+de+Coro_obpophistcoll> .
 

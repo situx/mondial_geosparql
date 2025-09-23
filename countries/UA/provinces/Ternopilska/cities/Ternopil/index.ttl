@@ -15,9 +15,5 @@
     skos:prefLabel "Тернопіль" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Ternopilska/cities/Ternopil_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Ternopilska/cities/Ternopil_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Ternopilska/cities/Ternopil_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Ternopilska/cities/Ternopil_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Ternopilska/cities/Ternopil_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Ternopilska/cities/Ternopil_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Ternopilska/cities/Ternopil_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Ternopilska/cities/Ternopil_obpophistcoll> .
 

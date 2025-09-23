@@ -16,7 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Hispaniola> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RH/cities/Cap-Haïtien_obele>,
         <http://www.semwebtech.org/mondial/countries/RH/cities/Cap-Haïtien_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RH/cities/Cap-Haïtien_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RH/cities/Cap-Haïtien_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RH/cities/Cap-Haïtien_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RH/cities/Cap-Haïtien_obpophistcoll> .
 

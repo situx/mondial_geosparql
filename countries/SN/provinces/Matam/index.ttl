@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/SN/provinces/Matam/cities/Matam> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SN/provinces/Matam/cities/Matam> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SN/provinces/Matam_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Matam_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SN/provinces/Matam_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SN/provinces/Matam_obpophistcoll> .
 

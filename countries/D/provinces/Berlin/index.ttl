@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/D/provinces/Berlin/cities/Berlin> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/D/provinces/Berlin/cities/Berlin> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Berlin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Berlin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Berlin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Berlin_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Berlin_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Berlin_obpophistcoll> .
 

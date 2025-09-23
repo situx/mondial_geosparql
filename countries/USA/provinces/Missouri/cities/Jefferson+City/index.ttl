@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Missouri> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri/cities/Jefferson+City_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri/cities/Jefferson+City_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri/cities/Jefferson+City_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri/cities/Jefferson+City_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri/cities/Jefferson+City_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri/cities/Jefferson+City_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri/cities/Jefferson+City_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Missouri/cities/Jefferson+City_obpophistcoll> .
 

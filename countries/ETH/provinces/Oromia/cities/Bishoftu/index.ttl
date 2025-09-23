@@ -15,9 +15,5 @@
     skos:altLabel "Debre Zeyit" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ETH/provinces/Oromia/cities/Bishoftu_obele>,
         <http://www.semwebtech.org/mondial/countries/ETH/provinces/Oromia/cities/Bishoftu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Oromia/cities/Bishoftu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Oromia/cities/Bishoftu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Oromia/cities/Bishoftu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Oromia/cities/Bishoftu_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Oromia/cities/Bishoftu_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Oromia/cities/Bishoftu_obpophistcoll> .
 

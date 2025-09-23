@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Lambro> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Monza_obele>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Monza_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Monza_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Monza_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Monza_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Lombardia/cities/Monza_obpophistcoll> .
 

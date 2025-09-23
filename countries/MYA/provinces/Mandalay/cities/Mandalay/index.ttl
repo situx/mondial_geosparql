@@ -17,6 +17,5 @@
     skos:prefLabel "မန္တလေး" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mandalay/cities/Mandalay_obele>,
         <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mandalay/cities/Mandalay_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mandalay/cities/Mandalay_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mandalay/cities/Mandalay_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Mandalay/cities/Mandalay_obpophistcoll> .
 

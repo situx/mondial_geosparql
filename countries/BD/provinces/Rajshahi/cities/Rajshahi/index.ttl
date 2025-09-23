@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Ganges> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi/cities/Rajshahi_obele>,
         <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi/cities/Rajshahi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi/cities/Rajshahi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi/cities/Rajshahi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi/cities/Rajshahi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi/cities/Rajshahi_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BD/provinces/Rajshahi/cities/Rajshahi_obpophistcoll> .
 

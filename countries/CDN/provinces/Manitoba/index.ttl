@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CDN/provinces/Manitoba/cities/Winnipeg> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CDN/provinces/Manitoba/cities/Winnipeg> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CDN/provinces/Manitoba_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Manitoba_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Manitoba_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Manitoba_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Manitoba_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Manitoba_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CDN/provinces/Manitoba_obpophistcoll> .
 

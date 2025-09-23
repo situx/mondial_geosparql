@@ -16,8 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/South+China+Sea> ;
     skos:prefLabel "莆田市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Fujian/cities/Putian_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Fujian/cities/Putian_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Fujian/cities/Putian_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Fujian/cities/Putian_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Fujian/cities/Putian_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Fujian/cities/Putian_obpophistcoll> .
 

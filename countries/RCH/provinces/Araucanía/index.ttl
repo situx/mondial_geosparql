@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RCH/provinces/Araucanía/cities/Temuco> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RCH/provinces/Araucanía/cities/Temuco> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCH/provinces/Araucanía_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Araucanía_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Araucanía_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Araucanía_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Araucanía_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Araucanía_obpophistcoll> .
 

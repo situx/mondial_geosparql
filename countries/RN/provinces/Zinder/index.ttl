@@ -18,7 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/RN/provinces/Zinder/cities/Tanout>,
         <http://www.semwebtech.org/mondial/countries/RN/provinces/Zinder/cities/Zinder> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RN/provinces/Zinder_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Zinder_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Zinder_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Zinder_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RN/provinces/Zinder_obpophistcoll> .
 

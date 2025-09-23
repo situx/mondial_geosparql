@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Selatan/cities/Lubuk+Linggau>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Selatan/cities/Palembang> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Selatan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Selatan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Selatan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Selatan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Selatan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sumatera+Selatan_obpophistcoll> .
 

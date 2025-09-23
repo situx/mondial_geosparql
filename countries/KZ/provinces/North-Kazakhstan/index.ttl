@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/KZ/provinces/North-Kazakhstan/cities/Petropavlovsk> ;
     skos:prefLabel "Солтүстік Қазақстан" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KZ/provinces/North-Kazakhstan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/North-Kazakhstan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/North-Kazakhstan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/North-Kazakhstan_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/KZ/provinces/North-Kazakhstan_obpophistcoll> .
 

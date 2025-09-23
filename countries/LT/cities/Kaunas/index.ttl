@@ -16,8 +16,5 @@
         <http://www.semwebtech.org/mondial/rivers/Neris> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/LT/cities/Kaunas_obele>,
         <http://www.semwebtech.org/mondial/countries/LT/cities/Kaunas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/LT/cities/Kaunas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/LT/cities/Kaunas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/LT/cities/Kaunas_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/LT/cities/Kaunas_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/LT/cities/Kaunas_obpophistcoll> .
 

@@ -15,7 +15,5 @@
     skos:prefLabel "کندهار" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AFG/cities/Kandahar_obele>,
         <http://www.semwebtech.org/mondial/countries/AFG/cities/Kandahar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AFG/cities/Kandahar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AFG/cities/Kandahar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AFG/cities/Kandahar_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/AFG/cities/Kandahar_obpophistcoll> .
 

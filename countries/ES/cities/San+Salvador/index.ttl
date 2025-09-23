@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ES/cities/San+Salvador_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ES/cities/San+Salvador_obele>,
         <http://www.semwebtech.org/mondial/countries/ES/cities/San+Salvador_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ES/cities/San+Salvador_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ES/cities/San+Salvador_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ES/cities/San+Salvador_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/ES/cities/San+Salvador_obpophistcoll> .
 

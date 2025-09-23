@@ -16,10 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nayarit/cities/Tepic> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nayarit/cities/Tepic> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nayarit_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nayarit_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nayarit_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nayarit_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nayarit_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nayarit_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nayarit_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Nayarit_obpophistcoll> .
 

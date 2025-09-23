@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/S/provinces/Värmland/cities/Karlstad> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/S/provinces/Värmland/cities/Karlstad> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Värmland_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Värmland_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Värmland_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Värmland_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Värmland_obpophistcoll> .
 

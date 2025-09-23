@@ -19,9 +19,5 @@
     skos:prefLabel "Черкаси" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Cerkaska/cities/Cerkasy_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Cerkaska/cities/Cerkasy_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cerkaska/cities/Cerkasy_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cerkaska/cities/Cerkasy_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cerkaska/cities/Cerkasy_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cerkaska/cities/Cerkasy_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cerkaska/cities/Cerkasy_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cerkaska/cities/Cerkasy_obpophistcoll> .
 

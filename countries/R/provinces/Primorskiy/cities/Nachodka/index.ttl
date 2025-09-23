@@ -17,9 +17,5 @@
     skos:altLabel "Nakhodka" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Primorskiy/cities/Nachodka_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Primorskiy/cities/Nachodka_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Primorskiy/cities/Nachodka_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Primorskiy/cities/Nachodka_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Primorskiy/cities/Nachodka_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Primorskiy/cities/Nachodka_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Primorskiy/cities/Nachodka_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Primorskiy/cities/Nachodka_obpophistcoll> .
 

@@ -16,7 +16,5 @@
         <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCH/provinces/Bío-Bío/cities/Concepción_obele>,
         <http://www.semwebtech.org/mondial/countries/RCH/provinces/Bío-Bío/cities/Concepción_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Bío-Bío/cities/Concepción_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Bío-Bío/cities/Concepción_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Bío-Bío/cities/Concepción_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Bío-Bío/cities/Concepción_obpophistcoll> .
 

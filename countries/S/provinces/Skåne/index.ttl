@@ -19,7 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/S/provinces/Skåne/cities/Lund>,
         <http://www.semwebtech.org/mondial/countries/S/provinces/Skåne/cities/Malmö> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Skåne_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Skåne_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Skåne_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Skåne_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Skåne_obpophistcoll> .
 

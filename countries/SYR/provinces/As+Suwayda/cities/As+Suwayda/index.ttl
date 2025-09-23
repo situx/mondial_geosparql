@@ -15,5 +15,5 @@
     skos:prefLabel "السويداء" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SYR/provinces/As+Suwayda/cities/As+Suwayda_obele>,
         <http://www.semwebtech.org/mondial/countries/SYR/provinces/As+Suwayda/cities/As+Suwayda_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/As+Suwayda/cities/As+Suwayda_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/As+Suwayda/cities/As+Suwayda_obpophistcoll> .
 

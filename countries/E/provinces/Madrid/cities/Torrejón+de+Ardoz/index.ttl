@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Jarama> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Torrejón+de+Ardoz_obele>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Torrejón+de+Ardoz_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Torrejón+de+Ardoz_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Torrejón+de+Ardoz_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Torrejón+de+Ardoz_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Torrejón+de+Ardoz_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Torrejón+de+Ardoz_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Madrid/cities/Torrejón+de+Ardoz_obpophistcoll> .
 

@@ -15,6 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Lake+Skutari> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AL/cities/Shkodër_obele>,
         <http://www.semwebtech.org/mondial/countries/AL/cities/Shkodër_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AL/cities/Shkodër_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AL/cities/Shkodër_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/AL/cities/Shkodër_obpophistcoll> .
 

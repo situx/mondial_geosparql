@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TM/provinces/Ashgabat/cities/Ashgabat> ;
     skos:prefLabel "Aşgabat" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TM/provinces/Ashgabat_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TM/provinces/Ashgabat_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TM/provinces/Ashgabat_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TM/provinces/Ashgabat_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/TM/provinces/Ashgabat_obpophistcoll> .
 

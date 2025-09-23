@@ -14,11 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/AUS/provinces/Northern+Territory/cities/Darwin_geom> ;
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Timor+Sea> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AUS/provinces/Northern+Territory/cities/Darwin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Northern+Territory/cities/Darwin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Northern+Territory/cities/Darwin_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Northern+Territory/cities/Darwin_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Northern+Territory/cities/Darwin_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Northern+Territory/cities/Darwin_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Northern+Territory/cities/Darwin_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Northern+Territory/cities/Darwin_obpophist6> .
+        <http://www.semwebtech.org/mondial/countries/AUS/provinces/Northern+Territory/cities/Darwin_obpophistcoll> .
 

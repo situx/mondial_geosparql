@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Lake+Kivu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Nord-Kivu/cities/Goma_obele>,
         <http://www.semwebtech.org/mondial/countries/CGO/provinces/Nord-Kivu/cities/Goma_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Nord-Kivu/cities/Goma_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Nord-Kivu/cities/Goma_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Nord-Kivu/cities/Goma_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Nord-Kivu/cities/Goma_obpophistcoll> .
 

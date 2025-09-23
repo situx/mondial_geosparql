@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Smolenskaya/cities/Smolensk> ;
     skos:prefLabel "Смоленская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Smolenskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Smolenskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Smolenskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Smolenskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Smolenskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Smolenskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Smolenskaya_obpophistcoll> .
 

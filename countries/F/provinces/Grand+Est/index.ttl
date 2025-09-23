@@ -20,10 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Reims>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Strasbourg> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est_obpophistcoll> .
 

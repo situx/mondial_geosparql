@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Caraş-Severin/cities/Resita> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Caraş-Severin/cities/Resita> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Caraş-Severin_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Caraş-Severin_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Caraş-Severin_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Caraş-Severin_obpophistcoll> .
 

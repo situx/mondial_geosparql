@@ -15,10 +15,5 @@
     skos:altLabel "Taejon" ;
     skos:prefLabel "대전광역시" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ROK/cities/Daejeon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Daejeon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Daejeon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Daejeon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Daejeon_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Daejeon_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Daejeon_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Daejeon_obpophistcoll> .
 

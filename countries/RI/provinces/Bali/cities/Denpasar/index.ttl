@@ -16,6 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Bali> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Bali/cities/Denpasar_obele>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Bali/cities/Denpasar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Bali/cities/Denpasar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Bali/cities/Denpasar_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Bali/cities/Denpasar_obpophistcoll> .
 

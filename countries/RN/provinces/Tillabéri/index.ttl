@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RN/provinces/Tillabéri/cities/Tillaberi> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RN/provinces/Tillabéri/cities/Tillaberi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RN/provinces/Tillabéri_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Tillabéri_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Tillabéri_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Tillabéri_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RN/provinces/Tillabéri_obpophistcoll> .
 

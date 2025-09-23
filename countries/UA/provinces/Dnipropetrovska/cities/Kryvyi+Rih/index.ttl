@@ -17,9 +17,5 @@
     skos:prefLabel "Кривий Ріг" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska/cities/Kryvyi+Rih_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska/cities/Kryvyi+Rih_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska/cities/Kryvyi+Rih_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska/cities/Kryvyi+Rih_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska/cities/Kryvyi+Rih_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska/cities/Kryvyi+Rih_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska/cities/Kryvyi+Rih_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Dnipropetrovska/cities/Kryvyi+Rih_obpophistcoll> .
 

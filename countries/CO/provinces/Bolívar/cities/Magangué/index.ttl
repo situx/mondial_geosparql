@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Rio+Magdalena> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar/cities/Magangué_obele>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar/cities/Magangué_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar/cities/Magangué_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar/cities/Magangué_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar/cities/Magangué_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar/cities/Magangué_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Bolívar/cities/Magangué_obpophistcoll> .
 

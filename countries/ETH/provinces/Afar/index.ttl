@@ -19,8 +19,5 @@
     skos:altLabel "Affar" ;
     skos:prefLabel "አፋር" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ETH/provinces/Afar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Afar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Afar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Afar_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Afar_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/ETH/provinces/Afar_obpophistcoll> .
 

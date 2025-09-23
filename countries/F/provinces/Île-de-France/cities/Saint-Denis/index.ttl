@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Seine> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France/cities/Saint-Denis_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France/cities/Saint-Denis_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France/cities/Saint-Denis_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France/cities/Saint-Denis_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France/cities/Saint-Denis_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France/cities/Saint-Denis_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France/cities/Saint-Denis_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France/cities/Saint-Denis_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Île-de-France/cities/Saint-Denis_obpophistcoll> .
 

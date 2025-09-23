@@ -13,6 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MAL/provinces/Negeri+Sembilan/cities/Seremban_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MAL/provinces/Negeri+Sembilan/cities/Seremban_obele>,
         <http://www.semwebtech.org/mondial/countries/MAL/provinces/Negeri+Sembilan/cities/Seremban_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Negeri+Sembilan/cities/Seremban_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Negeri+Sembilan/cities/Seremban_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/MAL/provinces/Negeri+Sembilan/cities/Seremban_obpophistcoll> .
 

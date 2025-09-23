@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Fort+Collins_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Fort+Collins_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Fort+Collins_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Fort+Collins_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Fort+Collins_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Fort+Collins_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Fort+Collins_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Fort+Collins_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Fort+Collins_obpophistcoll> .
 

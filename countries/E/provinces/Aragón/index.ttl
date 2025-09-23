@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/E/provinces/Aragón/cities/Zaragoza> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/E/provinces/Aragón/cities/Zaragoza> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Aragón_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Aragón_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Aragón_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Aragón_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Aragón_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Aragón_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Aragón_obpophistcoll> .
 

@@ -17,6 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/I/provinces/Trentino-Alto+Adige/cities/Bolzano>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Trentino-Alto+Adige/cities/Trento> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Trentino-Alto+Adige_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Trentino-Alto+Adige_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Trentino-Alto+Adige_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Trentino-Alto+Adige_obpophistcoll> .
 

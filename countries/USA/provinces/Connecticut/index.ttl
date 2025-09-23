@@ -20,9 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Stamford>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut/cities/Waterbury> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Connecticut_obpophistcoll> .
 

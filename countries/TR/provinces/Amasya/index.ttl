@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Amasya/cities/Amasya> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Amasya/cities/Amasya> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Amasya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Amasya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Amasya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Amasya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Amasya_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Amasya_obpophistcoll> .
 

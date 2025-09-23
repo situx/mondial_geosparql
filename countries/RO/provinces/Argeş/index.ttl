@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Argeş/cities/Piteşti> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Argeş/cities/Piteşti> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Argeş_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Argeş_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Argeş_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Argeş_obpophistcoll> .
 

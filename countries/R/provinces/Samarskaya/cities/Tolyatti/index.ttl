@@ -18,9 +18,5 @@
     skos:prefLabel "Тольятти" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Tolyatti_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Tolyatti_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Tolyatti_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Tolyatti_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Tolyatti_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Tolyatti_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Tolyatti_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Samarskaya/cities/Tolyatti_obpophistcoll> .
 

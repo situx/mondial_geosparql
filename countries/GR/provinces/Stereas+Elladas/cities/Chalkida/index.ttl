@@ -20,7 +20,5 @@
     skos:prefLabel "Χαλκιδέων" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Stereas+Elladas/cities/Chalkida_obele>,
         <http://www.semwebtech.org/mondial/countries/GR/provinces/Stereas+Elladas/cities/Chalkida_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Stereas+Elladas/cities/Chalkida_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Stereas+Elladas/cities/Chalkida_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Stereas+Elladas/cities/Chalkida_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Stereas+Elladas/cities/Chalkida_obpophistcoll> .
 

@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Dunajec> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PL/provinces/Małopolskie/cities/Tarnów_obele>,
         <http://www.semwebtech.org/mondial/countries/PL/provinces/Małopolskie/cities/Tarnów_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Małopolskie/cities/Tarnów_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Małopolskie/cities/Tarnów_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Małopolskie/cities/Tarnów_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PL/provinces/Małopolskie/cities/Tarnów_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/PL/provinces/Małopolskie/cities/Tarnów_obpophistcoll> .
 

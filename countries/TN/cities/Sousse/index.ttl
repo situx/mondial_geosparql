@@ -16,7 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Mediterranean+Sea> ;
     skos:prefLabel "سوسة " ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TN/cities/Sousse_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TN/cities/Sousse_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TN/cities/Sousse_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TN/cities/Sousse_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/TN/cities/Sousse_obpophistcoll> .
 

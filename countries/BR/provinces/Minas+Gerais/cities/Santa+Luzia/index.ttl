@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Santa+Luzia_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Santa+Luzia_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Santa+Luzia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Santa+Luzia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Santa+Luzia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Santa+Luzia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Santa+Luzia_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Minas+Gerais/cities/Santa+Luzia_obpophistcoll> .
 

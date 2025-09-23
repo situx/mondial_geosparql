@@ -15,7 +15,5 @@
     skos:prefLabel "صنعاء" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YE/cities/Sanaa_obele>,
         <http://www.semwebtech.org/mondial/countries/YE/cities/Sanaa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YE/cities/Sanaa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YE/cities/Sanaa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/YE/cities/Sanaa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/YE/cities/Sanaa_obpophistcoll> .
 

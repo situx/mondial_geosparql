@@ -17,9 +17,5 @@
     skos:prefLabel "Хмельницький" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Chmelnytska/cities/Chmelnytskyi_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Chmelnytska/cities/Chmelnytskyi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Chmelnytska/cities/Chmelnytskyi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Chmelnytska/cities/Chmelnytskyi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Chmelnytska/cities/Chmelnytskyi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Chmelnytska/cities/Chmelnytskyi_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Chmelnytska/cities/Chmelnytskyi_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Chmelnytska/cities/Chmelnytskyi_obpophistcoll> .
 

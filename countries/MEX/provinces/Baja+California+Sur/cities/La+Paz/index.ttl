@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Gulf+of+California> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur/cities/La+Paz_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur/cities/La+Paz_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur/cities/La+Paz_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur/cities/La+Paz_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur/cities/La+Paz_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur/cities/La+Paz_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur/cities/La+Paz_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur/cities/La+Paz_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Baja+California+Sur/cities/La+Paz_obpophistcoll> .
 

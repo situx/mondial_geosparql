@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Gaziantep/cities/Gaziantep>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Gaziantep/cities/Nizip> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Gaziantep_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Gaziantep_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Gaziantep_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Gaziantep_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Gaziantep_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Gaziantep_obpophistcoll> .
 

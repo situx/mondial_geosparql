@@ -15,11 +15,5 @@
     geo:hasMetricArea 7894 ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IRL/provinces/Ulster/cities/Letterkenny> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRL/provinces/Ulster_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Ulster_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Ulster_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Ulster_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Ulster_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Ulster_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Ulster_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Ulster_obpophist6> .
+        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Ulster_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Arabian+Sea> ;
     skos:altLabel "New Bombay" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Navi+Mumbai_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Navi+Mumbai_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Navi+Mumbai_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Navi+Mumbai_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IND/provinces/Maharashtra/cities/Navi+Mumbai_obpophistcoll> .
 

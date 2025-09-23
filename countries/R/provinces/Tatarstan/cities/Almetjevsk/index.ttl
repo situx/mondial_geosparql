@@ -15,9 +15,5 @@
     skos:altLabel "Almetyevsk" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan/cities/Almetjevsk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan/cities/Almetjevsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan/cities/Almetjevsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan/cities/Almetjevsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan/cities/Almetjevsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan/cities/Almetjevsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan/cities/Almetjevsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Tatarstan/cities/Almetjevsk_obpophistcoll> .
 

@@ -16,9 +16,5 @@
     skos:prefLabel "اسلام شهر" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Tehran/cities/Eslam+Shahr_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/Tehran/cities/Eslam+Shahr_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Tehran/cities/Eslam+Shahr_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Tehran/cities/Eslam+Shahr_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Tehran/cities/Eslam+Shahr_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Tehran/cities/Eslam+Shahr_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Tehran/cities/Eslam+Shahr_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Tehran/cities/Eslam+Shahr_obpophistcoll> .
 

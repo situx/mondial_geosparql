@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Vitoria-Gasteiz_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Vitoria-Gasteiz_obele>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Vitoria-Gasteiz_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Vitoria-Gasteiz_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Vitoria-Gasteiz_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Vitoria-Gasteiz_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Vitoria-Gasteiz_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Vitoria-Gasteiz_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Euskadi/cities/Vitoria-Gasteiz_obpophistcoll> .
 

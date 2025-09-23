@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Mar+del+Plata_obele>,
         <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Mar+del+Plata_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Mar+del+Plata_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Mar+del+Plata_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Mar+del+Plata_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Buenos+Aires/cities/Mar+del+Plata_obpophistcoll> .
 

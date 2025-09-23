@@ -18,9 +18,5 @@
     skos:prefLabel "千葉市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Chiba/cities/Chiba_obele>,
         <http://www.semwebtech.org/mondial/countries/J/provinces/Chiba/cities/Chiba_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Chiba/cities/Chiba_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Chiba/cities/Chiba_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Chiba/cities/Chiba_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Chiba/cities/Chiba_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Chiba/cities/Chiba_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Chiba/cities/Chiba_obpophistcoll> .
 

@@ -20,8 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Kocaeli/cities/Kocaeli>,
         <http://www.semwebtech.org/mondial/countries/TR/provinces/Kocaeli/cities/Körfez> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Kocaeli_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kocaeli_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kocaeli_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kocaeli_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kocaeli_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Kocaeli_obpophistcoll> .
 

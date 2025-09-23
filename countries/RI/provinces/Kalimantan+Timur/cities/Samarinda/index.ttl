@@ -17,7 +17,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Borneo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur/cities/Samarinda_obele>,
         <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur/cities/Samarinda_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur/cities/Samarinda_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur/cities/Samarinda_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur/cities/Samarinda_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Kalimantan+Timur/cities/Samarinda_obpophistcoll> .
 

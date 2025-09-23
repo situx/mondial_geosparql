@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RA/provinces/Santa+Fe/cities/Rosario>,
         <http://www.semwebtech.org/mondial/countries/RA/provinces/Santa+Fe/cities/Santa+Fe> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Santa+Fe_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Santa+Fe_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Santa+Fe_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Santa+Fe_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Santa+Fe_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Santa+Fe_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Santa+Fe_obpophistcoll> .
 

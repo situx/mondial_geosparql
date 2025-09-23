@@ -17,10 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire/cities/Orléans>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire/cities/Tours> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Centre-Val+de+Loire_obpophistcoll> .
 

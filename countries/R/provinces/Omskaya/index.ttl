@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Omskaya/cities/Omsk> ;
     skos:prefLabel "Омская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Omskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Omskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Omskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Omskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Omskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Omskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Omskaya_obpophistcoll> .
 

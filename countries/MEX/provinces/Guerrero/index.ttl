@@ -17,10 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guerrero/cities/Acapulco>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guerrero/cities/Chilpancingo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guerrero_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guerrero_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guerrero_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guerrero_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guerrero_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guerrero_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guerrero_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Guerrero_obpophistcoll> .
 

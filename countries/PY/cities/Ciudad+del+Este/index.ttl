@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Parana> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/PY/cities/Ciudad+del+Este_obele>,
         <http://www.semwebtech.org/mondial/countries/PY/cities/Ciudad+del+Este_obpop>,
-        <http://www.semwebtech.org/mondial/countries/PY/cities/Ciudad+del+Este_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/PY/cities/Ciudad+del+Este_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/PY/cities/Ciudad+del+Este_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/PY/cities/Ciudad+del+Este_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/PY/cities/Ciudad+del+Este_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/PY/cities/Ciudad+del+Este_obpophistcoll> .
 

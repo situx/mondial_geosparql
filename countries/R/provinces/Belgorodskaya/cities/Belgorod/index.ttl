@@ -17,9 +17,5 @@
     skos:prefLabel "Белгород" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya/cities/Belgorod_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya/cities/Belgorod_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya/cities/Belgorod_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya/cities/Belgorod_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya/cities/Belgorod_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya/cities/Belgorod_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya/cities/Belgorod_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Belgorodskaya/cities/Belgorod_obpophistcoll> .
 

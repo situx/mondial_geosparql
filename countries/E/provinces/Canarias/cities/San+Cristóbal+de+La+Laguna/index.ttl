@@ -18,9 +18,5 @@
     skos:altLabel "La Laguna" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/San+Cristóbal+de+La+Laguna_obele>,
         <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/San+Cristóbal+de+La+Laguna_obpop>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/San+Cristóbal+de+La+Laguna_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/San+Cristóbal+de+La+Laguna_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/San+Cristóbal+de+La+Laguna_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/San+Cristóbal+de+La+Laguna_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/San+Cristóbal+de+La+Laguna_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/E/provinces/Canarias/cities/San+Cristóbal+de+La+Laguna_obpophistcoll> .
 

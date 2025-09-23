@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CAM/provinces/Sud-Ouest/cities/Buea_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CAM/provinces/Sud-Ouest/cities/Buea_obele>,
         <http://www.semwebtech.org/mondial/countries/CAM/provinces/Sud-Ouest/cities/Buea_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Sud-Ouest/cities/Buea_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Sud-Ouest/cities/Buea_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Sud-Ouest/cities/Buea_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Sud-Ouest/cities/Buea_obpophistcoll> .
 

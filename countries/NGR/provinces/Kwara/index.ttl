@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kwara/cities/Ilorin> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kwara/cities/Ilorin> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kwara_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kwara_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kwara_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kwara_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kwara_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/NGR/provinces/Kwara_obpophistcoll> .
 

@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Save> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SLO/cities/Ljubljana_obele>,
         <http://www.semwebtech.org/mondial/countries/SLO/cities/Ljubljana_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SLO/cities/Ljubljana_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SLO/cities/Ljubljana_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SLO/cities/Ljubljana_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SLO/cities/Ljubljana_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/SLO/cities/Ljubljana_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/SLO/cities/Ljubljana_obpophistcoll> .
 

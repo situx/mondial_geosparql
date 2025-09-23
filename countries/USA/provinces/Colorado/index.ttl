@@ -20,9 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Fort+Collins>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado/cities/Lakewood> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Colorado_obpophistcoll> .
 

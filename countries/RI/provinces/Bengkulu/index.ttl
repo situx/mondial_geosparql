@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RI/provinces/Bengkulu/cities/Bengkulu> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RI/provinces/Bengkulu/cities/Bengkulu> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Bengkulu_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Bengkulu_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Bengkulu_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Bengkulu_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Bengkulu_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Bengkulu_obpophistcoll> .
 

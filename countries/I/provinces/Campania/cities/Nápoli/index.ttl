@@ -17,7 +17,5 @@
     skos:altLabel "Naples" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Campania/cities/Nápoli_obele>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Campania/cities/Nápoli_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Campania/cities/Nápoli_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Campania/cities/Nápoli_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Campania/cities/Nápoli_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Campania/cities/Nápoli_obpophistcoll> .
 

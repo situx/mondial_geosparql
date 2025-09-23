@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/HN/provinces/Olancho/cities/Juticalpa_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/HN/provinces/Olancho/cities/Juticalpa_obele>,
         <http://www.semwebtech.org/mondial/countries/HN/provinces/Olancho/cities/Juticalpa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Olancho/cities/Juticalpa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Olancho/cities/Juticalpa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/HN/provinces/Olancho/cities/Juticalpa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/HN/provinces/Olancho/cities/Juticalpa_obpophistcoll> .
 

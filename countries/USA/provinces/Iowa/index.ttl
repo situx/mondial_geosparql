@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/USA/provinces/Iowa/cities/Cedar+Rapids>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Iowa/cities/Des+Moines> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Iowa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Iowa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Iowa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Iowa_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Iowa_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Iowa_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Iowa_obpophistcoll> .
 

@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RN/provinces/Diffa/cities/Diffa> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RN/provinces/Diffa/cities/Diffa> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RN/provinces/Diffa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Diffa_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Diffa_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RN/provinces/Diffa_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RN/provinces/Diffa_obpophistcoll> .
 

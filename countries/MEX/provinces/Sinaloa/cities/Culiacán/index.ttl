@@ -13,10 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Culiacán_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Culiacán_obele>,
         <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Culiacán_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Culiacán_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Culiacán_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Culiacán_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Culiacán_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Culiacán_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Culiacán_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Sinaloa/cities/Culiacán_obpophistcoll> .
 

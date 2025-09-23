@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/H/provinces/Komárom-Esztergom/cities/Tatabánya_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/H/provinces/Komárom-Esztergom/cities/Tatabánya_obele>,
         <http://www.semwebtech.org/mondial/countries/H/provinces/Komárom-Esztergom/cities/Tatabánya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Komárom-Esztergom/cities/Tatabánya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Komárom-Esztergom/cities/Tatabánya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Komárom-Esztergom/cities/Tatabánya_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/H/provinces/Komárom-Esztergom/cities/Tatabánya_obpophistcoll> .
 

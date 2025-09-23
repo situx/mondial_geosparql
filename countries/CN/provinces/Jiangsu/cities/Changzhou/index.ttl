@@ -16,8 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Yangtze> ;
     skos:prefLabel "常州市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Changzhou_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Changzhou_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Changzhou_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Changzhou_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Changzhou_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Jiangsu/cities/Changzhou_obpophistcoll> .
 

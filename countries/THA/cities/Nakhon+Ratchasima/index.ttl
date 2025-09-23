@@ -14,6 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/THA/cities/Nakhon+Ratchasima_geom> ;
     skos:prefLabel "นครราชสีมา" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/THA/cities/Nakhon+Ratchasima_obpop>,
-        <http://www.semwebtech.org/mondial/countries/THA/cities/Nakhon+Ratchasima_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/THA/cities/Nakhon+Ratchasima_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/THA/cities/Nakhon+Ratchasima_obpophistcoll> .
 

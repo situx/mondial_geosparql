@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Qaseem/cities/Buraydah> ;
     skos:prefLabel "القصيم" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Qaseem_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Qaseem_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Qaseem_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Qaseem_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Qaseem_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/SA/provinces/Al-Qaseem_obpophistcoll> .
 

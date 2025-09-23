@@ -19,8 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/GR/provinces/Anatolikis+Makedonias+kai+Thrakis/cities/Komotini> ;
     skos:prefLabel "Ανατολικής Μακεδονίας και Θράκης" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GR/provinces/Anatolikis+Makedonias+kai+Thrakis_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Anatolikis+Makedonias+kai+Thrakis_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Anatolikis+Makedonias+kai+Thrakis_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Anatolikis+Makedonias+kai+Thrakis_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GR/provinces/Anatolikis+Makedonias+kai+Thrakis_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GR/provinces/Anatolikis+Makedonias+kai+Thrakis_obpophistcoll> .
 

@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota/cities/Sioux+Falls_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota/cities/Sioux+Falls_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota/cities/Sioux+Falls_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota/cities/Sioux+Falls_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota/cities/Sioux+Falls_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota/cities/Sioux+Falls_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota/cities/Sioux+Falls_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota/cities/Sioux+Falls_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/South+Dakota/cities/Sioux+Falls_obpophistcoll> .
 

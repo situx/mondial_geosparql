@@ -17,9 +17,5 @@
     skos:altLabel "Achinsk" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnoyarsk/cities/Ačinsk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnoyarsk/cities/Ačinsk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnoyarsk/cities/Ačinsk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnoyarsk/cities/Ačinsk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnoyarsk/cities/Ačinsk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnoyarsk/cities/Ačinsk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnoyarsk/cities/Ačinsk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Krasnoyarsk/cities/Ačinsk_obpophistcoll> .
 

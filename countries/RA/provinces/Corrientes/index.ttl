@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RA/provinces/Corrientes/cities/Corrientes> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RA/provinces/Corrientes/cities/Corrientes> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Corrientes_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Corrientes_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Corrientes_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Corrientes_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Corrientes_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Corrientes_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Corrientes_obpophistcoll> .
 

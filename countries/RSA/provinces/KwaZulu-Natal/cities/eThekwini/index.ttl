@@ -17,8 +17,5 @@
     skos:altLabel "Durban" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RSA/provinces/KwaZulu-Natal/cities/eThekwini_obele>,
         <http://www.semwebtech.org/mondial/countries/RSA/provinces/KwaZulu-Natal/cities/eThekwini_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/KwaZulu-Natal/cities/eThekwini_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/KwaZulu-Natal/cities/eThekwini_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/KwaZulu-Natal/cities/eThekwini_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RSA/provinces/KwaZulu-Natal/cities/eThekwini_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RSA/provinces/KwaZulu-Natal/cities/eThekwini_obpophistcoll> .
 

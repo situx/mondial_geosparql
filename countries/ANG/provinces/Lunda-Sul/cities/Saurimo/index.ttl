@@ -13,6 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Sul/cities/Saurimo_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Sul/cities/Saurimo_obele>,
         <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Sul/cities/Saurimo_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Sul/cities/Saurimo_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Sul/cities/Saurimo_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Lunda-Sul/cities/Saurimo_obpophistcoll> .
 

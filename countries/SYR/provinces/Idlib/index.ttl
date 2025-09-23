@@ -19,6 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/SYR/provinces/Idlib/cities/Maarrat+an+Numan> ;
     skos:prefLabel "ادلب" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SYR/provinces/Idlib_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Idlib_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Idlib_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/SYR/provinces/Idlib_obpophistcoll> .
 

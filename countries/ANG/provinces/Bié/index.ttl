@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/ANG/provinces/Bié/cities/Cuito> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/ANG/provinces/Bié/cities/Cuito> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Bié_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Bié_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Bié_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Bié_obpophistcoll> .
 

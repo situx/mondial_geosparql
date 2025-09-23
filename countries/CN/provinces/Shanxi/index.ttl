@@ -21,9 +21,5 @@
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi/cities/Yuci> ;
     skos:prefLabel "山西" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Shanxi_obpophistcoll> .
 

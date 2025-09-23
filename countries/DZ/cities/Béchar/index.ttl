@@ -15,7 +15,5 @@
     skos:prefLabel "بشار" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/DZ/cities/Béchar_obele>,
         <http://www.semwebtech.org/mondial/countries/DZ/cities/Béchar_obpop>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Béchar_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Béchar_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/DZ/cities/Béchar_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/DZ/cities/Béchar_obpophistcoll> .
 

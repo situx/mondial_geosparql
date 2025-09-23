@@ -13,5 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/S/provinces/Södermanland/cities/Nykoping_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Södermanland/cities/Nykoping_obele>,
         <http://www.semwebtech.org/mondial/countries/S/provinces/Södermanland/cities/Nykoping_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Södermanland/cities/Nykoping_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Södermanland/cities/Nykoping_obpophistcoll> .
 

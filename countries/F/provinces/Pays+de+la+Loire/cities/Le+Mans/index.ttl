@@ -15,10 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Sarthe> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Le+Mans_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Le+Mans_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Le+Mans_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Le+Mans_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Le+Mans_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Le+Mans_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Le+Mans_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Le+Mans_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Pays+de+la+Loire/cities/Le+Mans_obpophistcoll> .
 

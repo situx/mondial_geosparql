@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/lakes/Mälaren> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/S/provinces/Västmanland/cities/Västerås_obele>,
         <http://www.semwebtech.org/mondial/countries/S/provinces/Västmanland/cities/Västerås_obpop>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västmanland/cities/Västerås_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västmanland/cities/Västerås_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västmanland/cities/Västerås_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/S/provinces/Västmanland/cities/Västerås_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/S/provinces/Västmanland/cities/Västerås_obpophistcoll> .
 

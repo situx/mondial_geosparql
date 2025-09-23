@@ -17,8 +17,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Madeira> ;
     skos:altLabel "Madeira" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/P/provinces/Madeira/cities/Funchal_obpop>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Madeira/cities/Funchal_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Madeira/cities/Funchal_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Madeira/cities/Funchal_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Madeira/cities/Funchal_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Madeira/cities/Funchal_obpophistcoll> .
 

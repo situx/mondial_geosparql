@@ -16,11 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Ireland> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRL/provinces/Connacht/cities/Galway_obele>,
         <http://www.semwebtech.org/mondial/countries/IRL/provinces/Connacht/cities/Galway_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Connacht/cities/Galway_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Connacht/cities/Galway_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Connacht/cities/Galway_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Connacht/cities/Galway_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Connacht/cities/Galway_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Connacht/cities/Galway_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Connacht/cities/Galway_obpophist6> .
+        <http://www.semwebtech.org/mondial/countries/IRL/provinces/Connacht/cities/Galway_obpophistcoll> .
 

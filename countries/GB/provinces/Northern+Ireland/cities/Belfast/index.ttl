@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Irish+Sea> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Ireland> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GB/provinces/Northern+Ireland/cities/Belfast_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Northern+Ireland/cities/Belfast_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Northern+Ireland/cities/Belfast_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Northern+Ireland/cities/Belfast_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/Northern+Ireland/cities/Belfast_obpophistcoll> .
 

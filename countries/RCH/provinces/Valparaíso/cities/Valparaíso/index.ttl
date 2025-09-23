@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RCH/provinces/Valparaíso/cities/Valparaíso_obele>,
         <http://www.semwebtech.org/mondial/countries/RCH/provinces/Valparaíso/cities/Valparaíso_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Valparaíso/cities/Valparaíso_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Valparaíso/cities/Valparaíso_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Valparaíso/cities/Valparaíso_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RCH/provinces/Valparaíso/cities/Valparaíso_obpophistcoll> .
 

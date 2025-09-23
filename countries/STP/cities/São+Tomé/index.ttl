@@ -16,6 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Sao+Tome> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/STP/cities/São+Tomé_obele>,
         <http://www.semwebtech.org/mondial/countries/STP/cities/São+Tomé_obpop>,
-        <http://www.semwebtech.org/mondial/countries/STP/cities/São+Tomé_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/STP/cities/São+Tomé_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/STP/cities/São+Tomé_obpophistcoll> .
 

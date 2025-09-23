@@ -17,9 +17,5 @@
     skos:prefLabel "Мурманск" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Murmanskaya/cities/Murmansk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Murmanskaya/cities/Murmansk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Murmanskaya/cities/Murmansk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Murmanskaya/cities/Murmansk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Murmanskaya/cities/Murmansk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Murmanskaya/cities/Murmansk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Murmanskaya/cities/Murmansk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Murmanskaya/cities/Murmansk_obpophistcoll> .
 

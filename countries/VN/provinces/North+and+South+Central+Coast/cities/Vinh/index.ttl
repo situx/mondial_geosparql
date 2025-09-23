@@ -16,7 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/South+China+Sea> ;
     skos:prefLabel "Vinh" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Vinh_obpop>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Vinh_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Vinh_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Vinh_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/VN/provinces/North+and+South+Central+Coast/cities/Vinh_obpophistcoll> .
 

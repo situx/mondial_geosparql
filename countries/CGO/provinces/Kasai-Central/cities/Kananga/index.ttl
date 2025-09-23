@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Lulua> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai-Central/cities/Kananga_obele>,
         <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai-Central/cities/Kananga_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai-Central/cities/Kananga_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai-Central/cities/Kananga_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai-Central/cities/Kananga_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CGO/provinces/Kasai-Central/cities/Kananga_obpophistcoll> .
 

@@ -15,7 +15,5 @@
     skos:altLabel "Jujuy" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RA/provinces/Jujuy/cities/San+Salvador+de+Jujuy_obele>,
         <http://www.semwebtech.org/mondial/countries/RA/provinces/Jujuy/cities/San+Salvador+de+Jujuy_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Jujuy/cities/San+Salvador+de+Jujuy_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Jujuy/cities/San+Salvador+de+Jujuy_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RA/provinces/Jujuy/cities/San+Salvador+de+Jujuy_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/RA/provinces/Jujuy/cities/San+Salvador+de+Jujuy_obpophistcoll> .
 

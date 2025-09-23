@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Elbe> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CZ/provinces/Pardubický/cities/Pardubice_obele>,
         <http://www.semwebtech.org/mondial/countries/CZ/provinces/Pardubický/cities/Pardubice_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Pardubický/cities/Pardubice_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Pardubický/cities/Pardubice_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Pardubický/cities/Pardubice_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Pardubický/cities/Pardubice_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Pardubický/cities/Pardubice_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/CZ/provinces/Pardubický/cities/Pardubice_obpophistcoll> .
 

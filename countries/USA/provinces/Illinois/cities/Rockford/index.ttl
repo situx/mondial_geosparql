@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/Illinois/cities/Rockford_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/Illinois/cities/Rockford_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/Illinois/cities/Rockford_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Illinois/cities/Rockford_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Illinois/cities/Rockford_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Illinois/cities/Rockford_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/Illinois/cities/Rockford_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/Illinois/cities/Rockford_obpophistcoll> .
 

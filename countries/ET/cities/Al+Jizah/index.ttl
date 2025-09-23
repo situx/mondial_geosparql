@@ -19,8 +19,5 @@
     skos:prefLabel "الجيزة" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Jizah_obele>,
         <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Jizah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Jizah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Jizah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Jizah_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Jizah_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/ET/cities/Al+Jizah_obpophistcoll> .
 

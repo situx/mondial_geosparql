@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Bacău/cities/Bacău> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Bacău/cities/Bacău> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Bacău_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Bacău_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Bacău_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Bacău_obpophistcoll> .
 

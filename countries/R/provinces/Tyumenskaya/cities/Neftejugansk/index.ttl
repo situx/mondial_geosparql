@@ -17,9 +17,5 @@
     skos:altLabel "Nefteyugansk" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Neftejugansk_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Neftejugansk_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Neftejugansk_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Neftejugansk_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Neftejugansk_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Neftejugansk_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Neftejugansk_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Tyumenskaya/cities/Neftejugansk_obpophistcoll> .
 

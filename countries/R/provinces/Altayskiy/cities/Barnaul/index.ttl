@@ -17,9 +17,5 @@
     skos:prefLabel "Барнаул" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Altayskiy/cities/Barnaul_obele>,
         <http://www.semwebtech.org/mondial/countries/R/provinces/Altayskiy/cities/Barnaul_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Altayskiy/cities/Barnaul_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Altayskiy/cities/Barnaul_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Altayskiy/cities/Barnaul_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Altayskiy/cities/Barnaul_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Altayskiy/cities/Barnaul_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Altayskiy/cities/Barnaul_obpophistcoll> .
 

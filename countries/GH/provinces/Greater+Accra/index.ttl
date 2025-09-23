@@ -18,8 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra/cities/Ashiaman>,
         <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra/cities/Tema> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GH/provinces/Greater+Accra_obpophistcoll> .
 

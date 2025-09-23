@@ -18,9 +18,5 @@
     skos:prefLabel "Чернігів" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernihivska/cities/Cernihiv_obele>,
         <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernihivska/cities/Cernihiv_obpop>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernihivska/cities/Cernihiv_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernihivska/cities/Cernihiv_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernihivska/cities/Cernihiv_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernihivska/cities/Cernihiv_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernihivska/cities/Cernihiv_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/UA/provinces/Cernihivska/cities/Cernihiv_obpophistcoll> .
 

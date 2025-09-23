@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Raab> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/H/provinces/Győr-Moson-Sopron/cities/Győr_obele>,
         <http://www.semwebtech.org/mondial/countries/H/provinces/Győr-Moson-Sopron/cities/Győr_obpop>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Győr-Moson-Sopron/cities/Győr_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Győr-Moson-Sopron/cities/Győr_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Győr-Moson-Sopron/cities/Győr_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/H/provinces/Győr-Moson-Sopron/cities/Győr_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/H/provinces/Győr-Moson-Sopron/cities/Győr_obpophistcoll> .
 

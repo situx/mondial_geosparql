@@ -16,8 +16,5 @@
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Cuba> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/C/provinces/Santiago+de+Cuba/cities/Santiago+de+Cuba_obele>,
         <http://www.semwebtech.org/mondial/countries/C/provinces/Santiago+de+Cuba/cities/Santiago+de+Cuba_obpop>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Santiago+de+Cuba/cities/Santiago+de+Cuba_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Santiago+de+Cuba/cities/Santiago+de+Cuba_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Santiago+de+Cuba/cities/Santiago+de+Cuba_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/C/provinces/Santiago+de+Cuba/cities/Santiago+de+Cuba_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/C/provinces/Santiago+de+Cuba/cities/Santiago+de+Cuba_obpophistcoll> .
 

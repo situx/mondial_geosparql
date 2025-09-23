@@ -15,8 +15,5 @@
     skos:altLabel "Ulanhad" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Chifeng_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Chifeng_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Chifeng_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Chifeng_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Chifeng_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Chifeng_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Chifeng_obpophistcoll> .
 

@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Great+Ouse> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Great+Britain> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GB/provinces/South+East+England/cities/Milton+Keynes_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+East+England/cities/Milton+Keynes_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+East+England/cities/Milton+Keynes_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+East+England/cities/Milton+Keynes_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+East+England/cities/Milton+Keynes_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/South+East+England/cities/Milton+Keynes_obpophistcoll> .
 

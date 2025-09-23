@@ -17,9 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/D/provinces/Schleswig-Holstein/cities/Kiel>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Schleswig-Holstein/cities/Lübeck> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Schleswig-Holstein_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Schleswig-Holstein_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Schleswig-Holstein_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Schleswig-Holstein_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Schleswig-Holstein_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Schleswig-Holstein_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Schleswig-Holstein_obpophistcoll> .
 

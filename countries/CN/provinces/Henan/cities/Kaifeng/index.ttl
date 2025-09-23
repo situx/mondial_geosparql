@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Huang+He> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Henan/cities/Kaifeng_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Henan/cities/Kaifeng_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Henan/cities/Kaifeng_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Henan/cities/Kaifeng_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Henan/cities/Kaifeng_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Henan/cities/Kaifeng_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Henan/cities/Kaifeng_obpophistcoll> .
 

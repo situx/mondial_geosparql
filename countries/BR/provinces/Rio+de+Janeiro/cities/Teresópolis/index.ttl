@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Teresópolis_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Teresópolis_obele>,
         <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Teresópolis_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Teresópolis_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Teresópolis_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Teresópolis_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Teresópolis_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BR/provinces/Rio+de+Janeiro/cities/Teresópolis_obpophistcoll> .
 

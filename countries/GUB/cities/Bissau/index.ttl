@@ -16,6 +16,5 @@
         <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GUB/cities/Bissau_obele>,
         <http://www.semwebtech.org/mondial/countries/GUB/cities/Bissau_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GUB/cities/Bissau_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GUB/cities/Bissau_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/GUB/cities/Bissau_obpophistcoll> .
 

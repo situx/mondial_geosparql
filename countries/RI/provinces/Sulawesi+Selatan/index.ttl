@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Selatan/cities/Makassar> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Selatan/cities/Makassar> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Selatan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Selatan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Selatan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Selatan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Selatan_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/RI/provinces/Sulawesi+Selatan_obpophistcoll> .
 

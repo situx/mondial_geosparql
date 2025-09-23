@@ -20,9 +20,5 @@
     skos:altLabel "Permskiy" ;
     skos:prefLabel "Пермский" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Permskij_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Permskij_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Permskij_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Permskij_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Permskij_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Permskij_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Permskij_obpophistcoll> .
 

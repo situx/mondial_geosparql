@@ -18,8 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IL/provinces/HaZafon/cities/Nazareth> ;
     skos:prefLabel "מחוז הצפון" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IL/provinces/HaZafon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaZafon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaZafon_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaZafon_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaZafon_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/IL/provinces/HaZafon_obpophistcoll> .
 

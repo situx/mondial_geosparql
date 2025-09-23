@@ -13,6 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Kaiserslautern_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Kaiserslautern_obele>,
         <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Kaiserslautern_obpop>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Kaiserslautern_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Kaiserslautern_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/D/provinces/Rheinland-Pfalz/cities/Kaiserslautern_obpophistcoll> .
 

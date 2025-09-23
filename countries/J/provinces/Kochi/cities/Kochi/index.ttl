@@ -15,9 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;
     ns1:locatedOnIsland <http://www.semwebtech.org/mondial/islands/Shikoku> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Kochi/cities/Kochi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kochi/cities/Kochi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kochi/cities/Kochi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kochi/cities/Kochi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kochi/cities/Kochi_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Kochi/cities/Kochi_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Kochi/cities/Kochi_obpophistcoll> .
 

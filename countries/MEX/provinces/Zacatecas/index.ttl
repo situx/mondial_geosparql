@@ -16,10 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/MEX/provinces/Zacatecas/cities/Zacatecas> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MEX/provinces/Zacatecas/cities/Zacatecas> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MEX/provinces/Zacatecas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Zacatecas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Zacatecas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Zacatecas_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Zacatecas_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Zacatecas_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Zacatecas_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/MEX/provinces/Zacatecas_obpophistcoll> .
 

@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/R/provinces/Kalmykiya/cities/Elista> ;
     skos:prefLabel "Калмыкия" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Kalmykiya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kalmykiya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kalmykiya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kalmykiya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kalmykiya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Kalmykiya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Kalmykiya_obpophistcoll> .
 

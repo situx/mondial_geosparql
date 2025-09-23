@@ -24,8 +24,5 @@
         <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber/cities/Wakefield>,
         <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber/cities/York> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GB/provinces/Yorkshire+and+the+Humber_obpophistcoll> .
 

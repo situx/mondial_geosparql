@@ -15,6 +15,5 @@
     skos:prefLabel "ပဲခူးမြို့" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MYA/provinces/Bago/cities/Bago_obele>,
         <http://www.semwebtech.org/mondial/countries/MYA/provinces/Bago/cities/Bago_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Bago/cities/Bago_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Bago/cities/Bago_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/MYA/provinces/Bago/cities/Bago_obpophistcoll> .
 

@@ -20,9 +20,5 @@
         <http://www.semwebtech.org/mondial/countries/R/provinces/Altayskiy/cities/Rubcovsk> ;
     skos:prefLabel "Алтайский" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Altayskiy_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Altayskiy_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Altayskiy_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Altayskiy_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Altayskiy_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Altayskiy_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Altayskiy_obpophistcoll> .
 

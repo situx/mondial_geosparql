@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CAM/provinces/Centre/cities/Yaoundé> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CAM/provinces/Centre/cities/Yaoundé> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CAM/provinces/Centre_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Centre_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Centre_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Centre_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Centre_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CAM/provinces/Centre_obpophistcoll> .
 

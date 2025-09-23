@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Nineveh/cities/Al+Mawsil> ;
     skos:prefLabel "نينوى" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Nineveh_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Nineveh_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Nineveh_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Nineveh_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Nineveh_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Nineveh_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Nineveh_obpophistcoll> .
 

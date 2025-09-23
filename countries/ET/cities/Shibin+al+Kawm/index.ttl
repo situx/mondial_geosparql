@@ -16,8 +16,5 @@
     skos:prefLabel "شبين الكوم" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ET/cities/Shibin+al+Kawm_obele>,
         <http://www.semwebtech.org/mondial/countries/ET/cities/Shibin+al+Kawm_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Shibin+al+Kawm_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Shibin+al+Kawm_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Shibin+al+Kawm_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ET/cities/Shibin+al+Kawm_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/ET/cities/Shibin+al+Kawm_obpophistcoll> .
 

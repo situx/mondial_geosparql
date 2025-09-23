@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Mie/cities/Tsu> ;
     skos:prefLabel "三重県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Mie_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Mie_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Mie_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Mie_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Mie_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Mie_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Mie_obpophistcoll> .
 

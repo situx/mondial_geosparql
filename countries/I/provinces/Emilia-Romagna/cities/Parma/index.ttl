@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Parma_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Parma_obele>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Parma_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Parma_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Parma_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Parma_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Emilia-Romagna/cities/Parma_obpophistcoll> .
 

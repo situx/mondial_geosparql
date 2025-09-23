@@ -15,8 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Rio+Cauca> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Cauca/cities/Popayán_obele>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Cauca/cities/Popayán_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Cauca/cities/Popayán_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Cauca/cities/Popayán_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Cauca/cities/Popayán_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Cauca/cities/Popayán_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Cauca/cities/Popayán_obpophistcoll> .
 

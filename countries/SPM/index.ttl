@@ -27,15 +27,7 @@
     ns1:unemployment 9.9 ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/SPM_obeth1>,
         <http://www.semwebtech.org/mondial/countries/SPM_obpop>,
-        <http://www.semwebtech.org/mondial/countries/SPM_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/SPM_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/SPM_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/SPM_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/SPM_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/SPM_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/SPM_obpophist6>,
-        <http://www.semwebtech.org/mondial/countries/SPM_obpophist7>,
-        <http://www.semwebtech.org/mondial/countries/SPM_obpophist8>,
-        <http://www.semwebtech.org/mondial/countries/SPM_obpophist9>,
+        <http://www.semwebtech.org/mondial/countries/SPM_obpopg>,
+        <http://www.semwebtech.org/mondial/countries/SPM_obpophistcoll>,
         <http://www.semwebtech.org/mondial/countries/SPM_obrel1> .
 

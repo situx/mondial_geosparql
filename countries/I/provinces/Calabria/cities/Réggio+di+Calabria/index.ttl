@@ -17,7 +17,5 @@
     skos:altLabel "Reggio Calabria" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/I/provinces/Calabria/cities/Réggio+di+Calabria_obele>,
         <http://www.semwebtech.org/mondial/countries/I/provinces/Calabria/cities/Réggio+di+Calabria_obpop>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Calabria/cities/Réggio+di+Calabria_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Calabria/cities/Réggio+di+Calabria_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/I/provinces/Calabria/cities/Réggio+di+Calabria_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/I/provinces/Calabria/cities/Réggio+di+Calabria_obpophistcoll> .
 

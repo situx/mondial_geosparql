@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/N/provinces/Møre+og+Romsdal/cities/Molde> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/N/provinces/Møre+og+Romsdal/cities/Molde> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/N/provinces/Møre+og+Romsdal_obpop>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Møre+og+Romsdal_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Møre+og+Romsdal_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Møre+og+Romsdal_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/N/provinces/Møre+og+Romsdal_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/N/provinces/Møre+og+Romsdal_obpophistcoll> .
 

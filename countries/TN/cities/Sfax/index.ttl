@@ -16,7 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Mediterranean+Sea> ;
     skos:prefLabel "صفاقس" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TN/cities/Sfax_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TN/cities/Sfax_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TN/cities/Sfax_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TN/cities/Sfax_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/TN/cities/Sfax_obpophistcoll> .
 

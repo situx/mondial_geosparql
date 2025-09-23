@@ -16,8 +16,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/East+China+Sea> ;
     skos:prefLabel "温州市" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Zhejiang/cities/Wenzhou_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Zhejiang/cities/Wenzhou_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Zhejiang/cities/Wenzhou_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Zhejiang/cities/Wenzhou_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Zhejiang/cities/Wenzhou_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Zhejiang/cities/Wenzhou_obpophistcoll> .
 

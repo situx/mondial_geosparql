@@ -17,9 +17,5 @@
     skos:prefLabel "София" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BG/cities/Sofia_obele>,
         <http://www.semwebtech.org/mondial/countries/BG/cities/Sofia_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Sofia_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Sofia_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Sofia_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Sofia_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/BG/cities/Sofia_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/BG/cities/Sofia_obpophistcoll> .
 

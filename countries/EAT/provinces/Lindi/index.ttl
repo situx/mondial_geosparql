@@ -16,9 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/EAT/provinces/Lindi/cities/Lindi> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/EAT/provinces/Lindi/cities/Lindi> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/EAT/provinces/Lindi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Lindi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Lindi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Lindi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Lindi_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Lindi_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/EAT/provinces/Lindi_obpophistcoll> .
 

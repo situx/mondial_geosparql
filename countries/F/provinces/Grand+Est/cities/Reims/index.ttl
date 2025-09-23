@@ -13,10 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Reims_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Reims_obele>,
         <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Reims_obpop>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Reims_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Reims_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Reims_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Reims_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Reims_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Reims_obpophist5> .
+        <http://www.semwebtech.org/mondial/countries/F/provinces/Grand+Est/cities/Reims_obpophistcoll> .
 

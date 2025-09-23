@@ -18,7 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/KZ/provinces/Mangistau/cities/Aktau> ;
     skos:prefLabel "Маңғыстау" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KZ/provinces/Mangistau_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Mangistau_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Mangistau_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Mangistau_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/KZ/provinces/Mangistau_obpophistcoll> .
 

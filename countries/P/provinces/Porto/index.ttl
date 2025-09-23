@@ -17,8 +17,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/P/provinces/Porto/cities/Oporto>,
         <http://www.semwebtech.org/mondial/countries/P/provinces/Porto/cities/Vila+Nova+de+Gaia> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/P/provinces/Porto_obpop>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Porto_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Porto_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Porto_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/P/provinces/Porto_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/P/provinces/Porto_obpophistcoll> .
 

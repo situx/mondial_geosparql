@@ -16,6 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/RO/provinces/Timiş/cities/Timişoara> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/RO/provinces/Timiş/cities/Timişoara> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/RO/provinces/Timiş_obpop>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Timiş_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/RO/provinces/Timiş_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/RO/provinces/Timiş_obpophistcoll> .
 

@@ -18,11 +18,5 @@
         <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales/cities/Sydney>,
         <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales/cities/Wollongong> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales_obpophist6> .
+        <http://www.semwebtech.org/mondial/countries/AUS/provinces/New+South+Wales_obpophistcoll> .
 

@@ -19,8 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/BY/provinces/Gomel/cities/Mazyr> ;
     skos:prefLabel "Гомельской" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/BY/provinces/Gomel_obpop>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Gomel_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Gomel_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Gomel_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/BY/provinces/Gomel_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/BY/provinces/Gomel_obpophistcoll> .
 

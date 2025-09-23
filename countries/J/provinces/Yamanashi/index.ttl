@@ -18,9 +18,5 @@
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/J/provinces/Yamanashi/cities/Kofu> ;
     skos:prefLabel "山梨県" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/J/provinces/Yamanashi_obpop>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamanashi_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamanashi_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamanashi_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamanashi_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamanashi_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/J/provinces/Yamanashi_obpophistcoll> .
 

@@ -15,8 +15,5 @@
     skos:prefLabel "Aşgabat" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TM/provinces/Ashgabat/cities/Ashgabat_obele>,
         <http://www.semwebtech.org/mondial/countries/TM/provinces/Ashgabat/cities/Ashgabat_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TM/provinces/Ashgabat/cities/Ashgabat_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TM/provinces/Ashgabat/cities/Ashgabat_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TM/provinces/Ashgabat/cities/Ashgabat_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TM/provinces/Ashgabat/cities/Ashgabat_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TM/provinces/Ashgabat/cities/Ashgabat_obpophistcoll> .
 

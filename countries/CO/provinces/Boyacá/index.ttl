@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CO/provinces/Boyacá/cities/Tunja> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CO/provinces/Boyacá/cities/Tunja> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Boyacá_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Boyacá_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Boyacá_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Boyacá_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Boyacá_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Boyacá_obpophistcoll> .
 

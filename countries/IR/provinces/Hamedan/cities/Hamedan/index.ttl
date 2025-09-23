@@ -16,9 +16,5 @@
     skos:prefLabel "همدان" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Hamedan/cities/Hamedan_obele>,
         <http://www.semwebtech.org/mondial/countries/IR/provinces/Hamedan/cities/Hamedan_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Hamedan/cities/Hamedan_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Hamedan/cities/Hamedan_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Hamedan/cities/Hamedan_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Hamedan/cities/Hamedan_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Hamedan/cities/Hamedan_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Hamedan/cities/Hamedan_obpophistcoll> .
 

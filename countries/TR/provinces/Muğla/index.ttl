@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/TR/provinces/Muğla/cities/Mugla> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/TR/provinces/Muğla/cities/Mugla> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/TR/provinces/Muğla_obpop>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Muğla_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Muğla_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Muğla_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/TR/provinces/Muğla_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/TR/provinces/Muğla_obpophistcoll> .
 

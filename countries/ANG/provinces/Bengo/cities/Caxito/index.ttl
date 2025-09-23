@@ -13,5 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ANG/provinces/Bengo/cities/Caxito_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ANG/provinces/Bengo/cities/Caxito_obele>,
         <http://www.semwebtech.org/mondial/countries/ANG/provinces/Bengo/cities/Caxito_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Bengo/cities/Caxito_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/ANG/provinces/Bengo/cities/Caxito_obpophistcoll> .
 

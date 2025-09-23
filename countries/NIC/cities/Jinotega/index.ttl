@@ -13,7 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/NIC/cities/Jinotega_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/NIC/cities/Jinotega_obele>,
         <http://www.semwebtech.org/mondial/countries/NIC/cities/Jinotega_obpop>,
-        <http://www.semwebtech.org/mondial/countries/NIC/cities/Jinotega_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/NIC/cities/Jinotega_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/NIC/cities/Jinotega_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/NIC/cities/Jinotega_obpophistcoll> .
 

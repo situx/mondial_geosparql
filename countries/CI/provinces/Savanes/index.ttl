@@ -16,7 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/CI/provinces/Savanes/cities/Korhogo> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/CI/provinces/Savanes/cities/Korhogo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CI/provinces/Savanes_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Savanes_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Savanes_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CI/provinces/Savanes_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/CI/provinces/Savanes_obpophistcoll> .
 

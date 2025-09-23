@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/rivers/Euphrat> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Babylon/cities/Al+Hillah_obele>,
         <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Babylon/cities/Al+Hillah_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Babylon/cities/Al+Hillah_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Babylon/cities/Al+Hillah_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Babylon/cities/Al+Hillah_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/IRQ/provinces/Babylon/cities/Al+Hillah_obpophistcoll> .
 

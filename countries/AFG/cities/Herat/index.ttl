@@ -15,7 +15,5 @@
     skos:prefLabel "هرات" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/AFG/cities/Herat_obele>,
         <http://www.semwebtech.org/mondial/countries/AFG/cities/Herat_obpop>,
-        <http://www.semwebtech.org/mondial/countries/AFG/cities/Herat_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/AFG/cities/Herat_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/AFG/cities/Herat_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/AFG/cities/Herat_obpophistcoll> .
 

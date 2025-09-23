@@ -13,9 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/San+Jose_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/San+Jose_obele>,
         <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/San+Jose_obpop>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/San+Jose_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/San+Jose_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/San+Jose_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/San+Jose_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/San+Jose_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/USA/provinces/California/cities/San+Jose_obpophistcoll> .
 

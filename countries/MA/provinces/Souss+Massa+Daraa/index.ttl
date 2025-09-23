@@ -16,5 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/MA/provinces/Souss+Massa+Daraa/cities/Agadir> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/MA/provinces/Souss+Massa+Daraa/cities/Agadir> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/MA/provinces/Souss+Massa+Daraa_obpop>,
-        <http://www.semwebtech.org/mondial/countries/MA/provinces/Souss+Massa+Daraa_obpophist0> .
+        <http://www.semwebtech.org/mondial/countries/MA/provinces/Souss+Massa+Daraa_obpophistcoll> .
 

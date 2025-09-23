@@ -16,8 +16,5 @@
     ns1:capital <http://www.semwebtech.org/mondial/countries/GQ/provinces/Continental/cities/Bata> ;
     ns1:hasCity <http://www.semwebtech.org/mondial/countries/GQ/provinces/Continental/cities/Bata> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/GQ/provinces/Continental_obpop>,
-        <http://www.semwebtech.org/mondial/countries/GQ/provinces/Continental_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/GQ/provinces/Continental_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/GQ/provinces/Continental_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/GQ/provinces/Continental_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/GQ/provinces/Continental_obpophistcoll> .
 

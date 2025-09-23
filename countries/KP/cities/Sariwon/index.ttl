@@ -12,6 +12,5 @@
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/KP/cities/Sariwon_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/KP/cities/Sariwon_obpop>,
-        <http://www.semwebtech.org/mondial/countries/KP/cities/Sariwon_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/KP/cities/Sariwon_obpophist1> .
+        <http://www.semwebtech.org/mondial/countries/KP/cities/Sariwon_obpophistcoll> .
 

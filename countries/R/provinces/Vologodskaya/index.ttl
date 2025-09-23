@@ -19,9 +19,5 @@
         <http://www.semwebtech.org/mondial/countries/R/provinces/Vologodskaya/cities/Vologda> ;
     skos:prefLabel "Вологодская" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/R/provinces/Vologodskaya_obpop>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Vologodskaya_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Vologodskaya_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Vologodskaya_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Vologodskaya_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/R/provinces/Vologodskaya_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/R/provinces/Vologodskaya_obpophistcoll> .
 

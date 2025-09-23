@@ -15,8 +15,5 @@
     skos:altLabel "Huhhot" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Hohhot_obele>,
         <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Hohhot_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Hohhot_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Hohhot_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Hohhot_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Hohhot_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CN/provinces/Nei+Mongol/cities/Hohhot_obpophistcoll> .
 

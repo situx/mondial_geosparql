@@ -15,7 +15,5 @@
     ns1:locatedAt <http://www.semwebtech.org/mondial/seas/Lago+de+Maracaibo> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/YV/provinces/Zulia/cities/Cabimas_obele>,
         <http://www.semwebtech.org/mondial/countries/YV/provinces/Zulia/cities/Cabimas_obpop>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Zulia/cities/Cabimas_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Zulia/cities/Cabimas_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/YV/provinces/Zulia/cities/Cabimas_obpophist2> .
+        <http://www.semwebtech.org/mondial/countries/YV/provinces/Zulia/cities/Cabimas_obpophistcoll> .
 

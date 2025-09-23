@@ -31,14 +31,8 @@
     skos:prefLabel "the Kingdom of Lesotho" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/LS_obeth1>,
         <http://www.semwebtech.org/mondial/countries/LS_obpop>,
-        <http://www.semwebtech.org/mondial/countries/LS_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/LS_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/LS_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/LS_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/LS_obpophist4>,
-        <http://www.semwebtech.org/mondial/countries/LS_obpophist5>,
-        <http://www.semwebtech.org/mondial/countries/LS_obpophist6>,
-        <http://www.semwebtech.org/mondial/countries/LS_obpophist7>,
+        <http://www.semwebtech.org/mondial/countries/LS_obpopg>,
+        <http://www.semwebtech.org/mondial/countries/LS_obpophistcoll>,
         <http://www.semwebtech.org/mondial/countries/LS_obrel1>,
         <http://www.semwebtech.org/mondial/countries/LS_obrel2> .
 

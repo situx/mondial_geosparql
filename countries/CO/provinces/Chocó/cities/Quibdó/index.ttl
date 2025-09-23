@@ -13,8 +13,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/CO/provinces/Chocó/cities/Quibdó_geom> ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/CO/provinces/Chocó/cities/Quibdó_obele>,
         <http://www.semwebtech.org/mondial/countries/CO/provinces/Chocó/cities/Quibdó_obpop>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Chocó/cities/Quibdó_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Chocó/cities/Quibdó_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Chocó/cities/Quibdó_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/CO/provinces/Chocó/cities/Quibdó_obpophist3> .
+        <http://www.semwebtech.org/mondial/countries/CO/provinces/Chocó/cities/Quibdó_obpophistcoll> .
 

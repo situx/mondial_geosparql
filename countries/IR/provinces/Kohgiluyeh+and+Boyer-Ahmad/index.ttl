@@ -19,9 +19,5 @@
     skos:altLabel "Kohkiluyeh va Boyer Ahmad" ;
     skos:prefLabel "كهگيلويه وبويراحمد" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/IR/provinces/Kohgiluyeh+and+Boyer-Ahmad_obpop>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kohgiluyeh+and+Boyer-Ahmad_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kohgiluyeh+and+Boyer-Ahmad_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kohgiluyeh+and+Boyer-Ahmad_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kohgiluyeh+and+Boyer-Ahmad_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kohgiluyeh+and+Boyer-Ahmad_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/IR/provinces/Kohgiluyeh+and+Boyer-Ahmad_obpophistcoll> .
 

@@ -14,9 +14,5 @@
     geo:hasGeometry <http://www.semwebtech.org/mondial/countries/ROK/cities/Goyang_geom> ;
     skos:prefLabel "고양시" ;
     sosa:hasObservation <http://www.semwebtech.org/mondial/countries/ROK/cities/Goyang_obpop>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Goyang_obpophist0>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Goyang_obpophist1>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Goyang_obpophist2>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Goyang_obpophist3>,
-        <http://www.semwebtech.org/mondial/countries/ROK/cities/Goyang_obpophist4> .
+        <http://www.semwebtech.org/mondial/countries/ROK/cities/Goyang_obpophistcoll> .
 
