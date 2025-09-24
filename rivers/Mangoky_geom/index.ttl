@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/rivers/Mangoky_geom> a <http://www.opengis.net/ont/sf#LineString>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Mangoky Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:asWKT "LINESTRING (45.652749 -21.428356, 45.514463 -21.439621, 45.424546 -21.500548, 45.293184 -21.672062, 44.805565 -21.723532, 44.564856 -21.769885, 44.40869 -21.828383, 44.30172 -21.844558, 44.243946 -21.81841, 44.165501 -21.8289, 44.066179 -21.876029, 43.986132 -21.889981, 43.914043 -21.871585, 43.89482 -21.861043, 43.874201 -21.837633, 43.784956 -21.637387, 43.696847 -21.501065, 43.542283 -21.315753)"^^geo:wktLiteral .
+

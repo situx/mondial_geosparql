@@ -1,0 +1,56 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/LineString_collection> a geo:GeometryCollection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "LineString Instances Collection"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    rdfs:member <http://www.semwebtech.org/mondial/rivers/Aldan_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Amazonas_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Amur_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Araguaia_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Arkansas_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Barito_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Benue_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Brahmaputra_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Daugava_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Digul_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Ebro_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Garonne_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Glomma_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Helmand_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Ishikari_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Jubba_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Juruena_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Kafue_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Kagera_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Kama_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Kamchatka_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Kapuas_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Kasai_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Kolyma_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Limpopo_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Mangoky_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Narmada_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Oder_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Pilcomayo_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Po_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Rhein_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Sanaga_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Seine_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Tejo_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Thames_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Tigris_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Tobol_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Tshuapa_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Ubangi_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Ucayali_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Uruguay_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Volta_geom>,
+        <http://www.semwebtech.org/mondial/rivers/White+Nile_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Yamuna_geom> .
+

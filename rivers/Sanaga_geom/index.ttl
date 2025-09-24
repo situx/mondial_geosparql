@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/rivers/Sanaga_geom> a <http://www.opengis.net/ont/sf#LineString>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Sanaga Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:asWKT "LINESTRING (13.126052 4.933472, 12.99407 4.983908, 12.900639 4.993442, 12.711969 4.959749, 12.63125 4.93603, 12.548206 4.876912, 12.46294 4.782499, 12.385219 4.732605, 12.280005 4.724596, 12.130557 4.575173, 12.0579 4.544426, 12.012321 4.582511, 11.907108 4.542204, 11.74226 4.423451, 11.595913 4.399163, 11.467962 4.469262, 11.295776 4.411979, 11.079252 4.227288, 10.85942 4.107708, 10.636075 4.053241, 10.502491 4.046575, 10.458566 4.087709, 10.392265 4.045231, 10.303692 3.919244, 10.235066 3.859196, 10.18649 3.865087, 10.116003 3.813127, 10.023502 3.703263, 9.937874 3.643189, 9.819587 3.627841, 9.76574 3.62381)"^^geo:wktLiteral .
+

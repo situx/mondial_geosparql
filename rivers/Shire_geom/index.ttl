@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/rivers/Shire_geom> a <http://www.opengis.net/ont/sf#MultiLineString>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Shire Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:asWKT "MULTILINESTRING ((35.277775 -14.757549, 35.293381 -14.920588, 35.250748 -15.056807, 35.107346 -15.302632, 34.960068 -15.37193, 34.874492 -15.44469, 34.801525 -15.54396, 34.757806 -15.624007, 34.743337 -15.684779, 34.750882 -15.784101, 34.795324 -15.990858, 34.889478 -16.130075, 34.925238 -16.225211, 34.93392 -16.322621, 34.975158 -16.392281, 35.049055 -16.434087, 35.133908 -16.516459, 35.229819 -16.639242, 35.281185 -16.807811, 35.291417 -17.129238, 35.291211 -17.705482), (35.257311 -14.504334, 35.236227 -14.401291))"^^geo:wktLiteral .
+

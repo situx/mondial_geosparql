@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/rivers/Ubangi_geom> a <http://www.opengis.net/ont/sf#LineString>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Ubangi Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:asWKT "LINESTRING (18.596726 3.67869, 18.622151 3.304036, 18.490944 2.924395, 18.211581 2.414918, 18.07221 2.013262, 18.07283 1.719379, 18.057792 1.534868, 18.011748 1.42211, 17.902453 1.118072, 17.885761 0.856899, 17.925242 0.53728, 17.887725 0.234146, 17.773107 -0.0524, 17.724117 -0.277554, 17.75285 -0.549062)"^^geo:wktLiteral .
+

@@ -12,5 +12,5 @@
     void:linkPredicate rdf:type ;
     void:objectsTarget <http://www.opengis.net/ont/sf#> ;
     void:subjectsTarget <http://www.semwebtech.org/mondial/md_dataset> ;
-    void:triples 6273 .
+    void:triples 6363 .
 

@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/rivers/Ishikari_geom> a <http://www.opengis.net/ont/sf#LineString>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Ishikari Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:asWKT "LINESTRING (143.065924 43.699503, 142.88454 43.809626, 142.722069 43.877891, 142.632049 43.894737, 142.560219 43.882955, 142.481412 43.848745, 142.395526 43.792108, 142.254397 43.738157, 141.942944 43.648292, 141.909147 43.622506, 141.884498 43.564266, 141.86114 43.428254, 141.709935 43.328983, 141.643995 43.253743, 141.612886 43.169407, 141.567411 43.129978, 141.50757 43.135404, 141.447625 43.163076, 141.357708 43.237904)"^^geo:wktLiteral .
+

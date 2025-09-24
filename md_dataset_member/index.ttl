@@ -9,5 +9,5 @@
     rdfs:label "Property Partition: member"@en ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     void:property rdfs:member ;
-    void:triples 95219 .
+    void:triples 95309 .
 

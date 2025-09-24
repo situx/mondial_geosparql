@@ -1,0 +1,58 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/MultiLineString_collection> a geo:GeometryCollection,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "MultiLineString Instances Collection"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    rdfs:member <http://www.semwebtech.org/mondial/rivers/Angara_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Atbara_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Blue+Nile_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Colorado_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Congo_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Don_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Donau_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Elbe_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Ganges_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Han_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Indigirka_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Indus_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Irtysh_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Jordan_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Kemijoki_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Krishna_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Lena_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Loire_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Lualaba_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Mekong_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Mississippi_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Missouri_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Naryn_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Niger_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Nile_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Nizhnyaya+Tunguska_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Ob_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Okavango_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Orinoco_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Pechora_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Rio+Grande_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Semliki_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Shire_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Songhua_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Tisza_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Tocantins_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Ural_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Vaal_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Victoria+Nile_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Vilyuy_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Volga_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Vuoksi_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Vychegda_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Xingu_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Yangtze_geom>,
+        <http://www.semwebtech.org/mondial/rivers/Zambezi_geom> .
+

@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/rivers/Glomma_geom> a <http://www.opengis.net/ont/sf#LineString>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Glomma Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:asWKT "LINESTRING (11.483568 62.686975, 11.187772 62.495746, 11.085195 62.443011, 10.983702 62.390869, 10.772759 62.308548, 10.655402 62.245245, 10.631527 62.200906, 10.624344 62.156516, 10.633749 62.112023, 10.699327 62.061949, 10.820973 62.006293, 10.888152 61.949966, 10.900658 61.893018, 10.882985 61.834934, 10.834926 61.775713, 10.863348 61.699593, 10.968147 61.606628, 11.033466 61.525754, 11.072224 61.422763, 11.246683 61.317446, 11.317945 61.232878, 11.344093 61.133917, 11.402281 61.02935, 11.492508 60.919124, 11.578756 60.848663, 11.660922 60.817942, 11.736576 60.763371, 11.805616 60.684927, 11.880857 60.633405, 11.962402 60.608807, 12.009221 60.578577, 12.027618 60.524833)"^^geo:wktLiteral .
+

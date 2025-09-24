@@ -35,20 +35,20 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "md_dataset"@en ;
     ns1:averageLiteralLength 0 ;
-    ns1:averageObjectIRILength 69 ;
+    ns1:averageObjectIRILength 70 ;
     ns1:averagePropertyIRILength 50 ;
     ns1:averageSubjectIRILength 74 ;
     ns1:datatypes 0 ;
     ns1:distinctBlankNodes 338 ;
-    ns1:distinctIRIReferences 221664 ;
+    ns1:distinctIRIReferences 221849 ;
     ns1:distinctLiterals 0 ;
-    ns1:distinctRDFNodes 222002 ;
+    ns1:distinctRDFNodes 222187 ;
     ns1:languages 0 ;
     ns1:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     dcterms:license <http://creativecommons.org/licenses/by-sa/4.0> ;
-    dcterms:modified "2025-09-24T22:08:30"^^xsd:dateTime ;
+    dcterms:modified "2025-09-24T23:08:06"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -75,8 +75,10 @@
         <http://www.semwebtech.org/mondial/md_dataset_Island>,
         <http://www.semwebtech.org/mondial/md_dataset_Lake>,
         <http://www.semwebtech.org/mondial/md_dataset_Language>,
+        <http://www.semwebtech.org/mondial/md_dataset_LineString>,
         <http://www.semwebtech.org/mondial/md_dataset_Mountain>,
         <http://www.semwebtech.org/mondial/md_dataset_MountainRange>,
+        <http://www.semwebtech.org/mondial/md_dataset_MultiLineString>,
         <http://www.semwebtech.org/mondial/md_dataset_MultiPolygon>,
         <http://www.semwebtech.org/mondial/md_dataset_Observation>,
         <http://www.semwebtech.org/mondial/md_dataset_ObservationCollection>,
@@ -94,11 +96,11 @@
         <http://www.semwebtech.org/mondial/md_dataset_SpatialObjectCollection>,
         <http://www.semwebtech.org/mondial/md_dataset_SpokenBy>,
         <http://www.semwebtech.org/mondial/md_dataset_Volcano> ;
-    void:classes 37 ;
+    void:classes 39 ;
     void:dataDump <https://situx.github.io/mondial_geosparql//index.ttl> ;
-    void:distinctObjects 156818 ;
-    void:distinctSubjects 64790 ;
-    void:entities 64771 ;
+    void:distinctObjects 156911 ;
+    void:distinctSubjects 64882 ;
+    void:entities 64863 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
     void:properties 56 ;
@@ -157,7 +159,7 @@
         <http://www.semwebtech.org/mondial/md_dataset_type>,
         <http://www.semwebtech.org/mondial/md_dataset_unemployment>,
         <http://www.semwebtech.org/mondial/md_dataset_wasDependentOf> ;
-    void:triples 465398 ;
+    void:triples 465854 ;
     void:uriSpace "http://www.semwebtech.org/mondial/"^^xsd:string ;
     void:vocabulary ns1:,
         dcam:,

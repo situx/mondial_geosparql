@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/rivers/Semliki_geom> a <http://www.opengis.net/ont/sf#MultiLineString>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Semliki Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:asWKT "MULTILINESTRING ((29.83821 -1.200392, 29.781986 -1.141274, 29.696823 -1.148922, 29.563808 -1.203544, 29.475855 -1.220287, 29.432963 -1.199048, 29.396738 -1.15812, 29.367283 -1.097555, 29.377463 -0.952138, 29.452187 -0.606939), (29.597191 -0.134152, 29.638222 0.113017, 29.613624 0.233526, 29.537143 0.309645, 29.533888 0.386385, 29.603857 0.463693, 29.660753 0.558674, 29.704678 0.671277, 29.833508 0.772873, 30.047345 0.863513, 30.182892 0.973481, 30.240149 1.102775, 30.321075 1.185303, 30.477861 1.238839))"^^geo:wktLiteral .
+

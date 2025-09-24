@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/rivers/Jordan_geom> a <http://www.opengis.net/ont/sf#MultiLineString>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Jordan Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:asWKT "MULTILINESTRING ((35.423502 31.324832, 35.400661 31.230497), (35.576878 32.720303, 35.551453 32.395516, 35.57202 32.237878, 35.53471 32.103002, 35.531506 31.984921, 35.558998 31.765529), (35.863889 33.596348, 35.695527 33.430828, 35.618942 33.243708, 35.594758 33.110951, 35.598892 32.899723))"^^geo:wktLiteral .
+

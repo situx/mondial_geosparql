@@ -74,7 +74,7 @@
 <http://www.semwebtech.org/mondial/geo_md_dataset_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.opengis.net/ont/geosparql# in md_dataset" ;
     voaf:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
-    voaf:occurrences 40 .
+    voaf:occurrences 44 .
 
 <http://www.semwebtech.org/mondial/md_dataset_www.lexvo.org_page_iso639-1_> a void:Linkset ;
     rdfs:label "Linkset: md_dataset - iso639-1"@en ;
@@ -97,14 +97,14 @@
     void:objectsTarget geo: ;
     void:subjectsTarget <http://www.semwebtech.org/mondial/md_dataset> ;
     void:triples 9,
-        11 .
+        13 .
 
 <http://www.semwebtech.org/mondial/md_dataset_www.opengis.net_ont_sf_> a void:Linkset ;
     rdfs:label "Linkset: md_dataset - Simple Features Vocabulary (sf:)"@en ;
     void:linkPredicate rdf:type ;
     void:objectsTarget <http://www.opengis.net/ont/sf#> ;
     void:subjectsTarget <http://www.semwebtech.org/mondial/md_dataset> ;
-    void:triples 6273 .
+    void:triples 6363 .
 
 <http://www.semwebtech.org/mondial/md_dataset_www.w3.org_2002_07_owl_> a void:Linkset ;
     rdfs:label "Linkset: md_dataset - Web Ontology Language 2 Vocabulary (owl:)"@en ;
@@ -371,7 +371,7 @@ doap: a voaf:Vocabulary ;
 <http://www.semwebtech.org/mondial/md_dataset_GeometryCollection> a void:Dataset ;
     rdfs:label "Class Partition: GeometryCollection"@en ;
     void:class geo:GeometryCollection ;
-    void:entities 3 .
+    void:entities 5 .
 
 <http://www.semwebtech.org/mondial/md_dataset_Government> a void:Dataset ;
     rdfs:label "Class Partition: Government"@en ;
@@ -392,6 +392,11 @@ doap: a voaf:Vocabulary ;
     void:class <http://www.semwebtech.org/mondial/10/meta#Language> ;
     void:entities 527 .
 
+<http://www.semwebtech.org/mondial/md_dataset_LineString> a void:Dataset ;
+    rdfs:label "Class Partition: LineString"@en ;
+    void:class <http://www.opengis.net/ont/sf#LineString> ;
+    void:entities 44 .
+
 <http://www.semwebtech.org/mondial/md_dataset_Mountain> a void:Dataset ;
     rdfs:label "Class Partition: Mountain"@en ;
     void:class <http://www.semwebtech.org/mondial/10/meta#Mountain> ;
@@ -401,6 +406,11 @@ doap: a voaf:Vocabulary ;
     rdfs:label "Class Partition: MountainRange"@en ;
     void:class <http://www.semwebtech.org/mondial/10/meta#MountainRange> ;
     void:entities 196 .
+
+<http://www.semwebtech.org/mondial/md_dataset_MultiLineString> a void:Dataset ;
+    rdfs:label "Class Partition: MultiLineString"@en ;
+    void:class <http://www.opengis.net/ont/sf#MultiLineString> ;
+    void:entities 46 .
 
 <http://www.semwebtech.org/mondial/md_dataset_MultiPolygon> a void:Dataset ;
     rdfs:label "Class Partition: MultiPolygon"@en ;
@@ -498,7 +508,7 @@ doap: a voaf:Vocabulary ;
 <http://www.semwebtech.org/mondial/md_dataset_asWKT> a void:Dataset ;
     rdfs:label "Property Partition: asWKT"@en ;
     void:property geo:asWKT ;
-    void:triples 6273 .
+    void:triples 6363 .
 
 <http://www.semwebtech.org/mondial/md_dataset_belongsToArchipelago> a void:Dataset ;
     rdfs:label "Property Partition: belongsToArchipelago"@en ;
@@ -673,7 +683,7 @@ doap: a voaf:Vocabulary ;
 <http://www.semwebtech.org/mondial/md_dataset_label> a void:Dataset ;
     rdfs:label "Property Partition: label"@en ;
     void:property rdfs:label ;
-    void:triples 64255 .
+    void:triples 64347 .
 
 <http://www.semwebtech.org/mondial/md_dataset_languageInfo-> a void:Dataset ;
     rdfs:label "Property Partition: languageInfo-"@en ;
@@ -703,7 +713,7 @@ doap: a voaf:Vocabulary ;
 <http://www.semwebtech.org/mondial/md_dataset_member> a void:Dataset ;
     rdfs:label "Property Partition: member"@en ;
     void:property rdfs:member ;
-    void:triples 95219 .
+    void:triples 95309 .
 
 <http://www.semwebtech.org/mondial/md_dataset_mergesWith> a void:Dataset ;
     rdfs:label "Property Partition: mergesWith"@en ;
@@ -755,7 +765,7 @@ doap: a voaf:Vocabulary ;
     void:property <http://www.semwebtech.org/mondial/10/meta#type>,
         rdf:type ;
     void:triples 472,
-        64981 .
+        65073 .
 
 <http://www.semwebtech.org/mondial/md_dataset_unemployment> a void:Dataset ;
     rdfs:label "Property Partition: unemployment"@en ;
@@ -907,19 +917,19 @@ sosa: a voaf:Vocabulary ;
         adms:Asset ;
     rdfs:label "md_dataset"@en ;
     vext:averageLiteralLength 0 ;
-    vext:averageObjectIRILength 69 ;
+    vext:averageObjectIRILength 70 ;
     vext:averagePropertyIRILength 50 ;
     vext:averageSubjectIRILength 74 ;
     vext:datatypes 0 ;
     vext:distinctBlankNodes 338 ;
-    vext:distinctIRIReferences 221664 ;
+    vext:distinctIRIReferences 221849 ;
     vext:distinctLiterals 0 ;
-    vext:distinctRDFNodes 222002 ;
+    vext:distinctRDFNodes 222187 ;
     vext:languages 0 ;
     vext:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
     dcterms:license <http://creativecommons.org/licenses/by-sa/4.0> ;
-    dcterms:modified "2025-09-24T22:08:30"^^xsd:dateTime ;
+    dcterms:modified "2025-09-24T23:08:06"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -946,8 +956,10 @@ sosa: a voaf:Vocabulary ;
         <http://www.semwebtech.org/mondial/md_dataset_Island>,
         <http://www.semwebtech.org/mondial/md_dataset_Lake>,
         <http://www.semwebtech.org/mondial/md_dataset_Language>,
+        <http://www.semwebtech.org/mondial/md_dataset_LineString>,
         <http://www.semwebtech.org/mondial/md_dataset_Mountain>,
         <http://www.semwebtech.org/mondial/md_dataset_MountainRange>,
+        <http://www.semwebtech.org/mondial/md_dataset_MultiLineString>,
         <http://www.semwebtech.org/mondial/md_dataset_MultiPolygon>,
         <http://www.semwebtech.org/mondial/md_dataset_Observation>,
         <http://www.semwebtech.org/mondial/md_dataset_ObservationCollection>,
@@ -965,11 +977,11 @@ sosa: a voaf:Vocabulary ;
         <http://www.semwebtech.org/mondial/md_dataset_SpatialObjectCollection>,
         <http://www.semwebtech.org/mondial/md_dataset_SpokenBy>,
         <http://www.semwebtech.org/mondial/md_dataset_Volcano> ;
-    void:classes 37 ;
+    void:classes 39 ;
     void:dataDump <https://situx.github.io/mondial_geosparql//index.ttl> ;
-    void:distinctObjects 156818 ;
-    void:distinctSubjects 64790 ;
-    void:entities 64771 ;
+    void:distinctObjects 156911 ;
+    void:distinctSubjects 64882 ;
+    void:entities 64863 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
     void:properties 56 ;
@@ -1028,7 +1040,7 @@ sosa: a voaf:Vocabulary ;
         <http://www.semwebtech.org/mondial/md_dataset_type>,
         <http://www.semwebtech.org/mondial/md_dataset_unemployment>,
         <http://www.semwebtech.org/mondial/md_dataset_wasDependentOf> ;
-    void:triples 465398 ;
+    void:triples 465854 ;
     void:uriSpace "http://www.semwebtech.org/mondial/"^^xsd:string ;
     void:vocabulary vext:,
         dcam:,

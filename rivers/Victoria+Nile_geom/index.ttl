@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://www.semwebtech.org/mondial/rivers/Victoria+Nile_geom> a <http://www.opengis.net/ont/sf#MultiLineString>,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Victoria+Nile Geometry"@en ;
+    dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
+    void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:asWKT "MULTILINESTRING ((32.893114 1.311445, 33.011246 0.809408, 33.084782 0.588543, 33.187256 0.428191), (32.475362 1.551637, 32.544712 1.521845), (31.365765 2.192864, 31.387366 2.200228, 31.750651 2.323631, 31.948366 2.333295, 32.087272 2.265495, 32.186697 2.235988, 32.246642 2.244773, 32.295321 2.199427, 32.332631 2.100001, 32.348858 2.004684, 32.344 1.913527, 32.282195 1.829837, 32.163546 1.753614, 32.104222 1.698605, 32.104222 1.664757, 32.138431 1.652354, 32.240957 1.665842))"^^geo:wktLiteral .
+
