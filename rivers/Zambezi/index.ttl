@@ -12,6 +12,7 @@
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:contains <http://www.semwebtech.org/mondial/islands/Impalila> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/rivers/Zambezi_geom> ;
     geo:hasMetricArea 1332574 ;
     geo:hasMetricLength 2574 ;
     ns1:flowsInto <http://www.semwebtech.org/mondial/seas/Indian+Ocean> ;

@@ -11,6 +11,7 @@
     rdfs:label "Krishna" ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/rivers/Krishna_geom> ;
     geo:hasMetricArea 258950 ;
     geo:hasMetricLength 1291 ;
     ns1:flowsInto <http://www.semwebtech.org/mondial/seas/Gulf+of+Bengal> ;

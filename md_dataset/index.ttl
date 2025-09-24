@@ -40,15 +40,15 @@
     ns1:averageSubjectIRILength 74 ;
     ns1:datatypes 0 ;
     ns1:distinctBlankNodes 338 ;
-    ns1:distinctIRIReferences 221568 ;
+    ns1:distinctIRIReferences 221664 ;
     ns1:distinctLiterals 0 ;
-    ns1:distinctRDFNodes 221906 ;
+    ns1:distinctRDFNodes 222002 ;
     ns1:languages 0 ;
     ns1:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     dcterms:license <http://creativecommons.org/licenses/by-sa/4.0> ;
-    dcterms:modified "2025-09-23T19:43:28"^^xsd:dateTime ;
+    dcterms:modified "2025-09-24T22:08:30"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -96,7 +96,7 @@
         <http://www.semwebtech.org/mondial/md_dataset_Volcano> ;
     void:classes 37 ;
     void:dataDump <https://situx.github.io/mondial_geosparql//index.ttl> ;
-    void:distinctObjects 156722 ;
+    void:distinctObjects 156818 ;
     void:distinctSubjects 64790 ;
     void:entities 64771 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
@@ -157,7 +157,7 @@
         <http://www.semwebtech.org/mondial/md_dataset_type>,
         <http://www.semwebtech.org/mondial/md_dataset_unemployment>,
         <http://www.semwebtech.org/mondial/md_dataset_wasDependentOf> ;
-    void:triples 465302 ;
+    void:triples 465398 ;
     void:uriSpace "http://www.semwebtech.org/mondial/"^^xsd:string ;
     void:vocabulary ns1:,
         dcam:,

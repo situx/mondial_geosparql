@@ -11,6 +11,7 @@
     rdfs:label "Okavango" ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/rivers/Okavango_geom> ;
     geo:hasMetricArea 721258 ;
     geo:hasMetricLength 1700 ;
     ns1:hasEstuary <http://www.semwebtech.org/mondial/estuarys/Okavango> ;

@@ -11,6 +11,7 @@
     rdfs:label "Kamchatka" ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/rivers/Kamchatka_geom> ;
     geo:hasMetricArea 55900 ;
     geo:hasMetricLength 758 ;
     ns1:flowsInto <http://www.semwebtech.org/mondial/seas/Pacific+Ocean> ;

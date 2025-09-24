@@ -11,6 +11,7 @@
     rdfs:label "Tisza" ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/rivers/Tisza_geom> ;
     geo:hasMetricArea 146500 ;
     geo:hasMetricLength 1308 ;
     ns1:flowsInto <http://www.semwebtech.org/mondial/rivers/Donau> ;

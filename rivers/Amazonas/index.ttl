@@ -12,6 +12,7 @@
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:contains <http://www.semwebtech.org/mondial/islands/Marajó> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/rivers/Amazonas_geom> ;
     geo:hasMetricArea 7050000 ;
     geo:hasMetricLength 3778 ;
     ns1:flowsInto <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;

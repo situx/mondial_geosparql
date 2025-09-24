@@ -7,6 +7,7 @@
 <http://www.semwebtech.org/mondial/10/meta#City> a owl:Class,
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "city"@en ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     rdfs:subClassOf geo:Feature .

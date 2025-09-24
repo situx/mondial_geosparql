@@ -11,6 +11,7 @@
     rdfs:label "Kapuas" ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/rivers/Kapuas_geom> ;
     geo:hasMetricArea 98749 ;
     geo:hasMetricLength 1143 ;
     ns1:flowsInto <http://www.semwebtech.org/mondial/seas/South+China+Sea> ;

@@ -15,6 +15,7 @@
         <http://www.semwebtech.org/mondial/islands/Margit+Sziget>,
         <http://www.semwebtech.org/mondial/islands/Veliko+Ratno+Ostrvo>,
         <http://www.semwebtech.org/mondial/islands/Zitny+Ostrov> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/rivers/Donau_geom> ;
     geo:hasMetricArea 795686 ;
     geo:hasMetricLength 2845 ;
     ns1:flowsInto <http://www.semwebtech.org/mondial/seas/Black+Sea> ;

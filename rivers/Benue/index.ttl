@@ -11,6 +11,7 @@
     rdfs:label "Benue" ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/rivers/Benue_geom> ;
     geo:hasMetricArea 335035 ;
     geo:hasMetricLength 1400 ;
     ns1:flowsInto <http://www.semwebtech.org/mondial/rivers/Niger> ;

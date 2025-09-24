@@ -11,6 +11,7 @@
     rdfs:label "Sanaga" ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/rivers/Sanaga_geom> ;
     geo:hasMetricArea 132990 ;
     geo:hasMetricLength 918 ;
     ns1:flowsInto <http://www.semwebtech.org/mondial/seas/Atlantic+Ocean> ;

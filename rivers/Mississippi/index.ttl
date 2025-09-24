@@ -11,6 +11,7 @@
     rdfs:label "Mississippi" ;
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/rivers/Mississippi_geom> ;
     geo:hasMetricArea 2981076 ;
     geo:hasMetricLength 3778 ;
     ns1:flowsInto <http://www.semwebtech.org/mondial/seas/Gulf+of+Mexico> ;

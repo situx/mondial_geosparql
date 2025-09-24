@@ -12,6 +12,7 @@
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:contains <http://www.semwebtech.org/mondial/islands/Ilha+do+Bananal> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/rivers/Araguaia_geom> ;
     geo:hasMetricArea 384800 ;
     geo:hasMetricLength 2198 ;
     ns1:flowsInto <http://www.semwebtech.org/mondial/rivers/Tocantins> ;

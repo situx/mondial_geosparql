@@ -12,6 +12,7 @@
     dc:license <http://creativecommons.org/licenses/by-sa/4.0> ;
     void:inDataset <http://www.semwebtech.org/mondial/md_dataset> ;
     geo:contains <http://www.semwebtech.org/mondial/islands/Chongming> ;
+    geo:hasGeometry <http://www.semwebtech.org/mondial/rivers/Yangtze_geom> ;
     geo:hasMetricArea 1722155 ;
     geo:hasMetricLength 6380 ;
     ns1:flowsInto <http://www.semwebtech.org/mondial/seas/East+China+Sea> ;
